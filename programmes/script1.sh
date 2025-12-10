@@ -8,6 +8,11 @@ fi
 
 dossier_urls=$1
 
+mkdir -p /home/annabelle/projet-PPE/dumps-text \
+         /home/annabelle/projet-PPE/contextes \
+         /home/annabelle/projet-PPE/concordances
+
+
 # Début du fichier HTML
 echo "<html>
 <head>
@@ -37,8 +42,8 @@ echo "<html>
 
 lineno=1
 
-for fichier_urls in "$dossier_urls"/lang-*.txt; do  #verifier si mon chemin est exact.
-    lang=$(basename "$fichier_urls" | grep -oP "lang-\K\d+") #K = oublie tout ce qu'il y a avant dans le match. \d+ = un ou plusieurs chiffre => extrait uniquement après lang-
+for fichier_urls in "$dossier_urls"/lang*.txt; do  #verifier si mon chemin est exact.
+    lang=$(basename "$fichier_urls" | sed -E 'lang([0-9]+)\.txt/\1/') #K = oublie tout ce qu'il y a avant dans le match. \d+ = un ou plusieurs chiffre => extrait uniquement après lang-
     i=1 # il n'a rien avoir avec le for, car le for dit déjà "pour chaque fichier dans url prend le et prend également le chiffre derrière" donc i=1 sert juste pour rajouter un chiffre pour les contextes
     #baseme = extrait uniquement le nom du fichier, sans le chemin du dossier
 
@@ -48,7 +53,7 @@ while read -r url; do
     # Récupération du code HTTP et du type MIME avec encodage
     data=$(curl -s -i -L -w "%{http_code}\n%{content_type}" -o ./temp.html "$url")
     http_code=$(echo "$data" | head -1)
-    encoding=$(echo "$data" | tail -1 | grep -Po "charset=\S+" | cut -d"=" -f2)
+    encoding=$(echo "$data" | tail -1 | grep -o "charset=\S+" | cut -d"=" -f2)
     encoding=${encoding:-"N/A"}  # si encodage vide, mettre N/A
 
     # Conversion du HTML si besoin
@@ -59,7 +64,7 @@ while read -r url; do
     fi
 
     # Dump textuel avec lynx
-    dump_file="./dump/lang-$lang-$i.txt" #verifier que le chemin est bon
+    dump_file="/home/annabelle/projet-PPE/dumps-text/lang-$lang-$i.txt" #verifier que le chemin est bon
     lynx -dump -nolist ./temp.html > "$dump_file"
 
     # Nombre de mots
@@ -68,12 +73,14 @@ while read -r url; do
     # Occurrences du mot ciblé "image"
     occurrences=$(grep -i -o "image" "$dump_file" | wc -w)
 
-    # Extraction du contexte (2 lignes avant et après)
-    contexte_file="./contextes/lang-$lang-$i.txt"  #le $lang correspond tout simplement à la variable crée plus haut qui récupère le chiffre après lang-
+    echo "$i $lang"
+    # Extraction du contexte (2 lignes avant et après) /home/annabelle/projet-PPE/contextes
+
+    contexte_file="/home/annabelle/projet-PPE/contextes/lang-$lang-$i.txt"  #le $lang correspond tout simplement à la variable crée plus haut qui récupère le chiffre après lang-
     grep -B2 -A2 -i "image" "$dump_file" > "$contexte_file"
 
     # Concordance gauche/droite pour chaque occurence
-    concordance_file="./concordance/$lang-$i.html"
+    concordance_file="/home/annabelle/projet-PPE/concordances/$lang-$i.html"
     echo "<html><body><table border='1'><tr><th>Gauche</th><th>Mot</th><th>Droite</th></tr>" > "$concordance_file"
     while read -r line_context; do
         gauche=$(echo "$line_context" | sed 's/\(.*\)\bimage\b.*/\1/')
@@ -98,6 +105,8 @@ while read -r url; do
     i=$((i+1))
     lineno=$((lineno+1))
 done < "$fichier_urls"
+
+done
 
 # Fermeture de la table et du HTML
 echo "    </table>
