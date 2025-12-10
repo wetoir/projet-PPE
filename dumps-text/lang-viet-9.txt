@@ -1,0 +1,359 @@
+   HTTP/2 200 date: Wed, 10 Dec 2025 02:32:30 GMT server:
+   mw-web.eqiad.main-5c5cb4f54-x7zkq x-content-type-options: nosniff
+   content-language: vi accept-ch: last-modified: Sat, 29 Nov 2025
+   14:58:14 GMT content-type: text/html; charset=UTF-8 age: 55946
+   accept-ranges: bytes x-cache: cp6011 miss, cp6009 hit/1 x-cache-status:
+   hit-front server-timing: cache;desc="hit-front", host;desc="cp6009"
+   strict-transport-security: max-age=106384710; includeSubDomains;
+   preload report-to: { "group": "wm_nel", "max_age": 604800, "endpoints":
+   [{ "url":
+   "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi
+   .network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+   nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
+   0.05, "success_fraction": 0.0} set-cookie:
+   WMF-Last-Access=10-Dec-2025;Path=/;HttpOnly;secure;Expires=Sun, 11 Jan
+   2026 12:00:00 GMT set-cookie:
+   WMF-Last-Access-Global=10-Dec-2025;Path=/;Domain=.wikipedia.org;HttpOnl
+   y;secure;Expires=Sun, 11 Jan 2026 12:00:00 GMT set-cookie:
+   WMF-DP=fe2;Path=/;HttpOnly;secure;Expires=Thu, 11 Dec 2025 00:00:00 GMT
+   x-client-ip: 78.243.19.2 cache-control: private, s-maxage=0, max-age=0,
+   must-revalidate, no-transform vary:
+   Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
+   GeoIP=FR:IDF::48.86:2.35:v4; Path=/; secure; Domain=.wikipedia.org
+   set-cookie:
+   NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+   set-cookie:
+   WMF-Uniq=HHS9k9PSsp1TjQSsfTIXAgLFAAAAAFvdBjuwRW-yZldabOPDiLpL1iCYj_zHxf
+   hC;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=T
+   hu, 10 Dec 2026 00:00:00 GMT content-length: 118075 x-request-id:
+   60d436d5-9c10-4d5a-b479-03610ccf165b #Sửa đổi Wikipedia (vi) Nguồn cấp
+   Atom của Wikipedia
+
+   Bước tới nội dung
+
+   [ ] Trình đơn chính
+   Trình đơn chính
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+   Điều hướng
+     * Trang Chính
+     * Nội dung chọn lọc
+     * Bài viết ngẫu nhiên
+     * Thay đổi gần đây
+     * Báo lỗi nội dung
+
+   Tương tác
+     * Hướng dẫn
+     * Giới thiệu Wikipedia
+     * Cộng đồng
+     * Thảo luận chung
+     * Giúp sử dụng
+     * Liên lạc
+     * Tải lên tập tin
+
+   Wikipedia Bách khoa toàn thư mở
+   Tìm kiếm
+   ____________________
+   (BUTTON) Tìm kiếm
+
+   [ ] Giao diện
+
+     * Quyên góp
+     * Tạo tài khoản
+     * Đăng nhập
+
+   [ ] Công cụ cá nhân
+     * Quyên góp
+     * Tạo tài khoản
+     * Đăng nhập
+
+Nội dung
+
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+     * Đầu
+     * 1 Đặc điểm
+     * 2 Ý nghĩa
+     * 3 Ảnh 2 chiều (2D)
+     * 4 Ảnh 3 chiều (3D)
+     * 5 Xem thêm
+     * 6 Tham khảo
+     * 7 Liên kết ngoài
+
+   [ ] Đóng mở mục lục
+
+Hình ảnh
+
+   [ ] 93 ngôn ngữ
+     * العربية
+     * Asturianu
+     * Avañe'ẽ
+     * Azərbaycanca
+     * Bahasa Indonesia
+     * Bahasa Melayu
+     * বাংলা
+     * 閩南語 / Bân-lâm-gí
+     * Bikol Central
+     * Bosanski
+     * Български
+     * Català
+     * Cebuano
+     * Чӑвашла
+     * ChiShona
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Eesti
+     * Ελληνικά
+     * English
+     * Español
+     * Esperanto
+     * Euskara
+     * فارسی
+     * Français
+     * Gaeilge
+     * Gaelg
+     * Gàidhlig
+     * Galego
+     * ગુજરાતી
+     * 한국어
+     * हिन्दी
+     * Ido
+     * Ilokano
+     * Iñupiatun
+     * Íslenska
+     * Italiano
+     * עברית
+     * Jawa
+     * ಕನ್ನಡ
+     * ქართული
+     * کٲشُر
+     * Қазақша
+     * Кыргызча
+     * Kiswahili
+     * Kreyòl ayisyen
+     * Ladino
+     * Latina
+     * Latviešu
+     * Lietuvių
+     * La .lojban.
+     * Magyar
+     * Монгол
+     * မြန်မာဘာသာ
+     * Na Vosa Vakaviti
+     * Nederlands
+     * नेपाल भाषा
+     * 日本語
+     * Norsk bokmål
+     * Norsk nynorsk
+     * Occitan
+     * پنجابی
+     * Português
+     * Română
+     * Runa Simi
+     * Русский
+     * ᱥᱟᱱᱛᱟᱲᱤ
+     * Shqip
+     * Sicilianu
+     * සිංහල
+     * Simple English
+     * سنڌي
+     * Soomaaliga
+     * کوردی
+     * Suomi
+     * Tagalog
+     * தமிழ்
+     * తెలుగు
+     * ไทย
+     * Тоҷикӣ
+     * Türkçe
+     * Türkmençe
+     * Українська
+     * اردو
+     * Winaray
+     * 吴语
+     * ייִדיש
+     * 粵語
+     * 中文
+     * Kadazandusun
+     * Toki pona
+     * ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
+
+   Sửa liên kết
+
+     * Bài viết
+     * Thảo luận
+
+   [ ] Tiếng Việt
+
+     * Đọc
+     * Sửa đổi
+     * Sửa mã nguồn
+     * Xem lịch sử
+
+   [ ] Công cụ
+   Công cụ
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+   Tác vụ
+     * Đọc
+     * Sửa đổi
+     * Sửa mã nguồn
+     * Xem lịch sử
+
+   Chung
+     * Các liên kết đến đây
+     * Thay đổi liên quan
+     * Liên kết thường trực
+     * Thông tin trang
+     * Trích dẫn trang này
+     * Tạo URL rút gọn
+     * Tải mã QR
+
+   In và xuất
+     * Tạo một quyển sách
+     * Tải dưới dạng PDF
+     * Bản để in ra
+
+   Tại dự án khác
+     * Wikimedia Commons
+     * Khoản mục Wikidata
+
+   Giao diện
+   (BUTTON) chuyển sang thanh bên (BUTTON) ẩn
+   Bách khoa toàn thư mở Wikipedia
+   Bài viết này cần thêm chú thích nguồn gốc để kiểm chứng thông tin. Mời
+   bạn giúp hoàn thiện bài viết này bằng cách bổ sung chú thích tới các
+   nguồn đáng tin cậy. Các nội dung không có nguồn có thể bị nghi ngờ và
+   xóa bỏ. (Tìm hiểu cách thức và thời điểm xóa thông báo này)
+
+          Xem các nghĩa khác tại Hình ảnh (định hướng)
+
+   [Raster_to_Vector_Mechanical_Example.jpg] Hình trên là hình được chụp
+   ảnh lại. Hình dưới là hình được xây dựng bằng đồ họa máy
+   tính.[250px-Image_created_with_a_mobile_phone.png] Chụp hình bằng một
+   chiếc điện thoại[250px-Faust_bei_der_Arbeit.JPG]
+
+   Một bức hình, tấm ảnh, hay hình ảnh thứ ghi lại hay thể hiện/tái tạo
+   được cảm nhận thị giác, tương tự với cảm nhận thị giác từ vật thể có
+   thật, do đó mô tả được những vật thể đó.^[1]
+
+Đặc điểm
+
+   [sửa | sửa mã nguồn]
+
+   Hình ảnh có thể có hai chiều, như thể hiện trên tranh vẽ trên mặt
+   phẳng, hoặc ba chiều, như thể hiện trên tác phẩm điêu khắc hoặc
+   hologram. Hình ảnh có thể được ghi lại bằng thiết bị quang học – như
+   máy ảnh, gương, thấu kính, kính viễn vọng, kính hiển vi do con người
+   tạo ra, hoặc bởi các cơ chế tự nhiên, như mắt người hay mặt nước. Hình
+   ảnh có thể được dùng theo nghĩa rộng, thể hiện bản đồ, đồ thị, nghệ
+   thuật trừu tượng. Với nghĩa này, hình ảnh có thể được tạo ra mới hoàn
+   toàn, thay vì ghi chép lại, bằng cách vẽ, tạc tượng, in ấn hay xây dựng
+   bằng đồ họa máy tính. Hình ảnh tưởng tượng xuất hiện trong suy nghĩ của
+   con người, tương tự như trí nhớ. Hình ảnh chuyển động có thể là phim,
+   video, hoạt hình.
+
+Ý nghĩa
+
+   [sửa | sửa mã nguồn]
+
+   Hình ảnh có ý nghĩa đối với trí nhớ và kí ức, tâm trí và một hình ảnh
+   có giá trị bằng hàng ngàn từ, theo các chuyên gia, não của con người
+   ghi nhớ theo các hình ảnh nên nó sẽ dễ tiếp thu thông tin dưới dạng
+   hình ảnh hơn^[2] Ngạn ngữ cổ có câu: "Bạn sẽ quên những gì bạn nghe;
+   bạn sẽ nhớ những gì bạn thấy; bạn sẽ hiểu những gì bạn làm",^[3] ngạn
+   ngữ Ả rập có câu: "Một trí nhớ tốt không bằng một nét mực mờ".^[4]
+
+Ảnh 2 chiều (2D)
+
+   [sửa | sửa mã nguồn]
+
+   Hình ảnh hai chiều (2D) là hình ảnh đại diện cho một thứ gì đó được thể
+   hiện chỉ bằng hai chiều không gian. Thường có dạng hình chữ nhật. Tính
+   đến năm 2022, ảnh 2D là định dạng phổ biến nhất.
+
+Ảnh 3 chiều (3D)
+
+   [sửa | sửa mã nguồn]
+
+   Ảnh 3 chiều (3D) ít phổ biến hơn hình ảnh hai chiều. Hình ảnh ba chiều
+   đưa vào nhận thức của hệ thống thị giác về độ sâu để khắc họa thông tin
+   thị giác một cách chính xác hơn.
+
+Xem thêm
+
+   [sửa | sửa mã nguồn]
+     * Hoạt hình
+     * Đồ họa máy tính
+     * Ảnh chụp
+     * Quay phim
+     * Tranh vẽ
+
+Tham khảo
+
+   [sửa | sửa mã nguồn]
+    1. ^ Chris Baldick (2008). The Oxford Dictionary of Literary Terms.
+       Oxford University Press. tr. 165–. ISBN 978-0-19-920827-2.
+    2. ^ Người thành công là Người làm đến cùng, Nguyễn Khánh Toàn, Nhà
+       xuất bản Dân trí, Hà Nội, năm 2011, trang 52
+    3. ^ Bí mật tư duy triệu phú (Secrets of the Milionaire Mind), T.Harv
+       Eker, Nhà xuất bản Trẻ, Thành phố Hồ Chí Minh, năm 2011, trang 27
+    4. ^ Dạy văn, dạy chữ, dạy người…
+
+Liên kết ngoài
+
+   [sửa | sửa mã nguồn]
+   Wikimedia Commons có thêm hình ảnh và phương tiện về Hình ảnh.
+     * The B-Z Reaction: The Moving or the Still Image?
+     * FACE: Friends of Active Copyright Education Lưu trữ ngày 10 tháng
+       12 năm 2011 tại Wayback Machine
+     * Library of Congress – Format Descriptions for Still Images
+     * Image Processing – Online Open Research Group Lưu trữ ngày 28 tháng
+       12 năm 2020 tại Wayback Machine
+
+   Bài viết này vẫn còn sơ khai. Bạn có thể giúp Wikipedia mở rộng nội
+   dung để bài được hoàn chỉnh hơn.
+     * x
+     * t
+     * s
+
+   Lấy từ
+   “https://vi.wikipedia.org/w/index.php?title=Hình_ảnh&oldid=74530908”
+   Thể loại:
+     * Nhiếp ảnh
+     * Nhiếp ảnh kỹ thuật số
+     * Đồ họa máy tính
+     * Thiết kế đồ họa
+     * Thị giác
+
+   Thể loại ẩn:
+     * Trang thiếu chú thích trong bài
+     * Bản mẫu webarchive dùng liên kết wayback
+     * Tất cả bài viết sơ khai
+     * Sơ khai
+
+     * Trang này được sửa đổi lần cuối vào ngày 28 tháng 11 năm 2025,
+       11:47.
+     * Văn bản được phát hành theo Giấy phép Creative Commons Ghi
+       công–Chia sẻ tương tự; có thể áp dụng điều khoản bổ sung. Với việc
+       sử dụng trang web này, bạn chấp nhận Điều khoản Sử dụng và Quy định
+       quyền riêng tư. Wikipedia® là thương hiệu đã đăng ký của Wikimedia
+       Foundation, Inc., một tổ chức phi lợi nhuận.
+
+     * Chính sách quyền riêng tư
+     * Giới thiệu Wikipedia
+     * Lời phủ nhận
+     * Bộ Quy tắc Ứng xử Chung
+     * Lập trình viên
+     * Thống kê
+     * Tuyên bố về cookie
+     * Phiên bản di động
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Tìm kiếm
+   ____________________
+   (BUTTON) Tìm kiếm
+
+   [ ] Đóng mở mục lục
+   Hình ảnh
+   (BUTTON) 93 ngôn ngữ Thêm đề tài

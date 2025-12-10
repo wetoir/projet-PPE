@@ -1,0 +1,151 @@
+   HTTP/2 200 accept-ranges: bytes content-type: text/html etag:
+   "85de642e1467807f64f7e10807df3869:1711562737.176211" last-modified:
+   Tue, 26 Mar 2024 18:16:43 GMT server: AkamaiNetStorage content-length:
+   201253 date: Wed, 10 Dec 2025 12:35:13 GMT
+
+   (BUTTON)
+   Skip to main content
+   (BUTTON) (BUTTON) Microsoft
+   (BUTTON) (BUTTON)
+     * Microsoft 365
+     * Teams
+     * Copilot
+     * Windows
+     * Surface
+     * Xbox
+     * Deals
+     * Small Business
+     * Support
+     * (BUTTON) More
+
+     * (BUTTON) All Microsoft
+          +
+               o Office
+               o Windows
+               o Surface
+               o Xbox
+               o Deals
+               o Support
+          + (BUTTON) Software
+               o Windows Apps
+               o OneDrive
+               o Outlook
+               o Skype
+               o OneNote
+               o Microsoft Teams
+               o Microsoft Edge
+          + (BUTTON) PCs & Devices
+               o Computers
+               o Shop Xbox
+               o Accessories
+               o VR & mixed reality
+               o Phones
+          + (BUTTON) Entertainment
+               o Xbox Game Pass Ultimate
+               o Xbox Live Gold
+               o Xbox games
+               o PC games
+               o Windows digital games
+               o Movies & TV
+          + (BUTTON) Business
+               o Microsoft Azure
+               o Microsoft Dynamics 365
+               o Microsoft 365
+               o Microsoft Industry
+               o Data platform
+               o Microsoft Advertising
+               o Licensing
+               o Shop Business
+          + (BUTTON) Developer & IT
+               o .NET
+               o Visual Studio
+               o Windows Server
+               o Windows Dev Center
+               o Docs
+          + (BUTTON) Other
+               o Microsoft Rewards
+               o Free downloads & security
+               o Education
+               o Store locations
+               o Gift cards
+          + View Sitemap
+
+   ____________________ (BUTTON) SearchSearch Microsoft.com
+
+   (BUTTON) Cancel
+
+Your current User-Agent string appears to be from an automated process, if
+this is incorrect, please click this link:
+
+   United States English Microsoft Homepage
+
+   What's new
+     * Surface Laptop Studio 2
+     * Surface Laptop Go 3
+     * Surface Pro 9
+     * Surface Laptop 5
+     * Microsoft Copilot
+     * Copilot in Windows
+     * Microsoft 365
+     * Windows 11 apps
+
+   Microsoft Store
+     * Account profile
+     * Download Center
+     * Microsoft Store support
+     * Returns
+     * Order tracking
+     * Certified Refurbished
+     * Microsoft Store Promise
+     * Flexible Payments
+
+   Education
+     * Microsoft in education
+     * Devices for education
+     * Microsoft Teams for Education
+     * Microsoft 365 Education
+     * How to buy for your school
+     * Educator training and development
+     * Deals for students and parents
+     * Azure for students
+
+   Business
+     * Microsoft Cloud
+     * Microsoft Security
+     * Dynamics 365
+     * Microsoft 365
+     * Microsoft Power Platform
+     * Microsoft Teams
+     * Copilot for Microsoft 365
+     * Small Business
+
+   Developer & IT
+     * Azure
+     * Developer Center
+     * Documentation
+     * Microsoft Learn
+     * Microsoft Tech Community
+     * Azure Marketplace
+     * AppSource
+     * Visual Studio
+
+   Company
+     * Careers
+     * About Microsoft
+     * Company news
+     * Privacy at Microsoft
+     * Investors
+     * Diversity and inclusion
+     * Accessibility
+     * Sustainability
+
+   English (United States)
+     * Sitemap
+     * Contact Microsoft
+     * Privacy
+     * Terms of use
+     * Trademarks
+     * Safety & eco
+     * Recycling
+     * About our ads
+     * © Microsoft 2024.303

@@ -1,0 +1,145 @@
+   HTTP/2 200 date: Wed, 10 Dec 2025 12:34:59 GMT content-type: text/html;
+   charset=UTF-8 vary: Accept-Encoding,Accept-Encoding set-cookie:
+   device_env=4; expires=Wed, 17 Dec 2025 12:34:59 GMT; Max-Age=604800;
+   path=/; domain=vnexpress.net; secure; SameSite=None set-cookie:
+   device_env_real=4; expires=Wed, 17 Dec 2025 12:34:59 GMT;
+   Max-Age=604800; path=/; domain=vnexpress.net; secure; SameSite=None
+   x-zone: hn x-page-speed: 1.13.35.2-0 cache-control: max-age=0, no-cache
+   x-time: 728 nxcb: MISS 4 server: vne-qt-fe-bot-1 x-proxy-cache: MISS
+   alt-svc: h3=":443"; ma=86400 x-time: 741 #alternate
+
+   VnExpress Thời sự Thứ tư, 3/9/2025, 06:00 (GMT+7)
+
+   this
+   Cuộc thi Vietnam Vibes By Vietravel
+     *
+     * Dòng sự kiện
+     * Đường đến độc lập
+     * Hành trình 80 năm
+     * Khát vọng Việt Nam
+     * Video
+     *
+
+Ảnh
+
+     * Thời sự
+     * 80 năm Quốc khánh
+     * Ảnh
+
+Những hình ảnh nổi bật trong đại lễ 80 năm Quốc khánh
+
+Hà NộiDàn khí tài hiện đại trên biển và bộ, tiêm kích chao lượn thả bẫy
+nhiệt, cựu chiến binh ngồi xe lăn vẫy cờ chào đoàn diễu binh... là những hình
+ảnh nổi bật trong dịp A80.
+
+   Biển người dự lễ kỷ niệm 80 năm Quốc khánh tại quảng trường Ba Đình,
+   sáng 2/9. Hôm qua, hơn 16.000 quân nhân cùng lực lượng Hải, Lục, Không
+   quân và khối cơ giới, khí tài cùng diễu binh trên không, trên biển và
+   mặt đất. Ảnh: Thanh Hải
+   Tiêm kích Su-30MK2 bay về phía Cột cờ Hà Nội, gần quảng trường Ba Đình
+   và thả bẫy nhiệt mừng lễ mừng 80 năm Quốc khánh. Dịp này hơn 30 máy bay
+   chiến đấu và trực thăng của Không quân Việt Nam đã bay theo đội hình,
+   trình diễn quanh quảng trường. Ảnh: Tùng Đinh
+
+   Biên đội Yak-130 tách đội hình, thả bẫy nhiệt trên quảng trường Ba
+   Đình.
+
+   Bẫy nhiệt là phần hệ thống phòng thủ thụ động được thiết kế để bảo vệ
+   máy bay trước các loại tên lửa sử dụng đầu dẫn hồng ngoại. Ảnh: Giang
+   Huy
+
+   Click để lật ảnh
+   Click để lật ảnh
+
+   Cùng với lễ diễu binh tại Ba Đình, sáng 2/9, tại căn cứ quân sự Cam
+   Ranh, tỉnh Khánh Hòa, tàu chiến, máy bay đã tham gia diễu binh trên
+   biển. Ảnh: Quân chủng Hải quân
+   Trên quảng trường Ba Đình, hơn 16.300 quân nhân và khối xe pháo quân
+   sự, xe đặc chủng công an lần lượt diễu hành qua lễ đài, sau đó tỏa ra 8
+   ngả đường trong sự cổ vũ nhiệt tình của người dân. Trong ảnh là các
+   khối Quân đội diễu hành trên đường Hùng Vương. Ảnh: Ngọc Thành
+   Chiến sĩ pháo binh trên xe tải kéo pháo diễu hành qua lễ đài. Ảnh:
+   Thanh Tùng
+
+   Sau khi qua lễ đài quảng trường Ba Đình, nhiều khối quân đội, công an,
+   dân quân tự vệ di chuyển qua phố Kim Mã, Liễu Giai, Văn Cao để đến nơi
+   tập kết tại sân vận động Quần Ngựa. Ảnh: Hiếu Lương
+   Một cựu chiến binh đội áo mưa, giơ tay chào đoàn diễu binh trên phố
+   Tràng Tiền. Những ngày qua, đông đảo cựu chiến binh trên khắp cả nước
+   lặn lội về Thủ đô, bất chấp nắng mưa để dự lễ kỷ niệm Quốc khánh. Ảnh:
+   Quỳnh Trần
+   Tại lễ sơ duyệt tối 27/8, một cựu chiến binh khác ngồi trên xe lăn, tay
+   cầm cờ Tổ quốc, cổ vũ đoàn diễu binh khi đi qua khu vực Nhà hát Lớn.
+   Ảnh: Hiếu Lương
+   Click để lật ảnh
+   Click để lật ảnh
+
+   Tại ngã tư Liễu Giai – Đào Tấn, hàng trăm người dân có mặt từ sớm, chen
+   chân dưới cầu vượt và tòa nhà Lotte để ghi lại khoảnh khắc sơ duyệt.
+   Ảnh: Nguyễn Đông
+   Cùng với hàng nghìn quân nhân, nhiều khí tài hiện đại diễu hành qua lễ
+   đài. Trong ảnh, xe trinh sát BRDM-2 (cắm cờ) dẫn đầu khối chiến đấu bộ
+   binh BMP-1 và BMP-2. Ảnh: Ngọc Thành
+   Dàn xe bánh xích, bánh lốp trên đường Thanh Niên, ven hồ Tây nằm chờ
+   lệnh tiến vào lễ đài trên quảng trường Ba Đình, sáng 2/9. Khu vực này
+   đông kín người dân hai bên đường, an ninh được thắt chặt. Ảnh: Nguyễn
+   Đông
+   Click để lật ảnh
+   Click để lật ảnh
+
+   Xe tăng chủ lực T-54B cải tiến, do Việt Nam hiện đại hóa, và T-55 di
+   chuyển trên đường Thanh Niên. Từ 3h sáng, đoàn xe đã tiến về nơi tập
+   kết ở Ba Đình, tạo âm thanh uy lực, trong tiếng reo hò của hàng nghìn
+   người dân hai bên đường. Ảnh: Thanh Hằng - Nguyễn Đông
+   Đoàn nữ chiến sĩ Thông tin liên lạc vẫy tay chào người dân hai bên phố
+   Tràng Tiền. Ảnh: Quỳnh Trần
+   Khối Công binh vẫy chào người dân trên đường Hồng Hà. Đây là lực lượng
+   "đi trước về sau", ngoài huấn luyện, sẵn sàng chiến đấu, còn đảm nhiệm
+   rà phá bom mìn, xây dựng công trình phòng thủ, mở đường tuần tra biên
+   giới, bắc cầu qua suối, ứng cứu thiên tai, lụt bão... Ảnh: Quỳnh Trần
+   Đường Trần Khánh Dư, nơi các khối quân nhân tập kết sau khi đi qua
+   quảng trường Cách mạng tháng Tám. Nhiều cuộc chia tay lưu luyến diễn ra
+   trước khi chiến sĩ về nơi ăn ở tập trung ở Miếu Môn, Sơn Tây, Hòa
+   Lạc... Trong ảnh là quân nhân khối Chiến sĩ Phòng hóa tận hưởng sự chăm
+   sóc của người thân sau lễ diễu binh. Ảnh: Phạm Chiểu
+   Bé Hoàng Quân theo bà đi xem diễu binh, ôm hôn một sĩ quan Cảnh sát Gìn
+   giữ hòa bình Liên Hợp Quốc hôm tổng duyệt diễu binh, sáng 30/8. Ảnh:
+   Thanh Tùng
+   Ba Trần Thị Nhung chờ đón con trai, chiến sĩ Trần Đình Đức, trong tổ
+   quân kỳ khối Nam sĩ quan Hải quân cùng đồng đội đi về trên phố. "Tôi
+   hạnh phúc khi được thấy con mình cống hiến cho Tổ quốc", bà nói. Ảnh:
+   Thanh Tùng
+   Nữ chiến sĩ Thông tin liên lạc ôm chia tay bạn bè trước khi về nơi tập
+   trung trên đường Trần Khánh Dư. Ảnh: Phạm Chiểu
+   Quân nhân Nga thay quân phục, chia tay người dân. Ảnh: Quỳnh Trần
+   Khối Nam sĩ quan cảnh sát gìn giữ hòa bình Bộ Công an với những lời tạm
+   biệt viết vội trên bìa carton "Tạm biệt Hà Nội", "Chúc bà con Hà Nội
+   8386" (số 8386 có ý nghĩa phát tài phát lộc, tượng trưng cho may mắn và
+   thành công). Ảnh: Thanh Tùng
+
+                                                        Nhóm phóng viên
+
+     Trở lại Thời sựTrở lại Thời sự
+   Copy link thành công
+
+   [INS: :INS]
+
+     *
+     * Dòng sự kiện
+     * Đường đến độc lập
+     * Hành trình 80 năm
+     * Khát vọng Việt Nam
+     * Video
+     * Ảnh
+
+   this
+   Điều khoản sử dụng Chia sẻ: Copy link thành công
+   Báo điện tử VnExpress Báo tiếng Việt nhiều người xem nhất
+   Thuộc Bộ Khoa học và Công nghệ Số giấy phép: 548/GP-BTTTT do Bộ Thông
+   tin và Truyền thông cấp ngày 24/08/2021
+
+   Tổng biên tập: Phạm Văn Hiếu
+   Địa chỉ: Tầng 10, Tòa A FPT Tower, số 10 Phạm Văn Bạch, phường Cầu
+   Giấy, Hà Nội Điện thoại:024 7300 8899 - máy lẻ 4500
+   Email: webmaster@vnexpress.net
+   © 1997-2025. Toàn bộ bản quyền thuộc VnExpress

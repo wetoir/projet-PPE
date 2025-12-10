@@ -1,0 +1,37 @@
+   HTTP/2 403 date: Wed, 10 Dec 2025 18:50:05 GMT content-type: text/html;
+   charset=UTF-8 content-length: 4514 x-frame-options: SAMEORIGIN
+   referrer-policy: same-origin cache-control: private, max-age=0,
+   no-store, no-cache, must-revalidate, post-check=0, pre-check=0 expires:
+   Thu, 01 Jan 1970 00:00:01 GMT set-cookie:
+   __cf_bm=iuRZ7tkuX9sbiPzAJn2_ZMs8vC1l66jQvOJGZLJkT0Q-1765392605-1.0.1.1-
+   f3zUiBEyS5Q06itQ5kboBV6XQcdKet9_B1wu.qb1xoOnRHtQ4IaKpM4o81ujofhCg8udcyn
+   Gv_Oh1fEDDJidYx5NjLnPBU7tIJQHM_AxOe4; path=/; expires=Wed, 10-Dec-25
+   19:20:05 GMT; domain=.filmibeat.com; HttpOnly; Secure; SameSite=None
+   strict-transport-security: max-age=15552000 speculation-rules:
+   "/cdn-cgi/speculation" vary: User-Agent content-security-policy:
+   frame-ancestors 'self' https://jionews.com
+   https://jionewsdev1.jio.ril.com https://pie.news
+   https://staging.pie.news https://www.techroader.com; server: cloudflare
+   cf-ray: 9abeed0a3d92d11c-CDG alt-svc: h3=":443"; ma=86400
+
+   Please enable cookies.
+
+Sorry, you have been blocked
+
+You are unable to access filmibeat.com
+
+Why have I been blocked?
+
+   This website is using a security service to protect itself from online
+   attacks. The action you just performed triggered the security solution.
+   There are several actions that could trigger this block including
+   submitting a certain word or phrase, a SQL command or malformed data.
+
+What can I do to resolve this?
+
+   You can email the site owner to let them know you were blocked. Please
+   include what you were doing when this page came up and the Cloudflare
+   Ray ID found at the bottom of this page.
+
+   Cloudflare Ray ID: 9abeed0a3d92d11c • Your IP: (BUTTON) Click to reveal
+   78.243.19.2 • Performance & security by Cloudflare

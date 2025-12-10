@@ -1,0 +1,115 @@
+   HTTP/2 200 date: Wed, 10 Dec 2025 12:32:00 GMT content-type: text/html;
+   charset=UTF-8 server: cloudflare nel:
+   {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+   report-to:
+   {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
+   loudflare.com/report/v4?s=DTiO6LnIIQws5DnSFP0mRBwxriWTB375Y%2F4C3oqdIGa
+   ETJP%2FR6BsKZMVGJmBOCN%2B%2Fl1JXxC%2Bz%2FM5MKzDNg5zMajeRJRolU5Hu%2Bws6o
+   2Dq4fdS6E%3D"}]} vary: Accept-Encoding expires: Thu, 19 Nov 1981
+   08:52:00 GMT cache-control: no-store, no-cache, must-revalidate pragma:
+   no-cache link: /www.fulloncinema.in/wp-json/>;
+   rel="https://api.w.org/",
+   /www.fulloncinema.in/wp-json/wp/v2/posts/35828>; rel="alternate";
+   title="JSON"; type="application/json", /www.fulloncinema.in/?p=35828>;
+   rel=shortlink content-security-policy: style-src 'self'
+   'unsafe-inline'; set-cookie: PHPSESSID=2bsfg4hjv1dq7qbsbdu7hj2i95;
+   path=/ x-varnish: 221661459 age: 0 via: 1.1 varnish (Varnish/6.4)
+   x-cache: HIT from Backend strict-transport-security: max-age=2592000;
+   includeSubDomains; preload x-xss-protection: 1; mode=block
+   x-content-type-options: nosniff speculation-rules:
+   "/cdn-cgi/speculation" cf-cache-status: DYNAMIC cf-ray:
+   9abcc328ea79d161-CDG alt-svc: h3=":443"; ma=86400 #Full On Cinema »
+   Feed JSON oEmbed (JSON) oEmbed (XML)
+
+   Full On Cinema Full On Cinema
+   Digiqole ads
+
+   Full On Cinema (BUTTON)
+     * Home
+     * News
+          + Tamil News
+          + English News
+     * Reviews
+     * Gallery
+          + Movies
+          + Cinema Events
+          + Actors
+          + Actress
+     * Videos
+          + Trailer
+          + Event Videos
+
+     *
+     *
+     *
+     *
+
+   ____________________ (BUTTON)
+    1. Home
+    2. Reviews
+    3. நிர்வாகம் பொறுப்பல்ல –…
+
+நிர்வாகம் பொறுப்பல்ல – விமர்சனம் 2.5/5
+
+     * Reviews
+     * December 6, 2025
+     * 1 minute read
+
+   நிர்வாகம் பொறுப்பல்ல – விமர்சனம் 2.5/5
+
+
+   கார்த்தீஸ்வரன், ஸ்ரீநிதி, ஆதவன், லிவிங்ஸ்டன், ப்ளாக் பாண்டி, மிருதுளா
+   சுரேஷ், அகல்யா வெங்கடேசன் உள்ளிட்ட நட்சத்திரங்களின் நடிப்பில்
+   உருவாகியுள்ள படம் தான் நிர்வாகம் பொறுப்பல்ல. கதை, திரைக்கதை, வசனம்
+   எழுதி இயக்கியிருக்கிறார் கார்த்தீஸ்வரன்.
+
+   படத்திற்கு இசையமைத்திருக்கிறார் ஸ்ரீகாந்த் தேவா. மேலும், ஒளிப்பதிவு
+   செய்திருக்கிறார் என் எஸ் ராஜேஷ். ராதாகிருஷ்ணன் தயாரித்திருக்கிறார்.
+
+   கார்த்தீஸ்வரன், ஆதவன் உட்பட ஐவர் சேர்ந்து மக்களிடையே ஆன்லைன் மூலம்
+   கொள்ளையடிப்பதை வழக்கமாக வைத்திருக்கின்றனர். ஆன் லைன் செக்ஸ் மோசடி,
+   குறைந்த பணத்திற்கு அதிகமான வட்டி, 250 ரூபாய்க்கு மொபைல் போன் என பல
+   விதங்களில் மக்கள் தலையில் மிளகாய் அரைத்து அவர்களிடம் இருந்து
+   ஆயிரக்கணக்கான கோடி ரூபாயை கொள்ளையடிக்கிறது இந்த கும்பல்.
+
+   இந்த கும்பலை பிடிப்பதற்காக களம் இறங்குகிறது ஸ்ரீநிதி தலைமையிலான போலீஸ்
+   படை. இறுதியில் கார்த்தீஸ்வரன் பிடிபட்டாரா இல்லையா என்பது படத்தின்
+   மீதிக் கதை.
+
+   கார்த்தீஸ்வரன் ஒவ்வொரு முறையும் மக்களை ஏமாற்றி கொள்ளையடிக்கும் விதம்
+   க்யூட்டாக இருந்தாலும், அதனை காமெடியாகவே கொண்டு சென்றிருப்பது ஏற்றுக்
+   கொள்ளும்படியாக இல்லை. அதுமட்டுமல்லாமல், போலீஸ் இப்படிதான் இருப்பார்கள்
+   என்று க்ளைமாக்ஸில் காட்டியிருப்பதும் ஏற்றுக் கொள்ளும்படியாக இல்லை.
+
+   சின்ன சின்ன வசனங்களில் கூர்ந்து கவனிக்கும்படி வைத்திருக்கும்
+   கார்த்தீஸ்வரனுக்கு வாழ்த்துகள். இருந்தாலும், நெகடிவ் கதாபாத்திரம்
+   என்றால் என்ன வேண்டுமானாலும் செய்யலாம் என்றும் அவரை ஒன்றும் பண்ண
+   முடியாது என்றும் படத்தினை முடித்திருப்பது என்பதை சற்று
+   மாற்றியிருந்திருக்கலாம்.
+
+   ஸ்ரீகாந்த் தேவாவின் இசையில் பாடல்கள் மற்றும் பின்னணி இசை இரண்டுமே
+   ரசிக்கும்படியாக இருந்தது.
+
+   ஒளிப்பதிவு படத்திற்கு கூடுதல் பலம் என்றே கூறலாம்.
+
+   நிர்வாகம் பொறுப்பல்ல – இந்த படம் அந்த படம் மாதிரி இருக்கே என்று நீங்கள்
+   நினைத்தால் நிர்வாகம் பொறுப்பல்ல..
+
+   Tags: nirvagam porupalla
+
+   Previous post
+
+   சமுத்திரக்கனி மற்றும் சூரி குரலில் ”கேட்ட வார்த்தை கெட்ட வார்த்தை”
+   Next post
+
+   பாடகி சின்மயி மன்னிப்பு கேட்க வேண்டும்: ‘ரெட் லேபில்’ பட…
+
+Related post
+
+   Full On Cinema
+
+   © 2021, Fulloncinema. All rights reserved. Contact us [email protected]
+
+   <p>Javascript not detected. Javascript required for this site to
+   function. Please enable it in your browser settings and refresh this
+   page.</p>

@@ -1,0 +1,416 @@
+   HTTP/2 200 server: nginx date: Wed, 10 Dec 2025 12:34:34 GMT
+   content-type: text/html; charset=UTF-8 cache-control: public expires:
+   Wed, 10 Dec 2025 12:35:34 GMT vary: Accept-Encoding,User-Agent
+   access-control-allow-origin: *
+
+   Fanpage Eva
+   Có mây, không mưa
+
+   Hà Nội
+
+   22°C
+   ____________________ (BUTTON)
+     *
+     * Tin tức
+     * Giải trí
+     * Sức khỏe
+     * Lifestyle
+     * Đẹp
+     * Yêu con
+     * Bà bầu
+     * Yêu
+     * Eva tám
+     * Nuôi con IQ EQ
+     * Bếp Eva
+     * Nhà đẹp
+     *
+
+   Lifestyle Muốn tìm lại hình ảnh ký ức bằng Google Maps, làm ngay 4 bước
+   này
+   Fanpage Eva
+     * Trang chủ
+     * Lifestyle
+
+Muốn tìm lại hình ảnh ký ức bằng Google Maps, làm ngay 4 bước này
+
+   Tấn Phước - Ngày 02/07/2025 16:01 PM (GMT+7)
+   Women Tech
+
+Gần đây, khi lướt mạng xã hội người dùng dễ dàng bắt gặp các hình chia sẻ nội
+dung khi sử dụng Google Maps để tìm về những hình ảnh, khung hình kỷ niệm
+trong quá khứ.
+
+Trào lưu tìm nhà, tìm người thân trên Google Maps sao HOT đến thế?
+
+   Google Maps ra đời như một công cụ để giúp người dùng định vị, tra cứu
+   đường đi, nhưng ít ai ngờ rằng, theo thời gian, nó đã âm thầm trở thành
+   một kho lưu trữ hình ảnh khổng lồ, ghi lại từng góc phố, mái nhà, con
+   người, và cả khoảnh khắc đời thường tưởng chừng vô nghĩa.
+
+   Những hình ảnh này chủ yếu được thu thập qua xe Google Street View –
+   những chiếc xe đặc biệt gắn máy quay 360 độ đi khắp các con phố trên
+   thế giới. Theo chu kỳ cập nhật từ 3 đến 5 năm/lần, Google Maps đã âm
+   thầm chụp lại hàng triệu hình ảnh ngoài trời, tạo thành một dạng “thời
+   gian biểu” cho từng địa điểm. Chính vì thế, khi người dùng vô tình thấy
+   lại hình ảnh người thân, hay chính bản thân mình trong quá khứ, cảm xúc
+   ùa về là điều dễ hiểu.
+
+   Bắt nguồn từ một số bức ảnh người dùng Google Maps vô tình thấy ảnh
+   người thân quá cố xuất hiện trên ứng dụng tra cứu, hướng dẫn đường đi
+   này. Sau đó, bài đăng đã tạo hiệu ứng tò mò, nhiều người cũng vào tìm
+   kiếm và phát hiện Google ghi lại nhiều hình ảnh chân thật.
+
+   Bắt nguồn từ một số bức ảnh người dùng Google Maps vô tình thấy ảnh
+   người thân quá cố xuất hiện trên ứng dụng tra cứu, hướng dẫn đường đi
+   này. Sau đó, bài đăng đã tạo hiệu ứng tò mò, nhiều người cũng vào tìm
+   kiếm và phát hiện Google ghi lại nhiều hình ảnh chân thật.
+
+Không màu mè, không sắp đặt, những hình ảnh ghi trên Maps chân thật
+                chạm đến trái tim của mọi người.
+
+Không màu mè, không sắp đặt, những hình ảnh ghi trên Maps chân thật
+                chạm đến trái tim của mọi người.
+
+   Một tài khoản A.N chia sẻ trên mạng xã hội, cô nhìn thấy hình ảnh người
+   thân đã mất thông qua ứng dụng Google Maps nhờ tính năng Street View -
+   cho phép người dùng thấy ảnh 360 độ trên đường phố: "Thấy lại những
+   điều xưa cũ từ Google Maps. Không ngờ có ngày Google Maps làm mình cay
+   mắt, chưa từng nghĩ rằng có thể thấy lại được hình ảnh người thân đã
+   mất. Chỉ là nay mình vô tình xài và chợt thấy hình dáng quen quen. Lại
+   gần thì đúng là cô mình. Và chỉ là mình lại được một lần nữa thấy hình
+   ảnh quen thuộc mà lâu rồi chưa được gặp. Cảm ơn thiệt nhiều!".
+
+Một phương tiện từ Google đã di chuyển khắp nẻo đường trên thế giới để
+làm nhiệm vụ ghi lại hình ảnh thực tế trên đường phố và tạo thành kho
+                dữ liệu khổng lò. (Ảnh minh họa).
+
+   Một phương tiện từ Google đã di chuyển khắp nẻo đường trên thế giới để
+   làm nhiệm vụ ghi lại hình ảnh thực tế trên đường phố và tạo thành kho
+   dữ liệu khổng lò. (Ảnh minh họa).
+
+   Trên các nền tảng mạng xã hội, ngày càng nhiều đoạn clip ghi lại khoảnh
+   khắc người dùng xúc động khi vô tình “gặp lại” người thân đã khuất qua
+   những hình ảnh được lưu giữ trên Google Maps. Điểm chung trong những
+   khoảnh khắc ấy là sự bàng hoàng, lặng người rồi vỡ oà cảm xúc.
+
+   Những dòng chia sẻ như: “Tôi bật khóc khi thấy bố mình đứng trước cổng
+   nhà, ông đã mất 6 năm rồi”, hay “Chú mèo tôi từng gắn bó suốt thời đại
+   học, giờ chỉ còn trong tấm ảnh cũ này”... nhận về hàng trăm nghìn lượt
+   thích, chia sẻ và bình luận đồng cảm. Những hình ảnh tưởng đã rơi vào
+   quên lãng nay lại trở thành sợi dây vô hình nối liền hiện tại với ký ức
+   - điều mà chẳng một album ảnh gia đình nào có thể tái hiện theo cách
+   chân thật đến vậy.
+
+   Sức hấp dẫn của trào lưu này không nằm ở công nghệ, mà nằm ở cảm xúc mà
+   nó khơi gợi. Những ngày gần đây, hàng loạt người dùng mạng xã hội chia
+   sẻ trải nghiệm đầy xúc động khi tìm lại những hình ảnh của chính mình,
+   gia đình, người thân, hoặc chỉ là mái nhà cũ sau bao năm xa cách.
+
+Cách tìm lại hình ảnh ký ức bằng Google Maps
+
+   Để trải nghiệm trào lưu đầy cảm xúc này, bạn chỉ cần vài bước đơn giản:
+
+   Bước 1: Truy cập Google Maps
+
+   Bạn có thể dùng ứng dụng trên điện thoại hoặc vào trực tiếp trên
+   website của Google Maps.
+
+   Bước 2: Tìm kiếm địa điểm mong muốn
+
+   Bạn phải nhập địa chỉ cụ thể hoặc tên nơi chốn bạn từng gắn bó - một
+   ngôi nhà cũ, trường học, nơi làm việc, con phố quen thuộc... Nếu chưa
+   tìm được vị trí thích hợp, thì hãy tìm điểm gần đó và di chuyển con trỏ
+   trên màn hình để tìm kiếm.
+
+   Bước 3: Thiết lập chế độ xem bản đồ Nhấn vào biểu tượng lớp bản đồ (hai
+   hình tứ giác xếp chồng), chọn chế độ vệ tinh và kích hoạt chế độ “Xem
+   phố”.
+
+Lưu ý: Lúc này trên bản đồ sẽ hiển thị các đường màu xanh. Các địa điểm
+dọc tuyến đường màu xanh này là những nơi mà người dùng xem được hình
+                                    ảnh
+
+   Lưu ý: Lúc này trên bản đồ sẽ hiển thị các đường màu xanh. Các địa điểm
+   dọc tuyến đường màu xanh này là những nơi mà người dùng xem được hình
+   ảnh
+
+   Bước 4: Chọn ảnh theo thời gian
+
+   Trên trình duyệt website, bạn sẽ thấy ảnh toàn cảnh 360 độ cùng thời
+   gian chụp (ở góc dưới phải màn hình). Nhấn vào đó, nếu có nhiều phiên
+   bản cũ, bạn sẽ được chọn xem ảnh từ những năm trước.
+
+   Chỉ vài thao tác đơn giản, bạn có thể “xuyên không” về ngắm nhìn góc
+   phố, mái nhà xưa cách đây 3-5 năm. Ở đó, có thể bạn sẽ bắt gặp hình ảnh
+   ông bà, phụ huynh vẫn đứng tỉa cây ngoài cổng, hay đang đứng trò chuyện
+   cùng bà con hàng sớm. Những khoảnh khắc tưởng đã trôi vào quên lãng,
+   bỗng hiện về rõ ràng hơn bao giờ hết.
+
+Có những khung hình và những câu chuyện phía sau đã lấy nước mắt của
+                           cộng đồng mạng.
+
+Có những khung hình và những câu chuyện phía sau đã lấy nước mắt của
+                           cộng đồng mạng.
+
+   Tuy nhiên, không ít người cũng bày tỏ sự tiếc nuối khi Google Maps chỉ
+   ghi nhận hình ảnh ở các con đường lớn mà không có hình ảnh ở các ngôi
+   nhà hay con đường trong hẻm sâu. Tùy thuộc vào vị trí, người dùng có
+   thể xem được hình ảnh từ khoảng 10 năm trước hoặc chỉ trong vài năm gần
+   đây.
+
+   Dẫu còn nhiều hạn chế, song việc nhìn lại những hình ảnh đã cũ trong
+   khoảng thời gian trước, khi lại một cách chân thật nhờ tính năng Street
+   View đã giúp nhiều người cảm thấy phấn kích và không khỏi cảm ơn vì đã
+   ghi lại những khoảnh khắc đáng giá ấy.
+
+   Đặc biệt trong thời đại số, khi mọi thứ trôi đi quá nhanh và con người
+   ngày càng xa rời đời sống thực tại, thì việc được chạm lại quá khứ dù
+   chỉ qua một bức ảnh 360 độ cũng là một liệu pháp xoa dịu tinh thần.
+   Cách TP.HCM hơn 200km có quần đảo nghe tên cứ ngỡ chỉ có trong phim, có
+   lịch sử cực huyền bí, sở hữu phong cảnh thiên nhiên tuyệt đẹp
+   Cách TP.HCM hơn 200km có quần đảo nghe tên cứ ngỡ chỉ có trong phim, có
+   lịch sử cực huyền bí, sở hữu phong cảnh thiên nhiên tuyệt đẹp
+   Quần đảo Hải tặc - tên gọi nghe cứ tưởng chỉ có ở trong phim nhưng thật
+   ra ở vùng biển nằm ở Nam Bộ có hòn đảo này với phong cảnh thiên nhiên
+   tuyệt...
+   Bấm xem >>
+
+   Du lịch Miền Tây
+   Theo Tấn Phước - Ảnh tổng hợp
+   Nguồn: [Tên nguồn]02/07/2025 14:55 PM(GMT+7)
+   Link nguồn:
+   Chia sẻ
+   Fanpage Eva
+   Tra cứu lịch tiêm chủng Tra cứu - nhắc lịch tiêm chủng Tính ngày rụng
+   trứng Tính ngày rụng trứng
+
+   Tin liên quan
+   Lifestyle - Trend ngậm quạt “phá đảo” thế giới ảo, hút triệu lượt xem
+   có gì đặc biệt?
+
+Trend ngậm quạt “phá đảo” thế giới ảo, hút triệu lượt xem có gì đặc biệt?
+
+   Với đạo cụ là một chiếc quạt xếp cầm tay, những chiếc clip triệu view
+   trên TikTok lần lượt ra đời, thu hút giới trẻ.
+   Lifestyle - Loài vật nhìn đã rùng mình nay là đặc sản Đồng Nai dân sành
+   ăn thích mê, cách săn bắt độc lạ chỉ dân chuyên biết
+
+Loài vật nhìn đã rùng mình nay là đặc sản Đồng Nai dân sành ăn thích mê, cách
+săn bắt độc lạ chỉ dân chuyên biết
+
+   Từ món ăn dân dã của người bản địa, dế cơm đã trở thành đặc sản có giá
+   trị, được người sành ăn tìm kiếm bởi hương vị giòn, béo và giàu đạm....
+   Lifestyle - Cách “đu trend” tạo ảnh đại diện bằng AI trên Tik Tok
+
+Cách “đu trend” tạo ảnh đại diện bằng AI trên Tik Tok
+
+   Với ảnh đại diện được tạo bằng AI, trang cá nhân của chị em sẽ trở nên
+   thú vị hơn.
+   Lifestyle - Muốn hoài cổ cùng phong cách vintage, hãy chọn ngay những
+   app chỉnh ảnh hot trend này
+
+Muốn hoài cổ cùng phong cách vintage, hãy chọn ngay những app chỉnh ảnh hot
+trend này
+
+   Chỉ cần tải app và vài thao tác đơn giản trên điện thoại là bạn sẽ có
+   ngay những bức ảnh vintage hoài cổ.
+
+Tin bài cùng chủ đề Women Tech
+
+   Trải nghiệm nồi cơm điện cao tần Joyoung JNRC-401: Chống dính tự nhiên,
+   cơm siêu ngon
+
+Trải nghiệm nồi cơm điện cao tần Joyoung JNRC-401: Chống dính tự nhiên, cơm
+siêu ngon
+
+   Nồi cơm điện cao tần chống dính tự nhiên Joyoung JNRC-401 nổi bật với
+   thiết kế sang trọng đi cùng rất nhiều chức năng nấu tiện lợi.
+   ChatGPT "mất trí nhớ" tạm thời và cách xử lý
+
+ChatGPT "mất trí nhớ" tạm thời và cách xử lý
+
+   iPhone 18 Pro sẽ có ba màu hoàn toàn mới cực "hot"
+
+iPhone 18 Pro sẽ có ba màu hoàn toàn mới cực "hot"
+
+   Cách xử lý khi phát hiện dữ liệu cá nhân bị rò rỉ
+
+Cách xử lý khi phát hiện dữ liệu cá nhân bị rò rỉ
+
+   Bảng giá iPhone 17, iPhone Air, iPhone 17 Pro và 17 Pro Max tại Việt
+   Nam
+
+Bảng giá iPhone 17, iPhone Air, iPhone 17 Pro và 17 Pro Max tại Việt Nam
+
+   Apple công bố iPhone 17, iPhone Air, AirPods Pro 3 và loạt Apple Watch
+   mới
+
+Apple công bố iPhone 17, iPhone Air, AirPods Pro 3 và loạt Apple Watch mới
+
+Tin hay đừng bỏ lỡ
+
+   Thèm phở trộn, đến ngay 6 quán ngon nức tiếng phố cổ Hà Nội, ngồi ăn
+   vỉa hè giá cả bình dân
+
+Thèm phở trộn, đến ngay 6 quán ngon nức tiếng phố cổ Hà Nội, ngồi ăn vỉa hè
+giá cả bình dân
+
+   Loài cá mang tên một loại củ xưa dành cho nhà nghèo, nay thành đặc sản
+   dân thành phố ưa chuộng, có tiền cũng khó mua
+
+Loài cá mang tên một loại củ xưa dành cho nhà nghèo, nay thành đặc sản dân
+thành phố ưa chuộng, có tiền cũng khó mua
+
+   4 loài côn trùng độc lạ được giới thú cưng săn lùng: Có con bé xíu giá
+   2 tỷ đồng vẫn hút khách
+
+4 loài côn trùng độc lạ được giới thú cưng săn lùng: Có con bé xíu giá 2 tỷ
+đồng vẫn hút khách
+
+   Loài cá có mùi thơm lạ kỳ xưa chẳng ai biết, nay thành đặc sản vì quá
+   khó nuôi
+
+Loài cá có mùi thơm lạ kỳ xưa chẳng ai biết, nay thành đặc sản vì quá khó
+nuôi
+
+   Việt Nam có một điểm đến đứng đầu xu hướng du lịch năm 2026, là "thiên
+   đường nghỉ dưỡng" mùa thu đông ít tốn kém nhất
+
+Việt Nam có một điểm đến đứng đầu xu hướng du lịch năm 2026, là "thiên đường
+nghỉ dưỡng" mùa thu đông ít tốn kém nhất
+
+   6 địa điểm ăn vặt "đỉnh" nhất TP HCM, menu toàn món ngon đặc sản, cầm
+   100.000 đồng là ấm bụng
+
+6 địa điểm ăn vặt "đỉnh" nhất TP HCM, menu toàn món ngon đặc sản, cầm 100.000
+đồng là ấm bụng
+
+   Tin tức thị trường
+   Lat Valley Đà Lạt - Thung lũng xanh cho hẹn ước tình yêu
+
+   Lat Valley Đà Lạt - Thung lũng xanh cho hẹn ước tình yêu
+   Nỗi đau của những đứa trẻ không tiếng nói
+
+Nỗi đau của những đứa trẻ không tiếng nói
+
+   Làn sóng phẫn nộ đang lan rộng khi phóng sự về hành vi bạo hành trẻ em
+   tại Mái ấm Hoa Hồng được công...
+   Caramel mùa hè
+
+Caramel mùa hè
+
+   Đề Kháng Vững Vàng Friend Of Mom Tra cứu 34 tỉnh/thành Việt Nam KHI EVA
+       19
+
+   Clip Eva
+   Clip Eva - CSGT Hà Nội mở đường khẩn cấp, hỗ trợ xe chở sản phụ đến
+   bệnh viện an toàn
+
+   CSGT Hà Nội mở đường khẩn cấp, hỗ trợ xe chở sản phụ đến bệnh viện an
+   toàn
+   Clip Eva - Chính thức tăng thời gian nghỉ thai sản, hỗ trợ tài chính
+   khi sinh con thứ 2
+
+   Chính thức tăng thời gian nghỉ thai sản, hỗ trợ tài chính khi sinh con
+   thứ 2
+   Clip Eva - Dập tắt kịp thời đám cháy nhà dân trên phố Lò Đúc
+
+   Dập tắt kịp thời đám cháy nhà dân trên phố Lò Đúc
+   Clip Eva - 3 con giáp nữ healthy nhất: Sống khỏe, đẹp tự nhiên, rạng rỡ
+   mỗi ngày
+
+   3 con giáp nữ healthy nhất: Sống khỏe, đẹp tự nhiên, rạng rỡ mỗi ngày
+   Clip Eva - 3 món cá nướng nóng hổi, thơm phức, ăn đến đâu đã người đến
+   đó
+
+   3 món cá nướng nóng hổi, thơm phức, ăn đến đâu đã người đến đó
+   Clip Eva - 3 loại cây là "khắc tinh" của bụi mịn, nhà nào cũng nên
+   trồng ngay
+
+   3 loại cây là "khắc tinh" của bụi mịn, nhà nào cũng nên trồng ngay
+
+Chia sẻ thông tin hữu ích
+
+     * Facebook
+     * Facebook
+       Messenger
+     * Zalo
+     * X
+     * Telegram
+
+   Copy link
+     * Trang chủ
+     * Giới thiệu
+     * Góp ý
+     * Đầu trang
+     * Báo giá quảng cáo
+     * Chính sách bảo mật
+
+     * Tin tức
+          + Giáo dục
+          + Tin nóng trong...
+     * Giải trí
+          + Sao Việt
+          + TV Show
+     * Sức khỏe
+          + Tin bệnh phụ nữ
+          + Tin bệnh trẻ em
+     * Đẹp
+          + Dưỡng da
+          + Trang điểm
+     * Yêu con
+          + Nuôi con
+          + Dạy con
+     * Bà bầu
+          + Cuộc sống mẹ bầu
+          + Chuẩn bị mang thai
+     * Eva tám
+          + Chạm
+          + Eva làm
+     * Thời trang
+          + Tư vấn mặc đẹp
+          + U30 - U40
+
+   Chia sẻ
+   icon eva
+
+   Ý KIẾN BẠN ĐỌC
+
+   bandoc@eva.vn
+
+   Eva.vn hi vọng sẽ nhận được nhiều đóng góp và tâm sự từ quý độc giả
+
+   Theo dõi Eva.vn trên:
+   facebook youtube tiktok
+
+   TRỤ SỞ HÀ NỘI
+
+   Tầng 16, Toà nhà Geleximco, 36 Hoàng Cầu, Phường Ô chợ Dừa, Tp. Hà Nội.
+
+   Điện thoại: 0247 300 2424
+
+   VĂN PHÒNG ĐẠI DIỆN TP.HỒ CHÍ MINH
+
+   Tầng 7 - Toà nhà Việt Úc - 402 Nguyễn Thị Minh Khai, Phường Bàn Cờ, Tp.
+   Hồ Chí Minh
+
+   CHỊU TRÁCH NHIỆM QUẢN LÝ NỘI DUNG
+
+   Bà Nguyễn Hồng Thuý
+
+   HỢP TÁC TRUYỀN THÔNG
+
+   marketing@eva.vn
+
+   LIÊN HỆ QUẢNG CÁO
+
+   0903 288 624
+
+   thông tin footer eva
+
+   Công ty TNHH Công nghệ và Quảng cáo Trực tuyến EVA
+
+   Tầng 16, Toà nhà Geleximco, 36 Hoàng Cầu, Phường Ô chợ Dừa, Tp. Hà Nội.
+
+   Giấy phép số: 151/GP-STTTT ngày cấp 07/11/2024. SỞ THÔNG TIN VÀ TRUYỀN
+   THÔNG TP HÀ NỘI

@@ -1,0 +1,101 @@
+   HTTP/2 200 accept-ranges: bytes access-control-allow-origin: * server:
+   Universe date: Wed, 10 Dec 2025 12:34:50 GMT x-cache-status: MISS age:
+   0 content-type: text/html; charset=utf-8 vary: Accept-Encoding
+   x-powered-by: Next.js cache-control: Private
+
+   ____________________ (BUTTON)
+   (BUTTON)
+     *
+
+Nóng
+     *
+
+Mới
+       100
+     *
+
+VIDEO
+     *
+
+CHỦ ĐỀ
+     * (BUTTON)
+
+     * Bóng đá
+     * Tiện ích
+          + Kết quả xổ số
+          + Giá vàng hôm nay
+          + Thời tiết
+          + Lịch âm
+
+   Văn hóa
+
+Lễ trao giải Happy Vietnam 2025: Vinh danh hình ảnh Việt Nam
+
+   Báo Lâm Đồng (BUTTON)
+   06/12/202520 liên quanGốc
+
+Lễ trao giải 'Happy Vietnam 2025' sẽ được truyền hình trực tiếp lúc 20h trên
+VTV4, vinh danh các tác phẩm ảnh và video lan tỏa hình ảnh tích cực về Việt
+Nam.
+
+   Vào 20h tối nay (6/12), Lễ trao Giải thưởng truyền thông về quyền con
+   người 'Việt Nam Hạnh phúc - Happy Vietnam 2025' sẽ được truyền hình
+   trực tiếp trên kênh VTV4, cũng như trên website và ứng dụng của kênh
+   Vietnam Today.
+   (BUTTON)
+
+   Lan tỏa hình ảnh tích cực về Việt Nam
+
+   Đây là giải thưởng truyền thông thường niên do Bộ Văn hóa, Thể thao và
+   Du lịch phối hợp cùng Hội nghệ sĩ nhiếp ảnh Việt Nam và Đài Truyền hình
+   Việt Nam tổ chức. Mục tiêu của giải thưởng là huy động sự tham gia của
+   người dân trong nước, kiều bào ở nước ngoài và bạn bè quốc tế vào việc
+   sáng tác các tác phẩm ý nghĩa về chủ đề 'Việt Nam hạnh phúc'.
+
+   Sự kiện này cũng nhằm quảng bá truyền thống văn hóa, lịch sử và những
+   thành tựu phát triển kinh tế - xã hội của đất nước, góp phần nâng cao
+   vị thế quốc gia trên trường quốc tế. Theo báo cáo, năm 2025, Việt Nam
+   đã tăng 8 bậc so với năm 2024 và 19 bậc so với năm 2023, xếp thứ 46 thế
+   giới về chỉ số hạnh phúc. Đây là sự ghi nhận của cộng đồng quốc tế đối
+   với những nỗ lực bảo đảm quyền con người của Việt Nam.
+
+   Cơ cấu giải thưởng và tiêu chí
+
+   Giải thưởng bao gồm hai hạng mục chính là ảnh và video. Các tác phẩm dự
+   thi cần giới thiệu và quảng bá hình ảnh đất nước, con người, các giá
+   trị văn hóa và thiên nhiên Việt Nam, đồng thời khơi dậy niềm tự hào dân
+   tộc và khát vọng phát triển.
+
+   Trong Lễ trao giải, Ban tổ chức sẽ vinh danh các tác phẩm xuất sắc ở
+   mỗi hạng mục, bao gồm:
+
+   1 giải Nhất
+   2 giải Nhì
+   3 giải Ba
+   10 giải Khuyến khích
+   1 giải Tác phẩm được bình chọn nhiều nhất
+
+   Ngoài ra, một giải thưởng sáng tạo trị giá 20.000.000 đồng sẽ được trao
+   cho mỗi hạng mục (ảnh và video) dành cho các tác phẩm có ý tưởng mới,
+   sáng tạo về nội dung và hình thức thể hiện.
+
+   CTVX
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON)
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON)
+     * Bộ Văn hóa, Thể thao và Du lịch
+
+     * Happy Vietnam 2025
+     * VTV4
+     * Việt Nam Hạnh
+     * vinh danh
+     * Vietnam Today
+     * truyền hình trực tiếp
+     * lễ trao giải
+     * về Việt Nam
+     * Hội Nghệ sĩ Nhiếp ảnh Việt Nam
+     * kiều bào ở nước ngoài
+
+   Nguồn Lâm Đồng:
+   https://baolamdong.vn/le-trao-giai-happy-vietnam-2025-vinh-danh-hinh-an
+   h-viet-nam-408534.html

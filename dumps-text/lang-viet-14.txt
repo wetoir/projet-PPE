@@ -1,0 +1,24 @@
+   HTTP/1.1 302 Moved Temporarily server: openresty date: Wed, 10 Dec 2025
+   18:05:07 GMT content-type: text/html content-length: 142 location:
+   http://c.cafef.vn/sorry?continue=http%3A//cafef.vn/mot-don-vi-van-dung-
+   hinh-anh-hoa-hau-thuy-tien-de-quang-cao-188250627070907115.chn
+   filterid: ft HTTP/1.1 200 OK date: Wed, 10 Dec 2025 18:05:08 GMT
+   content-type: text/html; charset=UTF-8 content-length: 2210
+   x-xss-protection: 1; mode=block x-content-type-options: nosniff
+   content-security-policy: script-src 'self' server: cf-captcha
+   cache-control: private x-frame-options: DENY connection: close
+
+   [cafef_logo.png]
+
+   CAFEF KÍNH BÁO:
+
+   Để đảm bảo máy tính của quý bạn đọc không bị đối tượng xấu lợi dụng làm
+   công cụ tấn công từ chối dịch vụ (DDoS) vào Cafef, chúng tôi đề nghị
+   bạn đọc vui lòng điền vào ô trống những ký tự xuất hiện trong hình ảnh
+   bên cạnh thông báo này.
+
+   Xin trân trọng cảm ơn!
+
+   Lấy mã mới ____________________
+
+   (BUTTON) Tiếp tục

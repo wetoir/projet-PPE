@@ -1,0 +1,92 @@
+   HTTP/2 200 date: Mon, 08 Dec 2025 10:08:23 GMT server: Apache
+   cache-control: max-age=86400, public x-drupal-dynamic-cache: MISS
+   content-language: fr x-frame-options: SAMEORIGIN expires: Sun, 19 Nov
+   1978 05:00:00 GMT vary: Cookie,Accept-Encoding x-generator: Drupal 10
+   (https://www.drupal.org) x-drupal-cache: HIT last-modified: Mon, 08 Dec
+   2025 10:08:19 GMT etag: "1765188499" content-type: text/html;
+   charset=UTF-8 x-content-type-options: nosniff referrer-policy:
+   no-referrer-when-downgrade set-cookie:
+   WEBSRVID=eddv-acti-mutu-front-2.eolas-services.com; path=/
+   cache-control: private #alternate alternate alternate alternate
+   alternate alternate alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-KPLBQZS
+
+     * Aller au menu
+     * Aller au contenu
+     * Aller au footer
+
+   Logo acti (BUTTON)
+     * (BUTTON)
+     * Choisir la langue [FR]
+
+     * Accueil
+     * Nos produits
+     * Nos points de vente
+     * Conseils techniques
+     * Certified Print Lab
+     * À propos
+
+   Contact
+   (BUTTON)
+
+   Effectuer une recherche
+   Saisissez vos mots-clés ____________________ (BUTTON) Rechercher
+
+   [07_header_A_propos_0.jpg]
+
+   ©Gurvir Johal
+
+   ©Tommy Lei
+   [07_header_A_propos_1.jpg]
+
+   ©Gurvir Johal
+
+   Contact
+
+   Accueil
+   Questions et conseils sur les supports d'impression et de reproduction
+   Qu’est-ce que la "résolution" d’une image ?
+
+Qu’est-ce que la "résolution" d’une image ?
+
+   La résolution d'une image est le nombre de pixels par pouce qu'elle
+   contient (1 pouce = 2.54 centimètres). Elle est exprimée en "PPP"
+   (points par pouce) ou DPI (dots per inch). Plus il y a de pixels (ou
+   points) par pouce et plus il y aura d'information dans l'image (plus
+   précise). Par exemple, une résolution de 300dpi signifie que l'image
+   comporte 300 pixels dans sa largeur et 300 pixels dans sa hauteur, elle
+   est donc composée de 90 000 pixels (300x300 ppp). Grâce à cette
+   formule, il est facile de connaître la dimension maximale d'un tirage.
+   Il est généralement admis qu'une résolution de 300 ppp pour une image
+   est largement suffisante avant impression. Cette résolution peut-être
+   revue à la baisse dans le cas d'impressions devant être visualisées à
+   une distance plus ou moins éloignée de l'observateur (par conséquent
+   liée au pouvoir séparateur de l'oeil humain).
+   Retour FAQ
+
+   Logo Canson Infinity
+
+     * Nos sites
+          + Canson®
+          + Groupe F.I.L.A.
+     * Liens utiles
+          + Agenda
+          + Trouver un profil ICC
+          + Conseils techniques
+          + Site de fabrication
+          + Ambassadeurs
+     * À propos
+          + Notre histoire
+     * Réseaux sociaux
+          + Facebook
+          + Instagram
+          + Youtube
+     * Newsletter
+          + Inscrivez-vous !
+
+     * All rights reserved CANSON 2025
+     * Mentions légales et Politique de Confidentialité
+     * Réglages de cookies
+
+   Texte alternatif

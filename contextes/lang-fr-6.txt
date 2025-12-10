@@ -1,0 +1,17 @@
+   Accueil
+   Questions et conseils sur les supports d'impression et de reproduction
+   Qu’est-ce que la "résolution" d’une image ?
+
+Qu’est-ce que la "résolution" d’une image ?
+
+   La résolution d'une image est le nombre de pixels par pouce qu'elle
+   contient (1 pouce = 2.54 centimètres). Elle est exprimée en "PPP"
+   (points par pouce) ou DPI (dots per inch). Plus il y a de pixels (ou
+   points) par pouce et plus il y aura d'information dans l'image (plus
+   précise). Par exemple, une résolution de 300dpi signifie que l'image
+   comporte 300 pixels dans sa largeur et 300 pixels dans sa hauteur, elle
+   est donc composée de 90 000 pixels (300x300 ppp). Grâce à cette
+   formule, il est facile de connaître la dimension maximale d'un tirage.
+   Il est généralement admis qu'une résolution de 300 ppp pour une image
+   est largement suffisante avant impression. Cette résolution peut-être
+   revue à la baisse dans le cas d'impressions devant être visualisées à

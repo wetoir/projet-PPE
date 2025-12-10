@@ -1,0 +1,480 @@
+   HTTP/2 200 content-type: text/html; charset=utf-8
+   belfrage-cache-status: MISS bid: sally brequestid:
+   daa74e61e71547369209326d3bea61fc bsig: a4c5d1c6e9e525dd312556862ceadd5a
+   cache-control: public, stale-if-error=90, stale-while-revalidate=30,
+   max-age=90 content-security-policy: default-src 'self' *.bbc.co.uk
+   *.bbc.com *.bbci.co.uk *.bbci.com
+   https://*.googlesyndication.com;child-src 'self';connect-src
+   https:;font-src *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com data:
+   https://*.teads.tv https://cdnjs.cloudflare.com/ajax/libs/font-awesome/
+   https://fonts.gstatic.com;frame-src 'self' *.bbc.co.uk *.bbc.com
+   *.bbci.co.uk *.bbci.com https://*.amazon-adsystem.com
+   https://*.chartbeat.com https://*.doubleclick.net
+   https://*.facebook.com https://*.google.com
+   https://*.googleadservices.com https://*.googlesyndication.com
+   https://*.mapcreator.io https://*.teads.tv https://*.thomsonreuters.com
+   https://*.twitter.com https://bbc-maps.carto.com https://bbc.com
+   https://cdn.privacy-mgmt.com https://chartbeat.com
+   https://edigitalsurvey.com https://flo.uri.sh
+   https://public.flourish.studio https://www.instagram.com
+   https://www.riddle.com https://www.tiktok.com
+   https://www.youtube-nocookie.com https://www.youtube.com;img-src
+   *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com data: 'self'
+   https://*.adsafeprotected.com https://*.amazon-adsystem.com
+   https://*.cdninstagram.com https://*.doubleclick.net
+   https://*.effectivemeasure.net https://*.google.com
+   https://*.googlesyndication.com https://*.googleusercontent.com
+   https://*.gstatic.com https://*.imrworldwide.com https://*.teads.tv
+   https://*.tiktokcdn.com https://*.twimg.com https://*.twitter.com
+   https://*.xx.fbcdn.net https://i.ytimg.com https://ping.chartbeat.net
+   https://sb.scorecardresearch.com
+   https://www.googleadservices.com;script-src 'self' 'unsafe-inline'
+   *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com
+   https://*.adsafeprotected.com https://*.amazon-adsystem.com
+   https://*.chartbeat.com https://*.covatic.io https://*.doubleverify.com
+   https://*.effectivemeasure.net https://*.facebook.com
+   https://*.g.doubleclick.net https://*.google.ae https://*.google.at
+   https://*.google.az https://*.google.be https://*.google.ca
+   https://*.google.ch https://*.google.cl https://*.google.co.id
+   https://*.google.co.il https://*.google.co.in https://*.google.co.jp
+   https://*.google.co.kr https://*.google.co.nz https://*.google.co.tz
+   https://*.google.co.ve https://*.google.com https://*.google.com.af
+   https://*.google.com.ar https://*.google.com.au https://*.google.com.bo
+   https://*.google.com.br https://*.google.com.co https://*.google.com.cy
+   https://*.google.com.ec https://*.google.com.eg https://*.google.com.gt
+   https://*.google.com.hk https://*.google.com.kh https://*.google.com.mm
+   https://*.google.com.mt https://*.google.com.mx https://*.google.com.ng
+   https://*.google.com.ni https://*.google.com.np https://*.google.com.pe
+   https://*.google.com.pk https://*.google.com.pr https://*.google.com.py
+   https://*.google.com.ro https://*.google.com.sa https://*.google.com.sg
+   https://*.google.com.sv https://*.google.com.tr https://*.google.com.tw
+   https://*.google.com.ua https://*.google.com.uy https://*.google.com.vn
+   https://*.google.cv https://*.google.cz https://*.google.de
+   https://*.google.dk https://*.google.es https://*.google.fi
+   https://*.google.fr https://*.google.ge https://*.google.hn
+   https://*.google.ie https://*.google.iq https://*.google.it
+   https://*.google.jo https://*.google.kz https://*.google.lk
+   https://*.google.lv https://*.google.nl https://*.google.no
+   https://*.google.pl https://*.google.ru https://*.google.se
+   https://*.google.so https://*.googlesyndication.com
+   https://*.imrworldwide.com https://*.mapcreator.io
+   https://*.permutive.com https://*.teads.tv https://*.thomsonreuters.com
+   https://*.twimg.com https://*.twitter.com
+   https://*.webcontentassessor.com https://*.xx.fbcdn.net
+   https://adservice.google.co.uk https://bbc.gscontxt.net
+   https://cdn.ampproject.org https://cdn.privacy-mgmt.com
+   https://connect.facebook.net https://lf16-tiktok-web.ttwstatic.com
+   https://public.flourish.studio https://sb.scorecardresearch.com
+   https://www.googletagservices.com https://www.instagram.com
+   https://www.riddle.com https://www.tiktok.com;style-src 'unsafe-inline'
+   *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com https://*.twimg.com
+   https://*.twitter.com https://*.xx.fbcdn.net
+   https://fonts.googleapis.com
+   https://lf16-tiktok-web.ttwstatic.com;media-src https: blob:;worker-src
+   blob: 'self' *.bbc.co.uk *.bbc.com;report-to
+   worldsvc;upgrade-insecure-requests; report-to:
+   {"group":"worldsvc","max_age":2592000,"endpoints":[{"url":"https://ws.b
+   bc-reporting-api.app/report-endpoint","priority":1}],"include_subdomain
+   s":true} req-svc-chain: FASTLY,GTM,BELFRAGE,SIMORGH via: 1.1 BBC-GTM,
+   1.1 Belfrage, 1.1 varnish x-frame-options: DENY origin-agent-cluster:
+   ?0 nel:
+   {"report_to":"default","max_age":2592000,"include_subdomains":true,"fai
+   lure_fraction":0.25} x-bbc-edge-cache-status: MISS
+   x-bbc-origin-response-status: 200 report-to:
+   {"group":"default","max_age":2592000,"endpoints":[{"url":"https://defau
+   lt.bbc-reporting-api.app/report-endpoint","priority":1}],"include_subdo
+   mains":true} server: BBC-GTM strict-transport-security:
+   max-age=31536000; preload x-robots-tag: bingbot: noarchive
+   fastly-restarts: 1 accept-ranges: bytes date: Wed, 10 Dec 2025 18:05:34
+   GMT x-fastly-cache-status: MISS-CLUSTER x-served-by:
+   cache-par-lfpb1150045-PAR x-cache: MISS x-cache-hits: 0 x-timer:
+   S1765389934.753490,VS0,VE318 x-fastly-pre-flight-cache: MISS, HIT
+   x-fastly-pre-flight-cache-status: HIT-CLUSTER x-cache-age: 0
+   x-lb-nocache: true vary: X-BBC-Edge-Scheme,Accept-Encoding alt-svc:
+   h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+   content-length: 319224 #alternate
+
+   BBC News, Tiếng ViệtBỏ qua để xem nội dung
+
+   (BUTTON) Mục
+     * Tin chính
+     * Việt Nam
+     * Thế giới
+     * Kinh tế
+     * Thể thao
+     * Video
+
+     * Tin chính
+     * Việt Nam
+     * Thế giới
+     * Kinh tế
+     * Thể thao
+     * Video
+
+Hàng loạt nghệ sĩ Việt bị công kích vì 'chuyện cờ vàng'
+
+   Ca sĩ Phan Đinh Tùng, ca sĩ Myra Trần
+
+   Nguồn hình ảnh, Facebook nhân vật
+   Chụp lại hình ảnh, Ca sĩ Phan Đinh Tùng, ca sĩ Myra Trần
+   24 tháng 8 2024
+
+   Nhiều cá nhân và hội nhóm Việt Nam trên mạng xã hội đang lên tiếng đòi
+   tẩy chay một số nghệ sĩ Việt Nam khi có những hình ảnh cho thấy các
+   nghệ sĩ này từng biểu diễn trên sân khấu có sự xuất hiện của lá cờ vàng
+   ba sọc đỏ.
+
+   Lá cờ của chế độ Việt Nam Cộng hòa đến nay vẫn được nhiều cộng đồng
+   người Việt hải ngoại sử dụng, nhưng lại là nỗi ám ảnh của chính quyền
+   Việt Nam do Đảng Cộng sản lãnh đạo.
+
+   Ca sĩ Phan Đinh Tùng và ca sĩ Phạm Khánh Hưng - những người đang tham
+   gia chương trình truyền hình Anh trai vượt ngàn chông gai - là hai
+   trong số các mục tiêu mới nhất của những lời kêu gọi tẩy chay vì
+   "chuyện cờ vàng".
+
+   Nguyên nhân đến từ việc có người phát hiện một số video quay cảnh những
+   nghệ sĩ này biểu diễn tại sân khấu có sự xuất hiện của lá cờ vàng ba
+   sọc đỏ ở Mỹ.
+
+   Theo báo Công Thương - cơ quan ngôn luận của Bộ Công Thương - ca sĩ
+   Phạm Khánh Hưng xuất hiện chung sân khấu với "đối tượng thường có những
+   lời nói, phát ngôn nhạy cảm về chính trị" - được cho là ông Trương Quốc
+   Huy, chủ kênh YouTube N10Tv thường đăng tải các nội dung chỉ trích
+   chính quyền Việt Nam.
+
+   Báo Công Thương cũng cho rằng hình ảnh biểu diễn của ca sĩ Phan Đinh
+   Tùng gây phẫn nộ, khiến cộng đồng mạng "vô cùng bức xúc và đòi tẩy
+   chay".
+
+   Hai nghệ sĩ đã đăng tải lên trang mạng xã hội của mình lời giải thích
+   và xin lỗi.
+   Lời giải thích và xin lỗi của hai ca sĩ Phạm Khánh Hưng, Phan Đinh Tùng
+
+   Nguồn hình ảnh, Ảnh chụp màn hình
+   Chụp lại hình ảnh, Lời giải thích và xin lỗi của hai ca sĩ Phạm Khánh
+   Hưng, Phan Đinh Tùng
+
+'Phong sát'
+
+   Vào tối 22/8, trang Facebook Tifosi (có gần 300.000 người theo dõi)
+   viết như sau:
+
+   Skip Đọc nhiều nhất and continue reading
+   Đọc nhiều nhất
+     * Cảnh sát di trú đang thực hiện một chiến dịch truy quét nhập cư bất
+       hợp pháp tại Chicago (trái); bà Melissa Tran (phải)
+       Vụ chính quyền Trump trục xuất bà Melissa Trần phơi bày bi kịch của
+       người Việt nhập cư
+     * Lễ khai mạc Sea Games 33 ở Bangkok, Thái Lan SEA Games 33:
+       Campuchia bỏ giải; Việt Nam lên tiếng về bản đồ 'thiếu Hoàng Sa,
+       Trường Sa và Phú Quốc'
+     * Theo Khmer Times, một chiếc máy bay F16 của Thái Lan bay qua lãnh
+       thổ Campuchia vào ngày 10/12/2025
+       Giao tranh Thái Lan - Campuchia leo thang, căng thẳng chưa có hồi
+       kết
+     * Luật sửa đổi cho phép công an yêu cầu cơ quan báo chí tiết lộ nguồn
+       tin
+       Việt Nam sửa luật: Mở rộng phạm vi bí mật nhà nước, công an có
+       quyền yêu cầu báo chí tiết lộ nguồn tin
+
+   End of Đọc nhiều nhất
+
+   "Cũng ở Việt Nam, không ít ca sĩ vì tiền bạc (chắc chắn là ít hơn tiền
+   kiếm được ở Việt Nam) mà chấp nhận biểu diễn đứng dưới lá cờ vàng ba
+   sọc đỏ, không những một lần mà còn là nhiều lần.
+
+   Là người Việt Nam chân chính, tuyệt đối không thể chọn lợi ích cá nhân
+   mà chà đạp lên lợi ích, danh dự của dân tộc, đất nước."
+
+   Tifosi được biết đến là trang Facebook chuyên đả phá những hành động mà
+   theo họ là trái với quan điểm của Đảng Cộng sản Việt Nam.
+   Hình ảnh ca sĩ Phan Đinh Tùng biểu diễn trên sân khấu có cờ vàng ba
+   sọc, khi lên báo Công Thương đã bị gạch chéo (ảnh nhỏ)
+   Chụp lại hình ảnh, Hình ảnh ca sĩ Phan Đinh Tùng biểu diễn trên sân
+   khấu có cờ vàng ba sọc, khi lên báo Công Thương đã bị gạch chéo (ảnh
+   nhỏ)
+
+   Phạm Khánh Hưng và Phan Đình Tùng không phải là các trường hợp nghệ sĩ
+   đầu tiên gặp phải rắc rối do liên quan đến lá cờ vàng.
+
+   Hồi tháng 7/2024, hình ảnh nữ ca sĩ Myra Trần hát trong một đám tang có
+   lá cờ vàng trở nên phổ biến trên mạng xã hội. Cô nhanh chóng hứng chịu
+   làn sóng "phẫn nộ" đòi tẩy chay của cộng đồng mạng.
+
+   Đài Tiếng nói Nhân dân TP HCM (VOH) hôm 28/7 đưa tin Myra Trần đã bị
+   cắt sóng trên sóng chương trình "Anh trai say hi" - một chương trình
+   cũng đang phổ biến với khán giả Việt Nam.
+
+   VOH cho hay nguyên nhân đến từ "những ồn ào đời tư gần đây" của nữ ca
+   sĩ.
+
+   Hôm 15/8, Myra Trần đăng lên trang Facebook của mình lời xin lỗi đến
+   khán giả Việt Nam vì "không tìm hiểu cẩn thận và tham gia vào những
+   chương trình không phù hợp".
+
+   Trước đó, vào ngày 28/5, Công an TP HCM đã có buổi làm việc với Nhạc
+   viện TP HCM liên quan đến vụ ca sĩ Ngọc Mai (tên đầy đủ Lê Như Ngọc
+   Mai, thường gọi là O Sen Ngọc Mai) đăng tải video có hình ảnh cờ vàng
+   ba sọc đỏ.
+
+   Hiện nay, các nhóm trên Facebook chuyên bàn tán về giới giải trí Việt
+   Nam như "Bí Mật Showbiz Group" với khoảng một triệu thành viên hay với
+   quy mô nhỏ hơn như "Hội phong sát Việt Nam" (hơn 4.000 thành viên),
+   liên tục xuất hiện những bài đăng về các nghệ sĩ Việt Nam bị cho là
+   liên quan tới các hình ảnh của VNCH khi hoạt động nghệ thuật ở hải
+   ngoại như Việt Hương, Trấn Thành hay Khải Đăng.
+
+   Không khí sục sôi được nhiều nhà quan sát đánh giá là "như săn phù
+   thủy".
+
+   "Phong sát" là cụm từ thường xuất hiện trong giới giải trí Trung Quốc
+   khi nước này cấm sóng, phạt nghệ sĩ vì bê bối đời tư hoặc "lệch chuẩn".
+   Các trường hợp nổi bật có thể kể tới là Trịnh Sảng và Lưu Diệc Phàm.
+
+   "Phong sát" cũng từng được các quan chức phụ trách văn hóa Việt Nam đề
+   cập như một hình thức trừng phạt các nghệ sĩ "lệch chuẩn". Giờ đây, khi
+   các cuộc "truy vết" nghệ sĩ đang diễn ra khốc liệt, những lời kêu gọi
+   "phong sát" cũng được đưa ra.
+
+   Trước làn sóng phản ứng của một số cá nhân và hội nhóm, dù là đối với
+   hình ảnh của nhiều năm trước, nữ ca sĩ Tóc Tiên và nữ nghệ sĩ hài Việt
+   Hương đã phải lên tiếng phân bua trên trang Facebook có hàng triệu lượt
+   theo dõi của mình vào hôm 23/8.
+
+   Việt Hương cho biết hình ảnh đang được lan truyền gần đây của cô là
+   trong một chương trình ngắn cô đã tham gia hơn mười năm trước. Tóc Tiên
+   cũng nói "những sai sót trong quá khứ" của cô đã xảy ra "hơn 10 năm
+   trước".
+
+   Cả Phạm Khánh Hưng, Phan Đinh Tùng, Myra Trần, Việt Hương và Tóc Tiên
+   đều khẳng định mình tự hào là người Việt Nam, không có ý định chống phá
+   nhà nước và mong khán giả tha thứ.
+
+   Trả lời BBC News Tiếng Việt ngày 24/8, ông Vũ Quí Hạo Nhiên, Giáo sư
+   toán, người dẫn chương trình Đài Little Saigon TV ở bang California,
+   Mỹ, đánh giá:
+
+   "Hiện tượng này có bề sâu của nó, và có lẽ vì vậy mà mọi người mới phản
+   ứng rất nhanh như vậy. Một mặt, hiện tượng này cho thấy có những nghệ
+   sĩ rất yếu bóng vía, rất dễ bị sợ những thứ dư luận vu vơ. Nhưng mặt
+   khác, cũng phải biết là xã hội chung quanh nó phải làm sao mới đẻ ra
+   những người sợ bóng sợ gió như vậy. Nó làm tôi liên tưởng đến thời sau
+   Nhân Văn Giai Phẩm, hay thời Cách mạng Văn hóa ở Trung Quốc, khi ai
+   cũng phải sợ hồng vệ binh.
+
+   "Tiếng Anh có cụm từ 'canary in the coal mine' có nghĩa là việc gì đó
+   báo hiệu một mối nguy ở trước. Ngày xưa người ta đem con chim xuống mỏ
+   để nếu có khí độc thì nó chết trước. Tôi sợ rằng những hiện tượng yếu
+   bóng vía này là một thứ "canary in the coal mine' báo hiệu chính quyền
+   Việt Nam đang trở lại siết chặt tự do ngôn luận kiểu thập niên 1970,
+   song song với những việc như bắt tù nhà báo Huy Đức và một tướng công
+   an lên nắm quyền."
+
+Biểu tượng cấm kỵ
+
+   Đồng hai đô la Úc có hình ảnh cờ Việt Nam Cộng Hòa
+
+   Nguồn hình ảnh, aussiecoinsandnotes.com
+   Chụp lại hình ảnh, Đồng hai đô la Úc có hình ảnh cờ Việt Nam Cộng hòa
+
+   Đã gần 50 năm trôi qua kể từ khi chính thể Việt Nam Cộng hòa sụp đổ.
+
+   Tuy nhiên, với chính quyền do Đảng Cộng sản Việt Nam lãnh đạo hiện nay,
+   các biểu tượng Việt Nam Cộng hòa vẫn là điều cấm kỵ.
+
+   Ngày 4/5/2023, Bộ Ngoại giao Việt Nam đã yêu cầu phía Úc dừng lưu hành
+   đồng tiền lưu niệm hai đô la Úc có in hình cờ vàng ba sọc do Công ty
+   Royal Australia Mint và Bưu chính Úc phát hành.
+
+   Năm 2018, Tòa án tỉnh An Giang xử tù bốn người về tội "Tuyên truyền
+   chống Nhà nước", trong đó có việc treo lá cờ Việt Nam Cộng hòa.
+
+   Báo chí do nhà nước quản lý luôn phải kiểm soát chặt để không lọt các
+   hình ảnh có cờ vàng ba sọc đỏ lên trang báo, dù đó là trong bản tin về
+   một cuộc vận động tranh cử ở Mỹ hay một trận bóng đá ở châu Âu.
+
+   Ở các di tích liên quan đến Việt Nam Cộng hòa, cờ vàng trên các hiện
+   vật lịch sử (như máy bay, xe,…) cũng bị gạch chéo, chẳng hạn tại Dinh
+   Độc Lập.
+
+   Trong các nội dung giáo dục và tuyên truyền của chính quyền đối với
+   người dân, đặc biệt là học sinh, sinh viên, lá cờ này là đối tượng cần
+   bị bài xích, phủ nhận.
+
+   Điều đó đã hình thành một tâm lý “dị ứng”, thù ghét hoặc cảnh giác ở
+   một bộ phận người dân khi thấy hình ảnh lá cờ vàng ba sọc đỏ, theo đánh
+   giá của một nhà quan sát tại Sài Gòn.
+
+   Trên mạng xã hội, có nhiều nhóm chuyên đi lùng các hình ảnh cờ vàng để
+   đả phá, những ai xuất hiện cùng hình ảnh cờ vàng, dù vô tình hay hữu ý,
+   đều trở thành đối tượng bị công kích.
+
+   Hồi tháng 2/2023, Hanni Phạm, ca sĩ người Úc gốc Việt và là thành viên
+   nhóm nhạc Hàn Quốc NewJeans, đã bị nhiều người kêu gọi tẩy chay sau khi
+   có người phát hiện trang mạng xã hội của thành viên gia đình cô treo cờ
+   vàng.
+
+   Những người tẩy chay ca sĩ Hanni cho rằng việc ủng hộ một người có gia
+   đình “theo VNCH” là phản bội đất nước Việt Nam.
+
+   Vụ việc này khi đó căng thẳng tới mức khiến Ban Tuyên giáo Trung ương
+   phải chỉ đạo báo chí tránh làm căng thẳng dẫn tới gây ảnh hưởng tới
+   quan hệ Việt Nam – Hàn Quốc.
+
+   Khi đó, Giáo sư Alex-Thái Đình Võ từ Trung tâm Việt Nam và Lưu trữ, Đại
+   học Texas Tech (Mỹ) đã bình luận với BBC News Tiếng Việt:
+
+   “Lời kêu gọi tẩy chay cho ta thấy sự độc hại của những sự phân biệt vẫn
+   tồn tại gần 50 năm sau cuộc chiến, dù ở Việt Nam hay ở cộng đồng tị nạn
+   hải ngoại. Phần nhiều cũng do giáo dục, giáo dục ở đây là sự bưng bít
+   thông tin về lịch sử, chính trị và xã hội."
+
+   Theo ông, cách phản ứng của giới trẻ cho thấy lỗ hổng trong việc tìm
+   hiểu một cách trung thực và cẩn trọng nhất có thể về lịch sử và
+   văn hóa của chính họ, tức của Việt Nam.
+
+Chủ đề liên quan
+
+     * Việt Nam
+     * Xã hội Việt Nam
+     * Người Việt Nam Toàn Cầu
+     * Đảng Cộng sản
+     * Chính trị Việt Nam
+
+Tin liên quan
+
+     * Hình ảnh lá cờ vàng ba sọc đỏ xuất hiện trong video đã bị gạch chéo
+       khi được đăng tải lại trên báo Người Lao Động ở Việt Nam
+
+O Sen Ngọc Mai và video cờ vàng: Công an vào cuộc, trung ương 'xem xét'
+       29 tháng 5 năm 2024
+     * Trang Facebook chính thức của Miss Grand VietNam đã thay ảnh đại
+       diện là Hoa hậu Quế Anh. Chỉ hơn 24 tiếng, bức ảnh đã nhận được hơn
+       28.000 lượt tương tác mà chủ yếu là giận dữ
+
+Quanh việc Miss Grand Việt Nam Võ Lê Quế Anh bị gán mác ‘ba que’
+       5 tháng 8 năm 2024
+     * Cờ vàng trong diển hành đón Tết ở California
+
+Cờ vàng, cờ đỏ: Cuộc chiến 'chưa kết thúc' trong người Việt
+       8 tháng 5 năm 2021
+     * Southern VN flag thumb
+
+Du học sinh VN 'đạp cờ vàng' ở Úc có thể bị xử phạt ra sao?
+       6 tháng 5 năm 2021
+     * Facebook
+
+Phản ứng và ý kiến về vụ du học sinh VN “đạp cờ vàng” tại Úc
+       5 tháng 5 năm 2021
+     * BBC
+
+Việt Nam phản đối vụ đồng 2 đô Úc có hình 'cờ vàng ba sọc' là 'phản ứng thái
+quá'?
+       5 tháng 5 năm 2023
+
+Tin chính
+
+     *
+
+Việt Nam sửa luật: Mở rộng phạm vi bí mật nhà nước, công an có quyền yêu cầu
+báo chí tiết lộ nguồn tin
+       7 giờ trước
+     *
+
+Giao tranh Thái Lan - Campuchia leo thang, căng thẳng chưa có hồi kết
+       7 giờ trước
+     *
+
+Vụ chính quyền Trump trục xuất bà Melissa Trần phơi bày bi kịch của người
+Việt nhập cư
+       9 tháng 12 năm 2025
+
+BBC giới thiệu
+
+     * Các nữ chính trị gia Việt Nam
+
+Quyền lực và áp lực - thăng trầm của các nữ lãnh đạo trên chính trường Việt
+Nam
+       14 tháng 11 năm 2025
+     * ảnh minh họa
+
+Hội nghị Trung ương 14: ai sẽ vào Bộ Chính trị khóa tới?
+       5 tháng 11 năm 2025
+     * Đảo Koh Phi Phi của Thái Lan (trái) và Vịnh Hạ Long của Việt Nam
+
+Bao giờ du lịch Việt Nam vượt qua Thái Lan?
+       4 tháng 11 năm 2025
+     * Bà Phạm Thị Thanh Trà giữ chức bộ trưởng Nội vụ từ
+       tháng 4/2021
+
+Bà Phạm Thị Thanh Trà - nữ phó thủ tướng đầu tiên của Việt Nam - là ai?
+       25 tháng 10 năm 2025
+     * Hai Đại tướng Trịnh Văn Quyết (trái) và Nguyễn Trọng Nghĩa
+
+Hai đại tướng quân đội, một cuộc 'đổi ghế' và thông điệp quyền lực mới
+       4 tháng 11 năm 2025
+     * Tổng Bí thư Tô Lâm
+
+Ông Tô Lâm đến Anh: chỉ dấu thân phương Tây hay điều gì khác?
+       31 tháng 10 năm 2025
+     * Quân đội Myanmar đã cho nổ các ổ lừa đảo trực tuyến gần biên giới
+       với Thái Lan. Ít nhất có tới bốn vụ nổ kể từ 25/10/2025 đến
+       28/10/2025
+
+Myanmar triệt phá ổ lừa đảo, hàng trăm người Việt tháo chạy sang Thái Lan
+       29 tháng 10 năm 2025
+     * Đại tướng Võ Nguyên Giáp (bìa trái) và Phó Thủ tướng Phạm Văn Đồng
+       tại Hà Nội vào đầu năm 1955
+
+Việt Nam 1954: Giữa 'Chiếm lĩnh' và 'Giải phóng', ký ức về một cuộc tiếp quản
+       27 tháng 10 năm 2025
+     * Ảnh minh họa
+
+Trung ương Đảng sẽ họp hội nghị 14 và 15 để quyết định nhân sự chủ chốt?
+       18 tháng 10 năm 2025
+
+Phổ biến
+
+    1. 1
+       Vụ chính quyền Trump trục xuất bà Melissa Trần phơi bày bi kịch của
+       người Việt nhập cư
+    2. 2
+       SEA Games 33: Campuchia bỏ giải; Việt Nam lên tiếng về bản đồ
+       'thiếu Hoàng Sa, Trường Sa và Phú Quốc'
+    3. 3
+       Giao tranh Thái Lan - Campuchia leo thang, căng thẳng chưa có hồi
+       kết
+    4. 4
+       Việt Nam sửa luật: Mở rộng phạm vi bí mật nhà nước, công an có
+       quyền yêu cầu báo chí tiết lộ nguồn tin
+    5. 5
+       Đối thủ cà phê robusta của Việt Nam đẩy mạnh chất lượng
+    6. 6
+       Nhật Bản rút khỏi dự án hạt nhân, kế hoạch điện của Việt Nam gặp
+       khó
+    7. 7
+       Hội nghị Trung ương 15: ai có khả năng gia nhập Bộ Ngũ
+       nhiệm kỳ 14?
+    8. 8
+       'Thật đáng sợ, nhưng chúng tôi vẫn sống tiếp' - bên trong miền đông
+       Ukraine bị bao vây
+    9. 9
+       Máy bay ném bom Nga tuần tra chung với Trung Quốc khi căng thẳng
+       Bắc Kinh-Tokyo leo thang
+   10. 10
+       Lãnh đạo không phải người địa phương: có chống được tham
+       nhũng?
+
+   BBC News, Tiếng Việt
+     * Tại sao bạn có thể tin tưởng BBC News
+     * Điều khoản sử dụng
+     * Về BBC
+     * Chính sách riêng tư
+     * Cookie
+     * Liên hệ BBC
+     * BBC News các ngôn ngữ khác
+     * Do not share or sell my info
+
+   © 2025 BBC. BBC không chịu trách nhiệm nội dung các trang ngoài. Tìm
+   hiểu cách chúng tôi tiếp cận việc dẫn tới trang ngoài

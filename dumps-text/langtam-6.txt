@@ -1,0 +1,336 @@
+   HTTP/2 200 date: Wed, 10 Dec 2025 10:57:14 GMT server:
+   mw-web.eqiad.main-5c5cb4f54-r6zm7 x-content-type-options: nosniff
+   content-language: ta accept-ch: last-modified: Sat, 29 Nov 2025
+   16:02:51 GMT content-type: text/html; charset=UTF-8 age: 28321
+   accept-ranges: bytes x-cache: cp6014 hit, cp6009 hit/1 x-cache-status:
+   hit-front server-timing: cache;desc="hit-front", host;desc="cp6009"
+   strict-transport-security: max-age=106384710; includeSubDomains;
+   preload report-to: { "group": "wm_nel", "max_age": 604800, "endpoints":
+   [{ "url":
+   "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi
+   .network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+   nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
+   0.05, "success_fraction": 0.0} set-cookie:
+   WMF-Last-Access=10-Dec-2025;Path=/;HttpOnly;secure;Expires=Sun, 11 Jan
+   2026 12:00:00 GMT set-cookie:
+   WMF-Last-Access-Global=10-Dec-2025;Path=/;Domain=.wikipedia.org;HttpOnl
+   y;secure;Expires=Sun, 11 Jan 2026 12:00:00 GMT set-cookie:
+   WMF-DP=a18;Path=/;HttpOnly;secure;Expires=Thu, 11 Dec 2025 00:00:00 GMT
+   x-client-ip: 78.243.19.2 cache-control: private, s-maxage=0, max-age=0,
+   must-revalidate, no-transform vary:
+   Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
+   GeoIP=FR:IDF::48.86:2.35:v4; Path=/; secure; Domain=.wikipedia.org
+   set-cookie:
+   NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+   set-cookie:
+   WMF-Uniq=cnUEBMtxBLTtqPFhpiGPTQLFAAAAAFvdEesVZ8s1BPUmu_ZOclIB-Qjr61rcJQ
+   0W;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=T
+   hu, 10 Dec 2026 00:00:00 GMT content-length: 120035 x-request-id:
+   d93d0b4f-58ff-43d6-93ce-4ec1044574dd #தொகு விக்கிப்பீடியா (ta)
+   விக்கிப்பீடியா ஆட்டம் (Atom) ஓடை
+
+   உள்ளடக்கத்துக்குச் செல்
+
+   [ ] முதன்மைப் பட்டி
+   முதன்மைப் பட்டி
+   (BUTTON) move to sidebar (BUTTON) மறை
+   வழிச்செலுத்தல்
+     * முதற்பக்கம்
+     * அண்மைய மாற்றங்கள்
+     * புதிய கட்டுரை எழுதுக
+     * தேர்ந்தெடுத்த கட்டுரைகள்
+     * ஏதாவது ஒரு கட்டுரை
+     * ஆலமரத்தடி
+     * நடப்பு நிகழ்வுகள்
+
+   தமிழ் விக்கிமீடியத் திட்டங்கள்
+     * விக்சனரி
+     * விக்கிசெய்திகள்
+     * விக்கிமூலம்
+     * விக்கிநூல்கள்
+     * விக்கிமேற்கோள்
+     * பொதுவகம்
+     * விக்கித்தரவு
+
+   புள்ளிவிவரம்
+     * நேற்றைய முன்னணிக் கட்டுரைகள்
+     * சென்ற மாதப் புள்ளிவிவரம்
+     * Traffic stats
+
+   உதவி
+     * உதவி ஆவணங்கள்
+     * புதுப்பயனர் உதவி
+     * உதவி கோருக
+
+   பிற
+     * Embassy
+     * விக்கிப்பீடியர் வலைவாசல்
+
+   விக்கிப்பீடியா
+   தேடு
+   ____________________
+   (BUTTON) தேடு
+
+   [ ] தோற்றம்
+
+     * நன்கொடைகள்
+     * கணக்கை ஆக்கு
+     * புகுபதிகை
+
+   [ ] சொந்தப் பயன்பாட்டுக் கருவிகள்
+     * நன்கொடைகள்
+     * கணக்கை ஆக்கு
+     * புகுபதிகை
+
+உள்ளடக்கம்
+
+   (BUTTON) move to sidebar (BUTTON) மறை
+     * தொடக்கம்
+     * 1 புகைப்படம்
+     * 2 வரைபடம்
+     * 3 திரைப்படம்
+     * 4 மேற்கோள்கள்
+     * 5 வெளி இணைப்புகள்
+
+   [ ] பொருளடக்கத்தை மாற்று
+
+படிமம்
+
+   [ ] 93 மொழிகள்
+     * العربية
+     * Asturianu
+     * Azərbaycanca
+     * Bikol Central
+     * Български
+     * বাংলা
+     * Bosanski
+     * Català
+     * Cebuano
+     * کوردی
+     * Чӑвашла
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Kadazandusun
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * Na Vosa Vakaviti
+     * Français
+     * Gaeilge
+     * Gàidhlig
+     * Galego
+     * Avañe'ẽ
+     * ગુજરાતી
+     * Gaelg
+     * עברית
+     * हिन्दी
+     * Kreyòl ayisyen
+     * Magyar
+     * Bahasa Indonesia
+     * Iñupiatun
+     * Ilokano
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * La .lojban.
+     * Jawa
+     * ქართული
+     * Қазақша
+     * ಕನ್ನಡ
+     * 한국어
+     * کٲشُر
+     * Кыргызча
+     * Latina
+     * Ladino
+     * Lietuvių
+     * Latviešu
+     * Монгол
+     * Bahasa Melayu
+     * မြန်မာဘာသာ
+     * नेपाल भाषा
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Occitan
+     * پنجابی
+     * Português
+     * Runa Simi
+     * Română
+     * Русский
+     * ᱥᱟᱱᱛᱟᱲᱤ
+     * Sicilianu
+     * سنڌي
+     * සිංහල
+     * Simple English
+     * ChiShona
+     * Soomaaliga
+     * Shqip
+     * Kiswahili
+     * తెలుగు
+     * Тоҷикӣ
+     * ไทย
+     * Türkmençe
+     * Tagalog
+     * Toki pona
+     * Türkçe
+     * Українська
+     * اردو
+     * Tiếng Việt
+     * Winaray
+     * 吴语
+     * ייִדיש
+     * ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
+     * 中文
+     * 閩南語 / Bân-lâm-gí
+     * 粵語
+
+   தொடுப்புகளைத் தொகு
+
+     * பக்கம்
+     * உரையாடல்
+
+   [ ] தமிழ்
+
+     * வாசி
+     * தொகு
+     * பக்க வரலாறு
+
+   [ ] கருவிப் பெட்டி
+   கருவிகள்
+   (BUTTON) move to sidebar (BUTTON) மறை
+   செயல்கள்
+     * வாசி
+     * தொகு
+     * பக்க வரலாறு
+
+   பொது
+     * இப்பக்கத்தை இணைத்தவை
+     * தொடர்பான மாற்றங்கள்
+     * கோப்பைப் பதிவேற்று
+     * நிலையான தொடுப்பு
+     * இப்பக்கத்தின் தகவல்
+     * இக்கட்டுரையை மேற்கோள் காட்டு
+     * குறுகிய உரலியைப் பெறு
+     * QR குறியீட்டைப் பதிவிறக்கு
+     * குறுந்தொடுப்பு
+
+   அச்சு/ஏற்றுமதி
+     * ஒரு நூலாக்கு
+     * PDF ஆகப் பதிவிறக்கு
+     * அச்சுக்கான பதிப்பு
+
+   பிற திட்டங்களில்
+     * விக்கிமீடியா பொதுவகம்
+     * விக்கித்தரவுஉருப்படி
+
+   தோற்றம்
+   (BUTTON) move to sidebar (BUTTON) மறை
+   கட்டற்ற கலைக்களஞ்சியமான விக்கிப்பீடியாவில் இருந்து.
+   [Image_in_Glossographia.png] படிமம், உளக்காட்சி"
+   வரையறைகள்^[1]^[2][250px-Image_created_with_a_mobile_phone.png]
+   படிமம்[250px-Faust_bei_der_Arbeit.JPG]
+
+   படிமம் (Image) அல்லது படம் என்பது ஒரு உருவத்தை காகிதம் அல்லது எண்முறை
+   படமாக எடுப்பது ஆகும். படிமம் என்பது நவீன இலக்கியத் திறனாய்வில்
+   பயன்பாட்டில் உள்ள ஒரு சொல் ஆகும். இலத்தீன் சொற்களான இமெகோ (imago),
+   இமித்தரை (imitari) ஆகியவற்றின் அடியொற்றிப் பிறந்தது. படிமம் என்பதன்
+   வேர்ச்சொல் படி ஆகும். படி என்னும் சொல்லிற்கு ஒப்பு, ஓர் அளவு, குணம்,
+   உருவம், முறைமை, வேடம் போன்ற பொருள்கள் உள்ளன. அதுபோல், படிமம் என்பதற்கு
+   வடிவம், படிமக்கலம், பிரதிமை, தூய்மை, பூதம் முதலான பொருள்கள்
+   இருக்கின்றன. இச்சொல்லை இலக்கியத்தில் முதன்முதலாகக் கையாண்டவர் தெ. பொ.
+   மீனாட்சி சுந்தரனார் ஆவார்.^[3]
+
+புகைப்படம்
+
+   [தொகு]
+
+   புகைப்படம் (still image), பொதுவாக அனைவராலும் எடுக்கப்படுவது. ஒளிப்படம்
+   என்பது சரியான கலைச்சொல் ஆகும்.
+
+வரைபடம்
+
+   [தொகு]
+
+   வரைபடம் என்பது ஒரு ஒவியரால் வரையப்படும் படமாகும். இதனை ஓவியக் கலை
+   என்றும் கூறுவர். ஓவியக்கலை என்பது, வரைதல், கூட்டமைத்தல் (composition)
+   மற்றும் பிற அழகியல் சார்ந்த செயற்பாடுகளையும் உள்ளடக்கி, கடதாசி, துணி,
+   மரம், கண்ணாடி, காங்கிறீட்டு போன்ற ஊடகங்களில், நிறப்பூச்சுகளைப்
+   பயன்படுத்தி, வரைபவரின் வெளிப்பாட்டு மற்றும் கருத்தியல் நோக்கங்களை
+   வெளிக்கொணரும் ஒரு கலை ஆகும்.
+   [250px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg]
+   மோனாலிசா படிமம்
+
+திரைப்படம்
+
+   [தொகு]
+
+   திரைப்படம் (Film) என்பது பொதுவாக பொழுதுபோக்கிற்காக தயாரிக்கப்பட்டு
+   முன்னர் திரையரங்குகளின் திரைகளில் கான்பிக்கப்பட்டு, இப்பொழுது
+   திரையரங்குகள் தவிர தொலைக்காட்சி, குறுந்தட்டு, பேழை, இணையம் போன்ற
+   ஊடகங்கள் மூலமும் வினியோகிக்கப்படும் நகரும் படங்களையும், அப்படங்களின்
+   தயாரிப்பில் ஈடுபட்டுள்ள துறையையும் குறிக்கும் சொல்லாகும்.
+
+மேற்கோள்கள்
+
+   [தொகு]
+    1. ↑ Thomas Blount (1707). "Glossographia Anglicana Nova: Or, A
+       Dictionary, Interpreting Such Hard Words of Whatever ..." Book from
+       the collections of University of Michigan. Printed for D. Brown.
+       Retrieved 24 ஏப்ரல் 2017.
+    2. ↑ Chris Baldick (2008). The Oxford Dictionary of Literary Terms.
+       Oxford University Press. pp. 165–. ISBN 978-0-19-920827-2.
+    3. ↑ முனைவர் இரா. சம்பத் (1992). புதுக்கவிதையில் இலக்கிய இயக்கம். உமா
+       பதிப்பகம், புதுச்சேரி-4 (முதற்பதிப்பு).
+
+வெளி இணைப்புகள்
+
+   [தொகு]
+     *
+     * பொதுவகத்தில் படிமங்கள் தொடர்பாக ஊடகக் கோப்புகள் உள்ளன.
+     * The B-Z Reaction: The Moving or the Still Image?
+     * Library of Congress – Format Descriptions for Still Images
+     * Image Processing – Online Open Research Group பரணிடப்பட்டது
+       2020-12-28 at the வந்தவழி இயந்திரம்
+     * Legal Issues Regarding Images பரணிடப்பட்டது 2016-01-16 at the
+       வந்தவழி இயந்திரம்
+     * Image Copyright Case
+
+   "https://ta.wikipedia.org/w/index.php?title=படிமம்&oldid=3633178"
+   இலிருந்து மீள்விக்கப்பட்டது
+   பகுப்புகள்:
+     * ஒளிப்படவியல்
+     * பார்வை
+
+   மறைந்த பகுப்பு:
+     * Webarchive template wayback links
+
+     * இப்பக்கத்தைக் கடைசியாக 6 சனவரி 2023, 02:10 மணிக்குத் திருத்தினோம்.
+     * அனைத்துப் பக்கங்களும் படைப்பாக்கப் பொதுமங்கள் அனுமதியுடன்
+       பகிரப்பட்டுள்ளன; கூடுதலான கட்டுப்பாடுகளுக்கு உட்படலாம்.
+
+     * அந்தரங்கக் கொள்கை
+     * விக்கிப்பீடியா பற்றி
+     * பொறுப்புத் துறப்புகள்
+     * நடத்தை விதிகள்
+     * ஆக்குநர்கள்
+     * புள்ளிவிவரங்கள்
+     * நினைவிக் கூற்று
+     * கைப்பேசிப் பார்வை
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) தேடு
+   ____________________
+   (BUTTON) தேடு
+
+   [ ] பொருளடக்கத்தை மாற்று
+   படிமம்
+   (BUTTON) 93 மொழிகள் தலைப்பைச் சேர்

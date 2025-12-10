@@ -1,0 +1,37 @@
+   HTTP/2 403 date: Wed, 10 Dec 2025 12:34:56 GMT content-type: text/html;
+   charset=UTF-8 accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
+   Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
+   Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List,
+   Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version,
+   UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA cf-mitigated:
+   challenge critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
+   Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
+   Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List,
+   Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version,
+   UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+   cross-origin-embedder-policy: require-corp cross-origin-opener-policy:
+   same-origin cross-origin-resource-policy: same-origin
+   origin-agent-cluster: ?1 permissions-policy:
+   accelerometer=(),browsing-topics=(),camera=(),clipboard-read=(),clipboa
+   rd-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magne
+   tometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen
+   -wake-lock=(),serial=(),sync-xhr=(),usb=() referrer-policy: same-origin
+   server-timing: chlray;desc="9abcc77fcb279e93" x-content-type-options:
+   nosniff x-frame-options: SAMEORIGIN cache-control: private, max-age=0,
+   no-store, no-cache, must-revalidate, post-check=0, pre-check=0 expires:
+   Thu, 01 Jan 1970 00:00:01 GMT set-cookie:
+   __cf_bm=ByVWapJIkyH7SyofhNxEeDSJB8nBmJOAGCyyyWFMJ9k-1765370096-1.0.1.1-
+   sZtHoHFPO1uoAcqkj.IrivABqzbr5QzrYXpAOHND8pbcMst8JAk3EEK_OJbYgAjndSwlJje
+   Y7N91_D70hVFDZlHlUHv0WJkMOzP64ZTZ_cg; path=/; expires=Wed, 10-Dec-25
+   13:04:56 GMT; domain=.support.reddithelp.com; HttpOnly; Secure;
+   SameSite=None report-to:
+   {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=m9TZ
+   jiMTeY0amSFNt83iIlkwumc3tGnU%2B0q5OMV7m4%2B3rb31doRbC1x8zjxqAUoAdVYzDsX
+   8qd81hiYIXhBAJZVZ7zEFkUeejviCvGceM8rbM0jW2y4U4TpyhL624h5d7fpnstg0hEY%3D
+   "}],"group":"cf-nel","max_age":604800} nel:
+   {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800} server:
+   cloudflare cf-ray: 9abcc77fcb279e93-CDG
+   REFRESH(360 sec):
+   file://localhost/home/annabelle/projet-PPE/programmes/temp.html
+
+   Enable JavaScript and cookies to continue

@@ -1,0 +1,217 @@
+   HTTP/2 200 date: Wed, 10 Dec 2025 10:57:09 GMT server:
+   mw-web.eqiad.main-5c5cb4f54-sdmpk x-content-type-options: nosniff
+   content-language: ta accept-ch: last-modified: Wed, 26 Nov 2025
+   10:57:09 GMT content-type: text/html; charset=UTF-8 age: 28324
+   accept-ranges: bytes x-cache: cp6009 hit, cp6009 hit/1 x-cache-status:
+   hit-front server-timing: cache;desc="hit-front", host;desc="cp6009"
+   strict-transport-security: max-age=106384710; includeSubDomains;
+   preload report-to: { "group": "wm_nel", "max_age": 604800, "endpoints":
+   [{ "url":
+   "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi
+   .network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
+   nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
+   0.05, "success_fraction": 0.0} set-cookie:
+   WMF-Last-Access=10-Dec-2025;Path=/;HttpOnly;secure;Expires=Sun, 11 Jan
+   2026 12:00:00 GMT set-cookie:
+   WMF-Last-Access-Global=10-Dec-2025;Path=/;Domain=.wiktionary.org;HttpOn
+   ly;secure;Expires=Sun, 11 Jan 2026 12:00:00 GMT set-cookie:
+   WMF-DP=a9a;Path=/;HttpOnly;secure;Expires=Thu, 11 Dec 2025 00:00:00 GMT
+   x-client-ip: 78.243.19.2 cache-control: private, s-maxage=0, max-age=0,
+   must-revalidate, no-transform vary:
+   Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
+   GeoIP=FR:IDF::48.86:2.35:v4; Path=/; secure; Domain=.wiktionary.org
+   set-cookie:
+   NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
+   set-cookie:
+   WMF-Uniq=S5Coh93IOJ0jwiFXKWqehALFAAAAAFvdKC3yFvYQVYSFz5qeu46o5P7wsEaNsS
+   96;Domain=.wiktionary.org;Path=/;HttpOnly;secure;SameSite=None;Expires=
+   Thu, 10 Dec 2026 00:00:00 GMT content-length: 74696 x-request-id:
+   0dac5884-d095-4406-920a-f03c35bc9dca #தொகு விக்சனரி (ta) விக்சனரி
+   ஆட்டம் (Atom) ஓடை
+
+   உள்ளடக்கத்துக்குச் செல்
+
+   [ ] முதன்மைப் பட்டி
+   முதன்மைப் பட்டி
+   (BUTTON) move to sidebar (BUTTON) மறை
+   வழிச்செலுத்தல்
+     * முதற்பக்கம்
+     * அண்மைய மாற்றங்கள்
+     * ஆலமரத்தடி
+     * சமுதாய வலைவாசல்
+     * ஏதேனும் ஒரு சொல்
+     * Wiktionary Embassy
+
+   உதவி
+     * உதவி
+     * கோரப்பட்ட சொற்கள்
+
+   தமிழ் விக்கிமீடியத் திட்டங்கள்
+     * விக்கிப்பீடியா
+     * விக்கிசெய்திகள்
+     * விக்கிமூலம்
+     * விக்கிநூல்கள்
+     * விக்கிமேற்கோள்
+     * பொதுவகம்
+     * விக்கித்தரவு
+
+   விக்சனரி
+   தேடு
+   ____________________
+   (BUTTON) தேடு
+
+   [ ] தோற்றம்
+
+     * நன்கொடைகள்
+     * கணக்கை ஆக்கு
+     * புகுபதிகை
+
+   [ ] தனிப்பட்ட கருவிகள்
+     * நன்கொடைகள்
+     * கணக்கை ஆக்கு
+     * புகுபதிகை
+
+உள்ளடக்கம்
+
+   (BUTTON) move to sidebar (BUTTON) மறை
+     * தொடக்கம்
+     * 1 மொழிபெயர்ப்புகள்
+
+   [ ] பொருளடக்கத்தை மாற்று
+
+படம்
+
+   [ ] 11 மொழிகள்
+     * বাংলা
+     * Deutsch
+     * English
+     * Français
+     * Kurdî
+     * Malagasy
+     * मराठी
+     * Bahasa Melayu
+     * Polski
+     * Sängö
+     * 中文
+
+     * சொல்
+     * உரையாடல்
+
+   [ ] தமிழ்
+
+     * வாசி
+     * தொகு
+     * பக்க வரலாறு
+
+   [ ] கருவிப் பெட்டி
+   கருவிகள்
+   (BUTTON) move to sidebar (BUTTON) மறை
+   செயல்கள்
+     * வாசி
+     * தொகு
+     * பக்க வரலாறு
+
+   பொது
+     * இப்பக்கத்தை இணைத்தவை
+     * தொடர்பான மாற்றங்கள்
+     * கோப்பைப் பதிவேற்று
+     * நிரந்தர இணைப்பு
+     * இப்பக்கத்தின் தகவல்
+     * இப்பக்கத்தை மேற்கோள் காட்டு
+     * குறுகிய உரலியைப் பெறு
+     * QR குறியீட்டைப் பதிவிறக்கு
+     * குறுந்தொடுப்பு
+     * Switch to legacy parser
+
+   அச்சு/ஏற்றுமதி
+     * ஒரு நூலாக்கு
+     * PDF ஆகப் பதிவிறக்கு
+     * அச்சுக்கான பதிப்பு
+
+   பிற திட்டங்களில்
+
+   தோற்றம்
+   (BUTTON) move to sidebar (BUTTON) மறை
+   கட்டற்ற பன்மொழி அகரமுதலியான விக்சனரியில் இருந்து.
+
+   தமிழ்
+
+   [250px-Drinking_cat.jpg] படம்:
+   பொருள்
+    1. ஏதொன்றின் உருவத்தையும் கண்ணால் காணும் படி வரைந்த அல்லது தீட்டிய
+       அல்லது ஒளிப்படக்கருவி போன்றவற்றால் உருவாக்கிய ஒப்புரு.
+       எடுத்துக்காட்டாக ஓவியம் ஒரு படம்.
+    2. நேரில் காண்பதுபோல் காணக்கூடிய இயல்பாய் அசையும் படம், திரைப்படம்,
+       நிகழ்படம்.
+    3. ஒளிப்படம்
+    4. நிலப்படம் அல்லது தரைப்படம், நிலவரைபடம்; ஒரு நகரத்தின் சாலை
+       வழிகளைக்காட்டும் நகரகப்படம் (நகரத்தின் படம்).
+    5. ஒரு பின்னொட்டு (எ.கா. கலப்படம்)
+    6. எழுத்துப்படம்
+    7. காற்றாடி
+    8. நாகப்பாம்பின் விரிந்த தலைப்பகுதி (எ.கா. பாம்பு படம் எடுக்கும்!)
+    9. யானையின் முகத்தில் அணியும் அணிகலன், முகப்படாம்
+   10. கால் பாதத்தின் முற்பகுதி
+   11. சீலை, திரைச்சீலை
+   12. கொடி (விருதுக்கொடி)
+   13. செயற்கைநிலாப்படம்
+
+   தொடர்புடைய சொல்:
+    1. படாம் (சீலை, திரைச்சீலை, பெருங்கொடி)
+
+   விளக்கம்
+
+          + பல பொருள்கள் விரிவது (படர்வது) என்னும் கருத்தைச் சொல்லுகின்றன.
+
+   படமுறையாக்கம்
+    1. உருக்களைப் படமாக்குதல் வெப்பப் படமுறையாக்கம்.
+
+   கணிப்பொறிப் பட முறையாக்கத் தொழில் நுணுக்கம் என்று பெயர்.
+   பயன்பாடு
+
+          + (எ.கா) -இந்த பூனைப் படம் நன்றாக இருக்கிறது.
+
+   மொழிபெயர்ப்புகள்
+   [தொகு]
+     * ஆங்கிலம்- image, picture, photo, film.
+     __________________________________________________________________
+
+   சொல் வளப்பகுதி
+
+          (பாடம்)
+
+   "https://ta.wiktionary.org/w/index.php?title=படம்&oldid=1900380"
+   இலிருந்து மீள்விக்கப்பட்டது
+
+   பகுப்புகள்:
+     * தமிழ்
+     * தமிழ்-படங்களுள்ளவை
+     * கருவச் சொற்கள்
+     * மூன்றெழுத்துச் சொற்கள்
+     * வேற்றெழுத்து வேறுபாடுகள்
+
+     * இப்பக்கம் கடைசியாக 27 நவம்பர் 2020, 02:47 மணிக்குத்
+       தொகுக்கப்பட்டது.
+     * Page was rendered with Parsoid.
+     * அனைத்துப் பக்கங்களும் படைப்பாக்கப் பொதுமங்கள் அனுமதியுடன்
+       பகிரப்பட்டுள்ளன; கூடுதலான கட்டுப்பாடுகளுக்கு உட்படலாம்.
+
+     * அந்தரங்கக் கொள்கை
+     * விக்சனரி பற்றி
+     * பொறுப்புத் துறப்புகள்
+     * நடத்தை விதிகள்
+     * ஆக்குநர்கள்
+     * புள்ளிவிவரங்கள்
+     * நினைவிக் கூற்று
+     * கைப்பேசிப் பார்வை
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) தேடு
+   ____________________
+   (BUTTON) தேடு
+
+   [ ] பொருளடக்கத்தை மாற்று
+   படம்
+   (BUTTON) 11 மொழிகள் தலைப்பைச் சேர்

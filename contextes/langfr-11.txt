@@ -1,0 +1,97 @@
+   HTTP/2 200 date: Wed, 10 Dec 2025 18:48:53 GMT server: Apache
+   x-content-type-options: nosniff cache-control: must-revalidate,
+   no-cache, private link: /www.bnf.fr/fr/banque-dimages>; rel="canonical"
+   link: /www.bnf.fr/fr/banque-dimages>; rel="alternate"; hreflang="fr"
+   link: /www.bnf.fr/en/banque-dimages-picture-collection>;
+   rel="alternate"; hreflang="en" link: /www.bnf.fr/es/banco-de-imagenes>;
+   rel="alternate"; hreflang="es" x-ua-compatible: IE=edge
+   content-language: fr x-content-type-options: nosniff x-frame-options:
+--
+               o Les publics sur place
+          + Nos ressources en ligne
+               o Banque d'images
+               o Gallica
+               o Offre de prêt numérique
+--
+               o Sites éducatifs et culturels
+               o BnF Collection sonore
+               o Banque d’images
+               o Retronews
+               o Patrimoines Partagés
+--
+                    # Les publics sur place﻿
+               o Nos ressources en ligne
+                    # Banque d'images﻿
+                    # Gallica﻿
+                    # Offre de prêt numérique﻿
+--
+                    # Sites éducatifs et culturels﻿
+                    # BnF Collection sonore﻿
+                    # Banque d’images﻿
+                    # Retronews﻿
+                    # Patrimoines Partagés﻿
+--
+    2. Explorer
+    3. Lire, écouter, voir
+    4. Banque d’images
+
+   Découvrir la Banque d'images
+
+Banque d’images
+
+   Outil d’exploration des collections iconographiques numérisées de la
+   bibliothèque, la banque d’images permet, notamment au public
+   professionnel, d’acheter les images en haute définition et de payer la
+   redevance pour leur utilisation commerciale.
+
+--
+   La grande vague, Cette, 1857, photographie de Gustave Le Gray
+
+Une source d’images d’une extraordinaire richesse
+
+   Elle a ainsi pour vocation de rassembler l’ensemble des collections
+--
+
+   Au sein de cette considérable variété d’œuvres et de supports, issus du
+   patrimoine mondial de toutes les époques, la Banque d’images rend
+   également visible de nombreuses œuvres sous droits des plus grands
+   artistes et écrivains du XXe siècle qui n’étaient accessibles
+   auparavant que dans les salles de lecture de la bibliothèque.
+
+   Aux centaines de milliers d’images déjà disponibles, viennent s’ajouter
+   chaque jour de nouvelles numérisations issues des différents
+   départements de collections. La grande majorité des documents conservés
+   à la BnF n’étant pas encore numérisés, un service de numérisation à la
+   demande permet d’élargir le choix à des images rares ou inédites.
+
+
+--
+Un service  pensé pour les usages professionnels
+
+   Afin d’explorer ces collections, la banque d’images offre des
+   fonctionnalités de recherche et de commande adaptées aux pratiques des
+   professionnels de l’image.
+   Des portfolios et une newsletter leur permettent également de préparer
+   leurs projets éditoriaux autour des grandes expositions, de dates
+   anniversaires, d’événements historiques mais aussi de découvrir les
+   collections de la BnF, d’être informés des nouvelles images ou des
+   artistes récemment intégrés.
+
+   La qualité de la description et de l’indexation des images est garantie
+   par les référentiels de la BnF et l’expertise scientifique des
+   conservateurs de la bibliothèque et des iconographes de la Banque
+   d’images. La qualité et la résolution des images proposées couvrent la
+   grande majorité des utilisations éditoriales ; les normes adoptées dans
+   les ateliers de numérisation garantissent des reproductions les plus
+--
+   personnalisé aux professionnels qui le souhaitent, éditeur,
+   iconographe, professionnel de l’audiovisuel, de la communication et du
+   multimédia etc. : suggestion d’images complémentaires, modalités et
+   suivi de commande, devis de numérisation, négociation tarifaire.
+
+--
+
+   Trouvez tous types de documents : imprimés (livres, presse et revues)
+   en mode image et en mode texte, manuscrits, documents sonores,
+   documents iconographiques, cartes et plans, vidéos.
+   (nouvelle fenêtre)

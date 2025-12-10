@@ -1,0 +1,2634 @@
+   HTTP/2 200 server: nginx/1.20.1 date: Wed, 10 Dec 2025 18:03:25 GMT
+   content-type: text/html; charset=UTF-8 x-powered-by: PHP/8.2.25
+   set-cookie: rl=7D3w48rQ9g18E70p64X5; path=/; domain=.rssing.com;
+   HttpOnly access-control-allow-headers: origin, x-requested-with,
+   content-type access-control-allow-methods: *
+   access-control-allow-credentials: true vary:
+   CF-Connecting-IP,X-Nginx-Scheme,Accept-Encoding,Origin cache-control:
+   max-age=0 expires: Wed, 10 Dec 2025 18:03:24 GMT
+   content-security-policy-report-only: content-security-policy:
+   block-all-mixed-content strict-transport-security: max-age=63072000;
+   includeSubdomains x-content-type-options: nosniff
+
+   Quantcast
+
+     * Login
+          + Account
+          + Sign Up
+
+     * Home
+          + About Us
+          + Catalog
+     * Search
+     * Register RSS
+     * Embed RSS
+          + FAQ
+          + Get Embed Code
+          + Example: Default CSS
+          + Example: Custom CSS
+          + Example: Custom CSS per Embedding
+     * Super RSS
+          + Usage
+          + View Latest
+          + Create
+
+     * Contact Us
+          + Technical Support
+          + Guest Posts/Articles
+          + Report Violations
+          + Google Warnings
+          + Article Removal Requests
+          + Channel Removal Requests
+          + General Questions
+          + DMCA Takedown Notice
+
+     * RSSing>>
+          + Collections:
+          + RSSing
+          + EDA
+          + Intel
+          + Mesothelioma
+          + SAP
+          + SEO
+     * Latest
+          + Articles
+          + Channels
+          + Super Channels
+     * Popular
+          + Articles
+          + Pages
+          + Channels
+          + Super Channels
+     * Top Rated
+          + Articles
+          + Pages
+          + Channels
+          + Super Channels
+     * Trending
+          + Articles
+          + Pages
+          + Channels
+          + Super Channels
+
+   Switch Editions?
+   Cancel
+
+   Sharing:
+   Title:
+   URL:
+   Copy Share URL
+   தமிழ்
+   ____________________ ____________________ [RSSing.com]
+   RSSing>> Latest Popular Top Rated Trending
+   Channel: கணியம்
+   NSFW?
+   Claim
+   0 [javascript] [javascript] [javascript] [javascript] [javascript]
+   X Mark channel Not-Safe-For-Work? cancel confirm NSFW Votes: (0 votes)
+   X Are you the publisher? Claim or contact us about this channel.
+   X 0
+   Showing article 101 to 120 of 1980 in channel 12755425
+   Channel Details:
+     * Title: கணியம்
+     * Channel Number: 12755425
+     * Language: Tamil
+     * Registered On: April 23, 2013, 1:10 pm
+     * Number of Articles: 1980
+     * Latest Snapshot: December 8, 2025, 9:40 pm
+     * RSS URL: http://www.kaniyam.com/feed
+     * Publisher: https://kaniyam.com
+     * Description: கட்டற்ற கணிநுட்பம்
+     * Catalog: //tagger25.rssing.com/catalog.php?indx=12755425
+
+   Remove ADS
+   Viewing all 1980 articles
+   [Page 6____]
+   Browse latest View live
+   ↧
+
+பிகல்லியோடு (Pically) உங்கள் நாள்காட்டியை உருவாக்குங்கள்
+
+   May 5, 2014, 8:36 pm
+   ≫ Next: PHP Code Sniffer –நிரல் தரம் சோதனைக் கருவி
+   ≪ Previous: தட(ள)ம் மாறும் இந்திய வங்கிகள் –யார் காரணம்?
+   $
+   0
+   0
+
+   புகைப்படங்கள் முடிவுற்ற காலத்தின் நினைவுகளைக் குறிக்கின்றன. நாள்காட்டி
+   வருங்காலத்தைக் குறிக்கும். இவ்வாறு வெவ்வேறு காலங்களில் அடைபட்டுக்
+   கிடக்கும் இரண்டையும் ஒருங்கிணைக்கும் பாலமாக விளங்குவது தான் பிகல்லி
+   (Pically).
+
+   உங்களுக்கு மிகவும் பிடித்த புகைப்படங்களை ஒவ்வொரு மாதங்களுக்கும் தேர்வு
+   செய்து, விடுமுறை மற்றும் சுபதினங்கள் ஆகியவற்றைச் சேர்த்து, ஒரு
+   நாள்காட்டியாக உருவாக்கி தொங்க விடலாம். இதுவரை நடந்த நிகழ்வுகளை நினைவு
+   கூறுவதாகவும், வருங்கால கனவுகளைக் கண்முன் கொண்டு வருவதாகவும் அது
+   அமையும். இது ஜாவா நிரல் மொழியால் உருவாக்கப்பட்ட செயலியாதலால், இதை
+   லினக்ஸ், விண்டோஸ் மற்றும் மேக் கணினிகளில் பயன்படுத்தலாம்.
+
+   பிகல்லியை பயன்படுத்த உங்கள் கணினியில் ஜாவா நிறுவப்பட்டிருக்க வேண்டும்.
+   இது பெயரத்தக்க செயலி (Portable app) ஆகும். ஆதலால், தரவிறக்கம் செய்த
+   கோப்பை இரட்டை சொடுக்கு செய்வதன் மூலமே, செயலியைத் துவக்கி நாள்காட்டியை
+   உருவாக்கி விடலாம். இதன் பயனர் இடைமுகம் (user interface) மிக எளிதாக
+   புரிந்து கொள்ளக்கூடியது. நாள்காட்டியில் புகைப்படத்தை ஏற்றுவதற்கு,
+   விரும்பிய படத்தை முகப்பில் தோன்றும் ஏதேனும் ஒரு மாதத்தில் இழுத்து
+   விட்டால் போதுமானது. அல்லது, முகப்பில் தோன்றும் மாதங்களில் உள்ள ‘Select
+   Picture’ விசையை அழுத்தி, கணினியில் உள்ள ஏதேனும் ஒரு படத்தைத்
+   தேர்ந்தெடுக்கலாம்.
+
+   நீங்கள் சிறப்பு வாய்ந்ததாக கருதும் தருணங்களை ‘Events’ தாவலில் (tab)
+   உள்ள வாய்ப்புகளை கொண்டு உருவாக்கி, நாள்காட்டியில் இணைக்கலாம். இதற்கு,
+   எளிதாக ‘நிகழ்வு வகை’ மற்றும் ‘நாளை’ (event type and date) தேர்வு செய்து
+   ‘Add Event’ விசையை அழுத்தினால் போதுமானது. அந்த நிகழ்வு என்ன என்பதை
+   நீங்களாகவே நேரடியாக தட்டச்சும் செய்யலாம். இம்முறையில் உங்கள் நாள்காட்டி
+   உருவாகிறது என்பதால், நீங்கள் வரவிருக்கும் சுபதினங்களை ஆவலுடன்
+   எதிர்நோக்கி இருப்பீர்கள்.
+
+   1
+
+   நிகழ்வுகளில் மாற்றங்கள் ஏதெங்கிலும் உண்டெனில், அதையும் நேரடியாக
+   செய்யலாம். அவ்வாறு தேவையற்ற நிகழ்வுகளை அகற்ற, அந்த நிகழ்வை தேர்வு
+   செய்து ‘Delete Event’ விசையை அழுத்தினால் போதுமானது. உருள் பட்டையின்
+   (scroll bar) மேல் அமைந்துள்ள சிறிய விசையானது ‘Date’, ‘Month’, ‘Text’ ,
+   ‘Type’ போன்ற தேர்வுகள் முகப்பில் தெரியவும் அல்லது மறையவும்
+   வழிவகுக்கிறது. எடுத்துக்காட்டாக, ‘Type’ மற்றும் ‘Text’ போன்ற தேர்வுகள்
+   சாளரத்தில் தோன்ற வேண்டாம் என நீங்கள் எண்ணினால், அதை மேற்குறிப்பிட்ட
+   விசையைக் கொண்டு நிறைவேற்றலாம். ‘Actions’ தாவலில் (tab) 2011 – 2015 வரை
+   உள்ள ஆண்டுகளைத் தேர்வு செய்யலாம். இனி ‘Generate’-ஐ அழுத்தி, PDF வடிவில்
+   நாள்காட்டியை உருவாக்கி கொள்ளலாம்.
+
+   நீங்கள் மேக் கணினி பயன் படுத்துவோர், ‘Import iCal’ விசையை பயன்படுத்தி
+   நியமனங்கள், ஒப்பந்தங்கள் (appoinments, engagements) உள்ளடக்கிய
+   ‘iCalender’ கோப்பை தரவேற்றலாம். அப்படிச் செய்தால், உங்கள் மென்
+   நாள்காட்டிக்கு நிகரானதாக தற்போது உருப்பெற்ற இயல்பான நாள்காட்டி
+   இருக்கும்.
+
+   2
+
+   பிகல்லி ஒரு எளிமையான, ஆடம்பரமற்ற செயலி என்பதை அது உருவாக்கிய
+   நாள்காட்டியின் வடிவமே சுட்டிக் காட்டிவிடும். பிகல்லியில் நாம்
+   சேர்க்கும் நிகழ்வுகளைத் தமிழில் சேர்க்க முடியாதது ஒன்று மட்டுமே
+   குறைபாடாகவே உள்ளது.
+
+   பதிவிறக்க இணைப்பு: பிகல்லி
+
+   மூலம் -ஆசிரியர் : மோவாஸ் புகாரி
+   ↧
+   ____________________
+   Search
+   ____________________ [RSSing.com]
+     __________________________________________________________________
+
+PHP Code Sniffer –நிரல் தரம் சோதனைக் கருவி
+
+   May 8, 2014, 8:52 pm
+   ≫ Next: WordPress 3.9 “Smith”
+   ≪ Previous: பிகல்லியோடு (Pically) உங்கள் நாள்காட்டியை உருவாக்குங்கள்
+   $
+   0
+   0
+
+   >எழுத்து: பாலவிக்னேஷ்
+
+   உலகளவில் C, C++ மற்றும் JAVA ஆகியவற்றுக்கு அடுத்தபடியாக அதிக அளவில்
+   உபயோகப்படுத்தப்படும் நிரல் மொழியாக இருப்பது PHP. சிறிய வலைத்தளம்
+   (Website) முதல் பெரிய வலைப் பயன்பாடுகள் (Web Applications) வரை PHP ஆல்
+   உருவாக்கப்பட்டு வருகின்றன. எளிமை, விரைவான பயிற்சி, வலைத்தளங்களுக்கு
+   ஏற்ற வசயிகள் (functionalities) போன்றவைகளே இதன் அதிக பயன்பாட்டிற்கு
+   காரணம்.
+
+   பயன்பாடு அதிகமாகும் போது உருவாகும் முதல் தேவை பராமரிப்பு. தகவல்
+   தொழில்நுட்ப உலகில் உருவாக்கியவரே பராமரிப்பது என்பது இயலாத காரணம்.
+   நிறுவனம் விட்டு நிறுவனம் மாறுவதில் அரசியல்வாதிகளை முந்திவிடுகிறார்கள்.
+   பராமரிக்கும் போதும், குழுவாக வேலை செய்யும் போதும், முதல் கட்டமாக
+   மற்றவரின் நிரலை புரிந்து கொள்ள வேண்டியுள்ளது.
+
+   ஒவ்வொருவரும் ஒவ்வொருவிதமாக எழுதும் போது நிரல் புரிந்துக்கொள்ள
+   கடினமாகிறது. எனவே,புரிதல் அதிக நேரமும் எடுத்துக்கொள்கிறது. இந்த
+   சிக்கலைத் தீர்க்க உருவானதே நிரல் தரம். இதன் படி space, bracket என
+   அனைத்திற்கும் தரம் வரையறுக்கப்பட்டிருக்கும். PHP – PEAR library
+   நிரலாளர்கள் பின்பற்றும் நிரல் தரத்தினை இங்கே பார்க்கலாம் –
+   http://pear.php.net/manual/en/standards.php. PHP உலகில் PEAR – நிரல்
+   தரத்தினை பெரும்பாலோனோர் பின்பற்றி வருகின்றனர்.
+
+   ஒரு குழுவானது குறிப்பிட்ட ஒரு நிரல் தரத்தைப் பின்பற்ற முடிவெடுத்த பின்,
+   அதைப் பின்பற்றுவது ஒவ்வொரு நிரலாளரின் கடமையாகும். நிரலாக்கும் போது
+   தவறுகள் வருவது இயல்பு. எனவே, தரப்படுத்தப்பட்ட நிரல் தகுந்த தரத்தைப்
+   பூர்த்தி செய்ததா என பரிசோதிக்க வேண்டியுள்ளது. அதற்காக உருவாக்கப்பட்டதே
+   Code Sniffer எனும் கருவி. இந்த கட்டுரையில் Code Sniffer பயன்பாட்டினைப்
+   பற்றி சற்று விரிவாக காணலாம்.
+
+   imges
+
+   நிறுவல் தேவைகள் :
+
+   * PHP பதிப்பு 5.1.2 அல்லது புதியது .
+   * PEAR தொகுப்பு , PEAR Installer 1.4.0b1 அல்லது புதியது.
+
+   Code Sniffer கருவி PEAR தொகுப்பில் ஒன்றாக வருகிறது. மேலும் அது PHP
+   -ஐப் பயன்படுத்தி உருவாக்கப்பட்டுள்ளது . எனவே, இது PHP மற்றும் PEAR
+   தொகுப்பை சார்ந்துள்ளது. இதன் சமீபத்திய பதிப்பு 1.5.1.
+
+   1.) டெபியன் அல்லது உபுண்டு இயங்கு தளத்தில் பின்வரும் கட்டளைகளை
+   பயன்படுத்தி எளிதாக நிறுவலாம்.
+
+   #apt-get install php-codesniffer
+
+   2.)PEAR package manager -ஐப் பயன்படுத்தி நிறுவ, பின்வரும் கட்டளைகளை
+   உபயோகிக்கவும்.
+
+   #pear install PHP_CodeSniffer-1.5.1
+
+   3.) நீங்கள் உபுண்டுவின் பழைய பதிப்பினை உபயோகித்தால் அல்லது நிறுவதலில்
+   வேறு பிரச்சினை இருந்தால், நீங்கள் நேரடியாக சமீபத்திய பதிப்பினைப்
+   பதிவிறக்கி அதை பயன்படுத்த முடியும்.
+
+   பதிவிறக்க இணைப்பு –
+   http://download.pear.php.net/package/PHP_CodeSniffer-1.5.1.tgz
+
+   பயன்படுத்துதல்:
+
+   உதாரணத்திற்கு ஒரு எளிய பயன்பாட்டினை பார்க்கலாம் :
+
+   1. தொகுப்பினைப் பதிவிறக்கி அதை unpack செய்யவும்.
+   2. நிரல் தரத்தினை சரிபார்க்க மாதிரி PHP கோப்பினை உருவாக்கலாம்.
+
+   sample.php
+
+   $a=1;
+   if($a>0)
+   {
+   echo “earth is round”;
+   }
+   ?>
+
+   3. நிரல் தரத்தினை சரிபார்க்கும் கட்டளை :
+
+   #cd PHP_CodeSniffer-1.5.1/PHP_CodeSniffer-1.5.1/scripts/
+   #./phpcs /home/bala/sample.php
+
+   குறிப்பு: மேற்கண்ட directory யில் உள்ள phpcs கட்டளை உபயோகிக்க ./phpcs
+   என்று தரப்பட்டுள்ளது.
+
+   Code Sniffer கருவி பின்வரும் நிரல் தர பிழைகளை காட்டுகிறது :-
+
+   FILE: /home/bala/sample.php
+   ——————————————————————————–
+   FOUND 5 ERROR(S) AFFECTING 3 LINE(S)
+   ——————————————————————————–
+   1 | ERROR | Short PHP opening tag used; expected “ 1 | ERROR | Missing
+   file doc comment
+   3 | ERROR | Expected "if (...) {\n"; found "if(...)\n{\n"
+   3 | ERROR | There must be a single space between the closing
+   parenthesis and
+   | | the opening brace of a multi-line IF statement; found newline
+   5 | ERROR | Line indented incorrectly; expected at least 4 spaces,
+   found 0
+   -----------------------------------------------------------------------
+   ---------
+
+   நாம் மேலே கண்ட பிழைகளை சரிசெய்து மீண்டும் நிரல் தரத்தினை
+   சரிபார்க்கலாம்.
+
+   PEAR தரப்படி சரி செய்யப்பட்ட கோப்பினை கீழே காணலாம்.
+
+   /**
+   * Sample PHP file for coding standard demo
+   *
+   * PHP version 5
+   *
+   * @category CategoryName
+   * @package PackageName
+   * @author Original Author
+   * @license GNU General Public License
+   http://www.gnu.org/licenses/gpl.html
+   * @link http://foobar.com
+   */
+
+   $a=1;
+   if ($a>0) {
+   echo “earth is round”;
+   }
+   ?>
+   மீண்டும் தரம் பார்க்கையில் பிழைகள் மறைந்து விடுவதை பார்க்கலாம்.
+
+   தரங்களைத் தேர்ந்தெடுத்தல் / நிர்ணயித்தல் :
+
+   * ஏற்கனவே நிர்ணயிக்கப்பட்ட தரங்களை பட்டியிலிட ,
+
+   #phpcs -i
+   The installed coding standards are Zend, PHPCS, MySource, Squiz, PEAR,
+   PSR2 and PSR1
+
+   * நீங்கள் Zend & PHPCS என்ற நிரல் தரத்தை பயன்படுத்த விரும்பினால்,
+   பின்வருமாறு கட்டளை பயன்படுத்தலாம்,
+
+   #phpcs –standard=Zend,PHPCS /home/bala/sample.php
+
+   * நீங்கள் மேலேயுள்ள நிரல் தரங்கள் எங்கே வரையறுக்கப்பட்டுள்ளன என்று
+   தெரிந்து கொள்ள வேண்டுமா?
+
+   #ls PHP_CodeSniffer-1.5.1/CodeSniffer/Standards/
+
+   இங்கே ஒவ்வொரு நிரல் தரமும் அதே பெயரிலான directory யில் பிரித்து
+   வைக்கப்பட்டுள்ளன. Sniffs என்ற directory க்குள் எல்லா தரங்களும்
+   நிரலாக்கப்பட்டுள்ளன .
+
+   ஏற்கனவே உள்ள நிரல் தர கோப்புகளிலிருந்து நமக்கேற்றவாறு தேவையான தரங்களை
+   மட்டும் ஒரு தொகுப்பாக சேர்த்து ruleset.xml என்ற கோப்பினை உருவாக்கி அதனை
+   தரம் பார்க்க பயன்படுத்தலாம்.
+
+   நமக்கு தேவையானது ஏற்கனவே இல்லையென்றால் நாம் புதியதொரு தரத்தினையும் PHP
+   – ல் நிரலாக்க முடியும்.
+
+   மேலும் விவரங்களுக்கு , இங்கு பார்க்கவும் –
+   http://pear.php.net/manual/en/package.php.php-codesniffer.php
+
+   உதவிக்கு அணுகவும் :- kbalavignesh@gmail.com
+   ↧
+   ↧
+
+WordPress 3.9 “Smith”
+
+   April 16, 2014, 11:33 am
+   ≫ Next: WordPress 3.9.1 Maintenance Release
+   ≪ Previous: PHP Code Sniffer –நிரல் தரம் சோதனைக் கருவி
+   $
+   0
+   0
+
+   Version 3.9 of WordPress, named “Smith” in honor of jazz organist Jimmy
+   Smith, is available for download or update in your WordPress dashboard.
+   This release features a number of refinements that we hope you’ll love.
+   [EMBED]
+
+A smoother media editing experience
+
+   editor
+
+Improved visual editing
+
+   The updated visual editor has improved speed, accessibility, and mobile
+   support. You can paste into the visual editor from your word processor
+   without wasting time to clean up messy styling. (Yeah, we’re talking
+   about you, Microsoft Word.)
+
+   image
+
+Edit images easily
+
+   With quicker access to crop and rotation tools, it’s now much easier to
+   edit your images while editing posts. You can also scale images
+   directly in the editor to find just the right fit.
+
+   dragdrop
+
+Drag and drop your images
+
+   Uploading your images is easier than ever. Just grab them from your
+   desktop and drop them in the editor.
+     __________________________________________________________________
+
+Gallery previews
+
+   gallery
+
+   Galleries display a beautiful grid of images right in the editor, just
+   like they do in your published post.
+     __________________________________________________________________
+
+Do more with audio and video
+
+   Ain't Misbehavin' Davenport Blues Buddy Bolden's Blues Squaty Roo Dixie
+   Blues Wolverine Blues
+
+   Images have galleries; now we’ve added simple audio and video
+   playlists, so you can showcase your music and clips.
+     __________________________________________________________________
+
+Live widget and header previews
+
+   //wordpress.org/news/files/2014/04/widgets.mp4
+
+   Add, edit, and rearrange your site’s widgets right in the theme
+   customizer. No “save and surprise” — preview your changes live and only
+   save them when you’re ready.
+
+   The improved header image tool also lets you upload, crop, and manage
+   headers while customizing your theme.
+     __________________________________________________________________
+
+Stunning new theme browser
+
+   theme
+   Looking for a new theme should be easy and fun. Lose yourself in the
+   boundless supply of free WordPress.org themes with the beautiful new
+   theme browser.
+     __________________________________________________________________
+
+The Crew
+
+   This release was led by Andrew Nacin and Mike Schroder, with the help
+   of these fine individuals. There are 267 contributors with props in
+   this release, a new high:
+
+   Aaron D. Campbell, Aaron Jorbin, Adam Harley, Adam Silverstein,
+   adelval, Ajay, Akeda Bagus, Alex Concha, Alison Barrett, Allan Collins,
+   Amy Hendrix (sabreuse), Andrea Fercia, Andrew Nacin, Andrew Norcross,
+   Andrew Ozz, Andrey "Rarst" Savchenko, Andy Keith, Andy Skelton, Anton
+   Timmermans, Aubrey Portwood, Barry, Bartosz Romanowski, bassgang,
+   bcworkz, Ben Dunkle, Bernhard Riedl, bigdawggi, Bob Gregor,
+   bobbingwide, Brad Touesnard, bradparbs, bramd, Brandon Kraft,
+   brasofilo, bravokeyl, Bryan Petty, cgaffga, Chirag Swadia, Chouby,
+   Chris Blower, Chris Marslender, Chris Olbekson, Chris Scott,
+   chriseverson, chrisguitarguy, Christopher Finke, ciantic, Comparativa
+   de Bancos, Connor Jennings, Cor van Noorloos, Corphi, cramdesign,
+   Daniel Bachhuber, Daniel Jalkut (Red Sweater), Danny de Haan, Daryl
+   Koopersmith, Dave Kellam (eightface), DaveE, David A. Kennedy, David
+   Anderson, David Marichal, Denis de Bernardy, Dion Hulse, Dominik
+   Schilling, Doug Wollison, Drew Jaynes, DrProtocols, Dustin Filippini,
+   eatingrules, edik, Elio Rivero, enej, Eric Andrew Lewis, Eric Mann,
+   Erica Varlese, Erick Hitter, Evan Anderson, Fahmi Adib, fboender, Frank
+   Klein, Gary Cao, Gary Jones, Gary Pendergast, genkisan, Gennady
+   Kovshenin, George Stephanis, Graham Armfield, Grant Mangham, Gregory
+   Cornelius, Gregory Karpinsky (@tivnet), hakre, hanni, Helen Hou-Sandí,
+   ippetkov, Ipstenu (Mika Epstein), J.D. Grimes, Jack Reichert, jameslee,
+   Janneke Van Dorpe, janrenn, JayCC, Jeff Sebring, Jen Mylo, Jeremy Felt,
+   Jesin A, Jesper Johansen (jayjdk), jnielsendotnet, Joan Artes, Joe
+   Dolson, Joe Hoyle, John Blackbourn, John James Jacoby, John P. Bloch,
+   John Regan, Jon Cave, Jonas Bolinder (jond3r), Joost de Valk, Josh
+   Pollock, Joshua Abenazer, jstraitiff, Julio Potier, Justin Kopepasah,
+   Justin Sainton, K.Adam White, Kailey (trepmal), Kaspars, Kelly Dwan,
+   kerikae, Kevin Worthington, Kim Parsell, Kirk Wight, kitchin, klihelp,
+   Knut Sparhell, Konstantin Kovshenin, Konstantin Obenland, Krzysiek
+   Drozdz, Lance Willett, Lee Willis, lkwdwrd, lpointet, Luc De Brouwer,
+   Lucas Karpiuk, Mark Barnes, Mark Jaquith, Marko Heijnen, Marventus,
+   Matt (Thomas) Miklic, Matt Banks, Matt Mullenweg, Matthew Boynes,
+   Matthew Denton, Matthew Haines-Young, mattonomics, mattyrob, Matías
+   Ventura, Max Cutler, mcadwell, Mel Choyce, meloniq, Michael Arestad,
+   Michel - xiligroup dev, Miguel Fonseca, Mike Burns, Mike Hansen, Mike
+   Manger, Mike Schinkel, Mike Schroder, mikecorkum, mitcho (Michael
+   Yoshitaka Erlewine), Mohammad Jangda, Morgan Estes, Morten
+   Rand-Hendriksen, Naoko Takano, Nashwan Doaqan, nendeb55, Nick Halsey,
+   Nicole Arnold, Nikhil Vimal (NikV), Nivi Jah, nofearinc, Nuno
+   Morgadinho, olivM, Omer Korner, OriginalEXE, oso96_2000, patricknami,
+   Paul Bearne, Paul Gibbs, Paul Wilde, pavelevap, Peter Westwood, Philip
+   Arthur Moore, Pippin Williamson, Prasath Nadarajah, prettyboymp, Raam
+   Dev, rachelbaker, Ram Ratan Maurya, ramonchiara, Rescuework Support,
+   Rhys Wynne, Ricardo Correia, Richard Sweeney, Richard Tape,
+   richard2222, Ricky Lee Whittemore, Robert Chapin, robmiller, Rodrigo
+   Primo, romaimperator, roothorick, ruud@joyo, Ryan Boren, Ryan McCue,
+   Sal Ferrarello, Samuel Wood (Otto), Sandeep, Scott Lee, Scott Reilly,
+   Scott Taylor, ScreenfeedFr, scribu, sdasse, Sean Butze, Sean Hayes,
+   Sean Nessworthy, Sergey Biryukov, shahpranaf, Shaun Andrews, ShinichiN,
+   Simon Prosser, Simon Wheatley, Siobhan, Siobhan Bamber (siobhyb),
+   sirzooro, solarissmoke, sonjanyc, Spencer Finnell, Spencer Piontkowski,
+   stephcook22, Stephen Edgar, Stephen Harris, Steve Bruner, Steven Word,
+   Takayuki Miyauchi, Tanner Moushey, Taylor Lovett, tbrams, tellyworth,
+   TobiasBg, Tom Auger, Tom Willmot, Topher, topquarky, Torsten
+   Landsiedel, Toru, Travis Smith, Umesh Kumar, undergroundnetwork,
+   VarunAgw, wawco, Weston Ruter, wokamoto, xsonic, Yoav Farhi, Yuri
+   Victor, Zach Tirrell, and Ze Fontainhas. Also thanks to Michael Pick
+   for producing the release video.
+
+   If you want to follow along or help out, check out Make WordPress and
+   our core development blog. Thanks for choosing WordPress. See you soon
+   for version 4.0!
+   ↧
+
+WordPress 3.9.1 Maintenance Release
+
+   May 8, 2014, 11:40 am
+   ≫ Next: பாண்டாஸ் (Pandas)
+   ≪ Previous: WordPress 3.9 “Smith”
+   $
+   0
+   0
+
+   After three weeks and more than 9 million downloads of WordPress 3.9,
+   we’re pleased to announce that WordPress 3.9.1 is now available.
+
+   This maintenance release fixes 34 bugs in 3.9, including numerous fixes
+   for multisite networks, customizing widgets while previewing themes,
+   and the updated visual editor. We’ve also made some improvements to the
+   new audio/video playlists feature and made some adjustments to improve
+   performance. For a full list of changes, consult the list of tickets
+   and the changelog.
+
+   If you are one of the millions already running WordPress 3.9, we’ve
+   started rolling out automatic background updates for 3.9.1. For
+   sites that support them, of course.
+
+   Download WordPress 3.9.1 or venture over to Dashboard → Updates and
+   simply click “Update Now.”
+
+   Thanks to all of these fine individuals for contributing to
+   3.9.1: Aaron Jorbin, Andrew Nacin, Andrew Ozz, Brian Richards, Chris
+   Blower, Corey McKrill, Daniel Bachhuber, Dominik Schilling,
+   feedmeastraycat, Gregory Cornelius, Helen Hou-Sandi, imath, Janneke Van
+   Dorpe, Jeremy Felt, John Blackbourn, Konstantin Obenland, Lance
+   Willett, m_i_n, Marius Jensen, Mark Jaquith, Milan Dinić, Nick Halsey,
+   pavelevap, Scott Taylor, Sergey Biryukov, and Weston Ruter.
+   ↧
+
+பாண்டாஸ் (Pandas)
+
+   May 11, 2014, 8:52 pm
+   ≫ Next: இதயத்தில் ஒரு கசிவு (Heart Bleed)
+   ≪ Previous: WordPress 3.9.1 Maintenance Release
+   $
+   0
+   0
+
+   எழுத்து: ச.குப்பன்
+
+   இன்றைய சூழலில், தரவுகள் தான் அனைத்து செயல்களுக்குமான மூலமாக
+   விளங்குகின்றன. அபரிதமாக இணைய பயன்பாட்டு வளர்ச்சியினால், ஒவ்வொரு
+   நொடியும் கணக்கிடமுடியாத அளவிற்கு இந்த தரவுகள் உருவாகிக்கொண்டே உள்ளன .
+   அதற்கேற்ப ஏராளமான நிறுவனங்கள் இந்த தரவுகளைத் திறனுடன் கையாளுவதற்காகப்
+   புதுப்புது வழிமுறைகளையும், மென்பொருள் கருவிகளையும் உருவாக்கி
+   வெளியிட்டுக் கொண்டே இருக்கின்றன.
+
+   அவ்வாறானவைகளுள் பாண்டாஸ் (Pandas) எனும் திறமூலக் கருவியும் ஒன்றாகும்.
+   பைத்தானினுடைய (Python) நம்பி (numpy) எனும் கணித கட்டுகளைகொண்டு
+   அணியினைப் பயன்படுத்தும் போது, இவ்வாறான தரவுகளைக் கையாளுவதற்குப் போதுமான
+   கருவிகள் இல்லாமல் தடுமாற வேண்டியுள்ளது. இதனை தவிர்க்க பாண்டாஸ்
+   பயன்படுகின்றது. இது தரவுகளை ஆய்வு செய்திடும் கட்டுகளாக, பைத்தானின்
+   நம்பி அணியுடன் (numpy arrays) ஒருங்கிணைந்து செயல்படுமாறு முன்கூட்டியே
+   கட்டபட்டு கிடைக்கின்றது.
+   பாண்டாஸ் ஏராளமான செயலிகளை தன்னகத்தே கொண்டுள்ளது அவற்றுள் ஒரு சிறு
+   பகுதியைமட்டும் இப்போது காண்போம்.
+
+   pandas
+
+   Pip என்பதை பயன்படுத்தி Sudo pip install pandas எனும் கட்டளை வரிகளின்
+   மூலம் இதனை நிறுவி பயன்படுத்திடத் துவங்கலாம். இவ்வாறு நிறுவுகை
+   செய்திடும்போது பிரச்சினை ஏதேனும் எழுந்தால்
+   http://pandas.pudata.org/pandas-docs/stable/install.html/ எனும் இணையப்
+   பக்கத்திற்கு சென்று தீர்வு காணமுடியும்.
+   நம்முடைய பைத்தான் சூழலில், பாண்டஸை நிறுவி பயன்படுத்திக் கொள்ள Import
+   pandas என்ற கட்டளைவரியினைப் பயன்படுத்தலாம். புள்ளியியலில்
+   பயன்படுத்துவதை போன்றே, பாண்டாஸின் Mean எனும் செயலியானது தரவுகளின்
+   சராசரியைக் காணவும், std எனும் செயலியானது திட்டவிலக்கத்தை காணவும் , sum
+   எனும் செயலியானது கூட்டுத்தொகையினைக் காணவும் பயன்படுகின்றன .
+   இவற்றை ஒட்டுமொத்த தரவுகளுக்கும் பயன்படுத்திக் கொள்ள, applyஎனும் கூடுதல்
+   செயலி பயன்படுகின்றது அதுமட்டுமின்றி இதில் is null எனும் செயலி மூலம்
+   Trueஅல்லது False என்று தரவுகளை ஒப்பிட்டு சரி பார்த்திட முடியும்.
+   மேற்கண்டவாறு, ஏராளமான தரவுகளை கையாளும் பாண்டாஸின் செயலிகளைக் கொண்டு
+   நம்முடைய தேவைக்கு ஏற்ப பயன்படுத்தி கொள்ளலாம்.மேலும், இந்த பாண்டாஸ்
+   செயலியை R , MATLAB , Julia, Octave ஆகிய திறமூல கருவிகளில் கூட நம்முடைய
+   தேவைக்கு ஏற்ப பயன்படுத்தி கொள்ளமுடியும்.
+   ↧
+   ↧
+
+இதயத்தில் ஒரு கசிவு (Heart Bleed)
+
+   May 14, 2014, 8:25 pm
+   ≫ Next: Chennai Events –சென்னை நிகழ்வுகளின் தொகுப்பு
+   ≪ Previous: பாண்டாஸ் (Pandas)
+   $
+   0
+   0
+
+     எப்பொருள் எத்தன்மைத் தாயினும் அப்பொருள்
+     மெய்ப்பொருள் காண்ப தறிவு
+     – திருக்குறள்
+
+   இன்றைய காலக்கட்டத்தில் மென்பொருள் பயன்பாடுகளுக்கு மேற்கண்ட குறள்
+   மிகவும் பொருந்தும். பலரும் தங்கள் அறிவையும், நேரத்தையும் செலவிட்டு
+   உருவாக்கும் மென்பொருட்களில், நாம் அறியாது இருக்கும் சிறு வழு (Bug) கூட
+   வலுவானதாகி, மாபெரும் அச்சுறுத்தல் ஆகி விடுகிறது. அப்படி, சமீபத்தில்
+   கண்டறியப்பட்டு உலகத்தையே ஒரு கலக்கு கலக்கிய பாதுகாப்பு குறைபாடுதான்
+   இதயக் கசிவு (Heart Bleed) ஆகும்.
+
+   இதயக் கசிவு ஒரு வழு (Bug) மட்டுமே… நச்சுநிரல் (Virus) அல்ல!!!
+
+   heartbleed
+
+   இதயக் கசிவு (Heart Bleed) என்றால் என்ன?
+
+   Transport Layer Security (TLS) மற்றும் Secure Sockets Layer (SSL)
+   ஆகியவை மறைகுறியீட்டு நெறிமுறைகள் (cryptographic protocols) ஆகும். இவை
+   மின்னஞ்சல், அரட்டை செய்தி, உடன் செய்தி (IM), மெய்நிகர் தனியார் பிணையம்
+   (Virtual Private Network) முதலிய பல இணையப் பயன்பாடுகளுக்குத் தொடர்புப்
+   பாதுகாப்பு மற்றும் தகவல் பாதுகாப்பு ஆகியவற்றை வழங்குகின்றன.
+
+   இதயக் கசிவு (Heart Bleed) என்பது Open SSL என்னும் பாதுகாப்புக்
+   கட்டமைப்பின் மறைகுறியீட்டு தகவலரங்கத்தில் உள்ள ஒரு வழு (Bug) ஆகும்.
+   இந்த வழுவைப் பயன்படுத்தி, SSL / TLS மூலம் பாதுகாக்கப்பட்ட இணையத்
+   தகவல்களை யார் வேண்டுமானாலும் திருடலாம்.
+
+   இந்த வழுவைக் கொண்டு Open SSL பாதுகாப்பு பெறும் எந்தக் கருவியின்
+   நினைவகத்தையும் படிக்கலாம். அப்படிப் பெறப்படும் தகவல்களுள் ரகசியக்
+   குறியீடுகள், பயனர் பெயர், கடவுச்சொல் உட்பட அனைத்தும் அடங்கும்.
+   அதிகபட்சமாக 64 கி.பைட் தரவினைப் பெற முடியும்.
+
+   இதயம் கசிவது எப்படி?
+
+   நமது ஊரில் போட்டு வாங்குவது என்று சொல்வார்களே… அதே தான் இங்கும்
+   நடக்கிறது.. சிலரது வாயைக் கிண்டினால், ஊர்க்கதை, உலகக் கதை எல்லாமே தானே
+   வெளிவரும். உங்களுக்குத் தெரிந்தவற்றை விட தெரியாதவை அதிகம் இருக்க
+   வாய்ப்பு உண்டு. இது தான் கசிவிற்கு காரணம்.
+
+   madhan_comedy1
+
+   உதாரணமாக, பயணம் செய்யும்போது, அருகில் இருப்பவரிடம் பேச்சு
+   கொடுக்கிறீர்கள். முதலில் அளவாகப் பேசுபவர்கள் முதலில் அளவாக பேசுபவர்கள்
+   ஒரு கட்டத்திற்கு மேல், பக்கத்து வீட்டு பாட்டி பாமாயில் வாங்கியதில்
+   துவங்கி, எதிர் வீட்டு ஏகாம்பரம் ஏரோப்பிளேனில் ஏறியது வரை பேசுவார்கள்.
+
+   இதே நிலைதான் இதயக் கசிவு மூலம் இணையத்தில் ஏற்படுகிறது. அதனை எளிதாய்
+   விளக்கும் ஒரு படத்தைக் கீழே காணலாம்.
+
+   Simplified_Heartbleed_explanation.svg
+
+   கண்டறிந்தவர்கள்:
+   ‘முட்டாள்கள் தினம்’ என்று உலகெங்கும் கொண்டாடப்படும் ஏப்ரல் 1 (2014)
+   அன்றுதான் பலரையும் முட்டாள் ஆக்கிய இந்த வழு கண்டறியப்பட்டது. கூகிள்
+   நிறுவனத்தின் பாதுகாப்புத் துறையில் இருக்கும் நீல் மேத்தா (Neel Mehta)
+   இதனைக் கண்டறிந்தார்.
+   அதே நேரத்தில், Codenomicon என்னும் நிறுவனத்தில் உள்ள ஒரு பொறியாளர்
+   ஒருவரும் தனியாக இதனைக் கண்டறிந்தார். தாங்களே உள்நுழைத் தாக்குனர்களாக
+   மாறி (Crackers) சோதனை செய்த போது Codenomicon இந்தக் குறைபாட்டினைக்
+   கண்டறிந்தது. மேலும், இதனைப் பற்றி பலரும் அறியும் பொருட்டு, இதயக் கசிவு
+   பற்றிய வலைப்பக்கத்தையும் (http://heartbleed.com), அதற்கென ஒரு
+   சின்னத்தையும் (Logo) உருவாக்கியது.
+
+   நோய்வாய்ப்பட்டவர்கள்:
+
+   இந்த வழுவின் மூலம் பாதிக்கப்பட்ட பயன்பாடுகள் ஏராளம். அவற்றில்
+   திறவூற்றுப் பயன்பாடுகள், காப்புரிமைப் பயன்பாடுகள் என்று எந்த வேறுபாடும்
+   இல்லை.
+
+   இன்று பரவலாக உலா வரும் ஆண்ட்ராய்ட் (Android) சாதனங்களில் Jellybean
+   எனப்படும் Android 4.1.1 இயங்குதளம் இருக்கும் அனைத்துக் கருவிகளும் அந்த
+   வழுவால் பாதிக்கப்பட்டு இருக்கின்றன.
+
+   GitHub, Source Forge, Wikipedia, Yahoo!, Pinterest, Tumblr,
+   Amazon,Reddit, Imgur, Stack Overflow, DuckDuckGo முக்கிய
+   இணையத்தளங்களும் பாதிக்கப்பட்டவைகளில் வர்களில் அடக்கம். McAfee
+   நச்சுநிரல் நீக்கியும் இதற்குத் தப்பவில்லை.
+   Steam போன்ற விளையாட்டுகள், Libre Office 4.2.2, Vmware முதலியவையும்
+   பாதிக்கப்பட்டுள்ளன.
+
+   கசிந்தவை:
+
+   ஏப்ரல் 8, 2014 அன்று கனடாவின் வருவாய்த் துறை (Canada Revenue Agency)
+   தனது தரவுதளத்தில் உள்ள சுமார் 900 வரிதாரர்களின் (Tax Payers) தகவல்
+   திருடப்பட்டு விட்டதாக அறிவித்தது. இதனைத் தடுக்க, தீர்வு வரும் வரை, தனது
+   வலைத்தளத்தை மூடி விட்டது. மேலும், வரி கட்டுவதற்கான காலக்கெடுவையும்
+   நீட்டித்தது.
+
+   Screen Shot 2014-04-09 at 12.41.43 PM.jpg
+
+   அமெரிக்காவின் தேசியப் பாதுகாப்பு ஆணையத்திற்கு (National Security Agency
+   – NSA) இந்தக் கசிவைப் பற்றி முன்பே தெரிந்திருக்கக்கூடுமோ என்ற அச்சமும்
+   ஏற்படுகிறது. NSA இந்த ஓட்டையைப் பயன்படுத்தித் தகவல்களைத் திருடினார்களா
+   என்று யாருக்கும் தெரியவில்லை. NSA இதனை மறுத்தாலும், அவர்கள் கூற்றை
+   யாரும் நம்புவதற்கில்லை என்ற கருத்தும் நிலவுகிறது.
+
+   கசிவைத் தடுத்தல்:
+
+   இதயக் கசிவைத் தடுப்பதற்கான நிரல் கட்டளைகள் எழுதப்பட்டு விட்டன.
+   மாற்றங்களை git.openssl.org என்னும் முகவரியில் காணலாம். மாற்றங்களை
+   உள்ளடக்கிய OpenSSL 1.0.1g வெளியாகியுள்ளது.
+   எனினும், இந்த மாற்றங்களால் எதிர்காலத்தில் நடப்பதை மட்டுமே தடுக்க
+   இயலும். எனவே, பயனர்கள் தங்கள் கடவுச்சொற்களையும், ரகசியக்
+   குறியீடுகளையும் மாற்றிக் கொள்வது நல்லது.
+
+   நக்கலும், பதிலும் :
+
+   இணைய நண்பர் ஒருவர், ” Heart Bleed போன்ற அபாயகர Bug எல்லாம் Open Source
+   இல் இருக்கு. அதனை எப்படி நம்புவது?” என்று கேட்டார்.. ‘Open Source ஆக
+   இருந்ததால் தான் யாரோ செய்த பிழையை வேறு ஒருவரால் கண்டறிய முடிந்தது.
+   அதற்கான தீர்வை இன்னொருவரால் விரைவாக கொடுக்க முடிந்தது. உங்கள் Licensed
+   Software இல் இருக்கும் பிழைகளுக்கு இது சாத்தியமா?” என்று கேட்டேன்.
+   என்ன…. நான் கேட்டது சரி தானே?
+
+   நன்றி:
+
+   Heart Bleed இணையதளம்
+   விக்கிபீடியா கட்டுரை
+   Hacker News
+
+   கார்டூனிஸ்ட் மதன் அவர்கள்
+   கூகிள் தேடல்
+   ↧
+
+Chennai Events –சென்னை நிகழ்வுகளின் தொகுப்பு
+
+   May 18, 2014, 8:45 pm
+   ≫ Next: இயல்பு வாழ்க்கையில் யூ.எஸ்.பி 2.0 மற்றும் யூ.எஸ்.பி. 3.0
+   ≪ Previous: இதயத்தில் ஒரு கசிவு (Heart Bleed)
+   $
+   0
+   0
+
+   Light_House_(Present),_Chennai
+
+   சென்னை மாநகரம் பல நிகழ்வுகளின் துறைமுகமாகத் திகழ்கிறது.
+
+   சென்னையிலும், அதனைச் சுற்றியுள்ள பகுதிகளிலும் அன்றாடம் பல பொது
+   நிகழ்ச்சிகள் நடைபெறுகிறன. அவற்றுள் தொடர்நிரல் நிகழ்வுகள் (Hackathon),
+   மென்பொருள் பயனர் குழுக்களின் சந்திப்புகள் (Software Users Group
+   meetings), பயன்பாடு வெளியீடு (Product launch), துவக்க விழாக்கள் போன்ற
+   கணினியாளர்களுக்கான தொழில்நுட்ப நிகழ்ச்சிகளும், பதிவர் சந்திப்பு,
+   கீச்சர் சந்திப்பு (Tweetup), புகைப்பட பயிற்சி மற்றும் பயிலரங்குகளும்
+   அடங்கும்.
+
+   இந்நிகழ்ச்சிகள் பற்றி வலைத்தளங்கள், பதிவுகள், முகநூல் நிகழ்வுகள்
+   (Facebook Events), கூகிள் நிகழ்வுகள் (G+ Events), மற்றும் meetup.com,
+   eventbrite.com போன்ற நிகழ்வுத் தளங்கள் ஆகியவை மூலம் அறிவிக்கப்படுகிறன.
+   ஆனால், இவை அனைத்தையும் ஒருங்கே அறிவதற்கு இதுவரை எந்த இடமும் இல்லை.
+
+   சென்னையில் நடக்கும் இந்நிகழ்ச்சிகளைத் தொகுத்து ஓர் இடத்தில்
+   வழங்குவதற்கான முயற்சியின் ஒரு படி தான் கூகிள் நாள்காட்டியில் வந்துள்ள
+   Chennai Events என்னும் நிகழ்வுத் தொகுப்பு.
+
+   தன்னார்வலர்களின் குழு இந்த தொகுப்பினைப் புதுப்பிக்கும். கூகிள்
+   நாள்காட்டியில் இந்த நிகழ்வுத் தொகுப்பு உள்ளதால், கீழ்காணும் பயன்கள்
+   அனைவருக்கும் கிடைக்கும்:
+
+     மின்னஞ்சல் அறிவிப்பு (Email Notification)
+
+     குறுஞ்செய்தி அறிவிப்பு (SMS Notification)
+
+     பல பயனர் ஆக்கம்
+
+     பிற நாள்காட்டிகளுடன் இணைத்தல்
+
+   எப்படி பெறுவது?
+
+   முகவரி : http://chennaieventscalendar.blogspot.in/
+
+   இணைப்புப் பொது முகவரி (Public iCal) (பிற நாள்காட்டிகளுடன் இணைப்பதற்கு)
+   :
+   https://www.google.com/calendar/ical/6ppkf92sp3one0i7al7inkahm8%40group
+   .calendar.google.com/public/basic.ics
+
+   உங்களது கூகிள் நாள்காட்டியில் இணைக்க:
+
+   1. கூகிள் நாள்காட்டிக்குச் செல்லுங்கள்
+   2. ‘ Other calendars ‘ அருகில் உள்ள கீழ்நோக்கும் சுட்டியைச்
+   சொடுக்குங்கள்.
+
+   Add Calendar
+
+   3. அதில் ‘Add by URL’ என்பதைத் தேர்ந்தெடுங்கள்.
+
+   ics
+
+   4. Public iCal முகவரியினை உள்ளிடுங்கள்.
+   5. அதன் பின், ‘Add Calendar’ ஐச் சொடுக்குங்கள்.
+
+   இப்போது, உங்கள் நாள்காட்டித் தொகுப்புகளில் “Other Calendars” கீழ்
+   Chennai Events இருப்பதைக் காணலாம். தொகுப்பு ஓடை சரிவர இயங்க அதிகபட்சம்
+   8 மணிநேரம் வரை ஆகலாம்.
+
+   மின்னச்சல் \ குறுஞ்செய்தி அறிவிப்புகளைப் பெற, Remainders and
+   Notifications பக்கம் போய், தேவையான அமைப்புகளைத் தேர்வு செய்துக்
+   கொள்ளலாம்.
+
+   notification
+
+   remainder
+
+   நீங்களும் பங்குபெற:
+
+   Chennai Events நிகழ்வுத் தொகுப்பில் பங்கு பெற விரும்புவோர் நண்பர்
+   சீனிவாசன் அவர்களை (tshrinivasan@gmail.com ) தொடர்புக் கொள்ளலாம்.
+
+   நன்றி: விக்கிபீடியா
+
+   ஆக்கம்: சீனிவாசன்
+   மொழியாக்கம்: ‘ஆளுங்க’ அருண்
+
+   ↧
+
+இயல்பு வாழ்க்கையில் யூ.எஸ்.பி 2.0 மற்றும் யூ.எஸ்.பி. 3.0
+
+   May 25, 2014, 8:27 pm
+
+   ≫ Next: தமிழ்99 –ஸ்டிக்கர்கள் –நீங்களே அச்சடிக்கலாம்
+
+   ≪ Previous: Chennai Events –சென்னை நிகழ்வுகளின் தொகுப்பு
+
+   $
+   0
+   0
+
+   யூ.எஸ்.பி 3.0 கருவிகள் மிகவும் பொதுவானதாக ஆகிவிட்டன, ஆனால் யூ.எஸ்.பி
+   2.0 கருவிகளுடன் ஒப்பிடும் போது அவை என்ன மேம்பட்ட பலன்களை அளிக்கின்றன?
+
+   மொழியாக்கம்: ஜோபின் பிராஞ்சல் ஆன்றனி
+
+   USB
+
+   யூ.எஸ்.பி 3.0 கருவிகளுக்காக நான் மிகவும் ஆவலுடன் காத்திருந்தேன்.
+   அதிலும் குறிப்பாக, ஃபிளாஷ் மெமரி ஸ்டுக்குகள் (Flash Memory Stick) . பல
+   வகையான லினக்ஸ் பகிர்வுகளை முயலும் போது பலமுறை யூ.எஸ்.பி கருவிகள் மூலம்
+   கோப்புகளைப் படிக்கவும், சேமிக்கவும் நேரிடும்.
+
+   தற்போது யூ.எஸ்.பி 3.0 கருவிகள் மிகவும் பிரபலம் ஆகி விட்டன. நானும்
+   யூ.எஸ்.பி 3.0 போர்ட்களை கொண்ட இரண்டு கையேட்டு கணினிகளைப் (notebook
+   computers) பயன்படுத்துகிறேன். யூ.எஸ்.பி 3.0 மற்றும் யூ.எஸ்.பி 2.0
+   ஆகியவற்றுக்கு இடையே உள்ள வேகத்தில் கூடுமானவரை எந்த மாற்றமும்
+   இருப்பதில்லை என்பதைக் கொஞ்சம் கொஞ்சமாக அறிகிறேன். இதை மேலும் ஆராய
+   விரும்பி, அந்த ஆராய்ச்சிக்கான சாத்தியக் கூறுகளைச் சிந்திக்கலானேன்.
+
+   மேற்கூறிய ஆராய்ச்சிக்காக என் ஏசர் ஆஸ்பையர் ஒண் 725 (Acer Aspire One
+   725) மற்றும் என் ஹெச்.பி. பெவிலியன் dm1-4310ez (HP Pavilion DM1 4310
+   EZ) ஆகியவற்றைப் பயன் படுத்தியுள்ளேன். இவை இரண்டிலும் யூ.எஸ்பி 3.0
+   போர்ட் ஒன்றும் யூ.எஸ்.பி 2.0 போர்ட்கள் ஆகிய இரண்டும் நிறுவப்பட்டுள்ளன.
+   இதனால், இரண்டு வகையான் யூ.எஸ்.பி போர்ட்களையும் என்னால் சோதித்து பார்க்க
+   இயலும்.
+
+   இரு கணினிகளிலும் மிக சமீபத்திய சீரமைப்புகளுடன் கூடிய ஓபன்சூசே 12.3
+   (OpenSuse 12.3 with latest patchs) நிறுவப்பட்டிருந்தது. நான்
+   நான்குவிதமான யூ.எஸ்.பி 3.0 ஃபிளாஷ் மெமரி ஸ்டிக்குகளை பயன் படுத்தினேன்.
+   அவை: ஃபிலிப்ஸ் 8ஜி.பி. யூ.எஸ்.பி 3.0 ஃபிளாஷ் கருவி (Philips 8 GB USB3.0
+   Flash) , டிஸ்க்2கோ 8ஜி.பி யூ.எஸ்.பி 3.0 ஃபிளாஷ் கருவி (Disc2go 8 GB
+   USB3.0 Flash), வெர்படிம் 16ஜி.பி. யூ.எஸ்.பி 3.0 ஃபிளாஷ் கருவி (Vertim
+   16 GB USB3.0 Flash) மற்றும் சான்டிஸ்க் எக்ஸ்டிரீம் 16ஜி.பி. யூ.எஸ்.பி
+   3.0 ஃபிளாஷ் கருவி (Sandisk 16 GB USB3.0 Flash) ஆகியன ஆகும். இவற்றில்
+   சான்டிஸ்க் மட்டுமே அதன் வேகத்திறன் குறித்து அதன் பொதியில் விளம்பரம்
+   செய்திருந்தது. மற்றவை வெறுமனே ‘யூ.எஸ்.பி 3.0 அதி வேகமானது’ என்று
+   குறிப்பிட்டிருந்தன.
+
+   ஆராய்ச்சியின் போது, வாசித்தல் மற்றும் சேமித்தல் கேஷ் மெமரியில் (cache
+   memory) இருந்து வராதவாறு பார்த்து கொள்வது அவசியம். ஒரு சமயத்தில் முதல்
+   வாசிப்புக்கு 50 வினாடிகளும் இரண்டாம் வாசிப்புக்கு 10 வினாடிகளும்
+   ஆகும்போது இது புலப்பட்டது. இச்சிக்கலைத் தீர்க்க நான் கண்ட வழி , ஒரு
+   வாசிப்பு அல்லது சேமிப்புக்கு பிறகு யூ.எஸ்.பி. கருவியை அகற்றி விட்டு
+   மீண்டும் இணைத்துப் பயன்படுத்துவதே. இது லினக்ஸில் உள்ள கேஷை (cache)
+   அகற்றிவிடும்.
+
+   அளவிடும் படியான நிலையான ஆய்வு முடிவுகள் கிடைக்க வேண்டுமானால், ஓரளவு
+   பெரிய அளவுள்ள கோப்ப பயன்படுத்தப்படவேண்டும். இதற்கு சில நாட்களுக்கு
+   முன்பு நான் பதிவிறக்கம் செய்த சிலாக்வேர் ஐ.எஸ்.ஒ (Slackware iso)- வை
+   பயன்படுத்தலாம். இது கிட்டத்தட்ட 2.4ஜி.பி. அளவுடைய கோப்பு ஆகும். அந்த
+   கோப்பை கணினிக்கும் ஃபிளாஷ் டிரைவுக்கும் இடையே மாற்றி மாற்றி சேமித்து
+   ஆய்வை மேற்கொண்டேன்.
+
+   இறுதியாக, கணினி யூ.எஸ்.பி கருவிகளை எவ்வாறு காண்கிறது என்பதை அறிய
+   வேண்டும்.
+   lsusb -v
+
+   மேற்கண்ட கட்டளை, யூ.எஸ்.பி போர்ட்கள் (USB Ports) மற்றும் இணைக்கப்
+   பட்டுள்ள அனைத்து யூ.எஸ்.பி. கருவிகள் குறித்த தகவல்களையும் அளிக்கும்.
+
+   அந்த தகவல்களில் நாம் இணைத்துள்ள யூ.எஸ்.பி கருவியை முதலில் கண்டுபிடிக்க
+   வேண்டும். ஒவ்வொரு யூ.எஸ்.பி.-குமான குறிப்பு தலையங்கத்துடன் (header)
+   துவங்கும். அதனைத் தொடர்ந்து வரும் குறிப்புகளைக் கவனமாக படிக்க வேண்டியது
+   அவசியம். ஏனெனில், தலையங்கத்தில் வரும் பெயர்கள் பெரும்பாலும் கருவியில்
+   குறிப்பிடப்படும் பெயர்களுடன் ஒத்துப் போவது இல்லை.
+
+   யூ.எஸ்.பி. கருவியின் தகவல்களில் “bsdUSB” என்பதன் மதிப்பே (value) அந்த
+   கருவியின் பதிப்பு (version) ஆகும். அவை 2.00, 2.10, 3.00 போன்றவற்றில்
+   ஏதேனும் ஒன்றாக இருக்கலாம் (மிக பழைய கருவியை நீங்கள் பயன்படுத்தினால்,
+   பதிப்பு 1.00 ஆக இருக்கலாம்). 2.00 மற்றும் 3.00 என்ன என்பது நமக்கு
+   தெரியும். 2.10 என்ற பதிப்பு, 3.00 யூ.எஸ்.பி கருவியை 2.00 போர்டில்
+   பயன்படுத்தினால் ‘bsdUSB’ -ல் காண்பிக்கப்படும் என்பது என் யூகம்.
+
+   ஆய்வின் முதல் படியாக, சுவிஸ் ஆர்மி ஃபிளாஸ் (Swiss Army Floss)
+   டிரைவிலிருந்து ஒரு கோப்பை கணினியில் சேமித்தேன். இந்த ஃபிளாஸ் டிரைவ்
+   யூ.எஸ்.பி 2.0 என்பதால் இதன் செயல்முறையை யூ.எஸ்.பி 3.0 டிரைவுடன் எளிதாக
+   ஒப்பிடலாம். யூ.எஸ்.பி. டிரைவை வெளியே எடுத்தும் இணைத்தும் இரண்டு முறை
+   கோப்பினைச் சேமித்தேன். சேமிப்பதற்குத் தேவைப்படும் நேரம் முதல் முறை 1.48
+   வினாடிகளாகவும் இரண்டாம் முறை 1.46 வினாடிகளாகவும் இருந்தது.
+
+   அடுத்ததாக அந்த யூ.எஸ்.பி. டிரைவை நீக்கிவிட்டு, அனத்து யூ.எஸ்.பி 3.0
+   டிரைவ்களையும் மேற்கூறிய அதே முறையில் சோதித்தேன். முதலாவதாக டிரைவை
+   யூ.எஸ்.பி. 3.0 போர்டில் செலுத்தி, அது யூ.எஸ்.பி 3.0 ஆகத் தான் கணினியில்
+   இயங்குகிறதா என உறுதி செய்து கொண்டேன் (lsusb -v). அடுத்து, 2.4GB அளவுள்ள
+   கோப்பை கணினியிலிருந்து ஃபிளாஸ் டிரைவில் சேமித்தேன்.
+
+   பின்னர், அந்த யூ.எஸ்.பி. டிரைவிலிருந்து கோப்பை நீக்கிவிட்டு டிரைவை
+   அண்மவுண்ட் (unmount), அண்பிளக்(unplug), ரீபிளக்(replug) மற்றும்
+   ரீமவுண்ட்(remount) ஆகியவற்றை வரிசையாக செய்தேன். பின் மீண்டும் கோப்பை
+   சேமித்தேன். மீண்டும் அதே நடவடிக்கைகளை யூ.எஸ்.பி. 2.0 போர்டில்
+   தொடர்ந்தேன். யூ.எஸ்.பி 3.0 டிரைவை 2.0 போர்டில் இணைத்துள்ளதால், இம்முறை
+   யூ.எஸ்.பி டிரைவ் 2.10 ஆக இணந்துருந்தது. சேமிப்பதற்கு ஆகும் நேரத்தையும்
+   குறித்தேன்.
+
+   ஏசர் ஆஸ்பயர் ஒண் 725 (Acer Aspire One 725) -ல் எனக்கு கிடைத்த ஆய்வு
+   முடிவுகள் பின்வருமாறு.
+
+   ACER
+
+   சுவாரசியமாக, பல்வேறு யூ.எஸ்.பி 3.0 டிரைவ்களுக்குள் செயல்திறன்
+   வேறுபட்டிருப்பது ஆச்சரியம் அளிக்கிறது. மீண்டும் இவை அனைத்து
+   ஆய்வுகளையும் ஹெச்.பி. பெவிலியன் (HP Pavilion) dm1-4310ez செய்தேன். அதன்
+   முடிவுகள் பின்வருமாறு.
+
+   HP
+
+   நான் ஒன்றை ஒப்புக்கொள்ள தான் வேண்டும். நான் பல்வேறு ஃபிளாஸ்
+   டிரைவ்களுக்குள் வித்தியாசம் இருக்கும் என்று எதிர்பார்த்தேன். ஆனால்,
+   இவ்வளவு பெரிய வித்தியாசம் இருக்கும் என்று எண்ணவில்லை.
+
+   இறுதியாக, நான் அடிக்கடி யூ.எஸ்.பி டிரைவ்களை பயன்படுத்துவதால் (பல்வேறு
+   லினக்சு பகிர்வுகளை துவக்க), அதற்கு எவ்வளவு நேரம் ஆகும் என சோதிக்க
+   விரும்பினேன். முடிவுகள் தெளிவாக கிடப்பதால், ஒவ்வொரு யூ.எஸ்.பி
+   டிரைவுகளையும் தனித்தனியே சோதனை செய்ய நான் தயங்கவில்லை.
+
+   இதற்கு நான் மிக வேகமானதான சான்டிஸ்கை மட்டும் யூ.எஸ்.பி 3.0 மற்றும்
+   யூ.எஸ்.பி 2.0-வில் பயன்படுத்தினேன். ஆச்சரியப்படும் விதமாக HP dm1-4310
+   கணினியில் ஃபெடோரா 20 (ஜிநோம்) -ஐ துவக்க இரண்டு யூ.எஸ்.பி டிரைவிலும்
+   சமமாக 45 வினாடிகளே ஆனது.
+
+   கிடைத்த முடிவுகள் சரிதான் என்பதை உறுதி செய்ய, இதே முயற்சியை இரண்டு முறை
+   செய்தேன். ஏன் இரண்டு யூ.எஸ்.பி-களிலும் சமமான நேரம் ஆகிறது என்பது எனக்கு
+   புரியவில்லை. முதல் முறை இயங்கு தளத்தை (OS) துவக்கும்போது , யூ.எஸ்.பி.
+   டிரைவ்கள் மற்றும் சில கருவிகளுக்கான குறைந்தபட்ச மென்பொருள்களை (driver)
+   நிறுவுவப்படும். இதன் காரணமாக தான் 2.0 மற்றும் 3.0 யூ.எஸ்.பி போர்ட்களில்
+   வேறுபாடு இருப்பதில்லை என எண்ணுகிறேன்.
+
+   மேலும் ஒப்பிட்டு பார்த்தலுக்காக, இதே கணினியில் (SSD hard drive
+   பொருத்தப்பட்டுள்ளது) சாதாரன துவக்கத்தில், ஃபெடோரா 20 (ஜிநோம்)-ஐ துவக்க
+   15 வினாடிகள் மட்டுமே ஆனது என்பதை கண்டறிந்தேன்.
+
+   கதையின் பொதுவான கருத்து என்னவென்றால், யூ.எஸ்.பி 3.0 கருவியை வாங்கும்
+   போது என்ன வாங்குகிறோம் என்பதை கவனிக்க வேண்டும். அது எளிது அன்று.
+   ஏனெனில், கொடுக்கும் பணத்திற்கு ஏற்றார் போல் செயல்திறன் கொண்ட யூ.எஸ்.பி
+   கருவு இடைக்கும் என உறுதியாக கூற முடியாது. யூ.எஸ்.பி கருவி வாங்க ஆகும்
+   செலவு தான் உங்கள் முதல் கவனம் என்றால், யூ.எஸ்.பி 2.0-விற்கும் குறைவான
+   திறன் கொண்ட யூ.எஸ்.பி 3.0 கருவி உங்களுக்கு கிடைத்தால் வியப்பதற்கு
+   ஒன்றும் இல்லை. ஆனால், செலவு தான் உங்கள் ஒரே கவனம் என்றால், யூ.எஸ்.பி
+   2.0 கருவி வாங்கி நம்பத்தகுந்த செயல்திறனை பெறலாம். சிறிது செலவு அதிகம்
+   ஆனாலும் நல்ல செயல் திறன் கொண்ட யூ.எஸ்.பி கருவி வேண்டும் என்றால்
+   கூர்ந்து கவனித்த பின் வாங்குவதே நல்லது.
+
+   மூலக்கட்டுரை: USB 2.0 and 3.0 in the real world
+   எழுத்து: ஜே.ஏ. வாட்சன்
+   மொழியாக்கம்: ஜோபின் பிராஞ்சல் ஆன்றனி
+
+   ↧
+
+   ____________________
+   Search
+   ____________________ [RSSing.com]
+     __________________________________________________________________
+
+தமிழ்99 –ஸ்டிக்கர்கள் –நீங்களே அச்சடிக்கலாம்
+
+   May 28, 2014, 7:47 am
+
+   ≫ Next: அழகுத் தமிழில் வண்ணப்படங்கள்
+
+   ≪ Previous: இயல்பு வாழ்க்கையில் யூ.எஸ்.பி 2.0 மற்றும் யூ.எஸ்.பி. 3.0
+
+   $
+   0
+   0
+
+
+
+
+   தமிழ்99 விசைப்பலகை தான் உலகிலேயே சிறந்த தமிழ் விசைப்பலகை.
+
+
+   தமிழ்99 விசைப்பலகை முறை, தமிழில் தட்டச்சு செய்வதை எளிதாக்குகிறது.
+
+   இதன் சிறப்புகள் -
+   1. விசையழுத்தங்கள் மிகவும் குறைவு
+   2. இலக்கணப்படி பல இடங்களில் அதுவே மெய்யெழுத்துக்களுக்கு புள்ளியும்
+   வைத்துக் கொள்ளும். இதனால் எழுத்துப் பிழை, இலக்கணப் பிழை இரண்டையுமே
+   ஒழிக்கலாம்.
+   3. பழகுவது எளிது.
+   4. தமிழ் எழுத்துக்களை எப்படி புரிந்து கொள்கிறோமோ அந்த வகையில தான் இது
+   செயற்படும் விதமும் அமைந்திருக்கிறது. அதாவது, உயிரும் மெய்யும் சேர்ந்து
+   உயிர்மெய் என்பது தான் இவ்விசைப்பலகையின் அடிப்படை.
+   5. மிக வேகமாக தட்டச்சு செய்யலாம். விரல்களை அயர வைக்காது.
+   6. இது பல தமிழறிஞர்கள் ஒன்று கூடி கலந்து பேசி உருவாக்கி, சோதித்துப்
+   பார்த்து தமிழக அரசால் கணித்தமிழுக்காக ஏற்றுக்கொள்ளப்பட்ட ஒரே விசைப்பலகை
+   7. 247 தமிழ் எழுத்துக்களை 31 விசைகளில் அடக்குகிறது இந்த விசைப்பலகை
+   வடிவமைப்பு.
+
+   அனைத்தையும் விட முக்கியமான விசயம், இதைப் பயன்படுத்தாவிட்டாலும்
+   பரவாயில்லை. romanised / அஞ்சல் / தமிங்கில விசைப்பலகை மட்டும் பயன்படுத்த
+   வேண்டாம். முதலில் கொஞ்ச நாள் தமிங்கிலத்தில் எழுதிப் பழகி விட்டு
+   அப்பாவுக்கு காகிதத்தில் கடிதம் எழுதும்போது என்னை அறியாமல் appa eppadi
+   irukkeenga? ungkaL katitham kaNdeen என்று எழுதும் அளவுக்கு உள்மனதில்
+   இந்த எழுத்து முறை பதிந்து விடுகிறது.
+
+
+
+   www.tamil99.org சென்று தமிழ்99 பற்றி நன்கு அறியலாம்.
+
+
+
+   ஏன் தமிழ்99 சிறந்த தமிழ் விசைப்பலகையாகக் கருதப்படுகிறது?
+   http://blog.ravidreams.net/tamil99/
+
+   ஏன் தமிழ்99 விசைப்பலகைக்கு மாற வேண்டும்?
+   http://blog.ravidreams.net/%E0%AE%8F%E0%AE%A9%E0%AF%8D-%E0%AE%A4%E0%AE%
+   AE%E0%AE%BF%E0%AE%B4%E0%AF%8D99-%E0%AE%B5%E0%AE%BF%E0%AE%9A%E0%AF%88%E0
+   %AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B2%E0%AE%95%E0%AF%88%E0%AE%95%E0%AF%8D%E
+   0%AE%95/
+
+
+
+   தமிழ்99 முறையை எளிதில் பழக, ஸ்டிக்கர் தயாரித்து உள்ளோம்.
+
+   அதன் படம் இதோ.
+
+
+   tamil-letters
+
+
+   5 mm  x  5 mm அளவில் கட்டமும் அதனுள் எழுத்தும் சேர்த்து
+   உருவாக்கியுள்ளோம்.
+   இந்த PDF கோப்பை அருகில் உள்ள ஸ்டிக்கர் அச்சடிக்கும் கடையில் சென்று,
+   அச்சடித்து, ஸ்கோரிங் செய்து கொள்க.
+
+
+   பின் ஒவ்வொரு எழுத்தாகப் பிரித்து, உங்கள் மடிக்கணிணி அல்லது கணிணி
+   விசைப்பலகையில்
+   எளிதாக ஒட்டிக் கொள்ளலாம்.
+
+   பின் தமிழ்99 முறையில் எளிதாக தமிழில் தட்டச்சு செய்து மகிழுங்கள்.
+
+
+   PDF கோப்பை பதிவிறக்கம் செய்க
+   Tamil-letters-for-sticker-print
+   Tamil-letters-for-sticker-print
+   tamil-letters-for-sticker-print.pdf
+
+   Platforms: Windows 98, Windows 2000, Windows XP, Windows Vista, Windows
+   7
+   License: Freeware
+   Date: May 28, 2014
+   34.0 KiB
+   36 Downloads
+   Details...
+
+   ↧
+
+   ↧
+
+அழகுத் தமிழில் வண்ணப்படங்கள்
+
+   May 29, 2014, 8:30 pm
+
+   ≫ Next: கட்டற்ற மென்பொருளும் அறிவியலும் –பகுதி 3
+
+   ≪ Previous: தமிழ்99 –ஸ்டிக்கர்கள் –நீங்களே அச்சடிக்கலாம்
+
+   $
+   0
+   0
+
+   இன்று கணினி, மடிக்கணினி, அலைபேசி, கைக்கணினி எனப் பல விதங்களில் கணித்தல்
+   தொடர்புடைய சாதனங்கள் நமக்கு கிடைக்கின்றன. அவை அனைத்தின் முகப்பையும்
+   அழகிய வண்ணப்படங்கள் (Wall Papers) கொண்டு அலங்கரிக்கிறோம்.
+   நமது சாதனங்களை அலங்கரிப்பதற்குத் தகுந்த படங்கள் அவற்றைக் கையாளும்
+   சுதந்திரத்துடன் (Creative Commons License) நமக்குக் கிடைத்தால் எப்படி
+   இருக்கும்? அதுவும் தமிழில்?
+
+   bharathi
+
+   மேற்கண்ட நோக்கத்துடன் உருவாக்கப்பட்ட ஒரு சமூக வளர்ச்சித் திட்டம் தான்
+   “Tamil Wallpapers in Creative Commons License”. அழகிய தமிழ் மேற்கோள்கள்
+   உள்ள வண்ணப்படங்களை உருவாக்குவதே இத்திட்டத்தின் குறிக்கோள்.
+   இந்த படங்களை நீங்கள் எண்ணற்றவர்களிடம் பகிர்ந்து கொள்ளலாம். விரும்பியது
+   போல் மாற்றம் செய்தும் வெளியிடலாம். அவ்வாறு, மாற்றம் செய்து வெளியிடும்
+   போதும், பகிரும் போதும், இரண்டு விதிகளை மட்டும் பின்பற்றினால் போதும்:
+   மூல உரலியினைக் (source url) குறிப்பிட வேண்டும்
+   படத்தை Creative Commons License இன் கீழ் வெளியிட வேண்டும்
+
+   படங்களைப் பெற : http://cctamilwallpapers.blogspot.in/
+
+   Flickr குழுமத்தில் சேர : https://www.flickr.com/groups/tamilwallpapers/
+
+   நீங்களும் பங்களிக்கலாம்!!!
+
+   1. Creative Commons உரிமத்தின் கீழ் வெளியான படங்களைத் தேர்வு செய்யவும்
+   தேடல் தளம் : http://search.creativecommons.org/
+
+   2. படத்திற்கு ஏற்ற அழகிய தமிழ் வசனம் ஒன்றைச் சேருங்கள்
+
+   3. படத்தை Flickr தளத்தில் பதிவேற்றம் செய்யுங்கள்.
+
+   - படத்தின் மூல உரலி கட்டாயம் இடம் பெற வேண்டும்
+
+   4. உரிமத்தை Creative Commons Attribution என மாற்றுங்கள்
+
+   5. Flickr குழுமத்தில் பகிருங்கள்
+
+   படங்களை உருவாக்க GIMP, Inkscape முதலிய கட்டற்ற மற்றும் திறவூற்று
+   பயன்பாடுகளைப் பயன்படுத்தலாமே!!!
+
+   வாருங்கள்… நல்ல தமிழ் வசனங்களைக் கொண்ட அழகிய படங்களைச் செதுக்குவோம்!!!
+
+   ஆக்கம்: சீனிவாசன்
+   மொழியாக்கம்: ‘ஆளுங்க’ அருண்
+
+   ↧
+
+கட்டற்ற மென்பொருளும் அறிவியலும் –பகுதி 3
+
+   June 20, 2014, 8:50 pm
+
+   ≫ Next: தமிழ் மொழி சார்ந்த கட்டற்ற மென்பொருட்கள் –திட்டப்பணி
+
+   ≪ Previous: அழகுத் தமிழில் வண்ணப்படங்கள்
+
+   $
+   0
+   0
+
+   மின்சுற்று வரைபடங்கள்
+
+   கல்லூரியில் பயிலும் இயற்பியல் மாணவர்கள் தங்கள் செய்முறை வகுப்புகளில்
+   சில அடிப்படை மின்சுற்றுகளை அமைத்து வேலை செய்யும் விதத்தை
+   அறிந்திருப்பர். பல்தொழில்நுட்பம், பொறியியலில் பயிலும் ECE, EEE
+   மாணவர்கள் மின்சுற்றுகளைப் பற்றி அதிகம் அறிந்திருப்பர். இதுபோன்ற
+   மின்சுற்றுகளுக்கும், மின்சுற்று ஒப்புச் செயலாக்கத்திற்கும் (Circuit
+   Simulation) ஆட்டோகேட் (Auto CAD) போன்ற வர்த்தக மென்பொருள்களைப்
+   பயன்படுத்தி வருகின்றனர்.
+   லினக்ஸிலும் இதுபோன்று மின்சுற்றுக்களை அமைப்பதற்கும், அமைக்கப்பட்ட
+   மின்சுற்றினைச் சோதிப்பதற்கும், இறுதியாக உருவாக்கப்பட்ட மின்சுற்றினைப்
+   பொருத்துவதற்கு, அச்சிட்ட மின்சுற்றுப் பலகையை (PCB-Printed Circuit
+   Board) வடிவமைப்பதற்கும் திறன் வாய்ந்த கட்டற்ற மென்பொருள்கள் பல உள்ளன.
+
+   Dia
+   இது பல்வேறு வரைபடங்களை வரைவதற்கு உதவும் ஒரு கட்டற்ற மென்பொருள்.
+   மைக்ரோசாப்ட் விசியோ (Microsoft Visio) வர்த்தக மென்பொருளைப் போன்று
+   பல்வேறு வரைபடங்களான செயல்வழிப்படம் (flow chart), சிஸ்கோ (cisco),
+   வேதியியல் ஆய்வகப் படங்கள் (chemistry lab), மின்சுற்று (electric
+   circuit) வரைபடங்களை Dia மென்பொருள் மூலம் வரையலாம்.
+
+   dia
+
+   இதன் மூலம் உருவாக்கப்படும் வரைபடங்களை pdf, ps, svg, eps, png, jpg போன்ற
+   பல்வேறு கோப்புகளுக்கு ஏற்றுமதி செய்யலாம். இந்த மென்பொருளைப் புதிதாக
+   பயன்படுத்தும் எவரும் எளிதில் வரைபடங்களை வரையலாம்.
+
+   QUCS
+
+   Quite Universal Circuit Simulator என்பதன் சுருக்கமே QUCS ஆகும். இதன்
+   மூலம் உருவாக்கப்பட்ட மின்சுற்றுகளை ஒப்பு செயலாக்கம் எனப்படும்
+   simulation செய்யலாம். அமைக்கப்பட்ட மின்சுற்று வேலை செய்யும் விதத்தை
+   இந்த மென்பொருளைப் பயன்படுத்தி அறிந்து கொள்ளலாம்.
+   இந்த மென்பொருள் மூலம் புதிய மின்சுற்றுகளை கண்டுபிடிக்க இயலும்.
+   பல்தொழில் நுட்பம் பயிலும் மாணவர்களுக்கு இந்த மென்பொருள் பயனுள்ளதாக
+   அமையும்.
+
+   qucs
+
+   Inkscape
+
+   பரவலாக பயன்படுத்தும் இந்த கட்டற்ற வெக்டார் மென்பொருளைப் பயன்படுத்தியும்
+   மின்சுற்றுகளை அமைக்க இயலும். மின்சுற்று அமைக்கத் தேவையான மின்னியல்
+   பாகங்களை (Electronic Components) பகிரப்பட்ட ஊடகக் கிடங்கான விக்கிமீடியா
+   பொதுவில் Wikimedia Commons பதிவிறக்கம் செய்து கொள்ளலாம்.
+
+   wki
+
+   KiCad
+
+   மேற்கண்ட மென்பொருள்கள் அனைத்தும் புதியவர்கள் பயன்படுத்தும் வகையில்
+   எளிதான இடைமுகப்புடன் உள்ளது. இன்னும் மேம்பட்ட மின்சுற்றுகளை அமைப்பதற்கு
+   KiCad கட்டற்ற மென்பொருளைப் பயன்படுத்தலாம்.
+
+   cad1
+
+   உதாரணத்திற்கு நுண்கட்டுப்படுத்தியைக் (microcontroller) கொண்டு
+   மின்சுற்றுகளை அமைப்பது, சில குறிப்பிட்ட வகை மின்னியல் பாகங்களை
+   (Transistor – BC547, Motorola – 68000D, Atmel -AT89C2051-P)
+   பயன்படுத்துதல் போன்றவற்றிற்கு KiCad சிறந்தது. மேலும் KiCad மென்பொருள்
+   மூலம் அமைக்கப்பட்ட மின்சுற்றுக்கான, அச்சிட்ட மின்சுற்றுப்பலகையையும்
+   (PCB) அமைக்கலாம். KiCad மென்பொருளுக்கான கையேடு இணையத்தில் கிடைக்கிறது.
+
+   cad2
+
+   இவை தவிர gEDA (GPL Electronic Design Automation), Xcircuit, ngspice,
+   gnucap போன்ற பல மென்பொருட்கள் கிடைக்கின்றன. இதுபோன்று மின்னியலுக்குத்
+   தேவையான மென்பொருட்கள் அனைத்தும் சேர்ந்து ஃபெடோரா எலக்ட்ரானிக் லேப்
+   (fedora electronic lab) என்ற வழங்கல் ( fedora spin ) இணைய தளத்தில்
+   கிடைக்கின்றது.
+
+   தொடரின் பதிவுகளுக்கு: கட்டற்ற மென்பொருளும் அறிவியலும்
+
+   ↧
+
+தமிழ் மொழி சார்ந்த கட்டற்ற மென்பொருட்கள் –திட்டப்பணி
+
+   June 23, 2014, 9:06 pm
+
+   ≫ Next: ProjectMadurai திட்டத்தின் நூல்களை கிண்டில் கருவிகளுக்காக 6
+   inch PDF மாற்றுதல்
+
+   ≪ Previous: கட்டற்ற மென்பொருளும் அறிவியலும் –பகுதி 3
+
+   $
+   0
+   0
+
+   தமிழ் மொழி சார்ந்த கட்டற்ற மென்பொருட்களின் தேவை பெருமளவில் உள்ளது.
+   அவற்றை உருவாக்கவும், நிரலாளர்களை ஊக்குவிக்கவும் Google Summer of Code
+   போன்ற திட்டம் ஒன்றை செயல்படுத்தலாம்.
+
+   PKMP
+
+   திட்டப்பணிகள்
+
+   1. தமிழ் மொழி சார்ந்த மென்பொருட்களை பட்டியலிடுதல்.
+
+   உங்களுக்கு தேவையான மென்பொருட்களின் பட்டியலை tshrinivasan@gmail.com க்கு
+   அனுப்புக.
+   அவை கணிணி, மொபைல் சார்ந்து இருக்கலாம். மொழியியல், வணிகம், விளையாட்டுகள்
+   என எத்துறையிலும் இருக்கலாம்.
+
+   2. வல்லுனர் குழு உருவாக்கம்
+
+   பட்டியல் வெளியானதும், வல்லனர் குழு உருவாக்க வேண்டும். அவர்கள் தமிழ்
+   மொழி அறிஞராய் இருத்தல் வேண்டும்.
+   நிரலாளர்கள் தம் சந்தேகங்களை இவர்களிடம் கேட்டு தெளியலாம்.
+
+   3. நிரலாளர்களுக்கான அழைப்பு
+
+   உலகெங்கும் உள்ள தமிழ் அறிந்த நிரலாளர்கள் கலந்து கொள்ளலாம்.
+   பட்டியலில் இருந்து ஒன்று அல்லது மேற்பட்ட மென்பொருளை செய்ய ஆர்வம்
+   தெரிவிக்கலாம்.
+   தனியாகவோ, குழுவாகவோ செய்யலாம்.
+
+   3-4 மாத காலத்திற்குள் மென்பொருளை உருவாக்க வேண்டும்.
+   கட்டற்ற மென்பொருளாக, முதல் நாளில் இருந்தே, மூல நிரலை github.com ல் பகிர
+   வேண்டும்.
+   ஒவ்வொரு வாரமும், தமது செயல்கள் பற்றி வலைப் பதிவு எழுதி அறிவிக்க
+   வேண்டும்.
+
+   4. முடிவுகள்
+
+   4 மாத முடிவில், தயாரான மென்பொருட்களை ஆய்வு செய்து, முடிவுகளை
+   அறிவிக்கலாம்.
+
+   5. பரிசுகள்
+
+   இந்த திட்டத்திற்கு பரிசு தரக்கூடிய புரவலர்களை கண்டறிந்து, அணுகி, பணம்
+   திரட்ட வேண்டும்.
+   நிதிக்குழு உருவாக்க வேண்டும்.
+   நன்கு உருவான மென்பொருள் சார்ந்த குழுவினருக்கு பரிசு தருதல்.
+
+   82052.gif
+
+   இத்திட்டத்திற்கு விரைவில் பெயர் வைக்கலாம்.
+   தகுந்த பெயர் தந்து உதவுக.
+
+   திட்டத்தில் சேர்ந்து உதவ விரும்பினால், எனக்கு எழுதுக.
+   tshrinivasan@gmail.com
+
+   திட்டம் பற்றிய உங்கள் கருத்துகளையும் எழுதுக.
+
+   நன்றி.
+
+   ↧
+
+ProjectMadurai திட்டத்தின் நூல்களை கிண்டில் கருவிகளுக்காக 6 inch PDF மாற்றுதல்
+
+   June 25, 2014, 9:04 am
+
+   ≫ Next: லிப்ரெஓபிஸ் (Libre Office) முன்னேற்றம் –தமிழாக்கம்
+
+   ≪ Previous: தமிழ் மொழி சார்ந்த கட்டற்ற மென்பொருட்கள் –திட்டப்பணி
+
+   $
+   0
+   0
+
+   ProjectMadurai.com தளத்தில் பல பழம் பெரும் இலக்கியங்கள் HTML வடிவிலும்
+   A4 PDF வடிவிலும் வழங்கப் படுகின்றன.
+
+   கிண்டில் மற்றும் பல ஆன்டிராயுடு கருவிகளில் (<=4.2.x) இன்னும் தமிழ்
+   சரியாகத் தெரிவதில்லை.
+
+   அவற்றில் தமிழ் நூல்கள் படக்க 6 அங்குல PDF கோப்புகள் பயன்படுகின்றன.
+
+   GNU/Linux இயக்குதளத்தில் உள்ள கருவிகளைக் கொண்டு, Project Madurai
+   தளத்தில் உள்ள அனைத்து நூல்களையும்
+
+   6 அங்குல PDF கோப்புகளாக மாற்றுவது எப்படி என்று பார்ப்போம்.
+
+   1. கோப்புகளின் பெயர்களை பிரித்தெடுத்தல்.
+
+   http://www.projectmadurai.org/pmworks.html
+
+   இங்குதான் எல்லா நூல்களும் உள்ளன.
+
+   LibreOffice Spreadsheet ல் இந்த பக்கத்தை நகலெடுத்து ஒட்டுக.
+
+   “unicode”  என்ற நிரலை நகல் செய்க.
+
+   கோப்புகளின் பெயரை மட்டும் ஒரு தனி உரை ஆவணத்தில் ஒட்டி சேமிக்கவும்.
+
+   cat pm.txt
+
+   pmuni0001.html
+
+   pmuni0002.html
+
+   pmuni0002.html
+
+   pmuni0002.html
+
+   pmuni0002.html
+
+   …
+
+   2. wget மற்றும் python script மூலம் எல்லா நூல்களையும் பதிவிறக்கம்
+   செய்தல்
+
+   cat dl-wget.py
+
+   import urllib
+
+   import os
+
+   book = open(“pm.txt”).readlines()
+
+   for filename in book:
+
+       filename = filename.strip()
+
+       print “Downloading ” + filename
+
+       bookurl = “http://www.projectmadurai.org/pm_etexts/utf8/” +
+   filename
+
+       command = “wget -E -H -k -K -p –max-redirect 0 –domains
+   www.projectmadurai.org -e robots=off ” + bookurl
+
+       os.system(command)
+
+   மேற்கண்ட பைதான் நிரலை இயக்குக.
+
+   python dl-wget.py
+
+   இப்போது எல்லா நூல்களும் பதிவிறக்கம் செய்யப்படும்.
+
+   மொத்தம் 593 html கோப்புகள் கிடைக்கின்றன.
+
+
+
+   3.
+
+   PDF ஆக மாற்றுதல்.
+
+   wkhtmltopdf என்ற மென்பொருள் html கோப்புகளை A4 pdf ஆக மாற்ற உதவுகிறது.
+
+   6 அங்குல pdf ஆக மாற்ற பின்வரும் கட்டளை உதவுகிறது.
+
+   wkhtmltopdf -s A6 –minimum-font-size 40 -B 5 -L 5 -R 5 -T 5
+   source.html destination.pdf
+
+   இப்போது, பதிவிற்றம் செய்துள்ள எல்லா html கோப்புகளையும் பின் வரும் shell
+   script மூலம் 6 அங்குல pdf ஆக மாற்றுவோம்.
+
+
+
+   for i in *.html; do orig=`basename $i .html`; echo “Converting $orig”;
+   wkhtmltopdf -s A6 –minimum-font-size 40 -B 5 -L 5 -R 5 -T 5  $i.html
+   $orig-6-inch.pdf; done
+
+
+
+   இப்போது, இந்த கோப்புகளை கிண்டில் போன்ற கருவிகளில் எளிதாகப் படிக்கலாம்.
+
+   6 அங்குல pdf கோப்புகளின் தொகுப்பு இங்கே உள்ளது.
+
+   http://bit.ly/project-madurai-kindle-books
+
+   நூல்களின் இங்கிருந்து ஒப்பிட்டு அறியலாம்
+
+   http://bit.ly/project-madurai-kindle-books
+
+   எல்லா கருவிகளிலும் தமிழ் படித்து மகிழ்க.
+
+   ↧
+
+   ↧
+
+லிப்ரெஓபிஸ் (Libre Office) முன்னேற்றம் –தமிழாக்கம்
+
+   July 1, 2014, 8:46 pm
+
+   ≫ Next: விக்கிப்பீடியா:விக்கி மின்மினிகள்- பயிற்சி – # 1
+
+   ≪ Previous: ProjectMadurai திட்டத்தின் நூல்களை கிண்டில் கருவிகளுக்காக 6
+   inch PDF மாற்றுதல்
+
+   $
+   0
+   0
+
+   நண்பரே, வணக்கம்.
+
+   கட்டற்றத் திறவுற்று மென்பொருட்களில் லிப்ரெஓபிஸ் ஒரு முக்கிய இடத்தை
+   வகிக்கின்றது. அதனைத் தமிழாக்கும் பணியை 2011 ஆண்டு முதற்கொண்டு நாம்
+   மெற்கொண்டு வருகின்றோம். கடந்த ஆண்டு லிப்ரெஓபிஸ் முழுமையாக
+   தமிழாக்கப்பட்டு வெளியிடப்பட்டது.
+
+   LibreOffice
+
+   இவ்வாண்டு, லிப்ரெஓபிஸின் புதிய வெளியீடுகள் வெளிவந்துள்ளன. அடுத்த மாதம்
+   22 ஆம் திகதி லிப்ரெஓபிஸ் 4.3 வெளிவரவிருக்கிறது. அப்பதிப்பும் முழுமையாக
+   தமிழில் இருக்க வேண்டும் என விரும்புகிறோம். இதுவரை அதன் ஒரு இலட்சம்
+   சொற்களில் 88 ஆயிரத்தை தமிழுக்கு மொழிபெயர்த்து விட்டோம். இன்னும் 11,767
+   சொற்கள் மீதமுள்ளன.
+
+   அதனைத் தமிழாக்குவதற்கு உங்கள் உதவி தேவை. அடுத்த இரண்டு வாரங்களுக்குள்
+   அனைத்து சொற்களையும் மொழிபெயர்த்தாக வேண்டும். ஆர்வமிருந்தால், இங்கு
+   செல்லுங்கள்: https://translations.documentfoundation.org/ta/.
+
+   இதற்கிடையில் ஒரு மகிழ்ச்சிதரும் மேம்பாட்டையும் உங்களுடன் பகிர்ந்துகொள்ள
+   விரும்புகிறேன். இத்துணை காலமும் தமிழ் லிப்ரெஓபிஸுக்கென்று ஒரு வலைத்தளம்
+   இருந்ததில்லை. இப்போது ஒரு உருவாகிக்கொண்டிருக்கிறது. அதன் தொடுப்பு:
+   http://ta.libreoffice.org/. தளத்தின் மொழிநடை ஏற்புடையதாக இருக்கிறதா
+   என்று உங்கள் கருத்தைத் தெரிவியுங்கள்.
+
+   libre_Tamil
+
+   தமிழ் லிப்ரெஓபிஸை முன்னெடுத்துச் செல்வதற்கானத் திட்டமொன்றையும் நாம்
+   இப்போது தீட்டியுள்ளோம். அதனை விரைவில் உங்கள் முன் வைக்கிறேன்.
+
+   இக்கண்,
+   வே. இளஞ்செழியன்
+   மின்னஞ்சல்: tamiliam AT gmail DOT com
+
+   ↧
+
+விக்கிப்பீடியா:விக்கி மின்மினிகள்- பயிற்சி – # 1
+
+   July 3, 2014, 8:52 pm
+
+   ≫ Next: Gcompris –கல்வி கற்க உதவும் கட்டற்ற மென்பொருள்
+
+   ≪ Previous: லிப்ரெஓபிஸ் (Libre Office) முன்னேற்றம் –தமிழாக்கம்
+
+   $
+   0
+   0
+
+   விக்கி மின்மினிகள் பயிற்சிக்கு வருக ! வருக !
+
+   முதல் நாளான இன்று பின்வருவனவற்றை முயன்று பாருங்களேன் !
+
+   விக்கிப்பீடியாவில் உங்களுக்கு என்று ஒரு பயனர் கணக்கு தொடங்குங்கள்.
+   கணக்கு தொடங்க இங்கு செல்லுங்கள். இப்பயனர் பெயரை அனைத்து மொழி
+   விக்கிமீடியா திட்டங்களிலும் நீங்கள் பயன்படுத்தலாம்.
+
+   விக்கிப்பீடியாவுடன் பிற உறவுத் திட்டங்களைப் பற்றி அறிவீர்களா? விக்சனரி,
+   விக்கிமூலம், விக்கி நூல்கள், விக்கி செய்திகள், விக்கி மேற்கோள் ஆகிய
+   திட்டங்களை ஒரு முறை பார்வையிடுங்கள்.
+
+   விக்கிப்பீடியாவின் தேர்தெடுத்த கட்டுரைகளை இங்கு காணுங்கள் (இதற்கான
+   இணைப்பு இடப்பக்கப் பட்டையிலும் இருக்கிறது).
+
+   விக்கிப்பீடியாவில் என்னென்ன துறைகளில் எல்லாம் கட்டுரைகள் உள்ளன என்று
+   அறிய விருப்பமா? ஏதாவது ஒரு கட்டுரை வசதியைப் பயன்படுத்துங்கள் (இதற்கான
+   இணைப்பு இடப்பக்கப் பட்டையிலும் இருக்கிறது).
+
+   என்ன, தமிழ் விக்கிப்பீடியாவைச் சுற்றிப் பார்த்து விட்டீர்களா?
+
+   ஏதாவது ஐயங்கள், கேள்விகள் உள்ளனவா?
+
+   ஒத்தாசைப் பக்கத்தில் கேளுங்கள்.
+
+   தமிழில் எழுதுவதற்கான உதவிக் குறிப்பையும் ஒரு முறை பார்த்து விடுங்கள்.
+   ஏனெனில், அடுத்தடுத்த பயிற்சிகளுக்கு, தமிழில் தட்டச்சு செய்யத் தெரிவது
+   அவசியம்.
+
+   இக்கட்டுரை தொகுப்பின் அனைத்து பகுதிகளையும் காண: விக்கிப்பீடியா:விக்கி
+   மின்மினிகள்
+
+   மூலக் கட்டுரைத் தொகுப்பு: விக்கி மின்மினிகள் பயிற்சிகள்
+
+   ↧
+
+   ____________________
+   Search
+   ____________________ [RSSing.com]
+     __________________________________________________________________
+
+Gcompris –கல்வி கற்க உதவும் கட்டற்ற மென்பொருள்
+
+   July 7, 2014, 2:34 am
+
+   ≫ Next: கட்டற்ற மென்பொருளும் அறிவியலும் –பகுதி 4
+
+   ≪ Previous: விக்கிப்பீடியா:விக்கி மின்மினிகள்- பயிற்சி – # 1
+
+   $
+   0
+   0
+
+   நமது செயல்களை எளிமையாக்க ஏராளமான மென்பொருட்கள் கிடைக்கின்றன. அவற்றை
+   நாம் விலை கொடுத்து வாங்கினாலும், நிறுவும் போது சில கட்டுப்பாடுகளுக்கு
+   ஒத்துக்கொள்வோம். I agree என்ற பட்டனுக்கு மேலே உள்ள உரையை யாரும் படிக்க
+   மாட்டோம். அதில் கீழ்காணும் வகையில் சில கட்டுப்பாடுகள் இருக்கும்.
+
+   ‘இந்த மென்பொருளை ஒரே ஒரு கணினியில் மட்டுமே நிறுவுவேன். வேறு யாருக்கும்
+   தரவே மாட்டேன். நிறுவனத்தின் அனைத்து கட்டுப்பாடுகளையும் ஏற்கிறேன்.’
+
+   சிறு வயதில் இருந்தே உணவு, இனிப்பு என நம்மிடம் இருக்கும் அனைத்தையும்
+   பிறருடன் பகிர்ந்து வாழும் நாம், மென்பொருளை மட்டும் யாருக்கும்
+   தரக்கூடாதாம்.
+
+   இந்த நிலைக்கு முடிவு கட்ட வந்தவையே ‘கட்டற்ற மென்பொருட்கள்‘ (Free / Open
+   Source Software ).
+
+   இங்கு Free என்பது இலவசம் அல்ல. Freedom எனும் உரிமை ஆகும்.
+
+
+   இவை நமக்கு 4 உரிமைகள் தருகின்றன.
+
+   1. எங்கு வேண்டுமானாலும் மென்பொருளை பயன்படுத்தும் உரிமை.
+
+   2. எவரிடமும் பகிர்ந்து கொள்ளும் உரிமை.
+
+   3. மூல நிரலை (source code) பெறும் உரிமை.
+
+   4. மூல நிரலை மாற்றி வெளியிடும் உரிமை.
+
+
+   குனூ/லினக்ஸ் இயக்குதளம் முழுதும், அதில் இயங்கும் பல்லாயிரம்
+   மென்பொருட்கள் அனைத்தும் இதே உரிமையில் வெளிவருகின்றன. தனியார்
+   நிறுவனத்தில் உருவாகாமல், பொதுமக்களால் மட்டுமே உருவாக்கப்படுவதால் இந்த
+   உரிமைகள் நமக்கு கிடைக்கின்றன. எல்லா துறைகளிலும் கட்டற்ற மென்பொருட்கள்
+   இன்று கிடைக்கின்றன.
+
+
+   பள்ளி மாணவர்களுக்கு பயன்படும் GCompris எனும் மென்பொருள் பற்றி இங்கு
+   காண்போம்.
+
+
+   GCompris என்பது UCMAS போன்ற கல்வி நிறுவனங்களில் பயன்படுத்தப்படும்
+   மென்பொருளுக்கு இணையானது. இது 2 முதல் 10 வயது வரையான குழந்தைகளுக்கானது.
+   100க்கும் மேற்பட்ட பல்வேறு விளையாட்டுகள், செயல்கள் மூலம் கணிதம்,
+   ஆங்கிலம், எண்கள், வடிவங்கள், நிறங்கள், புவியியல், அறிவியல், இயற்பியல்,
+   அல்ஜீப்ரா, ஒவியம் வரைதல், நேரம் அறிதல் போன்ற பலவற்றை கற்றுத்தருகிறது.
+
+   இதை உபுண்டு லினக்ஸில், “Ubuntu Software Center” என்ற மென்பொருளில் தேடி
+   நிறுவிக்கொள்ளலாம்.
+
+
+   வாருங்கள். குழந்தைகளின் வண்ண மயமான உலகிற்கு சென்று, அவர்களுக்கு
+   புரியும் வகையில், புதிய விளையாட்டுகளோடு, அறிவியலை அறிமுகம் செய்வோம்.
+
+
+   Python Programming மொழி அறிந்தோர் தமக்கு தேவையான விளையாட்டுகளையும்,
+   செயல்களையும் எளிதில் உருவாக்கலாம். கட்டற்ற உரிமையுடன் வருவதால், இந்த
+   மென்பொருளை எந்த மொழியிலும் மொழிமாற்றம் செய்யலாம். தமிழில் மொழிமாற்றம்
+   செய்ய ஆர்வமுள்ளோர் எம்மை அணுகலாம்.
+
+
+   ஸ்ரீனிவாசன்
+
+   tshrinivasan@gmail.com
+
+   இணைப்புகள்.
+
+   http://gcompris.net
+
+   https://apps.ubuntu.com/cat/applications/precise/gcompris/
+
+   படங்கள்
+
+   screenshot penalty
+
+   screenshot advanced_colors
+
+   screenshot color_mix_light
+
+   screenshot maze
+
+   screenshot clockgame
+
+   ↧
+
+கட்டற்ற மென்பொருளும் அறிவியலும் –பகுதி 4
+
+   July 9, 2014, 8:53 pm
+
+   ≫ Next: கணிணி மாணவர்கள் எப்படி வேலை தேடலாம்?
+
+   ≪ Previous: Gcompris –கல்வி கற்க உதவும் கட்டற்ற மென்பொருள்
+
+   $
+   0
+   0
+
+   நானோ தொழில்நுட்பத்திற்கான கட்டற்ற மென்பொருள்
+
+   CNT அறிமுகம்
+
+   Carbon Nanotube (மீநுண் கரிக்குழல்) என்பதன் சுருக்கமே CNT. குழல் போன்ற
+   அமைப்பைக் கொண்ட CNT கரிமத்தால் (Carbon) ஆனது. ஏறக்குறைய 3-10 nm
+   விட்டமும், சில நூறு மைக்ரான்கள் நீளமும் கொண்டது.
+   (நானோமீட்டர் – 10^(-9) அதாவது ஒரு சென்டிமீட்டரை ஒரு கோடி கூறுகளில் ஒரு
+   பங்கு. நம் தலைமுடியின் தடிமன் 100 மைக்ரான், இது நானோ மீட்டரில்
+   100000nm.)
+
+   இது எதற்கு பயன்படும்? இதை வைத்து என்ன செய்யலாம்?
+
+   சில வருடங்களாக CNT, ஆராய்ச்சியில் முக்கிய பங்கு வகிக்கிறது. ஏனெனில் CNT
+   யின் சிறந்த தன்மை, சிறிய அளவு போன்றவற்றை வைத்து மின்சாதனங்கள்,
+   உணர்விகள் (Sensor) போன்ற கருவிகளை இன்னும் சிறியதாகவும், அதிக
+   துல்லியதாகவும் வடிவமைக்கலாம்.
+
+   உதாரணத்திற்கு மைக்ரோ பிராசசர்களில் (Microprocessor) உள்ள
+   டிரான்ஸ்சிஸ்டர்களை (Transistor) செய்ய தற்போது சிலிகான் மூலப்பொருளாகப்
+   பயன்படுத்தப்படுகிறது. Intel 80286 (1,34,000), Intel 80386 (2,75,000),
+   Intel 80486 (11,80,235) Pentium II (75,00,000) என தொடர்ந்து தற்போது
+   பயன்பாட்டில் இருக்கும் i3, i5, i7 (2,270,000,000) வரை செயலிகளில்
+   (Processor) உள்ள டிரான்சிஸ்டர்களின் எண்ணிக்கை படிப்படியாக
+   அதிகரிக்கப்பட்டு வருகிறது. அதிகமான எண்ணிக்கையிலான டிரான்சிஸ்டர்களே
+   செயலிகளின் திறனை நிர்ணயிக்கிறது. சிலிகாவினால் செய்யப்பட்ட
+   டிரான்சிஸ்டர்களை விட CNT மூலம் செய்யப்பட்ட டிரான்சிஸ்டர்கள் அதிக இடத்தை
+   சேமிப்பதுடன், அதன் திறன் பல மடங்கு அதிகரிக்கிறது. (CNT அதிக கடத்தும்
+   திறன் கொண்டது.) இம்முயற்சியில் ஆய்வாளர்கள் ஆய்வகத்தில் வெற்றியும்
+   கண்டுள்ளனர். இதனை உருவாக்க அதிக செலவாகும் என்பதால் பயன்பாட்டிற்கு வர
+   சில வருடங்கள் ஆகலாம். CNT பற்றி மேலும் அறிய: Carbon Nano Tube
+
+   Ninithi
+
+   இலங்கை திறவூற்று மென்பொருள் அறக்கட்டளை துணையுடன் உருவாக்கப்பட்ட
+   இம்மென்பொருள் ஜாவா நிரலாக்க மொழியில் எழுதப்பட்டுள்ளது. இது லினக்ஸ்
+   மற்றும் விண்டோஸ் இயங்குதளங்களில் வேலை செய்யுமாறு வெளியிடப்பட்டுள்ளது.
+   இதனை வலைத்தளத்தில் இருந்து பதிவிறக்கம் செய்தால் போதும். லினக்ஸ்
+   இயங்குதளத்தில் நேரடியாக இயங்கும்.
+
+   cnt
+   CNT
+
+   Fullerene
+   Fullerene
+
+   graphene
+   Graphene
+
+   இயற்பியல், வேதியியல், பொருளறிவியல் (Material Science), மின்னனுவியல்
+   (Electronics), நானோ தொழில்நுட்பம் போன்ற துறைகளில் பயிலும் முதுகலை
+   மாணவர்கள் CNT பற்றி பெரும்பாலும் அறிந்திருப்பர். புதிய மாணவர்கள் CNT
+   யின் அமைப்பை Ninithi மூலம் மிக எளிதாக புரிந்து கொள்ளலாம்.
+   இம்மென்பொருளில் 3D அமைப்பை பார்ப்பதுடன், அதன் விட்டம், நீளத்தைப்
+   பொறுத்து அதன் மின்னியல் அமைப்பை வரைபடம் மூலம் காணலாம்.
+
+   சிறப்பம்சங்கள்
+
+     CNT தவிர மற்ற கார்பன் ஆலோட்ரோப்களான (Carbon allotrobes)
+   கிராபீன்(Graphene), நானேரிப்பன் (Nanoribbon), ஃபுல்லிரின் (Fullerene)
+   போன்ற மூலக்கூறுகளையும் ஆராயலாம்.
+
+     மின்னியல் அமைப்பினை (Electronic Structure) பார்க்கலாம்.
+
+     உருவாக்கப்பட்ட முப்பரிமாண அமைப்பினை படக்கோப்புக்கு ஏற்றுமதி செய்யும்
+   வசதி.
+
+   இது போன்று பல துறைகளிலும் கட்டற்ற மென்பொருட்கள் உண்டு
+
+   தொடரின் பதிவுகளுக்கு: கட்டற்ற மென்பொருளும் அறிவியலும்
+
+   ↧
+
+   ↧
+
+கணிணி மாணவர்கள் எப்படி வேலை தேடலாம்?
+
+   July 13, 2014, 10:48 am
+
+   ≫ Next: கிரியேட்டிவ் காமன்ஸ் உரிமை –ஒரு அறிமுகம்
+
+   ≪ Previous: கட்டற்ற மென்பொருளும் அறிவியலும் –பகுதி 4
+
+   $
+   0
+   0
+
+   அன்புள்ள கணிணி மாணவருக்கு,
+
+   கணிணி அறிவியல் படிப்பு முடித்துவிட்டு, வேலை தேடும், வேலை தேடப்போகும்
+   மாணவருக்கு,
+
+   வணக்கம்.
+
+   உங்கள் வேலை தேடும் படலம் பற்றி சிறிது பேசலாமா?
+
+
+   தமிழ்நாட்டில் ஒவ்வொரு ஆண்டும் சுமார் 2 லட்சம் மாணவர்கள் படித்து, பட்டம்
+   பெற்று, கணிணித் துறையில் வேலை தேடுகின்றனர். ஒவ்வொரு ஆண்டும் புதிதாக 2
+   லட்சம் வேலைக்கு பணியிடங்கள் உருவாவது சாத்தியம் இல்லைதானே. இதனால் தான்
+   அனைவருக்கும் உடனே வேலை கிடைப்பதில்லை.
+
+   ஒரு பத்து சதம் பேருக்குதான் InfoSys, TCS, CTS போன்ற பெரு நிறுவனங்களில்
+   Campus Interview ல் வேலை கிடைக்கிறது. மீதி 90% பேருக்கு SME என்ற Small
+   Medium Enterprises, குறு, சிறு நிறுவனங்களே வாய்ப்பளிக்கின்றன.
+
+   இந்த மாதிரியான குறு, சிறு, மத்திய நிறுவனங்களில் Fresherகளை வேலைக்கு
+   எடுப்பதால் வரும் சில பிரச்சனைகளைப் பார்ப்போமா?
+
+1. பயிற்சி
+
+
+   பெரு நிறுவனங்கள் போல இவை Fresherகளின் பயிற்சிக்கென 6 மத காலம், இடம்,
+   ஆசிரியர்களைத் தர முடியாது.
+
+   ஓரிரு வாரங்கள் தருவதே கடினம்.
+
+   NIIT போன்ற பெரிய தனியார் கணிணி பயிற்சி நிறுவனங்களில் 6 மாத படிப்பிற்கு
+   ஏறக்குறைய 1 லட்சம் ரூபாய் கட்டணம் கட்டும் மாணவர்கள், அதை விடுத்து சிறு
+   நிறுவனங்களில் சேர்ந்தால், அதே பயிற்சிக்கு சம்பளம் எதிர்பார்க்கிறீர்கள்.
+
+
+   இலவச பயிற்சி, நகரின் மத்தியில் கட்டிடம், குளிர் சாதனம், கணிணி, இணையம்,
+   தடையற்ற மின்சாரம் தந்து, சம்பளமும் தருவதற்கு, நிறுவனங்கள் ஒன்றும்
+   தொண்டு அமைப்புகள் இல்லையே.
+
+
+   சரி. அப்படியே சில மாத இலவசப் பயிற்சி அளித்தாலும், இந்த மாணவர்கள் தமது
+   திறனை வெளிப் படுத்த, இன்னும் 6 மாதம் ஆகிறது. இப்படியே ஒரு வருடம் ஓடி
+   விடுகிறது.
+
+
+   ஒரு வருடம் கழிந்த பின், நீங்கள் பெரு நிறுவனங்களில் வேலை செய்யம்
+   நண்பரோடு ஒப்பிட்டுக் கொள்கிறீர்கள்.
+
+
+   “அவனுக்கு மாதம் 20,000 ரூபாய் சம்பளம். வெளிநாட்டு வாய்ப்புகள்
+   கிடைக்கின்றன. எனக்கும் அதே அளவு சம்பளம், வெளிநாட்டு வாய்ப்புகள்
+   வேண்டும்”
+
+
+   என்று கூறி, வேலையை விட்டு நீங்கி, வேறு நிறுவனம் போகின்றீர்.
+
+
+   உங்களை நம்பி, வாடிக்கையாளரிடம் புதிய பணிகளை ஏற்றுக் கொண்ட நிறுவனம்,
+   மீண்டும் பணியாளரை தேடும் முயற்சியில் இறங்க வேண்டும். இதே போல் பலரும்
+   செய்வதால்தான், நிறுவனங்கள் Fresher ஐ வேலைக்கு எடுக்க பயப்படுகின்றன.
+
+
+   ஒரு ஆண்டு அல்லது அதற்கு மேற்பட்ட அனுபவமுள்ள ஆட்களை வேலைக்கு எடுத்தால்,
+   ஓரிரு வாரங்கள் பயிற்சி மட்டுமே போதும். மூன்றாம் வாரத்திலேயே வேலை
+   செய்யத் தொடங்கி விடுவர். நிறுவனத்திற்கும் உற்பத்தி கிடைத்துவிடும். இவர்
+   ஒரே ஆண்டில் வேலையை விட்டாலும், நிறுவனத்திற்கு பெரிய இழப்பு இல்லை. ஒரு
+   ஆண்டில் தந்த ஊதியத்திற்கு, தேவையான உழைப்பு கிடைத்திருக்கும்.
+
+
+   இதுவே Fresher ஐ வேலைக்கு எடுத்தால், பயிற்சியும் தந்து, சம்பளமும் தந்து,
+   மிகவும் குறைந்த உற்பத்தி பெறும் நிலையே ஏற்படுகிறது. இதற்கு என்ன தீர்வு
+   சொல்வீர்கள்?
+
+
+   நாளை நீங்களே ஒரு நிறுவனம் தொடங்கினால், உங்களுக்கும் இதே நிலை தானே
+   ஏற்படும்? எப்படி சமாளிப்பீர்கள்?
+
+
+   “எல்லாம் சரிதான். வேலை கிடைத்தால்தானே அனுபவம் பெறுவது. வேலையே
+   கிடைக்காமலும், அனுபவம் இல்லாமலும் இருக்கிறோமே!” என்கிறீர்களா? அதுவும்
+   சரிதான்.
+
+
+2. அறிவும் திறமையும்
+
+   அறிவும் திறமையும் அனுபவமும் வேலையில் சேர்ந்த பிறகு மட்டுமே வருவது
+   அல்லவே. நாமே வளர்த்துக் கொள்ள வேண்டியது. சரிதானே?
+
+
+   பெரும்பாலான மாணவர்கள் சொல்வது என்ன? “எனக்கு ஒரு வேலை கொடுங்கள். பிறகு
+   நான் தேவையானதைக் கற்றுக் கொள்கிறேன். அதற்குப் பிறகு, திறமையை வளர்த்துக்
+   கொள்கிறேன்”. உண்மைதானே.
+
+
+   நீங்கள் உங்கள் குடும்பத்துடன் அடிக்கடி வெளியூர் செல்ல கார்
+   வாங்குகிறீர்கள். நல்ல கார் ஓட்டுனர் தேட்கிறீர்கள். நான் உங்களிடம்
+   நேர்முகத் தேர்விற்கு வந்துள்ளேன். கார் டிரைவிங் வகுப்பு சென்றுள்ளேன்.
+   ஆனால் கார் ஓட்டிய அனுபவம் இல்லை.
+
+
+   “நான் பயிற்சி முடித்துள்ளேன். சான்றிதழ் வைத்துள்ளேன். ஆனால் அனுபவம்
+   இல்லை. என்னை வேலைக்கு சேர்த்துக் கொள்ளுங்கள். உங்கள் புது காரை என்னிடம்
+   கொடுங்கள். முடிந்தால் சில மாதம் பயிற்சியும் கொடுங்கள். நன்கு கற்றுக்
+   கொண்டு, பழகிய பின், பிறகு உங்கள் குடும்பத்தினரை எங்கு வேண்டுமானாலும்
+   அழைத்துச் செல்கிறேன்.”
+
+
+   இப்படி சொன்னால் என்னை வேலைக்கு சேர்த்துக் கொள்வீர்களா? ஆனால் இப்படித்
+   தானே நீங்களும் நிறுவனங்களிடம் சொல்கிறீர்கள்?
+
+
+   கார் ஓட்டிப் பழகவாவது சில லட்சங்களில் கார் வாங்க வேண்டும். கணிணியில்
+   திறமையை வளர்க்க உங்களிடம் உள்ள கணிணியே போதுமே.
+
+
+   கிரிக்கெட்டில், மட்டையை சும்மாவே வைத்திருந்தால், சச்சினாக இருந்தாலும்
+   நமக்கு கோபம் வருகிறதே. தொடர்ந்து ரன் எடுக்கவும், அடிக்கடி 4, 6 என
+   அடிக்க வேண்டும் என்று எதிர்பார்க்கிறோம். நீங்கள் மட்டும் கணிணியை
+   வைத்துக் கொண்டு, மென்பொருள் எதுவும் உருவாக்காமல், பாட்டு கேட்டு, படம்
+   பார்த்து, விளையாடிக் கொண்டு, சமூக வலைத்தளங்களில் அரட்டை அடிப்பீர்கள்.
+   என்ன நியாயம் இது?
+
+
+3. நேர்முகத் தேர்வு
+
+   என் நிறுவனத்திற்கு ஒரு 100 Fresher வேண்டும் என விளம்பரம் செய்தால்,
+   குறைந்தது 1000 பேராவது Resume அனுப்புகின்றனர். எல்லா Resume களிலும்
+   பெரும்பாலும் ஒரே டெம்ப்ளேட்.
+
+
+   “எனக்கு C, C++, Java, Oracle, HTML, CSS, Javascript, VB, DotNet, ASP,
+   Photoshop, Windows போன்றவை தெரியும்.”
+
+
+   இவ்வாறு பல நுட்பங்கள் தெரிந்த Fresherகளை வைத்து எந்த வகை
+   மென்பொருட்களையும் எளிதாக உருவாக்கி விடலாம் என்ற நம்பிக்கை வருகிறது.
+   இவர்களில் சிலரை நேர்முகத் தேர்வுக்கு அழைப்போம்.
+
+
+   “வணக்கம் தம்பி!”
+
+
+   “வணக்கம் சார்!”
+
+
+   “உங்களுக்கு என்னென்ன தெரியும்?”
+
+
+   “கணிணியில் எல்லா நுட்பங்களும் தெரியும். C, C++, Java, DotNet,
+   Oracle…இத்யாதி!”
+
+
+   “ஓ! மிக்க மகிழ்ச்சி! என்ன Project செய்துள்ளீர்கள்?”
+
+
+   “அதுவா சார்!. போன மாதம் விண்வெளிக்கு ராக்கெட் அனுப்பினார்களே. அதற்கு
+   தேவையான மென்பொருள் ஒன்று செய்தேன். Cloud Computing ல் Fuzzy Logic ம்
+   Artificial Intelligence ம் சேர்த்து Android, iOS ல் இயங்கும்
+
+
+   ஒரு மென்பொருளை செய்துள்ளேன்.”
+
+
+   “மிக்க மகிழ்ச்சி! என் கடைக்குத் தேவையான ஒரு வரவு/செலவு மென்பொருளை
+   நீங்களே செய்து தர முடியுமா?”
+
+
+   “நானேவா? அது கஷ்டம் சார். இன்னும் நிறைய படிக்க வேண்டும். எனக்கு வேலை
+   கொடுங்கள். பிறகு படித்து பிறகு செய்து கொடுக்கிறேன்.”
+
+
+   “ஏன் உங்களால் முடியாது? நீங்களேதானே உங்கள் பெரிய Project ஐ செய்தீர்கள்?
+   அதைப்பற்றி கூட விரிவாக விளக்கினீர்களே.”
+
+
+   “அதுவா சார். அது வந்து… அது வந்து… பிராஜெக்ட் நான் செய்யவில்லை.”
+
+
+   “பின்னே? யார் செய்தார்கள்?”
+
+
+   “தியாகராய நகரில் ஒரு பிராஜெக்ட் சென்டரில் 10,000 ரூபாய்க்கு வாங்கினோம்.
+   ஆனால் அது பற்றி எனக்கு எல்லாமே தெரியும். எனக்கு வேலை கொடுங்கள்.
+   தேவையானவற்றை நன்கு கற்று, பிறகு செய்து கொடுக்கிறேன்.”
+
+
+   இப்படித்தான் 100க்கு 95 பேர் சொல்கின்றனர். வெகு சிலரே தாமாக சொந்த
+   பிராஜெக்ட் செய்து, புது மென்பொருள் உருவாக்கும் திறனையும் அனுபவத்தையும்
+   பெறுகின்றனர்.
+
+
+   இவ்வாறு அடிப்படை திறன் கூட இல்லாதவருக்கு எப்படி வேலை தருவது?
+
+
+   மருத்துவம் படித்துவிட்டு எனக்கு ஒன்றுமே தெரியாது என்பவரிடம் எப்படி
+   நீங்கள் மருத்துவம் பார்ப்பீர்கள்?
+
+
+   அதே போல் தானே கணிணி படிப்பும்?
+
+
+   கல்வியில் மிகவும் அடிநிலை என்பது ITI. பத்தாவது தேர்வில் தோல்வியடைந்தால்
+   கூட ITI சேரலாம். ITIல் வெல்டிங் பற்றி இரு ஆண்டுகள் படித்து முடித்த
+   மாணவரிடம், நமது வீட்டிற்கு ஒரு இரும்பு கதவு செய்து தரச் சொல்லலாம்.
+   அவரும் மறுக்காமல் செய்து தருவார்.
+
+
+   12வது முடித்து, 3 அல்லது 4 அல்லது 6 ஆண்டுகள் கணிணி பற்றி விரிவாகப்
+   படித்து வரும் கணிணி மாணவருக்கு மட்டும் ஒரு குட்டி மென்பொருள் கூட சுயமாக
+   உருவாக்கத் தெரியாது.
+
+
+   எதுவுமே தெரியாமல் வரும் மாணவருக்கு வேலை தர நிறுவனங்கள் தயாராக
+   இருப்பதில்லை. Reference, Campus Interview, Off Campus என வேலை
+   கிடைப்போர் பத்து சதம் மட்டுமே. மீதியுள்ளோர் தமது திறமை மூலம் மட்டுமே
+   வேலை தேட வேண்டியுள்ளது.
+
+
+4. அனுபவம்/திறமை பெறுவது எப்படி?
+
+   ஒரு கிரிக்கெட் வீரரின் வேலை எப்போதும் பயிற்சியில் ஈடுபட்டு,
+   விளையாட்டில் திறமையை வெளிப்படுத்துவது. “இந்திய கிரிக்கெட் குழுவில்
+   என்னை சேர்த்துக் கொள்ளுங்கள்!.. பிறகு விளையாட்டை கற்றுக் கொண்டு, பிறகு
+   சிறப்பாக விளையாடி, பிறகு இந்தியாவிற்கு கோப்பை வாங்கித் தருகிறேன்.”
+   என்று யாருமே சொல்வதில்லை.
+
+
+   கிரிக்கெட்டில் திறமை பெற, மட்டையை எடுத்து பயிற்சி செய்ய வேண்டும்.
+   கணிணியில் திறமை பெற, பயிற்சி செய்தாலே போதுமே.
+
+
+   கணிணி மென்பொருள் உருவாக்கும் அனுபவம் பெறத் தேவையானவை ஒரு கணிணியும்,
+   இணைய இணைப்பும் மட்டுமே.
+
+
+   பின்வரும் எல்லாவற்றையும் செய்தாலே அனுபவம் தானாய் கிடைக்கும்.
+
+
+1. Syllabus தாண்டி கற்றுக் கொள்க.
+
+   GNU/Linux, PHP, Python, Ruby, MySQL என பல நுட்பங்களை கற்றுக் கொள்க.
+
+
+2. Tech குழுக்களில் சேர்க.
+
+   ஊரில் உள்ள Tech குழுக்களில் சேர்க. குழு இல்லையென்றால் தொடங்குக.
+   அடிக்கடி சந்தித்து புது விஷயஙுகளை கற்றுக் கொள்க.
+
+
+3. GNU/Linux பயன்படுத்துக.
+
+   உலகமே GNU/Linux ஐ விரும்பி வரவேற்கிறது. உங்களிடம் உள்ள விண்டோஸை
+   அழித்துவிட்டு, உபுண்டு, டெபியன், ஃபெடோரா என ஏதாவது ஒரு லினக்ஸை
+   நிறுவுங்கள். Commandline பயன்படுத்தும் போது எக்கச்சக்க புது விஷயங்கள்
+   கற்றுக் கொள்வீர்கள்.
+
+
+4. மென்பொருள் மூல நிரல் படியுங்கள்.
+
+   குனு/லினக்ஸில் எல்லா மென்பொருட்களுக்கும் source code கிடைக்கும். அவற்றை
+   பதிவிறக்கம் செய்து சும்மாவேனும் திறந்து படித்துப் பாருங்கள்.
+
+
+5. மென்பொருள் உருவாக்குங்கள்.
+
+   சின்ன கால்குலேட்டர் செய்யுங்கள். முகவரிப் புத்தகம் ஒன்று. இணைய இணைப்பை
+   சோதனை செய்யும் கருவி, ஒரு அலாரம், ஒரு Backup செய்யும் மென்பொருள், Web
+   scrapping மென்பொருள் என குட்டி குட்டியாக பல மென்பொருள் செய்யுங்கள்.
+   ஒவ்வொன்றுக்கும் ஓரிரு நாளே ஆகும்.
+
+
+   பிறகு உங்களை சுற்றியுள்ளோரிடம் கேட்டு, அவர்களுக்கு தேவையான மென்பொருளை
+   செய்து கொடுங்கள். கடைகளுக்கு தேவையான Billing, Accounts, Attendance என
+   பல மென்பொருட்கள் தேவைப்படும். அவற்றை இலவசமாகவே செய்து கொடுங்கள்.
+
+
+6.Version Control கற்றுக் கொள்க.
+
+   Source Code ஐ பலருடனும் இணைந்து பகிர்ந்து வேலை செய்ய Version Control
+   System பயன்படுகிறது. Subversion (SVN), GIT கற்றுக் கொள்ளுங்கள்.
+   http://github.com -ல் ஒரு பயனர் கணக்கு உருவாக்கி, உங்கள் மென்பொருட்கள்
+   யாவற்றையும் இங்கு சேருங்கள். பிறர் உருவாக்கிய மென்பொருட்களுக்கும்
+   பங்களியுங்கள். உங்கள் Facebook Profile ஐ விட github Profile ஏ உங்கள்
+   வளர்ச்சியை தீர்மானிக்கும்.
+
+
+7. கட்டற்ற மென்பொருட்களுக்கு பங்களியுங்கள்
+
+   உங்களுக்கு பிடித்தமான கட்டற்ற மென்பொருளுக்கு பங்களியுங்கள். ஒரு வரி
+   நிரல் தந்தாலும் அது பெரிய விஷயமே. நிரல் மட்டுமின்றி ஆவணமாக்கம், படம்,
+   IRC, Forum, Mailing list ஆகியவற்றில் உதவி, Packaging, பரப்புரை செய்தல்,
+   மொழிமாற்றம் செய்தல் என ஏதாவது ஒரு வகையில் பங்களியுங்கள். “How to
+   contribute to Open Source Software?” என்று தேடுங்கள். பிடித்த மொழியில்,
+   பிடித்த மென்பொருளுக்கு உதவுங்கள்.
+
+
+8. வலைப்பதிவு எழுதுங்கள்
+
+   நீங்கள் செய்ய்ம் எல்லாவற்றையும் உங்கள் வலைப்பதிவில் எழுதுங்கள். தினமும்
+   விடாமல் எழுதுங்கள். உங்களின் மிகச்சிறந்த Visiting Card ஆக உங்கள்
+   வலைப்பதிவு அமையும்.
+
+
+9. Resume-ல் இவை எல்லாவற்றையும் சேருங்கள்.
+
+   உங்கள் வலைப்பதிவு, உங்கள் github முகவரி, நீங்கள் பங்களிக்கும் கட்டற்ற
+   மென்பொருட்கள், Syllabus தாண்டி நீங்கள் கற்றுக் கொண்ட நுட்பங்கள்,
+   இவற்றையெல்லாம் உங்கள் Resume-ல் சேருங்கள்.
+
+
+10. வேலை கேட்காதீர்கள், Project Work கேளுங்கள்.
+
+   உங்களுக்கு தெரிந்தோரிடமெல்லாம் வேலை கேட்டு நச்சரிக்காதீர்கள். அதற்கு
+   பதிலாக அவர்களுக்கு தேவைப்படும் மென்பொருளை செய்து தருவதாய் சொல்லுங்கள்.
+   Project Work ஆக செய்யுங்கள்.
+
+
+   படித்து முடித்து, பின் சும்மாவே வேலை மட்டும் தேடிக் கொண்டிருந்தால், ஒரு
+   வருடம் ஓடியே விடும். அதற்குள் அடுத்த ஆண்டு மாணவர்கள் வெளியே வந்து
+   Fresher ஆகி விடுவர். நீங்கள் Fresher ஆகவும் இல்லாமல், வேலையும் இன்றி,
+   அனுபவமும் இன்றி மிகவும் குழம்பி நிற்பர்.
+
+
+   இந்த ஒரு ஆண்டில், மாதம் ஒரு Project என பத்து, பன்னிரண்டு Projectகளை
+   நீங்களே செய்து விட்டால், அதையே ஒரு ஆண்டு அனுபவமாக சொல்லலாம். Freelancer
+   என்று தைரியமாக உங்கள் Resume ல் அறிவிக்கலாம்.
+
+
+   ஒரு ஆண்டு அனுபவம் உள்ளது என்றே அறிவித்து வேலை தேடுங்கள். பிறகு
+   பாருங்கள். உங்களுக்கு கிடைக்கும் வாய்ப்புகளை. நிஜமாகவே அனுபவம்
+   இருப்பதால், நேர்முகத்தேர்வும் மிக எளிதாகவே இருக்கும்.
+
+
+   பல Project கள் செய்யும் போது, வணிக ரீதியான மென்பொருட்களை உருவாக்கி
+   பணமும் சம்பாதிக்கலாம். நல்ல குழுவினர் கிடைத்தால், தனியாக நிறுவனமும்
+   தொடங்கலாம்.
+
+
+   உழைப்பும் திறமையும் இருந்தால் போதும். வானமே உங்கள் எல்லைதான்.
+
+
+   எனதருமை சச்சின்களே. 50களையும் 100களையும் சச்சின் குவித்தது போல,
+   மென்பொருட்களை உருவாக்கி, கட்டற்ற மென்பொருட்களுக்கு பங்களித்து, உங்கள்
+   திறமையால், சுடர்விடும் சூரியனாய் மிளிருங்கள்.
+
+
+   வாழ்த்துக்கள்.
+
+
+   இந்த இணைப்புகளையும் பாருங்கள்.
+
+
+   http://ilugc.in
+
+
+   http://fsftn.org
+
+
+   http://opensource.com/life/13/4/ten-ways-participate-open-source
+
+
+   http://teachingopensource.org/index.php/How_to_start_contributing_to_or
+   _using_Open_Source_Software
+
+
+   http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-sou
+   rce-without-being-a-programming-genius-or-a-rock-star/
+
+
+   http://goinggnu.wordpress.com/2012/05/11/what-to-do-after-learning-pyth
+   on-programming/
+
+
+   உங்கள் கருத்துகளை இங்கே தெரிவியுங்கள்.
+
+
+   ↧
+
+கிரியேட்டிவ் காமன்ஸ் உரிமை –ஒரு அறிமுகம்
+
+   July 16, 2014, 12:57 pm
+
+   ≫ Next: WordPress 4.0 Beta 1
+
+   ≪ Previous: கணிணி மாணவர்கள் எப்படி வேலை தேடலாம்?
+
+   $
+   0
+   0
+
+1. பதிப்புரிமை
+
+   பதிப்புரிமை (Copyright) என்பது ஓர் எழுத்தாளருக்கோ, கலைஞருக்கோ தமது
+   அசலான படைப்புகளைப் பாதுகாக்க சட்டத்தினால் அவருக்கு அளிக்கப்பட்ட
+   தனிப்பட்ட உரிமையாகும். இவ்வுரிமையானது அப்படைப்புகளை நகலெடுத்தல்,
+   பரப்புதல், பயன்படுத்துதல் ஆகிய செயல்களைக் கட்டுப்படுத்துதலையும்
+   உள்ளடக்கியதாகும். இவ்வுரிமை உரிமையாளருக்குப் படைப்பின் மீதான
+   கட்டுப்பாட்டினையும் இலாபமீட்டும் உரிமையையும் தருகிறது. சில
+   சந்தர்ப்பங்கள் தவிர இப்படைப்புகளைப் பயன்படுத்த உரிமையாளரின் அனுமதி
+   பெறுவது அவசியம். இந்த அனுமதி தற்காலிகமானதாகவோ, நிரந்தரமானதாகவோ
+   இருக்கலாம்.
+
+   பதிப்புரிமை பாதுகாப்பது ஒருவரின் எண்ணத்தின் வெளிப்பாடுகளை; எண்ணங்களை
+   அல்ல. எடுத்துக்காட்டாக, ஒருவர் காப்புரிமை பெற அவர் மனதில் அழகிய
+   கதைக்கரு உருவாவது மட்டும் போதாது. அக்கரு ஒரு கதையாகவோ, ஓவியமாகவோ அல்லது
+   எதாவது ஒரு வடிவமாக வெளிப்பட வேண்டும். காப்புரிமை பெற வெளிப்பாடே
+   போதுமானது. பல நாடுகளில் பதிவு செய்ய வேண்டிய அவசியமில்லை. முந்திய
+   காலங்களில் பதிப்புரிமைச் சட்டம் புத்தகங்கள் நகலெடுப்பதற்கு எதிராக
+   மட்டுமே பயன்பட்டது. காலம் செல்லச்செல்ல மொழிப்பெயர்ப்பு மற்றும் பிற
+   சார்ந்த ஆக்கங்களிலும் இச்சட்டம் பயன்படுத்தப்படுகிறது. தற்போது
+   நிலப்படம், இசை, நாடகம், புகைப்படம், ஒலிப்பதிவு, திரைப்படம், கணினி நிரல்
+   ஆகியவையும் இதில் அடக்கம்.
+
+   பதிப்புரிமையின் சாதக பாதகங்கள்
+
+   பதிப்புரிமையின் முக்கியமான சாதக அம்சம் பொருளாதார ரீதியில்
+   எழுத்தாளர்களுக்கு பயன் கிடைப்பதனை உறுதி செய்வதே ஆகும். அதாவது ஒரு நூல்
+   எத்தனை பிரதிகள், எந்தப் பதிப்பகத்தால், எப்போது வெளியிடப்படலாம் என்ற
+   முடிவுகளை எழுத்தாளர் எடுக்க முடிகிறது. விற்பனையாகும் நூல்களின்
+   இலாபத்தில் சிறு பகுதியினை எழுத்தாளர் பெற்றுக் கொள்ளவும் முடியும்.
+
+   பதிப்புரிமையின் மூலம் இலாபம் பெறுவதற்காக வழிவகை செய்யப்பட்டுள்ள
+   போதிலும் அறிவு பரவுதலும் அறிவு விருத்தியும் பெருமளவில்
+   தடுக்கப்படுகின்றன. இதற்கான காரணம் பதிப்புரிமையின் இறுக்கமான
+   கட்டுப்பாடுகளே ஆகும். ஓர் எழுத்தாளர் இறந்து 60 ஆண்டுகளின் பின்னரேயே
+   அவரது படைப்புக்கள் பொதுவெளிக்கு வருகின்றன. அதுவரை அப்படைப்புகள்
+   மறுபதிப்புச் செய்யப்படாவிடினும் அல்லது படைப்புக்கு உரிமை கோர எவரும்
+   இல்லாவிடினும் கூட வேறெவரும் பயன்படுத்த முடியாத நிலையே காணப்படுகிறது.
+
+   சமூக நலன் கருதிய படைப்புக்கள் கூட – அவை சென்று சேர வேண்டிய மக்களைச்
+   சென்றடையாமல் – பதிப்புரிமையின் பெயரால் தடுக்கப்படுகின்றன. எழுத்தாளர்களை
+   மையமாகக் கொண்டு அச்சமூகங்களில் உருவாகவேண்டிய சிந்தனைப் பள்ளிகள்
+   தோன்றாமலேயே போய்விடுகின்றன. தமது சிந்தனைகள் மூலமாக – அவை அவர்களுக்கு
+   பின்பான தலைமுறைகளால் கடத்தப்படுவதனூடாக வரலாற்றில் தொடர்ச்சியாக வாழ
+   வேண்டிய சிந்தனையாளர்கள் பதிப்புரிமையினால் கட்டுப்படுத்தப்படுவது
+   கவலைக்குரியது.
+
+   அறிவின் பல்கிப்பெருகும் தன்மையே சமூகத்தை உயிர்ப்புடன்
+   வைத்திருக்கக்கூடியது. சமூகம் உயிர்ப்புடன் இருப்பதற்கு சமூக அறிவு
+   சகலராலும் பயன்படுத்தக்கூடியதாக இருக்க வேண்டும். ஆனால் பதிப்புரிமையின்
+   கட்டுப்பாடுகள் அதற்கு இடம் தருவதில்லை.
+
+   தற்போதைய பதிப்புரிமை வடிவத்தின் பாதகமான அம்சங்களை எவ்வாறு சாதகமான
+   அம்சமாக மாற்றுவது?
+
+   படைப்பாளியின் நலன் பாதுகாக்கப்படவும் வேண்டும் அதேவேளை அப்படைப்பாளியின்
+   கருத்துக்களாலும் சிந்தனைகளாலும் அச்சமூகமும் பயன்பெற வேண்டும்.
+   சமூகத்தின் மீது அக்கறையுள்ள ஒவ்வொருவரும் இப்புள்ளியில் நின்று
+   சிந்தித்து அதற்கான தீர்வைப் பெற வேண்டும்.
+
+   இதற்காக உருவாக்கப்பட்டதே கிரியேட்டிவ் காமன்ஸ் – Creative Commons –
+   படைப்பாக்கப் பொதும உரிமங்கள் ஆகும். இந்த உரிமங்கள் கொண்டதாக
+   வெளியிடப்படும் நூல்களின் இலாபமீட்டும் உரிமை படைப்பாளியிடமே இருக்கும்.
+
+   அதேநேரம் படைப்புகளை யாவரும் பகிர்தல், அறிவைப் பரவலாக்குதல், விருத்தி
+   செய்வதற்கான வழிகள் திறக்கப்படுகின்றன. படைப்பாளியின் உரிமையில் எதுவிதமான
+   பாதிப்பையும் ஏற்படுத்தாது, அறிவு விருத்தியில் மக்கள் சார்ந்து
+   நிற்பதற்கு இவ்வுரிமங்கள் வழிவகை செய்துள்ளன. இவ்வுரிமங்களில் ஒன்றினைப்
+   பயன்படுத்துவதன் மூலம் ஆவணப்படுத்தல், அறிவுவிருத்தி, கல்வி மேம்பாடு ஆகிய
+   சமூகநல நோக்குகளுடன் இயங்கிவரும் நூலக நிறுவனம், விக்கிபீடியா போன்ற
+   அமைப்புக்களும் தொடர்ச்சியாக இயங்கக் கூடியதாக இருக்கிறது.
+
+2. கிரியேட்டிவ் காமன்ஸ் – படைப்பாக்கப் பொதுமங்கள்
+
+   கிரியேட்டிவ் காமன்ஸ் – Creative Commons – படைப்பாக்கப் பொதுமங்கள்
+   என்பது ஆக்கங்களை சட்டப்படி மற்றவரோடு பகிர்ந்துகொள்ளலை ஊக்குவிப்பதையும்
+   விரிவுபடுத்துவதையும் நோக்கமாகக்கொண்டு இயங்கும் இலாபநோக்கற்ற அறக்கட்டளை
+   ஆகும். இது 2001 இல் லோறன்ஸ் லெசிக் என்பவரால் தொடங்கப்பட்டது.
+
+   http://creativecommons.org
+
+   இது படைப்பாளர்களுக்கும் பயனர்களுக்கு இடையேயான ஒரு பாலமாக அமைகிறது.
+   கிரியேட்டிவ் காமன்ஸ் உரிமங்கள் அனைத்து உரிமைகளையும் கட்டுப்படுத்தாமல்,
+   அளிப்புரிமையை ஊக்குவிக்கின்றன. எந்த உரிமையை அளிப்பது என்பது (அதாவது
+   முழுவதையும் காப்புரிமைக்கு கட்டுப்படுத்தலில் இருந்து முழுமையாகப்
+   பொதுவில் விடுதல் வரையான பல்வேறு தெரிவுகள்) படைப்பாளர்களுக்குச்
+   சாத்தியமாகின்றது. இது முழுமையான கட்டற்ற படைப்பு உரிமங்களுக்கும்
+   முழுமையான காப்புரிமை உரிமங்களுக்கும் இடைப்பட்ட ஒரு மிதவாதத் தீர்வாகப்
+   பார்க்கப்படுகிறது.
+
+   தற்போது எல்லாப் படைப்புகளுக்கும் அனைத்து உரிமைகளும் காப்புடைமையானவை
+   என்ற சட்டம் தீவிரவாத நிலைப்பாட்டை உடையதாகும். பெரும்பாலான நேரங்களில்
+   பயனர்களின் சமூகத்தின் நியாயமான பயன்பாட்டிற்கு இது தடையாக அமைந்து
+   விடுகிறது. பல சந்தர்ப்பங்களில் ஆக்கர்களே அவ்வாறு தமது படைப்புக்களை
+   கட்டுப்படுத்த விரும்புவதில்லை. ஆகவே இந்த தடையை நடைமுறையில்
+   தளர்த்துதவற்காக உருவாக்கப்பட்டதுதான் படைப்புப் பொதும உரிமங்கள் என்று
+   லோறன்சு லெசிக் கூறுகிறார்.
+
+   இந்த நிறுவனமானது இதற்கென பல்வேறு வகையான காப்புரிமை உரிம ஒப்பந்தங்களை
+   உருவாக்கி வெளியிட்டுள்ளது. இவ்வுரிம ஒப்பந்தங்கள் கிரியேட்டிவ் காமன்ஸ்
+   (படைப்பாக்கப் பொதுமங்களின்) உரிமங்கள் என அறியப்படுகின்றன. இந்த உரிமைகள்
+   படைப்பாளர்கள் அவர்கள் தெரிந்தெடுக்கும், அவர்களுக்கு ஏற்ற உரிமங்களோடு
+   தமது படைப்புக்களை வெளியிடுவதைச் சாத்தியமாக்குகின்றன. பல்வேறு
+   தேவைகளுக்கும் பயன்படக்கூடிய வகையில் வெவ்வேறு வகையான கட்டுப்பாடுகளுடன்
+   ஆறு உரிம ஒப்பந்தங்கள் உருவாக்கப்பட்டுள்ளன.
+
+   கிரியேட்டிவ் காமன்ஸ் – படைப்பாக்கப் பொதும உரிமங்கள்
+
+   ஒருவருடைய படைப்புகளை இணையத்திலும் வேறு வடிவங்களிலும் பகிர்வதற்காக
+   கிரியேட்டிவ் காமன்ஸ் அமைப்பினால் உருவாக்கப்பட்ட உரிம ஒப்பந்தங்கள்,
+   கிரியேட்டிவ் காமன்ஸ் (படைப்பாக்கப் பொதும) உரிமங்கள் எனப்படுகிறன.
+   கிரியேட்டிவ் காமன்ஸ் அமைப்பானது பல்வேறு தேவைகளுக்கும் பயன்படக்கூடிய
+   வகையில் வெவ்வேறு வகையான ஆறு உரிம ஒப்பந்தங்களை தயாரித்து
+   வழங்கியிருக்கிறது.
+
+   மூல உரிமங்கள்
+
+       Attribution குறிப்பிடுதல் / Attribution (by)
+
+   ஆக்கங்களை படியெடுக்க, விநியோகிக்க, பகிர, காட்சிப்படுத்த, இயக்க,
+   வழிபொருட்களை உருவாக்க ஆகிய உரிமைகள் வழங்கப்படுகின்றன. ஆனால் தகுந்த
+   முறையில் அல்லது வேண்டப்பட்ட முறையில் படைப்பாளிகள் குறிப்பிடப்படுதல்
+   வேண்டும்.
+
+   மூல படைப்பாளி மற்றும் மூல படைப்பு கிடைக்கும் இடம் போன்ற தகவல்களை
+   அளித்தே பகிர வேண்டும்.
+
+       Non-commercial இலாபநோக்கமற்ற / NonCommercial (nc)
+
+   ஆக்கங்களை படியெடுக்க, விநியோகிக்க, காட்சிப்படுத்த, இயக்க, வழிபொருட்களை
+   உருவாக்க ஆகிய உரிமைகள் வழங்கப்படுகின்றன. ஆனால் இலாப நோக்கமற்ற
+   நோக்கங்களுக்கு மட்டுமே.
+
+   விற்பனை செய்யக்கூடாது.
+
+       Non-derivative வழிப்பொருளற்ற / NoDerivatives (nd)
+
+   ஆக்கங்களை படியெடுக்க, விநியோகிக்க, காட்சிப்படுத்த, இயக்க ஆகிய உரிமைகள்
+   வழங்கப்படுகின்றன. ஆனால் வழிபொருட்களை உருவாக்குவதற்கான உரிமை
+   தரப்படவில்லை.
+
+       Share-alike அதே மாதிரிப் பகிர்தல் / ShareAlike (sa)
+
+   வழிபொருட்களை முதன்மை ஆக்கத்துக்குரிய அதே உரிமங்களோடே விநியோகிக்க
+   முடியும்.
+
+   ஆறு முதன்மை உரிமங்கள்
+
+   ஆக்கப்பணி ஒன்றினை படைப்பாக்கப் பொதுமங்கள் உரிமைப்படி வழங்கும்போது
+   தெரிவு செய்யப்படக்கூடிய முதன்மையான ஆறு உரிம ஒப்பந்த வகைகளும் கீழே
+   பட்டியலிடப்படுகின்றன. குறைந்த கட்டுப்பாடுகள் கொண்ட உரிமத்தில் இருந்து
+   கூடிய கட்டுப்பாடுகள் கொண்டது வரை இவை வரிசைப்படுத்தப்பட்டுள்ளன.
+
+1. Creative Commons Attribution BY – குறிப்பிடுதல் (CC-BY)
+
+   படைப்பாக்கப் பொதுமங்கள் வழங்கும் ஒப்பந்தங்களில் இதுவே கட்டுப்பாடுகள்
+   குறைந்த ஒப்பந்தமாகும். இவ்வொப்பந்தத்தின் படி நீங்கள் உங்கள் ஆக்கத்தினை
+   வழங்கும்போது, உங்கள் ஆக்கத்தில் மாற்றங்கள் செய்ய, பயன்படுத்த, அதனை
+   அடிப்படையாகக்கொண்டு புதிய ஆக்கங்களை உருவாக்க அனைவருக்கும் உரிமை உண்டு.
+   அத்தோடு உங்கள் ஆக்கத்தினை அல்லது மாற்றங்கள் செய்யப்பட்ட புதிய
+   ஆக்கத்தினை வர்த்தக நோக்கங்களுக்காக பயன்படுத்தவும் அனுமதி உண்டு. உங்கள்
+   ஆக்கத்தினை எது வேண்டுமானாலும் செய்யமுடியும். ஆனால் என்ன செய்தாலும்
+   உங்கள் பெயரை குறிப்பிட்டாகவேண்டும். அதுவே இந்த ஒப்பந்தத்தின் ஒரேயொரு
+   கட்டுப்பாடு. சுருக்கமாக
+
+   ஆக்குநர் பெயர் கட்டாயம் குறிப்பிடப்படவேண்டும்.
+
+   மாற்றம் செய்தல், புத்தாக்கங்களுக்கு அடிப்படையாக பயன்படுத்துதல்
+   அனுமதிக்கப்பட்டுள்ளது.
+
+   வர்த்தக நோக்கம் கருதிய பயன்பாடு அனுமதிக்கப்பட்டுள்ளது.
+
+   இதே உரிமத்தினடிப்படையிலேயே பகிர்தல் நிகழவேண்டும் என்றில்லை.
+
+   மாற்றங்கள் செய்த பின் பயனர் வேறு உரிமத்திலும் பகிரலாம்.
+
+
+2.Creative Commons Attribution-ShareAlike குறிப்பிடுதல் – அதே மாதிரிப்
+பகிர்தல் (CC-BY-SA)
+
+   இந்த ஒப்பந்தமானது உங்கள் ஆக்கப்பணியினை மாற்ற, திருத்த, அதனை
+   அடிப்படையாகக்கொண்டு புதிய ஆக்கங்களை உருவாக்க என்று சகலதிற்கும் மற்றவரை
+   அனுமதிக்கிறது. புதிய ஆக்கத்தினை வர்த்தக நோக்கங்களுக்காகவும் பயன்படுத்த
+   முடியும். ஆனால், அவ்வாறு பகிரப்படும் வேளையில் உங்கள் ஆக்கமோ அல்லது அதனை
+   அடிப்படையாககொண்டு உருவாகும் புதிய ஆக்கமோ உங்கள் பெயரை கட்டாயம்
+   குறிப்பிடவேண்டும். அத்தோடு நீங்கள் பயன்படுத்திய உரிம ஒப்பந்தத்தை
+   அப்படியே பயன்படுத்தவேண்டும். சுருக்கமாக
+
+   ஆக்குநர் பெயர் கட்டாயம் குறிப்பிடப்படவேண்டும்.
+
+   மாற்றம் செய்தல், புத்தாக்கங்களுக்கு அடிப்படையாக பயன்படுத்துதல்
+   அனுமதிக்கப்பட்டுள்ளது.
+
+   வர்த்தக நோக்கம் கருதிய பயன்பாடு அனுமதிக்கப்பட்டுள்ளது.
+
+   இதே உரிமத்தினடிப்படையிலேயே பகிர்தல் நிகழவேண்டும்.
+
+
+3. Creative Commons Attribution-NoDerivs குறிப்பிடுதல் – வழிப்பொருளற்ற
+(CC-BY-ND)
+
+   உங்கள் ஆக்கப்பணியில் எந்த மாற்றமும் செய்யாமல், உங்கள் பெயரை காட்டாயம்
+   குறிப்பிடும் வரைக்கும் வர்த்தக ரீதியான அல்லது வர்த்தக நோக்கம் அல்லாத
+   எந்த தேவைக்காகவும் உங்கள் ஆக்கத்தினை மீள விநியோகிக்க, பகிர்ந்துகொள்ள
+   இவ்வொப்பந்தம் அனுமதியளிக்கிறது. சுருக்கமாக
+
+   ஆக்குநர் பெயர் கட்டாயம் குறிப்பிடப்படவேண்டும்.
+
+   மாற்றம் செய்தல், புத்தாக்கங்களுக்கு அடிப்படையாக பயன்படுத்துதல்
+   அனுமதிக்கப்படவில்லை.
+
+   வர்த்தக நோக்கம் கருதிய பயன்பாடு அனுமதிக்கப்பட்டுள்ளது.
+
+   இதே உரிமத்தினடிப்படையிலேயே பகிர்தல் நிகழவேண்டுமென்றில்லை.
+
+
+4. Creative Commons Attribution-NonCommercial குறிப்பிடுதல் – இலாப நோக்கமற்ற
+(CC-BY-NC)
+
+   இந்த உரிமம் வர்த்தக நோக்கம் தவிர்ந்த தேவைகளுக்காக உங்கள் ஆக்கத்தினை
+   திருத்த, வடிவம் மாற்ற, மீள்சுழற்சிக்குட்படுத்த அனுமதிக்கிறது. இந்த
+   ஒப்பந்தத்திலும் உங்கள் ஆக்கத்தினை அடிப்படையாகக்கொண்டு புதிதாக
+   உருவாக்கப்படும் ஆக்கத்தில் உங்கள் பெயர் குறிப்பிடப்பட வேண்டும், வர்த்தக
+   நோக்கங்களுக்கு பயன்படுத்த முடியாது. ஆனால் ஒரேயொரு வித்தியாசம், உங்கள்
+   ஆக்கம் தாங்கியுள்ள உரிம விதிகளுக்கு அமைவாகத்தான் புதிதாக
+   உருவாக்கப்படும் ஆக்கத்தையும் விநியோகிக்கவேண்டும் என்ற கட்டாயம் இல்லை.
+   சுருக்கமாக
+
+   ஆக்குநர் பெயர் கட்டாயம் குறிப்பிடப்படவேண்டும்.
+
+   மாற்றம் செய்தல், புத்தாக்கங்களுக்கு அடிப்படையாக பயன்படுத்துதல்
+   அனுமதிக்கப்பட்டுள்ளது
+
+   வர்த்தக நோக்கம் கருதிய பயன்பாடு அனுமதிக்கப்படவில்லை.
+
+   இதே உரிமத்தினடிப்படையிலேயே பகிர்தல் நிகழவேண்டுமென்றில்லை.
+
+5. Creative Commons Attribution-NonCommercial-ShareAlike குறிப்பிடுதல் – இலாப
+நோக்கமற்ற – அதே மாதிரிப் பகிர்தல்(CC-BY-NC-SA)
+
+   இந்த ஒப்பந்தம், மற்றவர்கள் உங்கள் ஆக்கத்தை மீள்சுழற்சிக்குட்படுத்த,
+   மாற்றங்கள் செய்ய, தொகுக்க, உங்கள் ஆக்கத்தினை அடிப்படையாக வைத்து புதிய
+   ஆக்கங்களை செய்ய அனுமதிக்கிறது. ஆனால் மாற்றம் செய்யப்பட்டு
+   வெளியிடப்படும் புதிய ஆக்கம், உங்கள் பெயரை குறிப்பிட வேண்டும் அத்தோடு
+   இதே அனுமதிகளை அப்புதிய ஆக்கமும் வழங்க வேண்டும். மற்றவர்கள் உங்கள்
+   ஆக்கத்தினை தரவிறக்கவும் பகிர்ந்தளிக்கவும் முன்னைய ஒப்பந்தம் போன்றே
+   இதுவும் அனுமதிக்கிறதென்றாலும், உங்கள் ஆக்கத்தில் மாற்றங்கள் செய்ய
+   அனுமதிப்பதே இவ்வொப்பந்தத்தின் சிறப்பு. உங்கள் ஆக்கத்தினை
+   அடிப்படையாகக்கொண்டு புதிதாக உருவாக்கப்படும் ஆக்கங்களும் நீங்கள் வழங்கிய
+   உரிமத்தினடிப்படையிலேயே அமைய வேண்டும் என்பதால் புதிய உருவாக்கங்களையும்
+   வர்த்தகத் தேவைகளுக்காக பயன்படுத்த முடியாது. சுருக்கமாக
+
+   ஆக்குநர் பெயர் கட்டாயம் குறிப்பிடப்படவேண்டும்.
+
+   மாற்றம் செய்தல், புத்தாக்கங்களுக்கு அடிப்படையாக பயன்படுத்துதல்
+   அனுமதிக்கப்பட்டுள்ளது.
+
+   வர்த்தக நோக்கம் கருதிய பயன்பாடு அனுமதிக்கப்படவில்லை.
+
+   இதே உரிமத்தினடிப்படையிலேயே பகிர்தல் நிகழும்.
+
+
+6. Creative Commons Attribution-NonCommercial-NoDerivs குறிப்பிடுதல் –
+இலாபநோக்கமற்ற, வழிப்பொருளற்ற (CC-BY-NC-ND)
+
+   இதுவே முதன்மையான ஆறு உரிம ஒப்பந்தங்களிலும் கட்டுப்பாடுகள் கூடியதாகும்.
+   இது மீள் விநியோகத்தை அனுமதிக்கிறது. இவ்வுரிம ஒப்பந்தம் “இலவச விளம்பர”
+   ஒப்பந்தம் என்றும் அழைக்கப்படுகிறது. ஏனெனில், உங்கள் ஆக்கவேலையை
+   தரவிறக்கவும், மற்றவரோடு பகிர்ந்துகொள்ளவும் இது எல்லோரையும்
+   அனுமதிக்கிறது. ஆனால் பகிரப்படும்போது உங்களது பெயர், உங்களுக்கான
+   தொடுப்பு போன்றவற்றையும் வழங்க வேண்டும். பகிர்பவர்கள் உங்கள்
+   ஆக்கப்பணியில் எந்த மாற்றமும் செய்ய முடியாது. வர்த்தக நோக்கங்களுக்காக
+   பயன்படுத்தவும் முடியாது. மாற்றங்கள் அனுமதிக்கப்படவில்லை என்பதால்
+   இயல்பாகவே உங்கள் ஆக்கத்தினை பகிரும்போது இதே உரிம ஒப்பந்தத்தின்
+   அடிப்படையிலேயே விநியோகம் நிகழும். சுருக்கமாக
+
+   ஆக்குநர் பெயர் கட்டாயம் குறிப்பிடப்படவேண்டும்.
+
+   மாற்றம் செய்தல், புத்தாக்கங்களுக்கு அடிப்படையாக பயன்படுத்துதல்
+   அனுமதிக்கப்படவில்லை.
+
+   வர்த்தக நோக்கம் கருதிய பயன்பாடு அனுமதிக்கப்படவில்லை
+
+   இதே உரிமத்தினடிப்படையிலேயே பகிர்தல் நிகழும்.
+
+   இந்த ஆறு உரிமங்களில் ஒன்றை உங்கள் படைப்புகளுக்கு அளிப்பதன் மூலம், அவை
+   பலரால் பகிரப்பட்டு சாகாவரம் பெறுகின்றன.
+
+   உங்கள் வலைப்பதிவுகள், கட்டுரைகள், புகைப்படங்கள், காணொளிகள் என எந்த
+   படைப்பையும் இந்த கிரியேட்டிவ் காமன்ஸ் உரிமைகளில் வெளியிடலாம்.
+
+   இந்த இணைப்பின் மூலம், உங்களுக்கு தேவையான கிரியேட்டிவ் காமன்ஸ் உரிமையை
+   தெரிவு செய்யலாம்.
+
+   http://creativecommons.org/choose/
+
+   உங்கள் படைப்புகளை பலரும் பகிரும் போது, உங்கள் அறிவு பலரையும்
+   சென்றடைகிறது.
+
+   எழுத்தாளருடைய பதிப்புரிமை எப்போதும் அவரிடமே இருக்கும். படைப்பாளியின்
+   பதிப்புரிமையில் எவ்வித பாதிப்பும் ஏற்படாமல், குறித்த படைப்பாளியின்
+   கருத்துக்களையும் சிந்தனைகளையும் சகல மக்களுக்கும் கொண்டு சென்று சேர்த்து
+   புதிய சிந்தனைப்போக்குக்கள் உருவாக்கத்திற்கான அறிவுப் பரவலாக்கத்தை
+   மாத்திரமே கிரியேட்டிவ் காமன்ஸ் உரிமை செய்கின்றது.
+
+   இந்த அனுமதியின் நன்மைகள்
+
+   படைப்பாளர்களுக்கு
+
+   படைப்பாளரது படைப்பு, வாசகர் அனைவருக்கும் பகிரும் உரிமை உள்ளதால்,
+   உலகெங்கும் உள்ள வாசகர்களைச் சென்றடைகின்றது. இதன் மூலம் படைப்பாளருடைய
+   அறிவும் கருத்துக்களும் சிந்தனைகளும் வளர்ந்து வரும் படைப்பாளர்கள்
+   மத்தியிலும் தமிழ்ச்சமூகத்தின் மத்தியிலும் சென்றடைகின்றன. ஒரு
+   படைப்பாளரைப் பொறுத்தவரை அவருடைய கருத்துக்கள் சிந்தனைகள் பரந்துபட்ட
+   மக்களைச் சென்றடைவதே அவருடைய முதன்மை நோக்கம் என்ற வகையில் அவருடைய எண்ணம்
+   நிறைவேறுகின்றது.
+
+   பல்வேறுபட்ட நாடுகளில் உள்ளவர்களையும் படைப்புக்கள் சென்றடைவதன் மூலம்
+   அவர்களது கருத்துக்களிலும் சிந்தனைகளிலும் தாக்கத்தைச் செலுத்தும் நிலமை
+   தோற்றுவிக்கப்படுகின்றது. ஒரு படைப்பாளருடைய படைப்பு/கருத்து/சிந்தனை
+   வாசகர்கள் மத்தியில் தாக்கத்தைச் செலுத்தும் போதும் வாசகருடைய
+   வாழ்வியலிலும் சமூகம் சார்ந்த நிலைப்பாடுகளிலும் தாக்கத்தைச் செலுத்தும்
+   போதும் அப்படைப்பாளி சாகாவரம் பெற்று தொடர்ச்சியாக உயிர்வாழ்கின்றார்.
+
+   வாசகருக்கு
+
+   வாசகர் தாம் படிக்கும் நூல்களை நண்பருடன் பகிர்ந்து கொள்ளலாம். தமது
+   வலைப்பதிவில் பகிரலாம். தாம் விரும்பிய புகைப்படத்தை தமது அலுவலக
+   பயன்பாட்டிற்கு பயன்படுத்தலாம்.
+
+   சமுக வலைத்தளங்களில் பகிரலாம். மின்னூலாக்கி பல கருவிகளில் படிக்கலாம்.
+
+   மாற்றங்கள் செய்யும் உரிமை இருந்தால், விரும்பியவாறு மாற்றயும் பகிரலாம்.
+   வணிக உரிமை இருந்தால், விற்பனையும் செய்யலாம்.
+
+   பகிர்தல் என்பது மனித குலத்தின் அடிப்படைப் பண்பு. நாம் விரும்பும்
+   எதையும் பகிர்வது நம் உரிமை.
+
+   புகைப்படங்கள்
+
+   Flickr.com, commons.wikimedia.org போன்ற தளங்களில், நீங்கள் கிரியேட்டிவ்
+   காமன்ஸ் உரிமையில் பகிரலாம். கிரியேட்டிவ் காமன்ஸ் உரிமையில் பகிரப்பட்ட
+   படைப்பகளை தேடி, அவற்றை உங்கள் நூல்களில், வலைப் பதிவுகளில்
+   பயன்படுத்தலாம்.
+
+   கிரியேட்டிவ் காமன்ஸ் உரிமையில் உள்ள படங்களுக்கான தேடுபொறி இதோ.
+
+   http://search.creativecommons.org/
+
+   அடுத்த முறை உங்களுக்கு ஒரு படம் தேவைப்படும் போது, சும்மா கூகுள்
+   தேடுபொறியில் தேடி, உங்களுக்கு உரிமை இல்லாத படத்தை பயட்படுத்துவதை விட,
+   இங்கே தேடி, பகிரும் உரிமை உள்ள படங்களை பயன்படுத்துங்கள்.
+
+   கல்யாண் வர்மா என்ற புகழ்பெற்ற வன விலங்கு புகைப்பட நிபுணர், தமது அரிய
+   புகைப்படங்கள் யாவையும் கிரியேட்டிவ் காமன்ஸ் உரிமையில் வெளியிட்டதால்,
+   தாம் பெற்ற சிறப்புகளையும், பயன்களையும் பற்றி இந்த காணொளியில்
+   பேசுகிறார்.
+
+   http://www.inktalks.com/discover/117/kalyan-varma-free-art-is-profitabl
+   e
+
+
+மின்னூல்கள் – FreeTamilEbooks.com திட்டம்
+
+   பல தளங்களிலும், வலைப்பதிவுகளிலும் ‘காப்புரிமை உள்ளது’, ‘எங்கும்
+   நகலெடுத்து பகிரக் கூடாது’ என்று பார்த்திருப்பீர்கள். இதனால் வாசகருக்கு
+   எந்த உரிமையும் இல்லை.
+
+   இணைய செலவை சேமிக்க, நீங்கள் அந்த வலைப்பதிவுகளை சேமித்து வைத்து, பிறகு
+   படிக்கலாம் என்று நினைப்பது முடியாது. ODT, PDF, DOC கோப்புகளாக மாற்றக்
+   கூடாது.
+
+   சில ஆண்டுகளில் அந்த வலைத்தளம் மூடப்பட்டால்,அவ்வளவுதான்.
+
+   அதில் இருந்த தகவல்களை யாரும் வைத்திருக்க முடியாது. கூடாது.
+
+   இதுபோல் அழிந்த வலைத்தளங்கள் ஏராளம். தமிழில் புகழ்பெற்று விளங்கிய
+   ‘அம்பலம்’ மின்னிதழ் போல, காப்புரிமை கொண்டு, அழிந்த பின் Backup கூட
+   இல்லாத தளங்கள் பல.
+
+   இவ்வாறு காப்புரிமை கொண்டுள்ளதால், எழுதியவருக்கு நட்டம் அதிகம். பல
+   வாசகரை அடைய எழுதிய படைப்புகள், வலைத்தளம் தவிர வேறு வடிவங்களில் வாசகரை
+   அடைய முடிவதில்லை.
+
+   இப்போது, படிப்பதற்கென கிண்டில், டேப்லட் என பலவகை கருவிகள் உள்ளன.
+   இவற்றில் யாரும் வலைத்தளங்களை படிப்பது கடினம். ஆனால் இவற்றில்
+   படிப்பதற்கேற்ப epub, mobi, PDF என பல வகை கோப்புகள் உள்ளன.
+
+   வலைத்தளங்களை இது போன்று மின்னூலாக்கினால், வாசகர்களை எளிதில் படிக்க
+   வைக்கலாம். ஆனால் இது போன்று மின்னூலாக்கி பகிர்வதை ‘காப்புரிமை’
+   தடுக்கிறது.
+
+   ஆனால், சிலர் கிரியேட்டிவ் காமன்ஸ் உரிமையில் தமது வலைப்பதிவுகளையும்,
+   நூல்களுயும் வெளியிட்டுள்ளதால், FreeTamilEbooks.com திட்டக் குழுவினர்,
+   அவற்றை மின்னலாக்கி வெளியிடுகின்றனர். இந்த நூல்களை யாவரும், படிக்கலாம்.
+   பகிரலாம்.
+
+   இதுவரை சுமார் 100 மின்னூல்கள் வெளிவந்துள்ளன. ஒவ்வொரு மின்னூலும்
+   குறைந்தநு 100 பதிவிறக்கங்கள், சில மின்னூல்கள் 15,000 பதிவிறக்கங்கள் என
+   உலகெங்கும் உள்ள தமிழ் வாசகர்களை இந்த மின்னூல்கள் அடைகின்றன.
+
+   கிரியேட்டிவ் காமன்ஸ் உரிமையால் மட்டுமே இது போன்ற புது முயற்சிகள்
+   சாத்தியமாகின்றன.
+
+   இது போல, மேலும் புது வகை முயற்சிகளுக்கும் வாய்ப்பளிக்கின்றது.
+
+   ஏட்டில் இருந்து அச்சு நூலுக்கு வந்ததே, அதிகம் பேரே சென்றடைய.
+   அச்சிலிருந்து இணைய வடிவிற்கு மாறியது உலகெங்கும் சென்றடைய. ‘காப்புரிமை’
+   கொண்டு இந்த பரவலை தடுக்காதீல்கள். கிரியேட்டிவ் காமன்ஸ் உரிமையில் உங்கள்
+   படைப்புகளை வெளியிட்டு, உங்கள் வாசகருக்கும் பகிரும், மாற்றங்கள் செய்யும்
+   உரிமை கொடுங்கள்.
+
+   வாசகர்கள் உங்களை வாழ்த்திக் கொண்டே படிப்பர். பகிர்வர். உங்கள்
+   படைப்புகளும் சாகாவரம் பெறும்.
+
+
+   மேலும் படிக்க.
+
+   https://creativecommons.org/licenses/
+
+   http://www.wired.co.uk/news/archive/2011-12/13/creative-commons-101
+
+
+   http://creativecommons.org/videos/get-creative
+
+   http://www.slideshare.net/DonnaGaudet/creative-commons-32865734
+
+   http://www.assortedstuff.com/stuff/?p=413
+
+   http://thepowerofopen.org/
+
+
+
+   நன்றி – நூலக நிறுவனம் வெளியிட்ட கையேடு ‘படைப்பாக்கப் பொதுமங்கள் –
+   எழுத்தாளர்களுக்கான அறிமுகம்’
+
+   உரிமை – Creative Commons Attribution/Share-Alike License
+
+   http://creativecommons.org/licenses/by-sa/3.0/
+
+
+
+   த.சீனிவாசன்
+
+   tshrinivasan@gmail.com
+
+   ↧
+
+                              WordPress 4.0 Beta 1
+
+   July 10, 2014, 3:17 am
+
+   ≫ Next: WordPress 4.0 Beta 2
+
+   ≪ Previous: கிரியேட்டிவ் காமன்ஸ் உரிமை –ஒரு அறிமுகம்
+
+   $
+   0
+   0
+
+   WordPress 4.0 Beta 1 is now available!
+
+   This software is still in development, so we don’t recommend you run it
+   on a production site. Consider setting up a test site just to play with
+   the new version. To test WordPress 4.0, try the WordPress Beta Tester
+   plugin (you’ll want “bleeding edge nightlies”). Or you can download the
+   beta here (zip).
+
+   4.0 is due out next month, but to get there, we need your help testing
+   what we’ve been working on:
+     * Previews of embedding via URLs in the visual editor and the “Insert
+       from URL” tab in the media modal. Try pasting a URL (such as a
+       WordPress.tv or YouTube video) onto its own line in the visual
+       editor. (#28195, #15490)
+     * The Media Library now has a “grid” view in addition to the existing
+       list view. Clicking on an item takes you into a modal where you can
+       see a larger preview and edit information about that attachment,
+       and you can navigate between items right from the modal without
+       closing it. (#24716)
+     * We’re freshening up the plugin install experience. You’ll see some
+       early visual changes as well as more information when searching for
+       plugins and viewing details. (#28785, #27440)
+     * Selecting a language when you run the installation process.
+       (#28577)
+     * The editor intelligently resizes and its top and bottom bars pin
+       when needed. Browsers don’t like to agree on where to put things
+       like cursors, so if you find a bug here, please also let us know
+       your browser and operating system. (#28328)
+     * We’ve made some improvements to how your keyboard and cursor
+       interact with TinyMCE views such as the gallery preview. Much like
+       the editor resizing and scrolling improvements, knowing about your
+       setup is particularly important for bug reports here. (#28595)
+     * Widgets in the Customizer are now loaded in a separate panel.
+       (#27406)
+     * We’ve also made some changes to some formatting functions, so if
+       you see quotes curling in the wrong direction, please file a bug
+       report.
+
+   If you think you’ve found a bug, you can post to the Alpha/Beta area in
+   the support forums. We’d love to hear from you! If you’re comfortable
+   writing a reproducible bug report, file one on the WordPress Trac.
+   There, you can also find a list of known bugs and everything we’ve
+   fixed so far.
+
+   Developers: Never fear, we haven’t forgotten you. There’s plenty for
+   you, too – more on that in upcoming posts. In the meantime, check out
+   the API for panels in the Customizer.
+
+   Happy testing!
+
+   Plugins, editor
+   Media, things in between
+   Please help look for bugs
+
+   ↧
+
+   Remove ADS
+   Viewing all 1980 articles
+   [Page 6____]
+   Browse latest View live
+     __________________________________________________________________
+
+   ____________________
+   Search
+   ____________________ [RSSing.com]
+     __________________________________________________________________
+
+     * RSSing>>
+     * Latest
+     * Popular
+     * Top Rated
+     * Trending
+
+   © 2025 //www.rssing.com

@@ -1,0 +1,545 @@
+   HTTP/2 200 date: Wed, 10 Dec 2025 12:34:57 GMT content-type: text/html
+   server: cloudflare last-modified: Fri, 28 Oct 2022 20:13:24 GMT vary:
+   Accept-Encoding nel:
+   {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+   strict-transport-security: max-age=31536000 report-to:
+   {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
+   loudflare.com/report/v4?s=c4NbXOlmhEw5Hthp3KA9VVlomJEAPpa025Z%2B71BZntG
+   lsDrt%2FGUfPutvw%2FQ8izE0AhOXHckmDaPP0MCAbYIuEI4MZMPaIpP2IrwZe%2Bv7hQ%3
+   D%3D"}]} cf-cache-status: DYNAMIC cf-ray: 9abcc781587bd0ba-CDG alt-svc:
+   h3=":443"; ma=86400 Top
+
+   Menu
+   101 Help
+   WindowsTutorialsTipsTroubleshootErrors [ ] Dark Mode
+   WindowsTutorialsTipsTroubleshootErrors [ ] Dark Mode
+
+Ứng dụng Reddit không tải hình ảnh? 9 cách để sửa chữa
+
+   (BUTTON) Post content (BUTTON) English
+
+   Reddit cho phép bạn đăng cũng như xem cả văn bản và ảnh trong bài đăng
+   của bạn trên nền tảng. Nếu ứng dụng di động Reddit của bạn không tải
+   được hình ảnh, có thể có sự cố với ứng dụng hoặc tùy chọn cài đặt trên
+   điện thoại iPhone (iOS) hoặc Android của bạn .
+
+   Kết nối internet của điện thoại của bạn có thể không hoạt động, ứng
+   dụng Reddit có thể gặp sự cố bộ nhớ cache hoặc bạn chưa cấp quyền truy
+   cập thích hợp cho ứng dụng Reddit . Tất cả những mục này có thể khiến
+   Reddit không hiển thị hình ảnh. Chúng tôi sẽ xem xét một số cách để
+   giải quyết vấn đề này.
+
+Kiểm tra kết nối Internet của bạn^(Check Your Internet Connection)
+
+   Khi bạn không thấy hình ảnh trong ứng dụng Reddit , điều đầu tiên cần
+   kiểm tra là kết nối internet của điện thoại. Bạn cần đảm bảo internet
+   của mình đang hoạt động để ứng dụng Reddit có thể tải xuống và hiển thị
+   ảnh.
+
+   Một cách để kiểm tra xem kết nối của bạn có hoạt động hay không là mở
+   trình duyệt web trên điện thoại của bạn và tải một trang web như Google
+   . Nếu trang web tải, kết nối của bạn đang hoạt động. Trong trường hợp
+   này, hãy đọc để khám phá thêm các bản sửa lỗi.
+
+   Nếu trang web không tải được, internet của bạn có vấn đề^(your internet
+   has an issue) . Bạn có thể thử khởi động lại bộ định tuyến^(rebooting
+   your router) và kết nối lại với Wi-Fi hoặc nhà cung cấp dữ liệu di động
+   để có thể khắc phục sự cố. Bạn cũng có thể tìm kiếm sự trợ giúp của nhà
+   cung cấp dịch vụ internet.
+
+Kiểm tra trạng thái máy chủ của Reddit^(Check the Status of Reddit’s Servers)
+
+   Giống như tất cả các dịch vụ trực tuyến khác, Reddit phục vụ tất cả nội
+   dung của nền tảng bằng cách sử dụng các máy chủ đặt trên toàn thế giới.
+   Nếu một hoặc nhiều máy chủ này đang gặp phải thời gian chết, đó có thể
+   là lý do tại sao ứng dụng Reddit của bạn không tải hình ảnh.
+
+   Tuy nhiên, Reddit có trang web kiểm tra Trạng thái Reddit cho bạn biết
+   liệu máy chủ của nền tảng có đang gặp sự cố hay không. ^(Reddit
+   Status)Đi đến trang web và kiểm tra xem có đúng như vậy không.
+
+   Nếu máy chủ Reddit không hoạt động, bạn sẽ phải đợi cho đến khi công ty
+   đưa chúng trở lại. Bạn không thể làm bất cứ điều gì cuối cùng để khắc
+   phục sự cố.
+
+Buộc đóng và mở lại ứng dụng Reddit^(Force Close and Reopen the Reddit App)
+
+   Các trục trặc nhỏ của Reddit^(Reddit) có thể khiến ứng dụng không tải
+   nội dung hình ảnh của bạn. Nếu đúng như vậy, buộc đóng và mở lại ứng
+   dụng Reddit trên điện thoại của bạn sẽ khắc phục được sự cố. Bạn không
+   mất bất kỳ dữ liệu nào khi thực hiện việc này.
+
+Trên iPhone^(On iPhone)
+
+    1. Vuốt^(Swipe) lên từ cuối màn hình iPhone của bạn để truy cập trình
+       chuyển đổi ứng dụng.
+    2. Tìm Reddit trong danh sách ứng dụng.
+    3. Vuốt lên trên Reddit để đóng ứng dụng.
+    4. Khởi chạy lại ứng dụng Reddit trên iPhone của bạn.
+
+Trên Android^(On Android)
+
+    1. Mở Cài đặt^(Settings) trên điện thoại của bạn.
+    2. Điều hướng đến Ứng dụng và thông báo^(Apps & notifications) >
+       Chỉnh^(Reddit) sửa lại trong Cài đặt.
+    3. Chọn Buộc dừng^(Force stop) để đóng ứng dụng.
+
+    1. Mở ứng dụng Reddit từ ngăn kéo ứng dụng của bạn.
+
+Khởi động lại iPhone hoặc điện thoại Android của bạn^(Restart Your iPhone or
+Android Phone)
+
+   Các vấn đề nhỏ của iPhone hoặc điện thoại Android của bạn cũng có thể
+   khiến Reddit không hiển thị hình ảnh. Nếu bạn không chắc chắn chính xác
+   điều gì gây ra sự cố, hãy khởi động lại thiết bị của bạn^(reboot your
+   device) để có thể khắc phục mọi sự cố nhỏ với thiết bị của bạn.
+
+Khởi động lại iPhone^(Restart an iPhone)
+
+    1. Nhấn và giữ nút Âm lượng^(Volume) và nút Bên^(Side) cho đến khi bạn
+       thấy một thanh trượt.
+    2. Kéo^(Drag) thanh trượt để tắt nguồn điện thoại của bạn.
+
+    1. Bật lại điện thoại của bạn bằng cách nhấn và giữ nút Bên^(Side) .
+
+Khởi động lại điện thoại Android^(Restart an Android Phone)
+
+    1. Nhấn và giữ nút Nguồn^(Power) trên điện thoại của bạn.
+    2. Chọn Khởi động lại^(Restart) trong menu mở ra.
+
+Đăng xuất và quay lại ứng dụng Reddit^(Log Out and Back Into the Reddit App)
+
+   Các vấn đề đồng bộ hóa của Reddit không phải là hiếm và có thể nền tảng
+   này đang gặp sự cố khi tải dữ liệu tài khoản của bạn. Điều này có thể
+   gây ra nhiều vấn đề khác nhau trong ứng dụng, bao gồm cả vấn đề tải
+   hình ảnh.
+
+   Một cách để giải quyết vấn đề đó là đăng xuất và đăng nhập lại vào tài
+   khoản của bạn trong ứng dụng Reddit^(your account in the Reddit) . Làm
+   như vậy sẽ thiết lập một kết nối hoàn toàn mới với các máy chủ tài
+   khoản của công ty.
+
+   Hãy giữ tên người dùng và mật khẩu Reddit của bạn luôn sẵn sàng vì bạn
+   sẽ cần những thứ này để đăng nhập lại vào tài khoản của mình, sau đó
+   làm theo các bước sau:
+    1. Mở Reddit trên điện thoại của bạn.
+    2. Chọn biểu tượng hồ sơ của bạn ở góc trên cùng bên phải.
+    3. Nhấn vào biểu tượng mũi tên xuống bên cạnh tên người dùng của bạn.
+
+    1. Chọn biểu tượng mũi tên phải bên cạnh tài khoản hiện đang đăng nhập
+       của bạn.
+    2. Chọn Đăng xuất^(Log out) trong menu mở ra.
+
+    1. Đăng nhập^(Log) lại bằng tên người dùng và mật khẩu Reddit của
+       bạn.^(Reddit)
+
+Xóa bộ nhớ cache cho ứng dụng Reddit^(Clear Cache for the Reddit App)
+
+   Sự cố tải hình ảnh của Reddit có thể liên quan đến các tệp bộ nhớ cache
+   của ứng dụng. Những tệp này giúp cải thiện hiệu suất của ứng dụng,
+   nhưng đôi khi, chính những tệp này lại là lý do khiến bạn gặp nhiều sự
+   cố khác nhau.
+
+   Bạn có thể khắc phục điều đó bằng cách xóa các tệp bộ nhớ cache của ứng
+   dụng Reddit^(deleting the Reddit app’s cache files) . Làm như vậy sẽ
+   đặt lại bộ nhớ cache và ứng dụng sẽ xây dựng lại các tệp đó khi bạn
+   tiếp tục. Hãy nhớ rằng bạn chỉ có thể xóa bộ nhớ cache của ứng dụng
+   trên điện thoại Android .
+    1. Khởi chạy Cài đặt^(Settings) trên điện thoại Android của bạn.
+    2. Điều hướng đến Ứng dụng và thông báo^(Apps & notifications) >
+       Chỉnh^(Reddit) sửa lại trong Cài đặt.
+    3. Nhấn vào Bộ nhớ và bộ nhớ cache^(Storage & cache) trên trang ứng
+       dụng.
+
+    1. Chọn Xóa bộ nhớ cache^(Clear cache) để xóa bộ nhớ cache của Reddit.
+
+    1. Mở ứng dụng Reddit .
+
+Kiểm tra Quyền của ứng dụng Reddit^(Check the Reddit App’s Permission)
+
+   Giống như các ứng dụng khác, Reddit yêu cầu một số quyền nhất định trên
+   điện thoại của bạn^(certain permissions on your phone) để hoạt động. Ví
+   dụ: ứng dụng cần quyền truy cập vào bộ nhớ cục bộ của bạn để lưu trữ
+   tạm thời hình ảnh bài đăng của bạn. Nếu bạn đã từ chối các quyền này
+   đối với ứng dụng, bạn sẽ phải phê duyệt quyền trước khi Reddit có thể
+   hoạt động bình thường.
+
+   Cả iPhone và Android đều giúp dễ dàng xem xét và cho phép / không cho
+   phép các quyền khác nhau đối với các ứng dụng đã cài đặt của bạn. Đây
+   là cách bạn có thể kiểm tra và cấp cho Reddit các quyền mà nó cần.
+
+Trên iPhone^(On iPhone)
+
+    1. Mở Cài đặt^(Settings) trên iPhone của bạn.
+    2. Cuộn xuống và chọn Reddit trong danh sách.
+    3. Xem lại các quyền bạn đã cấp cho ứng dụng. Đảm^(Make) bảo quyền
+       Ảnh^(Photos) được đặt thành Đọc và Viết^(Read and Write) .
+
+Trên Android^(On Android)
+
+    1. Mở Cài đặt^(Settings) trên điện thoại của bạn.
+    2. Đi tới Ứng dụng và thông báo^(Apps & notifications) > Reddit .
+    3. Chọn Quyền^(Permissions) trên trang ứng dụng.
+
+    1. Nhấn vào Tệp và phương tiện^(Files and media) và bật tùy chọn Chỉ
+       cho phép truy cập vào phương tiện^(Allow access to media only) .
+
+Cập nhật ứng dụng Reddit^(Update the Reddit App)
+
+   Các phiên bản lỗi thời của Reddit có thể gây ra nhiều vấn đề khác nhau
+   trên điện thoại của bạn, bao gồm cả việc không tải hình ảnh của bạn.
+   Nếu bạn đang sử dụng phiên bản cũ hơn của ứng dụng, hãy cập nhật ứng
+   dụng^(update the app) lên phiên bản mới nhất và vấn đề của bạn có thể
+   sẽ được giải quyết.
+
+   Bạn có thể cập nhật Reddit^(update Reddit) miễn phí trên cả iPhone và
+   điện thoại Android của mình . Đây là cách để làm điều đó.
+
+Trên iPhone^(On iPhone)
+
+    1. Khởi chạy App Store trên iPhone của bạn.
+    2. Chọn Cập nhật^(Updates) ở dưới cùng.
+
+    1. Nhấn vào Cập nhật^(Update) bên cạnh Reddit .
+
+Trên Android^(On Android)
+
+    1. Mở Cửa hàng Google Play^(Google Play Store) trên điện thoại của
+       bạn.
+    2. Tìm kiếm và chọn Reddit .
+    3. Nhấn Cập nhật^(Update) để cập nhật ứng dụng. Nếu bạn không thấy tùy
+       chọn này, ứng dụng của bạn đã có phiên bản mới nhất.
+
+Cài đặt lại Reddit^(Reinstall Reddit)
+
+   Rất hiếm nhưng các tệp hệ thống của Reddit có thể đã bị hỏng trên điện
+   thoại của bạn, khiến ứng dụng không tải ảnh của bạn đúng cách. Trong
+   trường hợp này, giải pháp tốt nhất là gỡ cài đặt và cài đặt lại ứng
+   dụng Reddit^(uninstall and reinstall the Reddit app) trên iPhone hoặc
+   điện thoại Android của bạn.
+
+   Làm như vậy sẽ xóa các tệp lõi cũ và có vấn đề và cài đặt các tệp đang
+   hoạt động.
+
+Trên iPhone^(On iPhone)
+
+    1. Nhấn và giữ trên Reddit trên màn hình chính của bạn.
+    2. Chọn X ở góc trên bên trái của Reddit.
+    3. Chọn Xóa^(Delete) trong lời nhắc.
+    4. Mở App Store , tìm kiếm Reddit và nhấn vào Tải^(Get) .
+
+Trên Android^(On Android)
+
+    1. Mở ngăn ứng dụng, tìm Reddit và chạm và giữ vào ứng dụng.
+    2. Chọn Gỡ cài^(Uninstall) đặt trong menu.
+
+    1. Chọn OK trong lời nhắc.
+
+    1. Khởi chạy Cửa hàng Google Play^(Google Play Store) , tìm kiếm và
+       chọn Reddit , sau đó nhấn vào Cài đặt^(Install) .
+
+Mang hình ảnh trở lại trong ứng dụng di động của Reddit^(Bring Images Back in
+Reddit’s Mobile App)
+
+   Có nhiều lý do khiến ứng dụng Reddit không tải hình ảnh trên điện thoại
+   của bạn. Điều tốt là bạn có thể khắc phục hầu hết các mục gây ra sự cố
+   và đưa ứng dụng trở lại tình trạng hoạt động.
+
+   Sau khi điều đó xảy ra, bạn có thể tiếp tục các phiên Reddit của
+   mình^(resume your Reddit sessions) mà không cần lo lắng về nội dung đa
+   phương tiện.
+
+Reddit App Not Loading Images? 9 Ways to Fix
+
+   Reddit allows you to post as well as view both text and photos in your
+   postѕ on the platform. If your Reddit mоbile app failѕ to load the
+   images, there may be an issue with the app or a setting option оn your
+   iPhone (iOS) or Android phоne.
+
+   Your phone’s internet connection may not be working, the Reddit app may
+   have a cache problem, or you have not given proper access permission to
+   the Reddit app. All these items can cause Reddit not to display images.
+   We’ll look at a few ways to resolve this problem.
+
+Check Your Internet Connection
+
+   When you don’t see images in the Reddit app, the first thing to check
+   is your phone’s internet connection. You need to ensure your internet
+   is working, so the Reddit app can download and display pictures.
+
+   One way to check if your connection is working is by opening a web
+   browser on your phone and loading a site like Google. If the site
+   loads, your connection is working. In this case, read on to discover
+   more fixes.
+
+   If the site fails to load, your internet has an issue. You can try
+   rebooting your router and reconnecting to your Wi-Fi or mobile data
+   provider to potentially fix the issue. You may also seek your internet
+   service provider’s help.
+
+Check the Status of Reddit’s Servers
+
+   Like all other online services, Reddit serves all the platform’s
+   content using the servers located across the world. If one or more of
+   these servers are facing downtime, that may be why your Reddit app
+   isn’t loading images.
+
+   However, Reddit has a Reddit Status checker website that tells you if
+   the platform’s servers are experiencing problems. Head on to the site
+   and check if that’s the case.
+
+   If the Reddit servers are down, you’ll have to wait until the company
+   brings them back up. There isn’t anything you can do on your end to fix
+   the problem.
+
+Force Close and Reopen the Reddit App
+
+   Reddit’s minor glitches can cause the app not to load your image
+   content. If this is the case, force closing and reopening the Reddit
+   app on your phone should fix the issue. You don’t lose any data when
+   you do this.
+
+On iPhone
+
+    1. Swipe up from the bottom of your iPhone’s screen to access the app
+       switcher.
+    2. Find Reddit in the app list.
+    3. Swipe up on Reddit to close the app.
+    4. Relaunch the Reddit app on your iPhone.
+
+On Android
+
+    1. Open Settings on your phone.
+    2. Navigate to Apps & notifications > Reddit in Settings.
+    3. Choose Force stop to close the app.
+
+    1. Open the Reddit app from your app drawer.
+
+Restart Your iPhone or Android Phone
+
+   Your iPhone or Android phone’s minor problems can also cause Reddit not
+   to display pictures. If you aren’t sure exactly what’s causing the
+   issue, reboot your device to potentially fix any minor problems with
+   your device.
+
+Restart an iPhone
+
+    1. Press and hold down either Volume button and the Side button until
+       you see a slider.
+    2. Drag the slider to power off your phone.
+
+    1. Power your phone back on by pressing and holding down the Side
+       button.
+
+Restart an Android Phone
+
+    1. Press and hold down the Power button on your phone.
+    2. Choose Restart in the menu that opens.
+
+Log Out and Back Into the Reddit App
+
+   Reddit’s sync issues aren’t uncommon, and it may be that the platform
+   is experiencing problems loading your account data. This can cause
+   various issues in the app, including the image loading problem.
+
+   One way to get around that issue is to log out and back into your
+   account in the Reddit app. Doing so establishes a fresh new connection
+   with the company’s account servers.
+
+   Keep your Reddit username and password handy as you’ll need these to
+   log back into your account, then follow these steps:
+    1. Open Reddit on your phone.
+    2. Select your profile icon at the top-right corner.
+    3. Tap the down-arrow icon next to your username.
+
+    1. Select the right-arrow icon next to your currently logged-in
+       account.
+    2. Choose Log out in the menu that opens.
+
+    1. Log back in with your Reddit username and password.
+
+Clear Cache for the Reddit App
+
+   Reddit’s image loading problem may be associated with the app’s cache
+   files. These files help improve the app’s performance, but sometimes,
+   these same files are the reason you have various issues.
+
+   You can fix that by deleting the Reddit app’s cache files. Doing so
+   resets the cache, and the app will rebuild those files as you go on.
+   Keep in mind that you can only clear the app cache on an Android phone.
+    1. Launch Settings on your Android phone.
+    2. Navigate to Apps & notifications > Reddit in Settings.
+    3. Tap Storage & cache on the app page.
+
+    1. Choose Clear cache to remove Reddit’s cache.
+
+    1. Open the Reddit app.
+
+Check the Reddit App’s Permission
+
+   Like other apps, Reddit requires certain permissions on your phone to
+   function. For example, the app needs access to your local storage to
+   temporarily store your post images. If you’ve denied these permissions
+   to the app, you’ll have to approve the permission before Reddit can
+   function normally.
+
+   Both iPhone and Android make it easy to review and allow/disallow
+   various permissions to your installed apps. Here’s how you can check
+   and give Reddit the permissions it needs.
+
+On iPhone
+
+    1. Open Settings on your iPhone.
+    2. Scroll down and select Reddit in the list.
+    3. Review the permissions you’ve given to the app. Make sure the
+       Photos permission is set to Read and Write.
+
+On Android
+
+    1. Open Settings on your phone.
+    2. Go to Apps & notifications > Reddit.
+    3. Select Permissions on the app page.
+
+    1. Tap Files and media and toggle on the Allow access to media only
+       option.
+
+Update the Reddit App
+
+   Reddit’s obsolete versions can cause various issues on your phone,
+   including not loading your images. If you’re using an older version of
+   the app, update the app to the latest version, and your issue should
+   likely be resolved.
+
+   You can update Reddit for free on both your iPhone and your Android
+   phone. Here’s how to do just that.
+
+On iPhone
+
+    1. Launch the App Store on your iPhone.
+    2. Select Updates at the bottom.
+
+    1. Tap Update next to Reddit.
+
+On Android
+
+    1. Open the Google Play Store on your phone.
+    2. Search for and select Reddit.
+    3. Tap Update to update the app. If you don’t see this option, your
+       app is already on the latest version.
+
+Reinstall Reddit
+
+   It’s rare but Reddit’s system files may have been corrupted on your
+   phone, causing the app not to properly load your pictures. In this
+   case, the best solution is to uninstall and reinstall the Reddit app on
+   your iPhone or Android phone.
+
+   Doing so clears the old and problematic core files and installs the
+   working ones.
+
+On iPhone
+
+    1. Tap and hold on Reddit on your home screen.
+    2. Select X in Reddit’s top-left corner.
+    3. Choose Delete in the prompt.
+    4. Open the App Store, search for Reddit, and tap Get.
+
+On Android
+
+    1. Open the app drawer, find Reddit, and tap and hold on the app.
+    2. Choose Uninstall in the menu.
+
+    1. Select OK in the prompt.
+
+    1. Launch the Google Play Store, search for and select Reddit, and tap
+       Install.
+
+Bring Images Back in Reddit’s Mobile App
+
+   There are many reasons the Reddit app doesn’t load images on your
+   phone. The good thing is you can fix most items that cause the issue
+   and bring the app back to working condition.
+
+   Once that happens, you can resume your Reddit sessions without worrying
+   about multimedia content.
+     __________________________________________________________________
+
+   [dai-thong-3ed7670ea0.png]
+
+Đại Thông
+
+About the author
+
+   Tôi là một chuyên gia máy tính với hơn 10 năm kinh nghiệm. Khi rảnh
+   rỗi, tôi thích giúp việc tại bàn văn phòng và dạy bọn trẻ cách sử dụng
+   Internet. Kỹ năng của tôi bao gồm nhiều thứ, nhưng điều quan trọng nhất
+   là tôi biết cách giúp mọi người giải quyết vấn đề. Nếu bạn cần ai đó có
+   thể giúp bạn trong việc khẩn cấp hoặc chỉ muốn một số mẹo cơ bản, vui
+   lòng liên hệ với tôi!
+     __________________________________________________________________
+
+Related posts
+
+     *
+
+6 cách khắc phục khi ứng dụng Spotify không phản hồi hoặc không mở
+     *
+
+Nút Tạm dừng YouTube không biến mất? 6 cách để sửa chữa
+     *
+
+Lệnh in sẽ không xóa trong Windows? Hơn 8 cách để sửa chữa
+     *
+
+Ứng dụng Outlook không đồng bộ? 13 bản sửa lỗi cần thử
+     *
+
+Tốc độ tải xuống của Chrome chậm? 13 cách sửa chữa
+     *
+
+Firefox Sử dụng Quá nhiều Bộ nhớ? 7 cách để sửa chữa
+     *
+
+Windows 10 tiếp tục đóng băng? 9 cách để sửa chữa
+     *
+
+Tải xuống Microsoft Store chậm? 9 cách để sửa chữa
+     *
+
+Chromebook tiếp tục ngắt kết nối khỏi Wi-Fi? 11 cách sửa chữa
+     *
+
+Ứng dụng tiếp tục dừng trên Android? 11 bản sửa lỗi cần thử
+     *
+
+Phím tắt Snipping Tool (Windows + Shift + S) Không hoạt động? 13 cách sửa
+chữa
+     *
+
+Chia sẻ màn hình Discord không hoạt động? 6 cách để sửa chữa
+     *
+
+uBlock Origin Không chặn quảng cáo YouTube và Twitch? 11 cách sửa chữa
+     *
+
+Chrome Sound không hoạt động? 7 cách để sửa chữa
+     *
+
+HBO Max phụ đề không hoạt động? 10 cách để sửa chữa
+     *
+
+OneNote Không đồng bộ hóa? 9 cách để kết nối
+     *
+
+7 cách khắc phục "Windows không thể kết nối với máy in"
+     *
+
+Avast sẽ không mở trên Windows? 6 cách để sửa chữa
+     *
+
+6 cách tốt nhất để khắc phục sự cố màn hình đen của trình khởi chạy Minecraft
+     *
+
+Khắc phục: Lỗi 0x80070490 trong Windows Update và Ứng dụng Thư
+
+   101 Help Copyright © 2022.

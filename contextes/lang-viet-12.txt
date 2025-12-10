@@ -1,0 +1,97 @@
+   WindowsTutorialsTipsTroubleshootErrors [ ] Dark Mode
+
+Ứng dụng Reddit không tải hình ảnh? 9 cách để sửa chữa
+
+   (BUTTON) Post content (BUTTON) English
+--
+   Reddit cho phép bạn đăng cũng như xem cả văn bản và ảnh trong bài đăng
+   của bạn trên nền tảng. Nếu ứng dụng di động Reddit của bạn không tải
+   được hình ảnh, có thể có sự cố với ứng dụng hoặc tùy chọn cài đặt trên
+   điện thoại iPhone (iOS) hoặc Android của bạn .
+
+--
+   dụng Reddit có thể gặp sự cố bộ nhớ cache hoặc bạn chưa cấp quyền truy
+   cập thích hợp cho ứng dụng Reddit . Tất cả những mục này có thể khiến
+   Reddit không hiển thị hình ảnh. Chúng tôi sẽ xem xét một số cách để
+   giải quyết vấn đề này.
+
+Kiểm tra kết nối Internet của bạn^(Check Your Internet Connection)
+
+   Khi bạn không thấy hình ảnh trong ứng dụng Reddit , điều đầu tiên cần
+   kiểm tra là kết nối internet của điện thoại. Bạn cần đảm bảo internet
+   của mình đang hoạt động để ứng dụng Reddit có thể tải xuống và hiển thị
+--
+   dung của nền tảng bằng cách sử dụng các máy chủ đặt trên toàn thế giới.
+   Nếu một hoặc nhiều máy chủ này đang gặp phải thời gian chết, đó có thể
+   là lý do tại sao ứng dụng Reddit của bạn không tải hình ảnh.
+
+   Tuy nhiên, Reddit có trang web kiểm tra Trạng thái Reddit cho bạn biết
+--
+
+   Các trục trặc nhỏ của Reddit^(Reddit) có thể khiến ứng dụng không tải
+   nội dung hình ảnh của bạn. Nếu đúng như vậy, buộc đóng và mở lại ứng
+   dụng Reddit trên điện thoại của bạn sẽ khắc phục được sự cố. Bạn không
+   mất bất kỳ dữ liệu nào khi thực hiện việc này.
+--
+Trên iPhone^(On iPhone)
+
+    1. Vuốt^(Swipe) lên từ cuối màn hình iPhone của bạn để truy cập trình
+       chuyển đổi ứng dụng.
+    2. Tìm Reddit trong danh sách ứng dụng.
+--
+
+   Các vấn đề nhỏ của iPhone hoặc điện thoại Android của bạn cũng có thể
+   khiến Reddit không hiển thị hình ảnh. Nếu bạn không chắc chắn chính xác
+   điều gì gây ra sự cố, hãy khởi động lại thiết bị của bạn^(reboot your
+   device) để có thể khắc phục mọi sự cố nhỏ với thiết bị của bạn.
+--
+   này đang gặp sự cố khi tải dữ liệu tài khoản của bạn. Điều này có thể
+   gây ra nhiều vấn đề khác nhau trong ứng dụng, bao gồm cả vấn đề tải
+   hình ảnh.
+
+   Một cách để giải quyết vấn đề đó là đăng xuất và đăng nhập lại vào tài
+--
+Xóa bộ nhớ cache cho ứng dụng Reddit^(Clear Cache for the Reddit App)
+
+   Sự cố tải hình ảnh của Reddit có thể liên quan đến các tệp bộ nhớ cache
+   của ứng dụng. Những tệp này giúp cải thiện hiệu suất của ứng dụng,
+   nhưng đôi khi, chính những tệp này lại là lý do khiến bạn gặp nhiều sự
+--
+   điện thoại của bạn^(certain permissions on your phone) để hoạt động. Ví
+   dụ: ứng dụng cần quyền truy cập vào bộ nhớ cục bộ của bạn để lưu trữ
+   tạm thời hình ảnh bài đăng của bạn. Nếu bạn đã từ chối các quyền này
+   đối với ứng dụng, bạn sẽ phải phê duyệt quyền trước khi Reddit có thể
+   hoạt động bình thường.
+--
+
+   Các phiên bản lỗi thời của Reddit có thể gây ra nhiều vấn đề khác nhau
+   trên điện thoại của bạn, bao gồm cả việc không tải hình ảnh của bạn.
+   Nếu bạn đang sử dụng phiên bản cũ hơn của ứng dụng, hãy cập nhật ứng
+   dụng^(update the app) lên phiên bản mới nhất và vấn đề của bạn có thể
+--
+Trên iPhone^(On iPhone)
+
+    1. Nhấn và giữ trên Reddit trên màn hình chính của bạn.
+    2. Chọn X ở góc trên bên trái của Reddit.
+    3. Chọn Xóa^(Delete) trong lời nhắc.
+--
+       chọn Reddit , sau đó nhấn vào Cài đặt^(Install) .
+
+Mang hình ảnh trở lại trong ứng dụng di động của Reddit^(Bring Images Back in
+Reddit’s Mobile App)
+
+   Có nhiều lý do khiến ứng dụng Reddit không tải hình ảnh trên điện thoại
+   của bạn. Điều tốt là bạn có thể khắc phục hầu hết các mục gây ra sự cố
+   và đưa ứng dụng trở lại tình trạng hoạt động.
+--
+     *
+
+Chia sẻ màn hình Discord không hoạt động? 6 cách để sửa chữa
+     *
+
+--
+     *
+
+6 cách tốt nhất để khắc phục sự cố màn hình đen của trình khởi chạy Minecraft
+     *
+

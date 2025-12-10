@@ -1,0 +1,264 @@
+   HTTP/2 200 server: nginx date: Wed, 10 Dec 2025 18:49:05 GMT
+   content-type: text/html; charset=UTF-8 cache-control: no-cache, private
+   x-max-grace: 7200s strict-transport-security: max-age=31536000;
+   includeSubDomains x-frame-options: SAMEORIGIN content-security-policy:
+   frame-ancestors 'self' *.kameleoon.com vary: Host, Accept-Encoding
+   x-max-age: 95s age: 0 accept-ranges: bytes x-varnish: LDIRVP-3
+   LDIRVPS-1 3886559934 last-modified: Mon, 04 Aug 2025 06:01:18 GMT
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5NFGMPZ
+
+     *
+     * Ma ville
+     * France - monde
+     * Faits divers
+     * Sport
+     * Éco
+     * Tv - people
+     * Santé
+     * Sorties
+     * Immo
+     * Services
+     * Annonces
+     * Avis de décès
+     *
+
+   Menu
+   Graulhet. La ville modernise son image avec un nouveau site internet
+   mercredi 10 décembre 2025, Saint Romaric
+   Couvert
+   11° / 15°
+   Toulouse
+     * Rechercher
+     * Journal
+     * Mon compte
+     * S'abonner
+
+     * International
+     * Politique
+     * Santé
+     * Société
+     * Sécurité
+     * Justice
+     * Éducation
+     * Circulation - Déplacements
+     * Météo
+     * Terrorisme
+     * Vie pratique - Conso
+     * Sciences et techniques
+     * Environnement
+     * Associations
+     * Insolite
+     * L'édito du jour
+     * Vidéos et Podcasts
+     * Grands formats
+     * Diaporamas
+     * Sondages
+     *
+
+   Votre carte bancaire arrive à expiration. Cliquez ici pour la mettre à
+   jour et continuer à profiter de votre abonnement.
+   Mettre à jour (BUTTON)
+
+   Votre carte bancaire a expiré. Sans action de votre part, votre
+   abonnement risque d’être interrompu et vous perdrez tous vos avantages.
+   Mettre à jour (BUTTON)
+
+   Votre carte bancaire expire à la fin du mois. Optez pour le prélèvement
+   SEPA  pour continuer à profiter de votre abonnement.
+   (BUTTON)
+
+     * Accueil
+     * France - Monde
+     * Vie pratique - conso
+
+Graulhet. La ville modernise son image avec un nouveau site internet
+
+     * La ville modernise son image avec un nouveau site internet La ville
+       modernise son image avec un nouveau site internet
+
+   Vie pratique - conso, Graulhet
+   Publié le 03/08/2025 à 05:11
+   Correspondant de la rédaction du Tarn
+
+   La Ville de Graulhet modernise son image avec un nouveau site internet
+   : www.ville-graulhet.fr. Entièrement repensé, ce nouvel outil numérique
+   a été conçu pour offrir une navigation plus fluide, un accès simplifié
+   à l’information et une meilleure lisibilité sur tous les supports
+   utilisés par les usagers, qu’ils soient sur ordinateur, tablette ou
+   smartphone. Le site propose : actualités, événements à venir, démarches
+   administratives en ligne, services municipaux, équipements publics,
+   mais aussi les grandes initiatives et projets portés par la Ville.
+   L’interface intuitive permet aux visiteurs de trouver rapidement les
+   informations utiles, tout en valorisant les actions menées sur le
+   territoire. Conçu pour tous, le site renforce la proximité entre la
+   commune et ses habitants. Il vise à accompagner chacun dans son
+   quotidien, que ce soit pour s’informer, effectuer des formalités ou
+   mieux connaître les services disponibles à Graulhet. La municipalité
+   vous invite à le découvrir et à l’explorer librement. Pour tout
+   dysfonctionnement ou suggestion, contactez-nous à :
+   communication@mairie-graulhet.fr.
+   Voir les commentaires
+   Envie de donner votre avis ? (2 commentaires)
+
+   J'ai déjà un compte
+   Je me connecte
+
+   Je n'ai pas de compte
+   Je m'inscris gratuitement
+   Une erreur est survenue.
+
+   Vous souhaitez suivre ce fil de discussion ?
+   Suivre ce fil
+   Réagir
+   Vous avez droit à 3 commentaires par jour. Pour contribuer en illimité,
+   abonnez vous. S'abonner
+   [no-profil.png?f895e5f0]
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   Publier mon commentaire Lire la charte de modération
+
+   Souhaitez-vous recevoir une notification lors de la réponse d’un(e)
+   internaute à votre commentaire ?
+   Oui, je veux suivre les réponses Non, ça ne m'intéresse pas
+   Les commentaires (2)
+   [no-profil.png?f895e5f0]
+   Lo repotegaire Il y a 4 mois Le 04/08/2025 à 08:01
+
+   Voilà qui va améliorer la voirie !
+   (BUTTON) Répondre (BUTTON) Signaler un abus
+   [no-profil.png?f895e5f0]
+   jaja810 Il y a 4 mois Le 03/08/2025 à 08:00
+
+   Il vont refaire la chaussée avenue Victor Hugo?
+   (BUTTON) Répondre (BUTTON) Signaler un abus
+
+Signaler un abus
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Signaler ce commentaire [BUTTON Input] (not implemented)______
+   Les plus lus
+     * Lus
+     * Commentés
+
+     * 1 Réseaux sociaux. Le retraité de 88 ans travaille debout 8 heures
+       par jour à la caisse d’un magasin : il reçoit des dons du monde
+       entier
+     * 2 Accidents. Elle accompagnait son mari à un rendez-vous médical :
+       une octogénaire qui tentait de prendre le bus passe sous le
+       véhicule et perd la vie
+     * 3 Social. TEMOIGNAGE. “On ne mange plus, on ne dort plus” : le cri
+       d’alerte d’une assistante familiale qui n’est plus payée
+     * 4 Logement. Il hérite de sa maison d’enfance en ruine et veut la
+       rénover, mais le maire refuse : le propriétaire dénonce une
+       "volonté de nuire"
+     * 5 Justice. Le RN de nouveau visé : une plainte accuse le parti
+       d’avoir préparé Jordan Bardella pour la présidentielle 2022 avec de
+       l’argent européen
+
+     * 1 Environnement. Il perturbe un gros chantier de ligne électrique,
+       RTE réclame 108 000 euros au militant écologiste qui vit au RSA
+     * 2 Réforme des retraites. Suspension de la réforme des retraites :
+       quand les futurs retraités pourront-ils vraiment partir ?
+     * 3 Culture Food. CULTURE FOOD. Les trompe-l’œil de la nouvelle
+       pâtisserie L’Écureuil Gourmand affolent Toulouse
+
+   À lire aussi de Vie pratique - conso
+     * 1 Énergie. "Mes vêtements sont humides tellement il fait froid" :
+       la retraitée paye 1 000 euros de chauffage par mois en hiver… pour
+       être frigorifiée
+     * 2 Vie pratique - conso. APPEL A TEMOIGNAGES. Héritage : conflits
+       familiaux, casse-tête du partage des biens… Une succession a été
+       source tensions ? Racontez-nous !
+     * 3 Vie pratique - conso. "Je relève souvent des erreurs de prix" :
+       un Intermarché sanctionné pour des problèmes d’affichage
+     * 4 Noël et Nouvel an. Robe en sachet de thé, tissage de cheveux sous
+       cadre, végétaux en papier : des idées de cadeaux insolites au Salon
+       des Créateurs & Artisans d’Art
+     * 5 Politique. "Une inacceptable dérive" : on vous explique pourquoi
+       l’organisation d’une "ACAB Party" crée la polémique à Toulouse
+
+   À lire aussi de Graulhet
+     * 1 Justice. "Je vais t’éclater, te massacrer la tête"… Un
+       Graulhétois maintenu en prison suite à des violences sur sa sœur
+     * 2 Culture et loisirs. Art Graulhet réussit son plein de nouveautés
+     * 3 Expositions. Graulhet. Exposition photo et diaporama sur le
+       Brésil au Labo-M
+     * 4 Rugby à XV - Amateurs. Graulhet. Rugby : carton plein pour les
+       équipes du Sporting
+     * 5 Concerts. Graulhet. Concert solidaire de Noël au Foulon
+
+   Lancez votre recherche
+   ____________________
+
+   [ ]
+
+   (BUTTON) Rechercher...
+   Journal
+   Le club
+   Jeux
+   Newsletters
+   Pour profiter pleinement de l'info, abonnez-vous !
+   S'abonner
+   ladepeche.fr
+
+     * Haute-Garonne
+     * Ariège
+     * Aude
+     * Aveyron
+     * Gers
+     * Hautes-Pyrénées
+     * Lot
+     * Lot-et-Garonne
+     * Tarn
+     * Tarn-et-Garonne
+
+   Suivez-nous
+   Facebook
+   Twitter
+   Instagram
+   Rss
+   Les sites du groupe
+   Midi Libre
+   La NR des Pyrénées
+   L'Indépendant
+   Le Petit Bleu d'Agen
+   Centre Presse Aveyron
+   Toulouscope
+   Le Villefranchois
+   Le Journal de Millau
+   La Gazette du Comminges
+   Rugbyrama
+   evelyne
+   Nos dossiers locaux
+   Groupe La Dépêche
+   Journal
+   Retrouvez La Dépêche sur internet
+   [no-profil.png?f895e5f0]
+   Télécharger le journal
+   S'abonner
+   Newsletters
+   Découvrez l’ensemble des newsletters de
+   La Dépêche du Midi
+   Découvrir
+   Shopping
+     * Bons plans bricolage
+     * Bons plans jardin
+     * Bons plans maison
+     * Bons plans mode
+     * Bons plans streaming
+     * Bons plans high-tech
+
+   Mentions légales Données personnelles Cookies Contactez-nous Publicité
+   Plan du site Charte de modération Nous recrutons CGU
+
+   www.ladepeche.fr © 2025
+   Logo La Dépêche du Midi
