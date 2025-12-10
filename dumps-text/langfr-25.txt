@@ -1,6 +1,6 @@
-   HTTP/1.1 200 OK Date: Wed, 10 Dec 2025 18:49:05 GMT Upgrade: h2,h2c
+   HTTP/1.1 200 OK Date: Wed, 10 Dec 2025 21:12:27 GMT Upgrade: h2,h2c
    Connection: Upgrade Set-Cookie: ifop_geo_redirect=no_redirect;
-   expires=Fri, 09 Jan 2026 18:49:05 GMT; Max-Age=2592000; path=/; secure
+   expires=Fri, 09 Jan 2026 21:12:27 GMT; Max-Age=2592000; path=/; secure
    Content-Security-Policy: default-src 'self' 'unsafe-eval'
    'unsafe-inline' www.youtube.com www.youtube-nocookie.com youtu.be;
    script-src 'self' 'unsafe-eval' 'unsafe-inline' www.youtube.com
@@ -24,9 +24,9 @@
    Strict-Transport-Security: max-age=31536000; includeSubDomains
    X-Content-Type-Options: NoSniff X-Frame-Options: SAMEORIGIN
    X-XSS-Protection: 1; mode=block Set-Cookie: 9q17atoj=h2fuylokbe6s;
-   expires=Mon, 15 Dec 2025 18:49:06 GMT; Max-Age=432000; path=/; secure;
+   expires=Mon, 15 Dec 2025 21:12:27 GMT; Max-Age=432000; path=/; secure;
    HttpOnly Set-Cookie: 99kojm7z=zx2z829a42e0; expires=Mon, 15 Dec 2025
-   18:49:06 GMT; Max-Age=432000; path=/; secure; HttpOnly Link:
+   21:12:27 GMT; Max-Age=432000; path=/; secure; HttpOnly Link:
    /www.ifop.com/wp-json/>; rel="https://api.w.org/" Link:
    /www.ifop.com/wp-json/wp/v2/posts/74415>; rel="alternate";
    title="JSON"; type="application/json" Link: /www.ifop.com/?p=74415>;
@@ -217,23 +217,13 @@ Baromètre d’image des agriculteurs
 
 Nos publications
 
-     * 02.12.25
+     * 29.09.25
      * Ifop Opinion
      * FR
 
      * Affaires publiques
 
-Les Français et la lutte contre le trafic d’espèces sauvages
-
-   Lire l'article
-     * 18.11.25
-     * Ifop Opinion
-     * FR
-
-     * Affaires publiques
-
-Baromètre sur le rapport des Français à l’apprentissage et la formation en
-entreprise – 3ème édition
+Le climat politique à Avignon
 
    Lire l'article
      * 15.10.25
@@ -242,7 +232,16 @@ entreprise – 3ème édition
 
      * Affaires publiques
 
-Le tableau de bord des personnalités – Octobre 2025
+Le regard des Français sur un gouvernement de coalition des droites
+
+   Lire l'article
+     * 17.09.25
+     * Ifop Opinion
+     * FR
+
+     * Affaires publiques
+
+Le climat électoral à Strasbourg
 
    Lire l'article
    Voir toutes les publications
@@ -253,7 +252,7 @@ Le tableau de bord des personnalités – Octobre 2025
    Abonnez-vous à notre Newsletter et restez au courant des dernières
    nouvelles du groupe Ifop !
 
-   Instagram
+   Company
    ____________________
    This field is for validation purposes and should be left unchanged.
    Email*

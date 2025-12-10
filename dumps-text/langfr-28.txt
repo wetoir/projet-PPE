@@ -1,4 +1,4 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 18:49:10 GMT cache-control:
+   HTTP/2 200 date: Wed, 10 Dec 2025 21:12:29 GMT cache-control:
    max-age=86400, public content-language: fr x-content-type-options:
    nosniff x-frame-options: SAMEORIGIN expires: Sun, 19 Nov 1978 05:00:00
    GMT vary: Cookie,Accept-Encoding content-security-policy: default-src
@@ -16,7 +16,7 @@
    'self'; font-src 'self' fonts.gstatic.com cdnjs.cloudflare.com;
    connect-src 'self' *.axept.io www.statistiques.cnrs.fr
    statistiques.cnrs.fr *.cegedim.cloud; report-uri /report-csp-violation;
-   upgrade-insecure-requests last-modified: Wed, 10 Dec 2025 18:49:06 GMT
+   upgrade-insecure-requests last-modified: Wed, 10 Dec 2025 21:12:28 GMT
    content-type: text/html; charset=UTF-8 age: 0 accept-ranges: bytes
    x-cache: MISS x-cache-hits: 0 strict-transport-security:
    max-age=31536000; includeSubDomains #alternate alternate

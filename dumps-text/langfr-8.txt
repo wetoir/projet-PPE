@@ -1,9 +1,9 @@
-   HTTP/1.1 200 OK Server: nginx Date: Wed, 10 Dec 2025 18:48:49 GMT
+   HTTP/1.1 200 OK Server: nginx Date: Wed, 10 Dec 2025 21:12:11 GMT
    Content-Type: text/html; charset=UTF-8 Transfer-Encoding: chunked
    Connection: keep-alive P3P: policyref="/bitrix/p3p.xml", CP="NON DSP
    COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA"
    X-Powered-CMS: Bitrix Site Manager (f5ade8864a682a35a95da035676c1d80)
-   Set-Cookie: PHPSESSID=o4GRgAOZFgUk43tVegkIclSmWPRR5VFk; path=/;
+   Set-Cookie: PHPSESSID=IBI7PXqgjQDVwHMRSZ6M0PJZ2M6efFfv; path=/;
    domain=postmypost.io; HttpOnly Expires: Thu, 19 Nov 1981 08:52:00 GMT
    Cache-Control: no-store, no-cache, must-revalidate Pragma: no-cache
 

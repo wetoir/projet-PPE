@@ -1,5 +1,5 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 18:48:48 GMT content-type: text/html;
-   charset=UTF-8 server: cloudflare cf-ray: 9abeeb26bc5100a2-CDG
+   HTTP/2 200 date: Wed, 10 Dec 2025 21:12:10 GMT content-type: text/html;
+   charset=UTF-8 server: cloudflare cf-ray: 9abfbd27ef432c0b-CDG
    cf-cache-status: BYPASS cache-control: public, max-age=0,
    s-maxage=31536000 link: /apprendre-la-photo.fr/wp-json/>;
    rel="https://api.w.org/",
@@ -9,10 +9,10 @@
    21:01:05 GMT; Max-Age=432000000; path=/ set-cookie:
    bp_user-registered=0; expires=Tue, 16 Aug 2039 21:01:05 GMT;
    Max-Age=432000000; path=/ set-cookie:
-   __cf_bm=06UaIs.F63LQqB8E9HAqlU29Q7DI2RU_JGbQWRcalXM-1765392528-1.0.1.1-
-   uJ.s3aUrMxlqjMQZnC3QMCMynwgp95s_AkwWUAGyzWaOkrxrWc6ErwopGMfsYAL7W_HJ5JY
-   FZYMzrrb5OWEjUVhIfetHzAULaNfb8w7rs_0; path=/; expires=Wed, 10-Dec-25
-   19:18:48 GMT; domain=.apprendre-la-photo.fr; HttpOnly; Secure;
+   __cf_bm=op2iSAH92BGqV.htP8cvr__ghMY.MeJBRwBmaXpOpzg-1765401130-1.0.1.1-
+   bucEAgUiLZTOza1h2xqSmFI6xA1aWkWnD1GNFM0LNSZ793GE7uY_TqUpEkLk1DaoEy3RMJf
+   Q49s_Xa7eDwhd06ChRfcHzJKfnlKY37bhbfA; path=/; expires=Wed, 10-Dec-25
+   21:42:10 GMT; domain=.apprendre-la-photo.fr; HttpOnly; Secure;
    SameSite=None vary: Accept-Encoding cache-tag:
    bbe422e1-b567-4124-840b-d4cbbcf955a7,f239658715ab09f27e7724c044275b48f6
    eed6ae0e95556f0ba554cd2fe2956a ki-cf-cache-status: SAVING
@@ -20,10 +20,10 @@
    bbe422e1-b567-4124-840b-d4cbbcf955a7,f239658715ab09f27e7724c044275b48f6
    eed6ae0e95556f0ba554cd2fe2956a ki-cache-type: Edge ki-edge:
    v=24.0.0;mv=5.0.18 ki-origin: x-kinsta-cache: HIT report-to:
-   {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=YZtV
-   20F9wIm96ADKkdHbNzrKDjgXpiTVP9j2m%2BosUaEVY2zT59lOSZN6mo7qQF%2BhvL5qVbF
-   y1GeB%2FM7VIflPX2GVC%2FOKjKpv7yRoJ%2BxTX8vTCMaJLvK0adR7hWVeJcK4bPaGgaqH
-   pQ%3D%3D"}],"group":"cf-nel","max_age":604800} nel:
+   {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=pSpb
+   ecA%2FEi0hAaj2ag%2B7tzqr%2Fmzs3ED%2BR%2Bv11uHA03PKRsfnVLonzgL2RCVQfg5eC
+   2SqjYrkh4igLqXUX8VNbBq2riedWEWU0iEXNZ%2BCV360ipAVZA0ZxtyR2Ed4WqplVbk9df
+   8LXg%3D%3D"}],"group":"cf-nel","max_age":604800} nel:
    {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
    alt-svc: h3=":443"; ma=86400 #Apprendre la photo, le blog photo » Flux
    Apprendre la photo, le blog photo » Flux des commentaires oEmbed (JSON)

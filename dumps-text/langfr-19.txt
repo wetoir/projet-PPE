@@ -1,5 +1,5 @@
-   HTTP/2 403 date: Wed, 10 Dec 2025 18:49:02 GMT content-type: text/html;
-   charset=UTF-8 content-length: 7168 accept-ch: Sec-CH-UA-Bitness,
+   HTTP/2 403 date: Wed, 10 Dec 2025 21:12:24 GMT content-type: text/html;
+   charset=UTF-8 content-length: 7125 accept-ch: Sec-CH-UA-Bitness,
    Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile,
    Sec-CH-UA-Model, Sec-CH-UA-Platform-Version,
    Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness,
@@ -16,11 +16,11 @@
    rd-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magne
    tometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen
    -wake-lock=(),serial=(),sync-xhr=(),usb=() referrer-policy: same-origin
-   server-timing: chlray;desc="9abeeb7ebaa17f64" x-content-type-options:
+   server-timing: chlray;desc="9abfbd7f0a93d140" x-content-type-options:
    nosniff x-frame-options: SAMEORIGIN cache-control: private, max-age=0,
    no-store, no-cache, must-revalidate, post-check=0, pre-check=0 expires:
    Thu, 01 Jan 1970 00:00:01 GMT strict-transport-security:
-   max-age=31536000 server: cloudflare cf-ray: 9abeeb7ebaa17f64-CDG
+   max-age=31536000 server: cloudflare cf-ray: 9abfbd7f0a93d140-CDG
    REFRESH(360 sec):
    file://localhost/home/annabelle/projet-PPE/programmes/temp.html
 

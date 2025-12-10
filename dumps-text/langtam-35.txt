@@ -1,5 +1,5 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 18:49:54 GMT content-type: text/html;
-   charset=utf-8 cf-ray: 9abeecc389dcd578-CDG x-powered-by: Express
+   HTTP/2 200 date: Wed, 10 Dec 2025 21:14:14 GMT content-type: text/html;
+   charset=utf-8 cf-ray: 9abfc02fca72d3bb-CDG x-powered-by: Express
    cache-control:
    public,max-age=15,s-maxage=10800,stale-while-revalidate=1000,stale-if-e
    rror=14400 vary: Accept-Encoding content-security-policy: default-src
@@ -12,7 +12,7 @@
    'self' https://*.quintype.com https://kalkionline.com
    https://googleads.g.doubleclick.net;block-all-mixed-content; link:
    /fea.assettype.com/quintype-ace/assets/app-db063138d00585bf7220.js>;
-   rel=preload; as=script; cf-cache-status: HIT age: 2763
+   rel=preload; as=script; cf-cache-status: EXPIRED
    strict-transport-security: max-age=86400 server: cloudflare alt-svc:
    h3=":443"; ma=86400
 

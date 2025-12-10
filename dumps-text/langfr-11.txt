@@ -1,4 +1,4 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 18:48:53 GMT server: Apache
+   HTTP/2 200 date: Wed, 10 Dec 2025 21:12:14 GMT server: Apache
    x-content-type-options: nosniff cache-control: must-revalidate,
    no-cache, private link: /www.bnf.fr/fr/banque-dimages>; rel="canonical"
    link: /www.bnf.fr/fr/banque-dimages>; rel="alternate"; hreflang="fr"

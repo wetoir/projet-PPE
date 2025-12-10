@@ -12,16 +12,19 @@ PROJET="/home/annabelle/projet-PPE"
 DUMPS="$PROJET/dumps-text"
 CONTEXTES="$PROJET/contextes"
 CONCORDANCES="$PROJET/concordances"
+TABLEAUX="$PROJET/tableaux"
+
+mkdir -p "$DUMPS" "$CONTEXTES" "$CONCORDANCES" "$TABLEAUX"
 
 
-mkdir -p "$DUMPS" "$CONTEXTES" "$CONCORDANCES"
-
-
-# Début du fichier HTML
+# Début du fichier HTML, on utilise la boucle for pour faire un tableau par langue dans un fichier html différent $l correspond à = fr , viet..
+for lang in fr viet tam; do
+    tableau="$TABLEAUX/lang$lang.html"
+lineno=1
 echo "<html>
 <head>
     <meta charset=\"UTF-8\">
-    <title>Tableau avec concordance</title>
+    <title>Tableau pour $lang</title>
     <style>
         table { border-collapse: collapse; width: 90%; margin: auto; }
         th, td { border: 1px solid black; padding: 8px; text-align: center; }
@@ -42,13 +45,11 @@ echo "<html>
             <th>Dump textuel</th>
             <th>Contexte</th>
             <th>Concordance</th>
-        </tr>"
+        </tr>" > "$tableau" # redirection pour obtenir les fichiers
 
-lineno=1
 
-for fichier_urls in "$dossier_urls"/lang*.txt; do  #verifier si mon chemin est exact.
-    lang=$(basename "$fichier_urls" | sed -E 's/lang([a-zA-Z]+)\.txt/\1/') #K = oublie tout ce qu'il y a avant dans le match. \d+ = un ou plusieurs chiffre => extrait uniquement après lang-
-    i=1 # il n'a rien avoir avec le for, car le for dit déjà "pour chaque fichier dans url prend le et prend également le chiffre derrière" donc i=1 sert juste pour rajouter un chiffre pour les contextes
+for fichier_urls in $dossier_urls/lang$lang*.txt; do #K = oublie tout ce qu'il y a avant dans le match. \d+ = un ou plusieurs chiffre => extrait uniquement après lang-
+    # il n'a rien avoir avec le for, car le for dit déjà "pour chaque fichier dans url prend le et prend également le chiffre derrière" donc i=1 sert juste pour rajouter un chiffre pour les contextes
     #baseme = extrait uniquement le nom du fichier, sans le chemin du dossier
 
 
@@ -61,7 +62,7 @@ elif [ "$lang" = "tam" ]; then
 
 fi #cette partie permet de chercher le mot écrit différement en fonction du fichier !
 
-
+i=1
 
 while read -r url; do
     echo "Traitement de $url ..." >&2
@@ -69,7 +70,12 @@ while read -r url; do
     # Récupération du code HTTP et du type MIME avec encodage
     data=$(curl -s -i -L -w "%{http_code}\n%{content_type}" -o ./temp.html "$url")
     http_code=$(echo "$data" | head -1)
-    encoding=$(echo "$data" | tail -1 | grep -o "charset=\S+" | cut -d"=" -f2)
+    encoding=$(echo "$data" | tail -1 | grep -o "charset=[^ ;]*" | cut -d"=" -f2)
+
+    if [ -z "$encoding" ]; then
+    encoding=$(grep -i -m1 '<meta charset=' ./temp.html | sed -E 's/.*charset=["'\'']?([^"'\'' >]+).*/\1/' )
+fi
+
     encoding=${encoding:-"N/A"}  # si encodage vide, mettre N/A
 
     # Conversion du HTML si besoin
@@ -121,7 +127,7 @@ while read -r url; do
             <td><a href='$dump_file'>dump</a></td>
             <td><a href='$contexte_file'>contexte</a></td>
             <td><a href='$concordance_file'>concordance</a></td>
-        </tr>"
+        </tr>" >> "$tableau"
 
     i=$((i+1))
     lineno=$((lineno+1))
@@ -129,10 +135,12 @@ done < "$fichier_urls"
 
 done
 
+
 # Fermeture de la table et du HTML
 echo "    </table>
 </body>
-</html>"
+</html>" >> "$tableau"
+done
 
 # Nettoyage temporaire
 rm -f ./temp.html

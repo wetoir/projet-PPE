@@ -1,17 +1,17 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 18:49:47 GMT content-type: text/html;
+   HTTP/2 200 date: Wed, 10 Dec 2025 21:14:06 GMT content-type: text/html;
    charset=utf-8 server: cloudflare x-powered-by: PHP/8.2.28
    x-frame-options: SAMEORIGIN referrer-policy:
    strict-origin-when-cross-origin cross-origin-opener-policy: same-origin
    expires: Wed, 17 Aug 2005 00:00:00 GMT cache-control: no-store,
    no-cache, must-revalidate, post-check=0, pre-check=0 pragma: no-cache
    set-cookie:
-   3ac78a556fbf45dfe792e93034823567=4m65eome450b9kqqdj1htuv7ha; path=/;
-   HttpOnly last-modified: Wed, 10 Dec 2025 18:49:47 GMT report-to:
+   3ac78a556fbf45dfe792e93034823567=19h99qu5mdtjk3mbsiadg3p7i0; path=/;
+   HttpOnly last-modified: Wed, 10 Dec 2025 21:14:06 GMT report-to:
    {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=%2B0T4VlzwkrUZfJva1bMMT6U%2B%2B9q4l%2FAcfrK%2
-   Fj6KPeUaNXRKyil4316YGbEbByl9rRKdWBnc2a5esatcEbRgmXQjpgzJQ1LUTjAmPFoqH"}
-   ]} nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-   cf-cache-status: DYNAMIC cf-ray: 9abeec451d39c46a-CDG alt-svc:
+   loudflare.com/report/v4?s=Awj3ciiCApticpZ%2Fkc7%2BfBynBykGhLgHqP7%2BgH9
+   DOCVJJRgY8qNKHbnR9J5KwlqHf4zGKf88Wme2j5BAis0ofZaThSIZd8ZETapml0F%2B"}]}
+   nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+   cf-cache-status: DYNAMIC cf-ray: 9abfbffb4c13009c-CDG alt-svc:
    h3=":443"; ma=86400
 
      * இலக்கியம்
@@ -194,21 +194,26 @@
     2. முகப்பு
     3. பெரியார் முழக்கம்
     4. பெரியார் முழக்கம் - ஜூலை 2022
+    5. பெரியார் முழக்கம்
+    6. பெரியார் முழக்கம் - ஜூலை 2011
 
 கீற்றில் தேட...
 
 தொடர்புடைய படைப்புகள்
 
-     * மாநில தன்னாட்சி உரிமை
-     * மாநில உரிமை - இறுதிப் பேருரையின் மையப் புள்ளி
-     * தமிழ் வாழ்க! இந்தி வீழ்க!
-     * சுயமரியாதையின் அடையாளம் மாநில சுயாட்சி
-     * மாநிலக் கட்சிகளை ஒடுக்கும் ஒன்றிய அரசின் அதிகார அமைப்புகள்
-     * அரசின் கங்காணிகளே ஆளுநர்கள்
-     * ஐயா சுபவீ, உங்களைக் கூண்டில் ஏற்றுகிறோம்!
-     * மீண்டெழும் மாநில சுயாட்சி மாநாட்டின் அறைகூவல்…
-     * ஒன்றிய ஆட்சியின் திட்டங்களுக்கு மாநில அரசே செலவிடுகிறது
-     * பட்டமளிப்பு மேடையா? பா.ஜ.கவின் பரப்புரை வேலையா?
+     * விபசாரம் ஒழியுமா?
+     * பெரியார் இன்னும் ஏன் எதிரிகளை பதற வைக்கிறார்?
+     * பெரியார் எனும் பெருநெருப்பு - மாநாடு போல் நடந்த கொளத்தூர்
+       கருத்தரங்கு
+     * பெண்கள் இடஒதுக்கீடு; திருமண வயது உயர்வு பிரச்சினைகளில் கழகம்
+       பெரியாரியப் பார்வையில் எடுத்த தனித்துவ நிலைப்பாடுகள்
+     * வள்ளுவர் காட்டும் மனிதர்கள் 4. கல்லாத மனிதர்கள்
+     * காதம்பரி
+     * பூனக்குட்டி வெளிய வந்திருச்சி...!
+     * சா.இலாகுபாரதி கவிதைகள்
+     * பெரியார் முழக்கம் ஏப்ரல் 04, 2019 இதழ் மின்னூல் வடிவில்...
+     * இந்தியா என்கிற கருத்தாக்கம் - சுனில் கில்நானி தத்துவ நூலைப்
+       போன்றதொரு வரலாற்று நூல்
 
 அரசியல் சட்டத்தில் மாநில சுயாட்சி இடம் பெறாமல் போனது ஏன்?
 

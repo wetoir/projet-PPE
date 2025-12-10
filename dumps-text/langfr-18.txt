@@ -1,15 +1,15 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 18:49:01 GMT content-type: text/html;
-   charset=UTF-8 x-edgee-compute-duration: 13ms x-served-by:
-   cache-par-lfpb1150041-PAR cache-control: max-age=15552000, public vary:
+   HTTP/2 200 date: Wed, 10 Dec 2025 21:12:23 GMT content-type: text/html;
+   charset=UTF-8 x-edgee-compute-duration: 10ms x-served-by:
+   cache-par-lfpb1150084-PAR cache-control: max-age=15552000, public vary:
    Accept-Encoding, User-Agent via: 1.1
    2312f93baeaf947c3d320058c84e5592.cloudfront.net (CloudFront) alt-svc:
    h3=":443"; ma=86400 strict-transport-security: max-age=15552000;
    includeSubDomains x-cache: Miss from cloudfront, MISS x-amz-cf-pop:
    CDG50-P3 x-amz-cf-id:
    _ICKAjVSlADaVUN4KnysKQtvnnA--RN_jCX8LENs7whK2IVUbFLAnw==
-   cf-cache-status: HIT age: 286140 last-modified: Sun, 07 Dec 2025
+   cf-cache-status: HIT age: 294742 last-modified: Sun, 07 Dec 2025
    11:20:01 GMT x-cdn-forward: ocdn-cloudflare x-ua-device: desktop
-   server: cloudflare cf-ray: 9abeeb7afbcdb6ab-CDG x-cache-hits: 0
+   server: cloudflare cf-ray: 9abfbd7b5b783740-CDG x-cache-hits: 0
    x-edgee: compute-aborted(cacheable) content-length: 602325 #À la Une de
    20minutes.fr
 

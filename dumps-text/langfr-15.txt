@@ -1,12 +1,12 @@
-   HTTP/2 200 server: nginx date: Wed, 10 Dec 2025 18:48:59 GMT
+   HTTP/2 200 server: nginx date: Wed, 10 Dec 2025 21:12:20 GMT
    content-type: text/html; charset=UTF-8 content-length: 106555
    cache-control: max-age=86400 x-drupal-dynamic-cache: UNCACHEABLE (poor
    cacheability) content-language: fr x-content-type-options: nosniff
-   x-frame-options: SAMEORIGIN expires: Thu, 11 Dec 2025 18:15:39 GMT
+   x-frame-options: SAMEORIGIN expires: Thu, 11 Dec 2025 17:42:28 GMT
    last-modified: Wed, 10 Dec 2025 17:42:27 GMT etag: W/"1765388547"
    access-control-allow-origin: * x-cacheable: YES x-cache-ttl: 86400.000
-   vary: Accept-Encoding cache-tags: HIT x-cache: HIT x-cache-age: 1999
-   x-cache-hits: 9 accept-ranges: bytes #alternate
+   vary: Accept-Encoding cache-tags: HIT x-cache: HIT x-cache-age: 12592
+   x-cache-hits: 23 accept-ranges: bytes #alternate
 
      * Contenu
      * Menu

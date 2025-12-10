@@ -1,10 +1,15 @@
-   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Wed, 10 Dec
-   2025 18:49:31 GMT date: Wed, 10 Dec 2025 18:49:31 GMT cache-control:
-   private, max-age=0 last-modified: Thu, 26 Jun 2025 18:35:33 GMT
-   x-content-type-options: nosniff x-xss-protection: 1; mode=block server:
-   GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
-   accept-ranges: none vary: Accept-Encoding #E - T a m i l : ஈ - தமிழ் -
-   Atom E - T a m i l : ஈ - தமிழ் - RSS
+   HTTP/2 200 content-security-policy: upgrade-insecure-requests
+   content-security-policy-report-only: default-src https: blob: data:
+   'unsafe-inline' 'unsafe-eval'; report-to blogspot; report-uri
+   https://www.blogger.com/cspreport report-to:
+   {"group":"blogspot","max_age":2592000,"endpoints":[{"url":"https://www.
+   blogger.com/cspreport"}]} content-type: text/html; charset=UTF-8
+   expires: Wed, 10 Dec 2025 21:14:03 GMT date: Wed, 10 Dec 2025 21:14:03
+   GMT cache-control: private, max-age=0 last-modified: Thu, 26 Jun 2025
+   18:35:33 GMT x-content-type-options: nosniff x-xss-protection: 1;
+   mode=block server: GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443";
+   ma=2592000 accept-ranges: none vary: Accept-Encoding #E - T a m i l : ஈ
+   - தமிழ் - Atom E - T a m i l : ஈ - தமிழ் - RSS
 
    skip to main | skip to sidebar
 

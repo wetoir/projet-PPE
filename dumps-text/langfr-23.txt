@@ -1,10 +1,11 @@
-   HTTP/2 200 server: nginx date: Wed, 10 Dec 2025 18:49:05 GMT
-   content-type: text/html; charset=UTF-8 cache-control: no-cache, private
-   x-max-grace: 7200s strict-transport-security: max-age=31536000;
-   includeSubDomains x-frame-options: SAMEORIGIN content-security-policy:
-   frame-ancestors 'self' *.kameleoon.com vary: Host, Accept-Encoding
-   x-max-age: 95s age: 0 accept-ranges: bytes x-varnish: LDIRVP-3
-   LDIRVPS-1 3886559934 last-modified: Mon, 04 Aug 2025 06:01:18 GMT
+   HTTP/2 200 server: nginx date: Wed, 10 Dec 2025 21:12:26 GMT
+   content-type: text/html; charset=UTF-8 content-length: 90249
+   cache-control: no-cache, private x-max-grace: 7200s
+   strict-transport-security: max-age=31536000; includeSubDomains
+   x-frame-options: SAMEORIGIN content-security-policy: frame-ancestors
+   'self' *.kameleoon.com vary: Host, Accept-Encoding x-max-age: 95s age:
+   3650 accept-ranges: bytes x-varnish: LDIRVP-4 LDIRVPS-1 5506000433
+   last-modified: Mon, 04 Aug 2025 06:01:18 GMT
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5NFGMPZ
 
@@ -166,10 +167,16 @@ Signaler un abus
 
      * 1 Environnement. Il perturbe un gros chantier de ligne électrique,
        RTE réclame 108 000 euros au militant écologiste qui vit au RSA
-     * 2 Réforme des retraites. Suspension de la réforme des retraites :
+     * 2 Aéronautique. Nuisances sonores, respect de l’environnement…
+       Pourquoi le projet d’usine "Aura Factory" à Cugnaux reçoit un avis
+       négatif
+     * 3 Réforme des retraites. Suspension de la réforme des retraites :
        quand les futurs retraités pourront-ils vraiment partir ?
-     * 3 Culture Food. CULTURE FOOD. Les trompe-l’œil de la nouvelle
+     * 4 Culture Food. CULTURE FOOD. Les trompe-l’œil de la nouvelle
        pâtisserie L’Écureuil Gourmand affolent Toulouse
+     * 5 Rugby à XV. Rugby : "Il m’a touché au niveau du menton !"
+       Suspendu pour un très mauvais geste, un joueur star de l’Afrique du
+       Sud se défend
 
    À lire aussi de Vie pratique - conso
      * 1 Énergie. "Mes vêtements sont humides tellement il fait froid" :

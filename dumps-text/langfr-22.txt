@@ -1,5 +1,5 @@
    HTTP/2 200 last-modified: Wed, 10 Dec 2025 01:08:47 GMT expires: Wed,
-   10 Dec 2025 19:49:03 GMT origin-trial:
+   10 Dec 2025 22:12:25 GMT origin-trial:
    AxVILwizhbMjxFeHOn1P3R8niO1RJY/smaK4B4d1rLzc1gTaxtXMSaTi+FoigYgCw40uFRD
    wFcEAeqDR+vVLOW4AAABfeyJvcmlnaW4iOiJodHRwczovL2RldmVsb3Blci5tb3ppbGxhLm
    9yZyIsImZlYXR1cmUiOiJQcml2YXRlQXR0cmlidXRpb25WMiIsImV4cGlyeSI6MTc0MjA3O
@@ -49,16 +49,17 @@
    1.1 varnish, 1.1 varnish referrer-policy:
    strict-origin-when-cross-origin x-goog-stored-content-length: 222655
    x-goog-stored-content-encoding: identity x-cloud-trace-context:
-   0c7bb57a4ff56a414216f2dce369ca84 x-frame-options: DENY
+   363d5ac7900cd281b09c619596df599b x-frame-options: DENY
    x-content-type-options: nosniff x-guploader-uploadid:
-   AHVrFxPY2FDKXbXzWw16PKQ1KmPRW5m47awZjwrNMo7uJQSunvwtxXVKXTEyagZt4nvW6hB
-   b content-type: text/html etag: "a6060b413ed5a5d24217d8f559919a73"
-   strict-transport-security: max-age=63072000
-   x-goog-meta-goog-reserved-file-mtime: 1765327559 accept-ranges: bytes
-   date: Wed, 10 Dec 2025 18:49:03 GMT age: 0 x-served-by:
-   cache-par-lfpg1960047-PAR, cache-par-lfpb1150085-PAR x-cache: MISS,
-   MISS x-cache-hits: 0, 0 x-timer: S1765392544.749581,VS0,VE221 vary:
-   Accept-Encoding content-length: 222655 #MDN Web Docs MDN Blog RSS Feed
+   AHVrFxN-CTlxdUuPvmwgO3V7R_J8IrRJEiX73M8PP6uBp8Ls5tbWp6BUfQelJ3SPqiF5ilj
+   cOItwMZo content-type: text/html etag:
+   "a6060b413ed5a5d24217d8f559919a73" strict-transport-security:
+   max-age=63072000 x-goog-meta-goog-reserved-file-mtime: 1765327559
+   accept-ranges: bytes age: 0 date: Wed, 10 Dec 2025 21:12:25 GMT
+   x-served-by: cache-par-lfpg1960047-PAR, cache-par-lfpb1150062-PAR
+   x-cache: MISS, MISS x-cache-hits: 0, 0 x-timer:
+   S1765401145.357759,VS0,VE202 vary: Accept-Encoding content-length:
+   222655 #MDN Web Docs MDN Blog RSS Feed
 
      * Skip to main content
      * Skip to search

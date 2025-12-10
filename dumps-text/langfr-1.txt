@@ -1,8 +1,8 @@
    HTTP/2 200 date: Wed, 10 Dec 2025 15:23:40 GMT server: ATS/9.2.11
    x-content-type-options: nosniff content-language: fr accept-ch:
    last-modified: Sat, 29 Nov 2025 14:58:12 GMT content-type: text/html;
-   charset=UTF-8 age: 12275 accept-ranges: bytes x-cache: cp6014 hit,
-   cp6009 hit/2 x-cache-status: hit-front server-timing:
+   charset=UTF-8 age: 20875 accept-ranges: bytes x-cache: cp6014 hit,
+   cp6009 hit/13 x-cache-status: hit-front server-timing:
    cache;desc="hit-front", host;desc="cp6009" strict-transport-security:
    max-age=106384710; includeSubDomains; preload report-to: { "group":
    "wm_nel", "max_age": 604800, "endpoints": [{ "url":
@@ -22,10 +22,10 @@
    set-cookie:
    NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
    set-cookie:
-   WMF-Uniq=6iR5fEW2sLFa3JBI-Jky3ALFAAAAAFvd2BrOBQKj6G9Ww_SBhpowOMrhnruB5V
-   w8;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=T
+   WMF-Uniq=GQo2VqUk4BSz8Bwb2XZBBALFAAAAAFvdZTx01Ty3-Lbzu1Ps4_R3vsauUw7RZf
+   d4;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=T
    hu, 10 Dec 2026 00:00:00 GMT content-length: 167226 x-request-id:
-   8306612d-2d71-4093-b498-b63321c33105 #Modifier Wikipédia (fr) Flux Atom
+   e2d46d76-45fb-4370-ae76-ca2eba89f33d #Modifier Wikipédia (fr) Flux Atom
    de Wikipédia
 
    Aller au contenu

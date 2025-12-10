@@ -1,8 +1,8 @@
    HTTP/2 200 date: Wed, 10 Dec 2025 12:32:07 GMT server:
    mw-web.eqiad.main-5c5cb4f54-8s55v x-content-type-options: nosniff
    content-language: ta accept-ch: last-modified: Wed, 26 Nov 2025
-   12:32:07 GMT content-type: text/html; charset=UTF-8 age: 22676
-   accept-ranges: bytes x-cache: cp6009 hit, cp6009 hit/1 x-cache-status:
+   12:32:07 GMT content-type: text/html; charset=UTF-8 age: 31336
+   accept-ranges: bytes x-cache: cp6009 hit, cp6009 hit/12 x-cache-status:
    hit-front server-timing: cache;desc="hit-front", host;desc="cp6009"
    strict-transport-security: max-age=106384710; includeSubDomains;
    preload report-to: { "group": "wm_nel", "max_age": 604800, "endpoints":
@@ -23,10 +23,10 @@
    set-cookie:
    NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
    set-cookie:
-   WMF-Uniq=9DayDi3euVlVKO3Zoc7hPwLFAAAAAFvd1mhcVs7vBRUsgWzWaxR-Td9OHzvOHy
-   rX;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=T
+   WMF-Uniq=BeRzcYnTIA0n255MpiDq9gLFAAAAAFvd3kmLySag45ON-OP4GffsLerLeIrJHj
+   t2;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=T
    hu, 10 Dec 2026 00:00:00 GMT content-length: 214808 x-request-id:
-   5bfdc15b-ada1-4c07-950e-fbebadf8e447 #தொகு விக்கிப்பீடியா (ta)
+   b83f65d4-f0c3-4845-bd06-8c43c2fd0b37 #தொகு விக்கிப்பீடியா (ta)
    விக்கிப்பீடியா ஆட்டம் (Atom) ஓடை
 
    உள்ளடக்கத்துக்குச் செல்

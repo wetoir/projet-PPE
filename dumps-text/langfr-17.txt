@@ -1,5 +1,5 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 18:49:01 GMT content-type: text/html;
-   charset=UTF-8 server: cloudflare cf-ray: 9abeeb6d8936c752-CDG
+   HTTP/2 200 date: Wed, 10 Dec 2025 21:12:23 GMT content-type: text/html;
+   charset=UTF-8 server: cloudflare cf-ray: 9abfbd6a0b456f94-CDG
    cf-cache-status: BYPASS link: /blog.groover.co/wp-json/>;
    rel="https://api.w.org/", /blog.groover.co/wp-json/wp/v2/posts/32412>;
    rel="alternate"; title="JSON"; type="application/json",
@@ -25,15 +25,15 @@
    data:; x-content-type-options: nosniff x-frame-options: SAMEORIGIN
    x-kinsta-cache: MISS x-permitted-cross-domain-policies: none
    set-cookie:
-   __cf_bm=upIbqFYvhnDjjmcAbSmNFLtgAiPao.og4IH1RfEPoNg-1765392541-1.0.1.1-
-   R1AI5cWr4D3TznE6nuiFEs5aNlaKbgAZGqztKiVffgbzWF3tAIAsCPTbA4GcbZJtqVoh3Dj
-   w_MFyDD47SN1bO8Sxq8k3OT5yyWXeySAZHIE; path=/; expires=Wed, 10-Dec-25
-   19:19:01 GMT; domain=.blog.groover.co; HttpOnly; Secure; SameSite=None
+   __cf_bm=UzO5egCEVNsCesQE6riGKsQKt6bpZ_vEtbbw3ufCOyc-1765401143-1.0.1.1-
+   xx8pz1tpkPAsVZXNnyjMwS8yEIy2ODk4ug5EbaTGno5Krx6CRjX81r_ByDRT57sInB8cE6c
+   ZckT4Mty43SsT1xtXqGO8BNNDRSp0zl5cvt4; path=/; expires=Wed, 10-Dec-25
+   21:42:23 GMT; domain=.blog.groover.co; HttpOnly; Secure; SameSite=None
    report-to:
-   {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=W6Tf
-   o6Shb8T4OkeNZ6d14VATjhb%2Fwi7AmwhClHW5dBA3leAqpsg4ZF%2BKsPAbhhTXH7RF61g
-   T7lEf2qYIfRclUj2ernx%2BIbuLeIFF2Q4%2FEzCkjfXGNYNAF0Q17T%2BTfoFXUA%3D%3D
-   "}],"group":"cf-nel","max_age":604800} nel:
+   {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=wEWN
+   cWkSelfjaqP%2FFwEbbva6SyVjBa6bdHdZtL35%2FpqOzKo%2BSicBgatvRWM8HKSQdj%2F
+   %2Bdeh8%2FnAx%2FVk%2Fjd2RmYEIYtdcjy7t4Lg1DhCg9fbqKx%2Bf3c5KnM%2BxW9ZiGg
+   PHjQ%3D%3D"}],"group":"cf-nel","max_age":604800} nel:
    {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
    alt-svc: h3=":443"; ma=86400 #Groover Blog RSS Feed Groover Blog Atom
    Feed alternate alternate alternate alternate alternate Groover Blog »

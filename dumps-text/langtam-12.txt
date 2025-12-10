@@ -1,10 +1,10 @@
-   HTTP/2 200 server: nginx date: Wed, 10 Dec 2025 18:49:22 GMT
+   HTTP/2 200 server: nginx date: Wed, 10 Dec 2025 21:13:54 GMT
    content-type: text/html; charset=UTF-8 vary: Accept-Encoding x-hacker:
    Want root? Visit join.a8c.com/hacker and mention this header.
    host-header: WordPress.com link: /wp.me/3TuS>; rel=shortlink vary:
    accept, content-type, cookie x-ac: 4.cdg _dca STALE alt-svc: h3=":443";
    ma=86400 strict-transport-security: max-age=31536000 server-timing:
-   a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=2.0 #களஞ்சியம் » செய்தியோடை
+   a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=1.0 #களஞ்சியம் » செய்தியோடை
    களஞ்சியம் » பின்னூட்ட செய்தியோடை களஞ்சியம் WordPress.com
 
 களஞ்சியம்
@@ -580,7 +580,7 @@
    Posted in நாட்டு நடப்பு | 4 Comments »
    « முந்தைய வரவுகள்
 
-   Create a free website or blog at WordPress.com.
+   வேர்ட்பிரஸ்.காம் இல் வலைப்பதிவு.
 
      * சந்தாசெய் உறுதி செய்யப்பட்ட சந்தா
           + களஞ்சியம்

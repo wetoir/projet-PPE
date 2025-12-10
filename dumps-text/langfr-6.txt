@@ -6,7 +6,7 @@
    2025 10:08:19 GMT etag: "1765188499" content-type: text/html;
    charset=UTF-8 x-content-type-options: nosniff referrer-policy:
    no-referrer-when-downgrade set-cookie:
-   WEBSRVID=eddv-acti-mutu-front-2.eolas-services.com; path=/
+   WEBSRVID=eddv-acti-mutu-front-1.eolas-services.com; path=/
    cache-control: private #alternate alternate alternate alternate
    alternate alternate alternate
 

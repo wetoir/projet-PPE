@@ -1,9 +1,9 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 18:48:47 GMT content-type: text/html
+   HTTP/2 200 date: Wed, 10 Dec 2025 21:12:08 GMT content-type: text/html
    content-length: 40207 server: fastestcache edge-cache-engine: varnish
-   edge-request-id: a0e40c24295ab08400d7f3dbc985b40e last-modified: Wed,
+   edge-request-id: c8f78c7206bbd96d8604525a64d4c05d last-modified: Wed,
    22 May 2024 07:00:21 GMT vary: Accept-Encoding edge-cache-engine-mode:
    ACTIVE age: 0 accept-ranges: bytes alt-svc: h3=":443";ma=86400
-   x-request-id: a0e40c24295ab08400d7f3dbc985b40e edge-cache-engine-hit:
+   x-request-id: c8f78c7206bbd96d8604525a64d4c05d edge-cache-engine-hit:
    MISS
 
    Qu'est ce qu'une image ?

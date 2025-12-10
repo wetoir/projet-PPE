@@ -1,19 +1,19 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 18:48:51 GMT content-type: text/html;
-   charset=UTF-8 cf-ray: 9abeeb328d25d642-CDG cf-cache-status: EXPIRED
+   HTTP/2 200 date: Wed, 10 Dec 2025 21:12:12 GMT content-type: text/html;
+   charset=UTF-8 cf-ray: 9abfbd331df16b98-CDG cf-cache-status: EXPIRED
    cache-control: no-store, must-revalidate, private, max-age=0
-   last-modified: Wed, 10 Dec 2025 18:48:51 GMT server: cloudflare vary:
+   last-modified: Wed, 10 Dec 2025 21:12:12 GMT server: cloudflare vary:
    Accept-Encoding, Accept-Encoding, Accept-Encoding,
-   Accept-Encoding,Cookie x-cache: MISS x-cache-group: normal x-cacheable:
-   SHORT set-cookie:
-   __cf_bm=BDliXowmL2MKpjKV8jgCCLSl.sYypvSg2cz0XvTx9UI-1765392530.3293157-
-   1.0.1.1-AxIiCpd19F.ByvX2PC.nlsDLp7P.BphOwOPtUSUvwbMieD9gBLNbd7KA.1zeHsN
-   yC2fHcrq8C279OlTz3w8I3kxATF6CT3UuX73K0aUBtgC4pyoAeltepwVE579B56UX;
+   Accept-Encoding,Cookie x-cache: HIT: 1 x-cache-group: normal
+   x-cacheable: SHORT set-cookie:
+   __cf_bm=C8YAc_fd9wWLBPGUVpGItxvJ2w6yPyM099E8.Be72ak-1765401132.0163085-
+   1.0.1.1-N.8d8gTfZuFory._p0SVK78KVNbDaJ4a0OY.RlCgK5J.8_QUTPWL3OBZZFw5eHn
+   jaf.9snxJ0LKB7GnRm73ap6PGYc5NyOAVhKowtW94ggObGXO3oSzG3S0oFlYpENUA;
    HttpOnly; Secure; Path=/; Domain=format.com; Expires=Wed, 10 Dec 2025
-   19:18:51 GMT report-to:
+   21:42:12 GMT report-to:
    {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=Uz77hArqFzg4pWnLrna7aYNTbNMl7aykoCrDnaiSGplRC
-   68a5IxvU%2Bbj6Ra47HVrSD8%2FhBykehkXhcx8PVjZDI7wZMtmwQnhODfpd38%3D"}]}
-   nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
+   loudflare.com/report/v4?s=P3%2Bd1igzG%2B6Oqk7yW0Ga9pAQRFEbRIsMOJmZQpaNP
+   1WcXXKkK3f%2FNvJB%2FABX7OIHzL40f0a9U8uux7JHw37iu41cGBBKSZZxP03XpHw%3D"}
+   ]} nel: {"report_to":"cf-nel","success_fraction":0.01,"max_age":604800}
    alt-svc: h3=":443"; ma=86400 #alternate alternate alternate alternate
    alternate alternate alternate alternate alternate alternate alternate
 
@@ -653,7 +653,7 @@ Un guide pour améliorer vos compétences en photographie
 
 Recevez le meilleur de Format Magazine dans votre boîte de réception.
 
-   Facebook
+   X/Twitter
    ____________________
    Ce champ est utilisé à des fins de validation et ne doit pas être
    modifié.

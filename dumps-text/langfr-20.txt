@@ -1,4 +1,4 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 18:49:02 GMT content-type: text/html;
+   HTTP/2 200 date: Wed, 10 Dec 2025 21:12:24 GMT content-type: text/html;
    charset=UTF-8 server: cloudflare nel:
    {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} vary:
    Accept-Encoding vary: User-Agent x-elasticpress-query: true
@@ -7,9 +7,9 @@
    es-revelateurs-dun-faux-et-mes-detecteurs-gratuits-preferes-486082.htm
    access-control-allow-origin: * report-to:
    {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=NDnUmdO4uny1vVAmmY8cn6LnYDckr8aqPYZTpsPWbl6O4
-   jWjNYMDERnqnFB25kUa%2Fgm6MZqArb97Fb4EymeUDSyBgxZztEqUyeHU"}]}
-   cf-cache-status: DYNAMIC cf-ray: 9abeeb7fce8e7a6e-CDG alt-svc:
+   loudflare.com/report/v4?s=4lwGEybzbLV2%2Fiw68X4jci%2FtEROfR055toIFcf5hn
+   6Zg5d1d7rh3RpxsBsWQA62xddrR1%2BSqaBaU9Fzw8WCj%2BH7e61KiCJ%2BZxg%3D%3D"}
+   ]} cf-cache-status: DYNAMIC cf-ray: 9abfbd8038e9213d-CDG alt-svc:
    h3=":443"; ma=86400
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N8FW6BPP
@@ -86,6 +86,17 @@
    Recherche
 
    Les dernières news
+     * IA générative : pourquoi votre entreprise risque de faire partie de
+       la majorité qui échoue IA générative : pourquoi votre entreprise
+       risque de faire partie de la majorité qui échoue
+       IA générative : pourquoi votre entreprise risque de faire partie de
+       la majorité qui échoue 10/12/2025
+     * Souveraineté numérique : l’offensive est lancée pour imposer 300
+       solutions françaises face aux géants étrangers Souveraineté
+       numérique : l’offensive est lancée pour imposer 300 solutions
+       françaises face aux géants étrangers
+       Souveraineté numérique : l’offensive est lancée pour imposer 300
+       solutions françaises face aux géants étrangers 10/12/2025
      * Fin du rêve métavers ? Meta coupe les budgets et investit 72
        milliards dans l'IA Fin du rêve métavers ? Meta coupe les budgets
        et investit 72 milliards dans l'IA
@@ -98,17 +109,6 @@
        Gartner exhorte les entreprises à "bloquer tous les navigateurs
        d'IA" - voici ce qui se cache derrière ce terrible avertissement
        10/12/2025
-     * Pourquoi Google a bien regardé l'Apple Watch pour sa dernière Maj
-       de la Pixel Watch Pourquoi Google a bien regardé l'Apple Watch pour
-       sa dernière Maj de la Pixel Watch
-       Pourquoi Google a bien regardé l'Apple Watch pour sa dernière Maj
-       de la Pixel Watch 10/12/2025
-     * Google et OpenAI s'affrontent sur les modèles, mais Anthropic gagne
-       discrètement la course de l'IA en entreprise Google et OpenAI
-       s'affrontent sur les modèles, mais Anthropic gagne discrètement la
-       course de l'IA en entreprise
-       Google et OpenAI s'affrontent sur les modèles, mais Anthropic gagne
-       discrètement la course de l'IA en entreprise 10/12/2025
 
    News
    Menu
@@ -415,6 +415,18 @@ Les détecteurs d'images de l'IA sont-ils précis ?
 
 / Plus d'actualités
 
+   Actualités IA générative : pourquoi votre entreprise risque de faire
+   partie de la majorité qui échoue IA générative : pourquoi votre
+   entreprise risque de faire partie de la majorité qui échoue
+
+IA générative : pourquoi votre entreprise risque de faire partie de la
+majorité qui échoue
+
+   A quoi ressemble le paysage français de la GenAI en entreprise ?
+   “Contrasté” répond Publicis Sapient avec seulement 15% de déploiements
+   réussis. Un bilan qui s’explique par un fossé de perception entre le
+   business et la tech.
+   Par Christophe Auffray | 10 décembre 2025
    Actualités Fin du rêve métavers ? Meta coupe les budgets et investit 72
    milliards dans l'IA Fin du rêve métavers ? Meta coupe les budgets et
    investit 72 milliards dans l'IA
@@ -450,18 +462,6 @@ discrètement la course de l'IA en entreprise
    Une étude de Menlo Ventures montre également que l'IA agentique reste
    une niche.
    Par Tiernan Ray | 10 décembre 2025
-   Actualités J'ai réparé ma voiture et mes appareils numériques avec la
-   nouvelle application IA d'iFixIt - essayez-la pendant qu'elle est
-   encore gratuite J'ai réparé ma voiture et mes appareils numériques avec
-   la nouvelle application IA d'iFixIt - essayez-la pendant qu'elle est
-   encore gratuite
-
-J'ai réparé ma voiture et mes appareils numériques avec la nouvelle
-application IA d'iFixIt - essayez-la pendant qu'elle est encore gratuite
-
-   S'appuyant sur plus de 125 000 guides de réparation communautaires,
-   FixBot peut vous aider à réparer des milliers d'appareils différents.
-   Par Artie Beaty | 10 décembre 2025
 
 / Plus de guides d'achat
 

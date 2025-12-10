@@ -4,9 +4,9 @@
    (https://www.drupal.org) fastly-drupal-html: YES
    access-control-allow-origin: * last-modified: Wed, 10 Dec 2025 10:47:10
    GMT strict-transport-security: max-age=15552001 content-type:
-   text/html; charset=UTF-8 accept-ranges: bytes age: 28912 date: Wed, 10
-   Dec 2025 18:49:03 GMT via: 1.1 varnish x-served-by:
-   cache-par-lfpb1150073-PAR x-cache: HIT x-cache-hits: 0 vary:
+   text/html; charset=UTF-8 accept-ranges: bytes age: 37513 date: Wed, 10
+   Dec 2025 21:12:24 GMT via: 1.1 varnish x-served-by:
+   cache-par-lfpb1150090-PAR x-cache: HIT x-cache-hits: 0 vary:
    Accept-Encoding cache-control: private, no-store content-length: 277969
    #alternate alternate
 
