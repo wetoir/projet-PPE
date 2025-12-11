@@ -1,11 +1,11 @@
-   HTTP/2 200 server: nginx date: Wed, 10 Dec 2025 21:13:53 GMT
+   HTTP/2 200 server: nginx date: Thu, 11 Dec 2025 08:28:45 GMT
    content-type: text/html; charset=UTF-8 vary: Accept-Encoding x-hacker:
    Want root? Visit join.a8c.com/hacker and mention this header.
    host-header: WordPress.com link: /wp.me/it1I>; rel=shortlink vary:
-   accept, content-type, cookie x-ac: 3.cdg _dca STALE alt-svc: h3=":443";
+   accept, content-type, cookie x-ac: 2.lhr _dfw MISS alt-svc: h3=":443";
    ma=86400 strict-transport-security: max-age=31536000 server-timing:
-   a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=2.0 #அவார்டா கொடுக்கறாங்க? »
-   செய்தியோடை அவார்டா கொடுக்கறாங்க? » பின்னூட்ட செய்தியோடை அவார்டா
+   a8c-cdn, dc;desc=lhr, cache;desc=MISS;dur=428.0 #அவார்டா கொடுக்கறாங்க?
+   » செய்தியோடை அவார்டா கொடுக்கறாங்க? » பின்னூட்ட செய்தியோடை அவார்டா
    கொடுக்கறாங்க? WordPress.com
 
 அவார்டா கொடுக்கறாங்க?
@@ -798,7 +798,7 @@ In the Heat of the Night
 
 Blog Stats
 
-     * 840,882 hits
+     * 840,889 hits
 
    இதற்காகத் தேடு: ____________________ தேடு
 
@@ -828,16 +828,16 @@ Top Rated
 
 முன்னணி இடுகைகள்
 
-     * நடிகர் திலகம் பற்றி கவியரசு கண்ணதாசன்...
-     * சிவாஜி பக்கம்
      * ஸ்ரீதரின் இளமைக்கு உதாரணம்: நினைவெல்லாம் நித்யா
-     * மயங்குகிறாள் ஒரு மாது (1975)
-     * பெரிய இடத்துப் பெண் (Periya Idatthup Penn)
-     * வியட்நாம் வீடு - என் விமர்சனம்
-     * சுஜாதாவின் சினிமா அனுபவங்கள்
      * நான் பெற்ற செல்வம் (Naan Petra Selvam)
-     * மறக்க முடியுமா (Marakka Mudiyuma)
-     * விஸ்வநாதன் வேலை வேணும் - பாடல் பிறந்த கதைகள் I
+     * சுஜாதாவின் சினிமா அனுபவங்கள்
+     * தயாரிப்பாளர், நடிகர் பாலாஜி - 1964இல் விகடனில் வந்த கட்டுரை
+     * சிவாஜி பக்கம்
+     * வியட்நாம் வீடு - என் விமர்சனம்
+     * பிரபல பாடகி சொர்ணலதா(37) மரணம்
+     * நாலும் தெரிந்தவன் (Naalum Therindhavan)
+     * வீரபாண்டிய கட்டபொம்மன்
+     * அன்பே ஆருயிரே (Anbe Aaruyire)
 
 மின்னஞ்சல் சந்தாதாரராக‌....
 
@@ -949,7 +949,7 @@ Top Rated
    srinivasan TMS V. gopalakrishnan V.k. ramasami V.s. raghavan Vaali
    Vikatan Vimal Viswanathan-Ramamoorthy Vyjayanthimala
 
-   வேர்ட்பிரஸ்.காம் இல் வலைப்பதிவு.
+   Create a free website or blog at WordPress.com.
 
    அவார்டா கொடுக்கறாங்க?
    வேர்ட்பிரஸ்.காம் இல் வலைப்பதிவு.

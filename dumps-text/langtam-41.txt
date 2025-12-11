@@ -1,8 +1,8 @@
    HTTP/2 200 content-type: text/html; charset=UTF-8 x-pingback:
    https://www.tamizhvalai.com/xmlrpc.php link:
    /www.tamizhvalai.com/wp-json/>; rel="https://api.w.org/" link:
-   /www.tamizhvalai.com/?p=39260>; rel=shortlink date: Wed, 10 Dec 2025
-   21:14:22 GMT server: LiteSpeed alt-svc: h3=":443"; ma=2592000,
+   /www.tamizhvalai.com/?p=39260>; rel=shortlink date: Thu, 11 Dec 2025
+   08:33:42 GMT server: LiteSpeed alt-svc: h3=":443"; ma=2592000,
    h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443";
    ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000;
    v="43,46" #RSS .92 RSS 2.0 தமிழ் வலை » Feed தமிழ் வலை » Comments Feed
@@ -153,6 +153,11 @@ Leave a Response Cancel reply
 
      *
 
+பாஜகவை குளிர்விக்கும் தீர்மானங்கள் – படுத்தேவிட்ட எடப்பாடி
+          + Slide
+          + /December 11, 2025
+     *
+
 நயினார் நாகேந்திரன் எங்கு போட்டியிட்டாலும் கட்டுத்தொகை கிடைக்காது –
 செங்கோட்டையன் அதிரடி
           + Slide
@@ -195,10 +200,5 @@ Leave a Response Cancel reply
      *
 
 பில்லி சூனியம் நீங்க சிறப்பு பூசை – எடப்பாடி மனைவி செயலால் பரபரப்பு
-          + Slide
-          + /December 7, 2025
-     *
-
-திருப்பரங்குன்றம் அதிமுக பாஜகவுக்கு தோல்வியைத் தரும் – சீமான் பேட்டி
           + Slide
           + /December 7, 2025

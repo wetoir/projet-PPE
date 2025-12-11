@@ -18,7 +18,7 @@ mkdir -p "$DUMPS" "$CONTEXTES" "$CONCORDANCES" "$TABLEAUX"
 
 
 # Début du fichier HTML, on utilise la boucle for pour faire un tableau par langue dans un fichier html différent $l correspond à = fr , viet..
-for lang in fr viet tam; do
+for lang in viet tam; do
     tableau="$TABLEAUX/lang$lang.html"
 lineno=1
 echo "<html>
@@ -53,9 +53,7 @@ for fichier_urls in $dossier_urls/lang$lang*.txt; do #K = oublie tout ce qu'il y
     #baseme = extrait uniquement le nom du fichier, sans le chemin du dossier
 
 
-if [ "$lang" = "fr" ]; then
-    mot="image"
-elif [ "$lang" = "viet" ]; then
+if [ "$lang" = "viet" ]; then
     mot="hình"
 elif [ "$lang" = "tam" ]; then
     mot="படம்"

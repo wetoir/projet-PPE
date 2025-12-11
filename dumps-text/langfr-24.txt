@@ -1,5 +1,0 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 21:12:26 GMT set-cookie:
-   bot_mitigation_cookie=N52FNRXQPTKUJROFW2XRFDSIKQLK7X4MGO2MEYGT76U5X3IK3
-   ONWDD2ADLABBI6GO2AVPRJG2HP4PEONVDO3BHUQZD6D45ZSPV6JOYUGSWRHGCLSXAPQ====
-   ; Path=/ content-type: text/html content-length: 291 x-cp-via:
-   C3-49b6a4bd-334d632c This website requires JS enabled and cookies

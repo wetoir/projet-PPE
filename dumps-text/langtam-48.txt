@@ -1,5 +1,5 @@
-   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Wed, 10 Dec
-   2025 21:14:26 GMT date: Wed, 10 Dec 2025 21:14:26 GMT cache-control:
+   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Thu, 11 Dec
+   2025 08:33:48 GMT date: Thu, 11 Dec 2025 08:33:48 GMT cache-control:
    private, max-age=0 last-modified: Wed, 03 Sep 2025 09:14:51 GMT
    x-content-type-options: nosniff x-xss-protection: 1; mode=block server:
    GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
@@ -981,8 +981,8 @@ Sunday, January 21, 2018
 வாங்க நண்பரே
 
    இலக்கியம், திரைப்படம் போன்றவற்றைப் பற்றி இங்கே உரையாடலாம்.
-   [AEn0k_vLeEwkZE7XuslAdCQkKY0igyYt5rJc-_730JzdOpQr8IqN1CPKAfXD7aHGYZx--5
-   PkgcL-gnsVjtNwje9nFBOBrEMep9Ker74TAKgrYTR_PerCD5kOpww=s0-d]
+   [AEn0k_tZqKdG1f02kHYw8Ii8IQIQ-nQMZJuhPj7BS8VLr8BdWJYLe68WqUz0u4GB2H3VSS
+   thlERKkZWuxhYhPyGZENNNdTwbFCKXEj4xYnTv7wj0bkeEmDP0q24=s0-d]
 
 வருகைக்கு நன்றி
 
@@ -1006,13 +1006,13 @@ Popular Posts
        முந்தைய பதிவின் தொடர்ச்சி கடந்த பதிவில் நிகழ்ந்த சில
        விடுபடல்களுக்காக இந்தப் பதிவை எழுத நேர்ந்தது. சில கேள்விகளை
        பின்னூட்டத்தில் சந்திக...
-     * ராவணன் - அபத்தமான இதிகாச 'ரீமிக்ஸ்'
-       சத்தியவான் சாவித்திரியை ' ரோஜா 'வாகவும் மகாபாரதத்தை ' தளபதி
-       'யாகவும் ரீமிக்ஸ் செய்த மணிரத்னத்திற்கு இராமாயணத்தை மாத்திரம் ஏன...
      * சாருவின் நள்ளிரவு சைக்கோ லீலைகள்
        எச்சரிக்கை: இந்தப்பதிவில், சிலர் ஒருவேளை  வாசிக்க
        சங்கடப்படுமளவிற்கான ஆபாச வார்த்தைகள் உள்ளன. தவிர்க்க
        விரும்புபவர்கள் மேற்கொண்டு தொடராமல...
+     * ராவணன் - அபத்தமான இதிகாச 'ரீமிக்ஸ்'
+       சத்தியவான் சாவித்திரியை ' ரோஜா 'வாகவும் மகாபாரதத்தை ' தளபதி
+       'யாகவும் ரீமிக்ஸ் செய்த மணிரத்னத்திற்கு இராமாயணத்தை மாத்திரம் ஏன...
      * எந்திரன் இ(ம்)சை
        When in Rome, do as the Romans do   என்பதற்கேற்ப தற்போதைய
        பரபரப்பான 'எந்திரன்' இசை பற்றி எழுதவில்லையெனில் 'பெருசுகள்' லி...

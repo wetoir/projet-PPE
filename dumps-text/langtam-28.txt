@@ -1,17 +1,17 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 21:14:06 GMT content-type: text/html;
+   HTTP/2 200 date: Thu, 11 Dec 2025 08:31:16 GMT content-type: text/html;
    charset=utf-8 server: cloudflare x-powered-by: PHP/8.2.28
    x-frame-options: SAMEORIGIN referrer-policy:
    strict-origin-when-cross-origin cross-origin-opener-policy: same-origin
    expires: Wed, 17 Aug 2005 00:00:00 GMT cache-control: no-store,
    no-cache, must-revalidate, post-check=0, pre-check=0 pragma: no-cache
    set-cookie:
-   3ac78a556fbf45dfe792e93034823567=19h99qu5mdtjk3mbsiadg3p7i0; path=/;
-   HttpOnly last-modified: Wed, 10 Dec 2025 21:14:06 GMT report-to:
+   3ac78a556fbf45dfe792e93034823567=ospjl4mqfruolttidt0otj0h00; path=/;
+   HttpOnly last-modified: Thu, 11 Dec 2025 08:31:16 GMT report-to:
    {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=Awj3ciiCApticpZ%2Fkc7%2BfBynBykGhLgHqP7%2BgH9
-   DOCVJJRgY8qNKHbnR9J5KwlqHf4zGKf88Wme2j5BAis0ofZaThSIZd8ZETapml0F%2B"}]}
+   loudflare.com/report/v4?s=AFbCTnTUYrWpHKKHIF8k%2F85FzTGI8M4J6fJuemgW9Pt
+   ME9KA9j0QrhwHsXBcB8Zz17f5%2Ffjt8BIxp9Wt1GaRVQ1GMubTN57G41iwllZ%2F"}]}
    nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-   cf-cache-status: DYNAMIC cf-ray: 9abfbffb4c13009c-CDG alt-svc:
+   cf-cache-status: DYNAMIC cf-ray: 9ac39fe6fa9cb940-CDG alt-svc:
    h3=":443"; ma=86400
 
      * இலக்கியம்
@@ -194,26 +194,22 @@
     2. முகப்பு
     3. பெரியார் முழக்கம்
     4. பெரியார் முழக்கம் - ஜூலை 2022
-    5. பெரியார் முழக்கம்
-    6. பெரியார் முழக்கம் - ஜூலை 2011
 
 கீற்றில் தேட...
 
 தொடர்புடைய படைப்புகள்
 
-     * விபசாரம் ஒழியுமா?
-     * பெரியார் இன்னும் ஏன் எதிரிகளை பதற வைக்கிறார்?
-     * பெரியார் எனும் பெருநெருப்பு - மாநாடு போல் நடந்த கொளத்தூர்
-       கருத்தரங்கு
-     * பெண்கள் இடஒதுக்கீடு; திருமண வயது உயர்வு பிரச்சினைகளில் கழகம்
-       பெரியாரியப் பார்வையில் எடுத்த தனித்துவ நிலைப்பாடுகள்
-     * வள்ளுவர் காட்டும் மனிதர்கள் 4. கல்லாத மனிதர்கள்
-     * காதம்பரி
-     * பூனக்குட்டி வெளிய வந்திருச்சி...!
-     * சா.இலாகுபாரதி கவிதைகள்
-     * பெரியார் முழக்கம் ஏப்ரல் 04, 2019 இதழ் மின்னூல் வடிவில்...
-     * இந்தியா என்கிற கருத்தாக்கம் - சுனில் கில்நானி தத்துவ நூலைப்
-       போன்றதொரு வரலாற்று நூல்
+     * மாநில தன்னாட்சி உரிமை
+     * தமிழ்நாட்டில் தலை விரித்தாடும் எண்ணற்ற சிக்கல்கள்
+     * பட்டமளிப்பு மேடையா? பா.ஜ.கவின் பரப்புரை வேலையா?
+     * தமிழ்நாடு அரசும் ஆளுநர் ரவியும்!
+     * அரசின் கங்காணிகளே ஆளுநர்கள்
+     * மெக்காலே – நாத்திகர் பிராட்லா கொண்டு வந்த மாற்றங்கள்!
+     * தமிழ் வாழ்க! இந்தி வீழ்க!
+     * மாநில சுயாட்சியை ஏற்ற காங்கிரஸ், பிறகு சுதந்திர இந்தியாவில்
+       கைவிட்டது ஏன்?
+     * ஒன்றிய ஆட்சியின் திட்டங்களுக்கு மாநில அரசே செலவிடுகிறது
+     * மாநிலக் கட்சிகளை ஒடுக்கும் ஒன்றிய அரசின் அதிகார அமைப்புகள்
 
 அரசியல் சட்டத்தில் மாநில சுயாட்சி இடம் பெறாமல் போனது ஏன்?
 

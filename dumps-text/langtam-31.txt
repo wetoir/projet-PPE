@@ -1,9 +1,9 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 21:14:10 GMT content-type: text/html;
+   HTTP/2 200 date: Thu, 11 Dec 2025 08:33:30 GMT content-type: text/html;
    charset=UTF-8 report-to:
    {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=230IRQM7TWf9D%2BxJbcFQUObCxga3EB9%2BKPlW4uqT6
-   dI69GygsO0LfJgrAEJ%2B8MSP%2Bs2WCQHpgabKSZ%2FiH4mgLZOlnVjLS7n8IhOq18L1Hv
-   U%3D"}]} x-dns-prefetch-control: on link: /www.giriblog.com/wp-json/>;
+   loudflare.com/report/v4?s=t08kjWTNYYoeYNdfClqFs%2F0pTR1WHdBUAQazfnBvvDq
+   GM8aX7xhiTREEQl9fH7KqwK17kLEPK7d0UgmaaqfT2idRqRf5qUkYq3%2FC8S09nPE%3D"}
+   ]} x-dns-prefetch-control: on link: /www.giriblog.com/wp-json/>;
    rel="https://api.w.org/" link:
    /www.giriblog.com/wp-json/wp/v2/posts/34708>; rel="alternate";
    title="JSON"; type="application/json" x-litespeed-cache: hit
@@ -11,7 +11,7 @@
    {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} server:
    cloudflare platform: hostinger panel: hpanel content-security-policy:
    upgrade-insecure-requests x-turbo-charged-by: LiteSpeed
-   cf-cache-status: DYNAMIC cf-ray: 9abfc013fc2a04a4-CDG alt-svc:
+   cf-cache-status: DYNAMIC cf-ray: 9ac3a3348e51f4f5-CDG alt-svc:
    h3=":443"; ma=86400 #giriblog » Feed JSON
 
    << Previous

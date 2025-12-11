@@ -1,5 +1,0 @@
-   Để đảm bảo máy tính của quý bạn đọc không bị đối tượng xấu lợi dụng làm
-   công cụ tấn công từ chối dịch vụ (DDoS) vào Cafef, chúng tôi đề nghị
-   bạn đọc vui lòng điền vào ô trống những ký tự xuất hiện trong hình ảnh
-   bên cạnh thông báo này.
-

@@ -1,18 +1,16 @@
-   HTTP/2 200 server: nginx date: Wed, 10 Dec 2025 21:14:03 GMT
+   HTTP/2 200 server: nginx date: Thu, 11 Dec 2025 08:31:11 GMT
    content-type: text/html; charset=UTF-8 strict-transport-security:
    max-age=31536000 vary: Accept-Encoding x-hacker: Want root? Visit
    join.a8c.com/hacker and mention this header. host-header: WordPress.com
    vary: accept, content-type, cookie x-pingback:
    https://kadhaisolgiren.com/xmlrpc.php link: /wp.me/pcbJpq-Nc>;
-   rel=shortlink last-modified: Wed, 10 Dec 2025 20:55:44 GMT
-   cache-control: max-age=300, must-revalidate x-nananana: Batcache-Set
-   x-ac: 2.cdg _dca STALE alt-svc: h3=":443"; ma=86400 server-timing:
-   a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=1.0 #கதை சொல்கிறேன் | தமிழ்
-   சிறுகதைகள் | Tamil Short Stories » Feed கதை சொல்கிறேன் | தமிழ்
-   சிறுகதைகள் | Tamil Short Stories » Comments Feed கதை சொல்கிறேன் | தமிழ்
-   சிறுகதைகள் | Tamil Short Stories » வெண்ணிற நினைவுகள்(vennira
-   ninaivugal) Comments Feed alternate alternate கதை சொல்கிறேன் | தமிழ்
-   சிறுகதைகள் | Tamil Short Stories WordPress.com
+   rel=shortlink x-ac: 4.lhr _dfw MISS alt-svc: h3=":443"; ma=86400
+   server-timing: a8c-cdn, dc;desc=lhr, cache;desc=MISS;dur=327.0 #கதை
+   சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories » Feed கதை
+   சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories » Comments Feed கதை
+   சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories » வெண்ணிற
+   நினைவுகள்(vennira ninaivugal) Comments Feed alternate alternate கதை
+   சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories WordPress.com
 
    Skip to content
 
@@ -233,22 +231,22 @@ Top Posts
        தமிழக நாட்டு மாடுகள் TAMIL NATIVE CATTLE BREEDS
      * தமிழக நாட்டு நாய்கள் TAMIL NATIVE DOG BREEDS
        தமிழக நாட்டு நாய்கள் TAMIL NATIVE DOG BREEDS
-     * சங்க இலக்கியங்களில் மலர்கள் FLOWERS IN SANGAM LITERATURE : பகுதி
-       ...1 ( 25 மலர்கள்)
-       சங்க இலக்கியங்களில் மலர்கள் FLOWERS IN SANGAM LITERATURE : பகுதி
-       ...1 ( 25 மலர்கள்)
-     * புதிய நீதிக் கதைகள்
-       புதிய நீதிக் கதைகள்
      * மான் செய்த தந்திரம்
        மான் செய்த தந்திரம்
      * சங்கத்-தமிழர்-உணவு-பகுதி-4
        சங்கத்-தமிழர்-உணவு-பகுதி-4
      * உமா என் அம்மா
        உமா என் அம்மா
-     * தமிழக நாட்டுப் புறக் கலைகள் 1 TAMIL TRADITIONAL FOLK ARTS
-       தமிழக நாட்டுப் புறக் கலைகள் 1 TAMIL TRADITIONAL FOLK ARTS
-     * புறா சொல்லும் பாடம்
-       புறா சொல்லும் பாடம்
+     * சங்க இலக்கியங்களில் மலர்கள் FLOWERS IN SANGAM LITERATURE : பகுதி
+       ...1 ( 25 மலர்கள்)
+       சங்க இலக்கியங்களில் மலர்கள் FLOWERS IN SANGAM LITERATURE : பகுதி
+       ...1 ( 25 மலர்கள்)
+     * புதிய நீதிக் கதைகள்
+       புதிய நீதிக் கதைகள்
+     * குமிழித் தூம்பு
+       குமிழித் தூம்பு
+     * சங்க இலக்கியத்தில் மலர்கள் FLOWERS IN SANGAM LITERATURE- பகுதி 4
+       சங்க இலக்கியத்தில் மலர்கள் FLOWERS IN SANGAM LITERATURE- பகுதி 4
 
 Recent Posts
 
@@ -270,7 +268,7 @@ Follow by e-mail
 
 Blog Stats
 
-     * 207,663 hits
+     * 207,689 hits
 
    Create a website or blog at WordPress.com
 
