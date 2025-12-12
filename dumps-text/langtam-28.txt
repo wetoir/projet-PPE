@@ -1,17 +1,17 @@
-   HTTP/2 200 date: Thu, 11 Dec 2025 08:31:16 GMT content-type: text/html;
+   HTTP/2 200 date: Thu, 11 Dec 2025 08:58:04 GMT content-type: text/html;
    charset=utf-8 server: cloudflare x-powered-by: PHP/8.2.28
    x-frame-options: SAMEORIGIN referrer-policy:
    strict-origin-when-cross-origin cross-origin-opener-policy: same-origin
    expires: Wed, 17 Aug 2005 00:00:00 GMT cache-control: no-store,
    no-cache, must-revalidate, post-check=0, pre-check=0 pragma: no-cache
    set-cookie:
-   3ac78a556fbf45dfe792e93034823567=ospjl4mqfruolttidt0otj0h00; path=/;
-   HttpOnly last-modified: Thu, 11 Dec 2025 08:31:16 GMT report-to:
+   3ac78a556fbf45dfe792e93034823567=4a06o3uo3egqijckm733o2ioua; path=/;
+   HttpOnly last-modified: Thu, 11 Dec 2025 08:58:04 GMT report-to:
    {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=AFbCTnTUYrWpHKKHIF8k%2F85FzTGI8M4J6fJuemgW9Pt
-   ME9KA9j0QrhwHsXBcB8Zz17f5%2Ffjt8BIxp9Wt1GaRVQ1GMubTN57G41iwllZ%2F"}]}
+   loudflare.com/report/v4?s=nwGZiJeuvTkr%2FZYd%2BuXbrBvvAe0Lz07Z8DdQbWlfD
+   0fHmSlDXyECYJTWQso8eo%2FDbYYZFBmyTOxs1ZKfwoKfV%2FXZOMbPtAzXxmPraB02"}]}
    nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-   cf-cache-status: DYNAMIC cf-ray: 9ac39fe6fa9cb940-CDG alt-svc:
+   cf-cache-status: DYNAMIC cf-ray: 9ac3c729f9b8c8ed-CDG alt-svc:
    h3=":443"; ma=86400
 
      * இலக்கியம்
@@ -200,16 +200,17 @@
 தொடர்புடைய படைப்புகள்
 
      * மாநில தன்னாட்சி உரிமை
-     * தமிழ்நாட்டில் தலை விரித்தாடும் எண்ணற்ற சிக்கல்கள்
-     * பட்டமளிப்பு மேடையா? பா.ஜ.கவின் பரப்புரை வேலையா?
+     * பாகிஸ்தான் பிரிவினைக்கு யார் காரணம்?
      * தமிழ்நாடு அரசும் ஆளுநர் ரவியும்!
-     * அரசின் கங்காணிகளே ஆளுநர்கள்
+     * இந்தியாவின் கூட்டரசிய நிதிக் கொள்கையின் இழிநிலை
      * மெக்காலே – நாத்திகர் பிராட்லா கொண்டு வந்த மாற்றங்கள்!
-     * தமிழ் வாழ்க! இந்தி வீழ்க!
+     * சமூகநீதியைச் சீர்குலைக்கும் ஒன்றிய அரசின் ஆபத்தான போக்கு
+     * மாநில உரிமைகளைப் பறிக்காதே! கல்வி உரிமைகளைத் தடுக்காதே! மத வெறியைத்
+       திணிக்காதே!
      * மாநில சுயாட்சியை ஏற்ற காங்கிரஸ், பிறகு சுதந்திர இந்தியாவில்
        கைவிட்டது ஏன்?
-     * ஒன்றிய ஆட்சியின் திட்டங்களுக்கு மாநில அரசே செலவிடுகிறது
-     * மாநிலக் கட்சிகளை ஒடுக்கும் ஒன்றிய அரசின் அதிகார அமைப்புகள்
+     * சுயமரியாதையின் அடையாளம் மாநில சுயாட்சி
+     * நிதி அமைச்சரின் குதர்க்கமும், நெற்றியடி விடையும்!
 
 அரசியல் சட்டத்தில் மாநில சுயாட்சி இடம் பெறாமல் போனது ஏன்?
 

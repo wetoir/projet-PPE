@@ -1,10 +1,10 @@
-   HTTP/2 200 server: nginx date: Thu, 11 Dec 2025 08:28:46 GMT
+   HTTP/2 200 server: nginx date: Thu, 11 Dec 2025 08:55:38 GMT
    content-type: text/html; charset=UTF-8 vary: Accept-Encoding x-hacker:
    Want root? Visit join.a8c.com/hacker and mention this header.
    host-header: WordPress.com link: /wp.me/3TuS>; rel=shortlink vary:
-   accept, content-type, cookie x-ac: 3.lhr _dfw MISS alt-svc: h3=":443";
+   accept, content-type, cookie x-ac: 3.lhr _dfw STALE alt-svc: h3=":443";
    ma=86400 strict-transport-security: max-age=31536000 server-timing:
-   a8c-cdn, dc;desc=lhr, cache;desc=MISS;dur=343.0 #களஞ்சியம் » செய்தியோடை
+   a8c-cdn, dc;desc=lhr, cache;desc=STALE;dur=1.0 #களஞ்சியம் » செய்தியோடை
    களஞ்சியம் » பின்னூட்ட செய்தியோடை களஞ்சியம் WordPress.com
 
 களஞ்சியம்

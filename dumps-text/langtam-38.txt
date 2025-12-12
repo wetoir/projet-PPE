@@ -1,23 +1,23 @@
-   HTTP/2 200 date: Thu, 11 Dec 2025 08:33:39 GMT content-type: text/html;
+   HTTP/2 200 date: Thu, 11 Dec 2025 09:00:26 GMT content-type: text/html;
    charset=UTF-8 server: cloudflare nel:
    {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
    report-to:
    {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=lSYe4u03bp7chJy68h0SFlOW7nzCc%2BSwnz8eCqlzUrd
-   tzMBe2klTQ7j%2FGeeWjK6LgZhUEBZUJF8cp91OszlfUvt91nOv%2FowPjz0Hy63A%2BrnQ
-   wfA%3D"}]} vary: Accept-Encoding expires: Thu, 19 Nov 1981 08:52:00 GMT
+   loudflare.com/report/v4?s=21B94yOO26WWFHoe7L27e9n1C%2FrD3jkf9cm2z0vpDcM
+   lp7nUyAJSyA9moZtg2hCYPj3U%2Fc42j5%2FdbPlcBZr2lMsu%2FhHJK8BmK1SKmktTQZvL
+   maM%3D"}]} vary: Accept-Encoding expires: Thu, 19 Nov 1981 08:52:00 GMT
    cache-control: no-store, no-cache, must-revalidate pragma: no-cache
    link: /www.fulloncinema.in/wp-json/>; rel="https://api.w.org/",
    /www.fulloncinema.in/wp-json/wp/v2/posts/35828>; rel="alternate";
    title="JSON"; type="application/json", /www.fulloncinema.in/?p=35828>;
    rel=shortlink content-security-policy: style-src 'self'
-   'unsafe-inline'; set-cookie: PHPSESSID=3tme7ehd608d32r40ipr8fl4al;
-   path=/ x-varnish: 222234002 age: 0 via: 1.1 varnish (Varnish/6.4)
+   'unsafe-inline'; set-cookie: PHPSESSID=rfu5f6gd47d0saf4s7v17fts0v;
+   path=/ x-varnish: 218805116 age: 0 via: 1.1 varnish (Varnish/6.4)
    x-cache: HIT from Backend strict-transport-security: max-age=2592000;
    includeSubDomains; preload x-xss-protection: 1; mode=block
    x-content-type-options: nosniff speculation-rules:
    "/cdn-cgi/speculation" cf-cache-status: DYNAMIC cf-ray:
-   9ac3a3656fef0365-CDG alt-svc: h3=":443"; ma=86400 #Full On Cinema »
+   9ac3ca9f79507008-CDG alt-svc: h3=":443"; ma=86400 #Full On Cinema »
    Feed JSON oEmbed (JSON) oEmbed (XML)
 
    Full On Cinema Full On Cinema

@@ -1,8 +1,8 @@
    HTTP/2 200 date: Wed, 10 Dec 2025 10:57:09 GMT server:
    mw-web.eqiad.main-5c5cb4f54-sdmpk x-content-type-options: nosniff
    content-language: ta accept-ch: last-modified: Wed, 26 Nov 2025
-   10:57:09 GMT content-type: text/html; charset=UTF-8 age: 77221
-   accept-ranges: bytes x-cache: cp6009 hit, cp6013 hit/5 x-cache-status:
+   10:57:09 GMT content-type: text/html; charset=UTF-8 age: 78836
+   accept-ranges: bytes x-cache: cp6009 hit, cp6013 hit/6 x-cache-status:
    hit-front server-timing: cache;desc="hit-front", host;desc="cp6013"
    strict-transport-security: max-age=106384710; includeSubDomains;
    preload report-to: { "group": "wm_nel", "max_age": 604800, "endpoints":
@@ -23,10 +23,10 @@
    Domain=.wiktionary.org set-cookie:
    NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
    set-cookie:
-   WMF-Uniq=ANmENouCKBRYsgw93_FSSgLGAAAAAFvdQCVx-Hu19oQUkcgpzd5gDiuK6f_AEr
-   8r;Domain=.wiktionary.org;Path=/;HttpOnly;secure;SameSite=None;Expires=
+   WMF-Uniq=xTZmgqljd-oqGH2ChX4ZUQLGAAAAAFvdFdXkNVLuY-5ewRauT_XuqOGcaTtYmj
+   cB;Domain=.wiktionary.org;Path=/;HttpOnly;secure;SameSite=None;Expires=
    Fri, 11 Dec 2026 00:00:00 GMT content-length: 74696 x-request-id:
-   3a3e395e-b5e1-4013-9a02-95bf23540095 #தொகு விக்சனரி (ta) விக்சனரி
+   cf4dbf98-4dd1-443c-ac42-20c6f1c1d5a3 #தொகு விக்சனரி (ta) விக்சனரி
    ஆட்டம் (Atom) ஓடை
 
    உள்ளடக்கத்துக்குச் செல்

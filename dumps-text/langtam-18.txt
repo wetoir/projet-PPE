@@ -1,10 +1,15 @@
-   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Thu, 11 Dec
-   2025 08:28:51 GMT date: Thu, 11 Dec 2025 08:28:51 GMT cache-control:
-   private, max-age=0 last-modified: Fri, 25 Oct 2024 06:08:50 GMT
-   x-content-type-options: nosniff x-xss-protection: 1; mode=block server:
-   GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
-   accept-ranges: none vary: Accept-Encoding #தமிழ் டிஜிட்டல் - Atom தமிழ்
-   டிஜிட்டல் - RSS
+   HTTP/2 200 content-security-policy: upgrade-insecure-requests
+   content-security-policy-report-only: default-src https: blob: data:
+   'unsafe-inline' 'unsafe-eval'; report-to blogspot; report-uri
+   https://www.blogger.com/cspreport report-to:
+   {"group":"blogspot","max_age":2592000,"endpoints":[{"url":"https://www.
+   blogger.com/cspreport"}]} content-type: text/html; charset=UTF-8
+   expires: Thu, 11 Dec 2025 08:55:42 GMT date: Thu, 11 Dec 2025 08:55:42
+   GMT cache-control: private, max-age=0 last-modified: Fri, 25 Oct 2024
+   06:08:50 GMT x-content-type-options: nosniff x-xss-protection: 1;
+   mode=block server: GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443";
+   ma=2592000 accept-ranges: none vary: Accept-Encoding #தமிழ் டிஜிட்டல் -
+   Atom தமிழ் டிஜிட்டல் - RSS
 
    skip to main | skip to sidebar
    widgets

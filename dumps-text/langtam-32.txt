@@ -3,7 +3,7 @@
    rel="https://api.w.org/" link:
    /wikkitalks.com/wp-json/wp/v2/posts/5722>; rel="alternate";
    type="application/json" link: /wikkitalks.com/?p=5722>; rel=shortlink
-   date: Thu, 11 Dec 2025 08:33:31 GMT server: LiteSpeed vary: User-Agent
+   date: Thu, 11 Dec 2025 09:00:21 GMT server: LiteSpeed vary: User-Agent
    alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000,
    h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443";
    ma=2592000, quic=":443"; ma=2592000; v="43,46" #Wikki Talks » Feed
@@ -68,7 +68,7 @@
 
    CinemaReviews
    By wikkitalks Last updated Jan 30, 2025
-   16,253
+   16,254
    Share
      * Facebook
      * Twitter
@@ -168,7 +168,7 @@
      * LinkedIn
 
    Kudumbasthan
-   16,253
+   16,254
    Share
 
    Prev Post

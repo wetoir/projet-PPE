@@ -1,11 +1,11 @@
-   HTTP/2 200 server: nginx date: Thu, 11 Dec 2025 08:28:45 GMT
+   HTTP/2 200 server: nginx date: Thu, 11 Dec 2025 08:55:38 GMT
    content-type: text/html; charset=UTF-8 vary: Accept-Encoding x-hacker:
    Want root? Visit join.a8c.com/hacker and mention this header.
    host-header: WordPress.com link: /wp.me/it1I>; rel=shortlink vary:
-   accept, content-type, cookie x-ac: 2.lhr _dfw MISS alt-svc: h3=":443";
+   accept, content-type, cookie x-ac: 2.lhr _dfw STALE alt-svc: h3=":443";
    ma=86400 strict-transport-security: max-age=31536000 server-timing:
-   a8c-cdn, dc;desc=lhr, cache;desc=MISS;dur=428.0 #அவார்டா கொடுக்கறாங்க?
-   » செய்தியோடை அவார்டா கொடுக்கறாங்க? » பின்னூட்ட செய்தியோடை அவார்டா
+   a8c-cdn, dc;desc=lhr, cache;desc=STALE;dur=1.0 #அவார்டா கொடுக்கறாங்க? »
+   செய்தியோடை அவார்டா கொடுக்கறாங்க? » பின்னூட்ட செய்தியோடை அவார்டா
    கொடுக்கறாங்க? WordPress.com
 
 அவார்டா கொடுக்கறாங்க?
