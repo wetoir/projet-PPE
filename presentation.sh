@@ -109,4 +109,4 @@ echo -e "<!DOCTYPE html>
 #https://blog.hubspot.fr/website/couleur-texte-html
 #https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Properties/font-weight
 
-#excécuter : ./htmlpresentation.sh fichier.html
+#excécuter : ./presentation.sh presentation.html
