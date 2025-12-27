@@ -1,0 +1,112 @@
+#!/usr/bin/bash
+
+FICHIER_HTML="$1"
+
+echo -e "<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <title>QUi sommes-nous ?</title>
+
+  </head>
+  <body>
+
+
+  <center>
+<h1 class=titre>Qui sommes-nous ?</h1>
+
+ </center>
+
+			<p class=paragraphe>Dans le cadre du cours de Projet-Programmation-Encadré, nous avons formé un groupe de trois étudiants issus de facultés différentes. Nous sommes tous les trois étudiants en Master 1 Traitement Automatique des Langues (TAL) :</p>
+
+    <div class="contenu">
+        <div class="un">
+            <div class="fac">Étudiant de Inalco</div>
+				<img class="image" src="images/weitor.jpg" alt="image">
+					<div class="nom">Pham Nguyen Gia Loc</div>
+	</div>
+
+        <div class="un">
+            <div class="fac">Étudiante de Nanterre</div>
+				<img class="image" src="images/annabelle.png" alt="image">
+					<div class="nom">Lokutshu Annabelle</div>
+        </div>
+
+        <div class="un">
+            <div class="fac">Étudiante de Sorbonne Nouvelle</div>
+				<img class="image" src="images/mm.jpg" alt="image">
+					<div class="nom">Yang Marine</div>
+        </div>
+    </div>
+</div>
+
+
+<style>
+		.contenu {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			gap: 40px;
+			margin: 40px auto;
+			padding: 40px;
+			flex-wrap: wrap;
+			background-color: white;
+		}
+
+		.un {
+			text-align: center;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			font-family: has-text-weight-extrabold;
+			}
+
+		.fac {
+			font-size: 16px;
+			margin-bottom: 15px;
+			font-weight: bolder;
+			text-decoration: underline;
+			}
+
+		.image {
+			width: 150px;
+			border-radius: 5px;
+			border-width: 5px;
+			border-style: solid;
+			border-color: darkblue;
+			margin: auto;
+			}
+
+		.nom {
+			font-size: 16px;
+		}
+
+		  .titre {
+				color: darkblue;
+				background-color: white;
+				display: inline-block;
+				padding: 15px 150px;
+				border-radius: 8px;
+				}
+
+
+		.paragraphe {
+				color: darkblue
+					}
+
+
+		body {
+			background-color: #e6f2ff;
+			}
+
+</style>
+
+	</body>
+	</html>" > $FICHIER_HTML
+
+#sources :
+#https://stackoverflow.com/questions/48142309/html-how-can-i-get-a-full-bottom-border-of-an-image-where-i-can-put-text-in
+#https://blog.hubspot.fr/website/couleur-texte-html
+#https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Properties/font-weight
+
+#excécuter : ./htmlpresentation.sh fichier.html
