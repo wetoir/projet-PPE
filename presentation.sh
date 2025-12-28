@@ -6,7 +6,7 @@ echo -e "<!DOCTYPE html>
 <html lang="fr">
   <head>
     <meta charset="utf-8">
-    <title>QUi sommes-nous ?</title>
+    <title>Qui sommes-nous ?</title>
 
   </head>
   <body>
@@ -22,23 +22,27 @@ echo -e "<!DOCTYPE html>
     <div class="contenu">
         <div class="un">
             <div class="fac">Étudiant de Inalco</div>
-				<img class="image" src="images/weitor.jpg" alt="image">
-					<div class="nom">Pham Nguyen Gia Loc</div>
+				<div class="langue">Corpus en langue vietnamienne</div>
+					<img class="image" src="images/weitor.jpg" alt="image">
+						<div class="nom">Pham Nguyen Gia Loc</div>
 	</div>
 
         <div class="un">
             <div class="fac">Étudiante de Nanterre</div>
-				<img class="image" src="images/annabelle.png" alt="image">
-					<div class="nom">Lokutshu Annabelle</div>
-        </div>
+				<div class="langue">Corpus en langue tamoul</div>
+					<img class="image" src="images/annabelle.png" alt="image">
+						<div class="nom">Lokutshu Annabelle</div>
+		</div>
 
         <div class="un">
             <div class="fac">Étudiante de Sorbonne Nouvelle</div>
+				<div class="langue">Corpus en langue française</div>
 				<img class="image" src="images/mm.jpg" alt="image">
 					<div class="nom">Yang Marine</div>
         </div>
-    </div>
-</div>
+		</div>
+
+
 
 
 <style>
@@ -62,8 +66,8 @@ echo -e "<!DOCTYPE html>
 			}
 
 		.fac {
-			font-size: 16px;
-			margin-bottom: 15px;
+			font-size: 20px;
+			margin-bottom: 2px;
 			font-weight: bolder;
 			text-decoration: underline;
 			}
@@ -79,7 +83,7 @@ echo -e "<!DOCTYPE html>
 
 		.nom {
 			font-size: 16px;
-		}
+			}
 
 		  .titre {
 				color: darkblue;
