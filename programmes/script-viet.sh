@@ -19,13 +19,15 @@ mkdir -p "$DUMPS" "$CONTEXTES" "$CONCORDANCES" "$TABLEAUX" "$ASPIRATIONS"
 
 
 # Début du fichier HTML, on utilise la boucle for pour faire un tableau par langue dans un fichier html différent $l correspond à = fr , viet..
-for lang in viet tam; do
-    tableau="$TABLEAUX/lang$lang.html"
+lang="viet"
+mot="hinh"
+tableau="$TABLEAUX/lang${lang}.html"
 lineno=1
+
 echo "<html>
 <head>
     <meta charset=\"UTF-8\">
-    <title>Tableau pour $lang</title>
+    <title>Tableau pour le VIETNAMIEN </title>
     <style>
         table { border-collapse: collapse; width: 90%; margin: auto; }
         th, td { border: 1px solid black; padding: 8px; text-align: center; }
@@ -34,7 +36,7 @@ echo "<html>
     </style>
 </head>
 <body>
-    <h2 style='text-align:center;'>Tableau pour 'image'</h2>
+    <h2 style='text-align:center;'>Tableau pour 'image' en VIETNAMIEN </h2>
     <table>
         <tr>
             <th>Numero</th>
@@ -49,27 +51,19 @@ echo "<html>
             <th>Concordance</th>
         </tr>" > "$tableau" # redirection pour obtenir les fichiers
 
+i=1
 
-for fichier_urls in $dossier_urls/lang$lang*.txt; do #K = oublie tout ce qu'il y a avant dans le match. \d+ = un ou plusieurs chiffre => extrait uniquement après lang-
+for fichier_urls in $dossier_urls/lang${lang}*.txt; do #K = oublie tout ce qu'il y a avant dans le match. \d+ = un ou plusieurs chiffre => extrait uniquement après lang-
     # il n'a rien avoir avec le for, car le for dit déjà "pour chaque fichier dans url prend le et prend également le chiffre derrière" donc i=1 sert juste pour rajouter un chiffre pour les contextes
     #baseme = extrait uniquement le nom du fichier, sans le chemin du dossier
 
-
-if [ "$lang" = "viet" ]; then
-    mot="hình"
-elif [ "$lang" = "tam" ]; then
-    mot="படம்"
-
-fi #cette partie permet de chercher le mot écrit différement en fonction du fichier !
-
-i=1
 
 while read -r url; do
     echo "Traitement de $url ..." >&2
 
 
     #Aspirations
-    aspiration_file="$ASPIRATIONS/lang$lang-$i.html"
+    aspiration_file="$ASPIRATIONS/lang${lang}-$i.html"
 
 
     # Récupération du code HTTP et du type MIME avec encodage
@@ -79,7 +73,7 @@ while read -r url; do
 
     if [ -z "$encoding" ]; then
     encoding=$(grep -i -m1 '<meta charset=' "$aspiration_file" | sed -E 's/.*charset=["'\'']?([^"'\'' >]+).*/\1/' )
-fi
+    fi
 
     encoding=${encoding:-"N/A"}  # si encodage vide, mettre N/A
 
@@ -91,13 +85,12 @@ fi
     fi
 
     # Dump textuel avec lynx
-    dump_file="$DUMPS/lang$lang-$i.txt" #verifier que le chemin est bon
+    dump_file="$DUMPS/lang${lang}-$i.txt" #verifier que le chemin est bon
     lynx -dump -nolist "$aspiration_file" > "$dump_file"
 
-    if [ "$lang" = "viet" ]; then
-        python3 script-tokekenize_vietnamien.py "$dump_file" > "$dump_file.tmp"
-        mv "$dump_file.tmp" "$dump_file"
-    fi
+
+    python3 programmes/script-tokekenize_vietnamien.py "$dump_file" > "$dump_file.tmp"
+    mv "$dump_file.tmp" "$dump_file"
 
     # Nombre de mots
     nb_mots=$(wc -w < "$dump_file")
@@ -108,11 +101,11 @@ fi
     echo "$i $lang"
     # Extraction du contexte (2 lignes avant et après) /home/annabelle/projet-PPE/contextes
 
-    contexte_file="$CONTEXTES/lang$lang-$i.txt"  #le $lang correspond tout simplement à la variable crée plus haut qui récupère le chiffre après lang-
+    contexte_file="$CONTEXTES/lang${lang}-$i.txt"  #le $lang correspond tout simplement à la variable crée plus haut qui récupère le chiffre après lang-
     grep -B2 -A2 -i "$mot" "$dump_file" > "$contexte_file"
 
     # Concordance gauche/droite pour chaque occurence
-    concordance_file="$CONCORDANCES/lang$lang-$i.html"
+    concordance_file="$CONCORDANCES/lang${lang}-$i.html"
     echo "<html><body><table border='1'><tr><th>Gauche</th><th>Mot</th><th>Droite</th></tr>" > "$concordance_file"
     while read -r line_context; do
         gauche=$(echo "$line_context" | sed 's/\(.*\)\$mot\b.*/\1/')
