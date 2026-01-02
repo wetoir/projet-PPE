@@ -1,17 +1,17 @@
-   HTTP/2 200 date: Thu, 11 Dec 2025 09:00:20 GMT content-type: text/html;
+   HTTP/2 200 date: Fri, 02 Jan 2026 11:44:13 GMT content-type: text/html;
    charset=UTF-8 report-to:
    {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=ZKuDOKGKSDJcyoBk8VX3JvD1UgXQ%2BsaBmBmstFJcYBx
-   Lfk6Ro4ymfKUuBapAKu9L0%2BKy%2Fywavfa7vVDdd7DMX8ZF52uckqiR%2FqAQgI9%2F1o
-   s%3D"}]} x-dns-prefetch-control: on link: /www.giriblog.com/wp-json/>;
-   rel="https://api.w.org/" link:
+   loudflare.com/report/v4?s=qsFQQrPDe1D%2FZQUDfLuVR8HpkDS4NHPSl8cLj%2BZcG
+   BamYd4t1T5w5wQXt%2FHJvnACutO5rhLv0jblS1HGI5foHzD%2BDQNbst07FpgOENmEaV49
+   ph%2FI%2F8fxjzTo%2BD0%3D"}]} x-dns-prefetch-control: on link:
+   /www.giriblog.com/wp-json/>; rel="https://api.w.org/" link:
    /www.giriblog.com/wp-json/wp/v2/posts/34708>; rel="alternate";
    title="JSON"; type="application/json" x-litespeed-cache: hit
    speculation-rules: "/cdn-cgi/speculation" vary: Accept-Encoding nel:
    {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} server:
    cloudflare platform: hostinger panel: hpanel content-security-policy:
    upgrade-insecure-requests x-turbo-charged-by: LiteSpeed
-   cf-cache-status: DYNAMIC cf-ray: 9ac3ca8028a2c262-CDG alt-svc:
+   cf-cache-status: DYNAMIC cf-ray: 9b7a00d19bc9d09b-CDG alt-svc:
    h3=":443"; ma=86400 #giriblog » Feed JSON
 
    << Previous
@@ -236,6 +236,14 @@
 
 RELATED ARTICLESMORE FROM AUTHOR
 
+   Dhurandhar
+
+Dhurandhar (2025 Hindi) | இந்திய உளவுத்துறை
+
+   படையப்பா
+
+படையப்பா (1999) | பக்கா தியேட்டர் மெட்டீரியல்
+
    பைசன்
 
 பைசன் (2025) | சாதி வன்முறையும் கபடியும்
@@ -251,14 +259,6 @@ The Good Doctor | Series | Its Difficult But Not Impossible
    HIT : The Third Case
 
 HIT : The Third Case (2025) | Most Violent Telugu Movie
-
-   கூலி
-
-கூலி (2025) | The Power House
-
-   Mahavatar Narsimha movie review
-
-Mahavatar Narsimha (2025) | தூணிலும் இருப்பார் துரும்பிலும் இருப்பார்
 
 2 COMMENTS
 
@@ -338,6 +338,13 @@ Search giriblog
 
 Recent Posts
 
+     * Dhurandhar (2025 Hindi) | இந்திய உளவுத்துறை 2 January 2026
+     * CPGRAMS சரி செய்த BHIM UI பிரச்சனை 31 December 2025
+     * பங்களாதேஷ் ஜாம்பிகள் 23 December 2025
+     * CMRL கையகப்படுத்தப்போகும் MRTS 18 December 2025
+     * இந்தியாவை GST எப்படி மாற்றுகிறது? 15 December 2025
+     * படையப்பா (1999) | பக்கா தியேட்டர் மெட்டீரியல் 13 December 2025
+     * ரஜினி 50 | ஓடிக்கொண்டே இருக்கும் குதிரை 12 December 2025
      * பாஜக ஏன் ஆகச்சிறந்த கட்சி? 9 December 2025
      * எடப்பாடி திமுக | திராவிட பாஜக 3 December 2025
      * பைசன் (2025) | சாதி வன்முறையும் கபடியும் 1 December 2025
@@ -356,24 +363,14 @@ Recent Posts
      * AI டேட்டா சென்டர் அசுரன் | ஒரு மின்னனு தொழிற்சாலை 22 October 2025
      * சரண்டர் (2025) | துப்பாக்கியை எடுத்தது யார்? 17 October 2025
      * Chennai One App | A Tension Free Bus Experience 14 October 2025
-     * கலவரத்தை அடக்கிய யோகி 13 October 2025
-     * காந்தாரா Chapter 1 (2025) | கடவுள் நம்பிக்கை 10 October 2025
-     * What Is The Difference Between CPU and GPU? 9 October 2025
-     * திருவெம்பாவை பாடல் வரிகள் | Thiruvembavai Lyrics in Tamil 7 October
-       2025
-     * சோயா ஏற்றுமதி நெருக்கடியில் அமெரிக்கா 6 October 2025
-     * The Good Doctor | Series | Its Difficult But Not Impossible 3
-       October 2025
-     * HIT : The Third Case (2025) | Most Violent Telugu Movie 1 October
-       2025
 
 Recent Comments
 
-     * Manoj on பாஜக ஏன் ஆகச்சிறந்த கட்சி?
-     * கிரி on எடப்பாடி திமுக | திராவிட பாஜக
-     * கிரி on எடப்பாடி திமுக | திராவிட பாஜக
-     * கிரி on பைசன் (2025) | சாதி வன்முறையும் கபடியும்
-     * HARISH on எடப்பாடி திமுக | திராவிட பாஜக
+     * கிரி on SBI Cashback Credit Card Review
+     * Vijay on பங்களாதேஷ் ஜாம்பிகள்
+     * HARISH on SBI Cashback Credit Card Review
+     * கிரி on பாஜக ஏன் ஆகச்சிறந்த கட்சி?
+     * கிரி on SBI Cashback Credit Card Review
 
 Archives
 

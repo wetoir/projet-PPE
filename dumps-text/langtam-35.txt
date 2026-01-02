@@ -1,5 +1,5 @@
-   HTTP/2 200 date: Thu, 11 Dec 2025 09:00:23 GMT content-type: text/html;
-   charset=utf-8 cf-ray: 9ac3ca958c4a6f60-CDG x-powered-by: Express
+   HTTP/2 200 date: Fri, 02 Jan 2026 11:44:17 GMT content-type: text/html;
+   charset=utf-8 cf-ray: 9b7a00ed6977d081-CDG x-powered-by: Express
    cache-control:
    public,max-age=15,s-maxage=10800,stale-while-revalidate=1000,stale-if-e
    rror=14400 vary: Accept-Encoding content-security-policy: default-src
@@ -12,7 +12,7 @@
    'self' https://*.quintype.com https://kalkionline.com
    https://googleads.g.doubleclick.net;block-all-mixed-content; link:
    /fea.assettype.com/quintype-ace/assets/app-db063138d00585bf7220.js>;
-   rel=preload; as=script; cf-cache-status: HIT age: 1608
+   rel=preload; as=script; cf-cache-status: HIT age: 770
    strict-transport-security: max-age=86400 server: cloudflare alt-svc:
    h3=":443"; ma=86400
 
@@ -42,7 +42,6 @@
           + ஸ்பெஷல்
      * தொகுப்புகள்
        தொகுப்புகள்
-          + E-Books
           + கட்டுரைகள்
           + கதைகள்
           + கவிதைகள்
@@ -200,7 +199,7 @@ Other Articles
           + Archive Stories
           + Other stories
 
-   © kalkionline 2025
+   © kalkionline 2026
 
    Powered by Quintype
 

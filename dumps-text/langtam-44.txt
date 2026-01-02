@@ -1,9 +1,9 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 12:32:07 GMT server:
-   mw-web.eqiad.main-5c5cb4f54-8s55v x-content-type-options: nosniff
-   content-language: ta accept-ch: last-modified: Wed, 26 Nov 2025
-   12:32:07 GMT content-type: text/html; charset=UTF-8 age: 73704
-   accept-ranges: bytes x-cache: cp6009 miss, cp6013 hit/5 x-cache-status:
-   hit-front server-timing: cache;desc="hit-front", host;desc="cp6013"
+   HTTP/2 200 date: Fri, 02 Jan 2026 11:31:35 GMT server:
+   mw-web.eqiad.main-8f8dcf6c-g9d24 x-content-type-options: nosniff
+   content-language: ta accept-ch: last-modified: Sat, 27 Dec 2025
+   16:10:40 GMT content-type: text/html; charset=UTF-8 age: 769
+   accept-ranges: bytes x-cache: cp6009 miss, cp6011 hit/1 x-cache-status:
+   hit-front server-timing: cache;desc="hit-front", host;desc="cp6011"
    strict-transport-security: max-age=106384710; includeSubDomains;
    preload report-to: { "group": "wm_nel", "max_age": 604800, "endpoints":
    [{ "url":
@@ -11,22 +11,22 @@
    .network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
    nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
    0.05, "success_fraction": 0.0} set-cookie:
-   WMF-Last-Access=11-Dec-2025;Path=/;HttpOnly;secure;Expires=Mon, 12 Jan
+   WMF-Last-Access=02-Jan-2026;Path=/;HttpOnly;secure;Expires=Tue, 03 Feb
    2026 00:00:00 GMT set-cookie:
-   WMF-Last-Access-Global=11-Dec-2025;Path=/;Domain=.wikipedia.org;HttpOnl
-   y;secure;Expires=Mon, 12 Jan 2026 00:00:00 GMT set-cookie:
-   WMF-DP=641;Path=/;HttpOnly;secure;Expires=Thu, 11 Dec 2025 00:00:00 GMT
-   x-client-ip: 195.83.48.86 cache-control: private, s-maxage=0,
-   max-age=0, must-revalidate, no-transform vary:
+   WMF-Last-Access-Global=02-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnl
+   y;secure;Expires=Tue, 03 Feb 2026 00:00:00 GMT set-cookie:
+   WMF-DP=6a2;Path=/;HttpOnly;secure;Expires=Fri, 02 Jan 2026 00:00:00 GMT
+   x-client-ip: 2a01:e0a:5a4:f120:7bb1:9d9d:e1f5:ca5c cache-control:
+   private, s-maxage=0, max-age=0, must-revalidate, no-transform vary:
    Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
-   GeoIP=FR:IDF:Paris:48.86:2.35:v4; Path=/; secure; Domain=.wikipedia.org
-   set-cookie:
+   GeoIP=FR:NOR:Vernon:49.09:1.47:v4; Path=/; secure;
+   Domain=.wikipedia.org set-cookie:
    NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
    set-cookie:
-   WMF-Uniq=FIKO2qvZtg58hjGXSpD5yALGAAAAAFvd6akBhv2bnmJqaVOQY0JtWdrqi0OdTU
-   _L;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=F
-   ri, 11 Dec 2026 00:00:00 GMT content-length: 214808 x-request-id:
-   d57a658f-b859-4a35-ae80-a69b32cc5cbb #தொகு விக்கிப்பீடியா (ta)
+   WMF-Uniq=3wE6hqd-Wdlm1KMtNXH8oALcAAAAAFvd5zawAQvtOzylD3yuxI5ABFoI1jgVdw
+   XP;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=S
+   at, 02 Jan 2027 00:00:00 GMT content-length: 215286 x-request-id:
+   e637f46a-89f8-4b82-bbc9-7cecb3628381 #தொகு விக்கிப்பீடியா (ta)
    விக்கிப்பீடியா ஆட்டம் (Atom) ஓடை
 
    உள்ளடக்கத்துக்குச் செல்
@@ -93,7 +93,7 @@
 
 ஒளிப்படக்கருவி
 
-   [ ] 106 மொழிகள்
+   [ ] 107 மொழிகள்
      * Afrikaans
      * Ænglisc
      * العربية
@@ -158,6 +158,7 @@
      * မြန်မာဘာသာ
      * Nedersaksies
      * नेपाली
+     * नेपाल भाषा
      * Nederlands
      * Norsk bokmål
      * Sesotho sa Leboa
@@ -591,4 +592,4 @@
 
    [ ] பொருளடக்கத்தை மாற்று
    ஒளிப்படக்கருவி
-   (BUTTON) 106 மொழிகள் தலைப்பைச் சேர்
+   (BUTTON) 107 மொழிகள் தலைப்பைச் சேர்

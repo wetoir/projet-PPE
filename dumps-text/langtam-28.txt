@@ -1,17 +1,18 @@
-   HTTP/2 200 date: Thu, 11 Dec 2025 08:58:04 GMT content-type: text/html;
+   HTTP/2 200 date: Fri, 02 Jan 2026 11:44:11 GMT content-type: text/html;
    charset=utf-8 server: cloudflare x-powered-by: PHP/8.2.28
    x-frame-options: SAMEORIGIN referrer-policy:
    strict-origin-when-cross-origin cross-origin-opener-policy: same-origin
    expires: Wed, 17 Aug 2005 00:00:00 GMT cache-control: no-store,
    no-cache, must-revalidate, post-check=0, pre-check=0 pragma: no-cache
    set-cookie:
-   3ac78a556fbf45dfe792e93034823567=4a06o3uo3egqijckm733o2ioua; path=/;
-   HttpOnly last-modified: Thu, 11 Dec 2025 08:58:04 GMT report-to:
+   3ac78a556fbf45dfe792e93034823567=lt9iicgg469ua6ubn6u065hfkd; path=/;
+   HttpOnly last-modified: Fri, 02 Jan 2026 11:44:11 GMT report-to:
    {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=nwGZiJeuvTkr%2FZYd%2BuXbrBvvAe0Lz07Z8DdQbWlfD
-   0fHmSlDXyECYJTWQso8eo%2FDbYYZFBmyTOxs1ZKfwoKfV%2FXZOMbPtAzXxmPraB02"}]}
-   nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-   cf-cache-status: DYNAMIC cf-ray: 9ac3c729f9b8c8ed-CDG alt-svc:
+   loudflare.com/report/v4?s=Ju4pDAKtlP2jWV95noGbfGnkasOPphu3aJmkvv4jJukNf
+   rAMMQjmDSzpRMQ8W7%2BLA6ahp87SRI1eOFUbUptLB9jtiIuCwXB52HcEBZQYQ1vw1eoGh9
+   ZIiX3y"}]} nel:
+   {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+   cf-cache-status: DYNAMIC cf-ray: 9b7a00c4ae62f180-CDG alt-svc:
    h3=":443"; ma=86400
 
      * இலக்கியம்
@@ -193,24 +194,8 @@
     1.
     2. முகப்பு
     3. பெரியார் முழக்கம்
-    4. பெரியார் முழக்கம் - ஜூலை 2022
 
 கீற்றில் தேட...
-
-தொடர்புடைய படைப்புகள்
-
-     * மாநில தன்னாட்சி உரிமை
-     * பாகிஸ்தான் பிரிவினைக்கு யார் காரணம்?
-     * தமிழ்நாடு அரசும் ஆளுநர் ரவியும்!
-     * இந்தியாவின் கூட்டரசிய நிதிக் கொள்கையின் இழிநிலை
-     * மெக்காலே – நாத்திகர் பிராட்லா கொண்டு வந்த மாற்றங்கள்!
-     * சமூகநீதியைச் சீர்குலைக்கும் ஒன்றிய அரசின் ஆபத்தான போக்கு
-     * மாநில உரிமைகளைப் பறிக்காதே! கல்வி உரிமைகளைத் தடுக்காதே! மத வெறியைத்
-       திணிக்காதே!
-     * மாநில சுயாட்சியை ஏற்ற காங்கிரஸ், பிறகு சுதந்திர இந்தியாவில்
-       கைவிட்டது ஏன்?
-     * சுயமரியாதையின் அடையாளம் மாநில சுயாட்சி
-     * நிதி அமைச்சரின் குதர்க்கமும், நெற்றியடி விடையும்!
 
 அரசியல் சட்டத்தில் மாநில சுயாட்சி இடம் பெறாமல் போனது ஏன்?
 

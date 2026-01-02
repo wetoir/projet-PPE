@@ -1,11 +1,11 @@
-   HTTP/2 200 server: nginx/1.20.1 date: Thu, 11 Dec 2025 08:53:23 GMT
+   HTTP/2 200 server: nginx/1.20.1 date: Fri, 02 Jan 2026 11:43:56 GMT
    content-type: text/html; charset=UTF-8 x-powered-by: PHP/8.2.25
-   set-cookie: rl=7w4sU4k43V12M70l63U5; path=/; domain=.rssing.com;
+   set-cookie: rl=i43Lx5f54E12973M66I7; path=/; domain=.rssing.com;
    HttpOnly access-control-allow-headers: origin, x-requested-with,
    content-type access-control-allow-methods: *
    access-control-allow-credentials: true vary:
    CF-Connecting-IP,X-Nginx-Scheme,Accept-Encoding,Origin cache-control:
-   max-age=0 expires: Thu, 11 Dec 2025 08:53:23 GMT
+   max-age=0 expires: Fri, 02 Jan 2026 11:43:56 GMT
    content-security-policy-report-only: content-security-policy:
    block-all-mixed-content strict-transport-security: max-age=63072000;
    includeSubdomains x-content-type-options: nosniff
@@ -87,21 +87,21 @@
    X Mark channel Not-Safe-For-Work? cancel confirm NSFW Votes: (0 votes)
    X Are you the publisher? Claim or contact us about this channel.
    X 0
-   Showing article 101 to 120 of 1980 in channel 12755425
+   Showing article 101 to 120 of 1986 in channel 12755425
    Channel Details:
      * Title: கணியம்
      * Channel Number: 12755425
      * Language: Tamil
      * Registered On: April 23, 2013, 1:10 pm
-     * Number of Articles: 1980
-     * Latest Snapshot: December 8, 2025, 9:40 pm
+     * Number of Articles: 1986
+     * Latest Snapshot: December 20, 2025, 10:02 pm
      * RSS URL: http://www.kaniyam.com/feed
      * Publisher: https://kaniyam.com
      * Description: கட்டற்ற கணிநுட்பம்
      * Catalog: //tagger25.rssing.com/catalog.php?indx=12755425
 
    Remove ADS
-   Viewing all 1980 articles
+   Viewing all 1986 articles
    [Page 6____]
    Browse latest View live
    ↧
@@ -2615,7 +2615,7 @@ Gcompris –கல்வி கற்க உதவும் கட்டற்�
    ↧
 
    Remove ADS
-   Viewing all 1980 articles
+   Viewing all 1986 articles
    [Page 6____]
    Browse latest View live
      __________________________________________________________________
@@ -2631,4 +2631,4 @@ Gcompris –கல்வி கற்க உதவும் கட்டற்�
      * Top Rated
      * Trending
 
-   © 2025 //www.rssing.com
+   © 2026 //www.rssing.com

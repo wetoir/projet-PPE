@@ -1,0 +1,92 @@
+HTTP/2 302 
+server: openresty
+date: Wed, 17 Dec 2025 13:03:23 GMT
+content-type: text/html
+content-length: 158
+location: http://captcha.vtv.vcmedia.vn/sorry?continue=http%3A//vtv.vn/phia-sau-nhung-khung-hinh-tuyet-doi-dien-anh-cua-le-dieu-binh-dieu-hanh-80-nam-quoc-khanh-100250902095528294.htm
+filterid: ft
+
+HTTP/1.1 200 OK
+date: Wed, 17 Dec 2025 13:03:24 GMT
+content-type: text/html; charset=UTF-8
+content-length: 2795
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: script-src 'self'
+server: vtv-captcha
+cache-control: private
+x-frame-options: DENY
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=false;">
+    <link rel="stylesheet" type="text/css" href="/public/style.css">
+    <script src="https://cdn.ravenjs.com/3.0.4/raven.min.js"></script>
+  </head>
+  <body>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-42736187-10', 'auto');
+	  ga('send', 'pageview');
+	
+	</script>
+
+    <div class='logo' style="width: 125px; height: 114px; background: url('/public/vtv_logo_news.png') no-repeat;">
+      <!-- <img src='/public/vtv_logo.png' width='93' height='37'> -->
+    </div>
+    
+    <div class='heading'>
+      BÁO ĐIỆN TỬ VTV KÍNH BÁO:
+    </div>
+    
+    <div class='content'>
+      <div class='text'>
+        <p>
+        Để đảm bảo máy tính của quý bạn đọc không bị đối tượng xấu lợi dụng làm
+        công cụ tấn công từ chối dịch vụ (DDoS) vào báo điện tử  VTV, chúng tôi đề
+        nghị bạn đọc vui lòng điền vào ô trống những ký tự xuất hiện trong hình
+        ảnh bên cạnh thông báo này.
+        </p>
+        <p>
+        Xin trân trọng cảm ơn!
+        </p>
+      </div>
+      
+      <form method="post" action="/sorry">
+        <p>
+          <label for="turing_number">
+              <img id="captcha" 
+                   src="/captcha.jpg?c=eJgkkPJBQZyqXic-S6zU2g"
+                   title="Lấy mã mới"
+                   onclick="this.src='/captcha.jpg?c=eJgkkPJBQZyqXic-S6zU2g&r=' + Math.floor(Math.random()*100+1)">
+              <input type="hidden" name="c" value="eJgkkPJBQZyqXic-S6zU2g">
+          </label>
+          <input id="turing_number" 
+                 name="turing_number"
+                 type="text"
+                 maxlength="4"
+                 autocomplete="off"
+                 autofocus="autofocus">
+          <input type="hidden" name="continue" value="http://vtv.vn/phia-sau-nhung-khung-hinh-tuyet-doi-dien-anh-cua-le-dieu-binh-dieu-hanh-80-nam-quoc-khanh-100250902095528294.htm">
+          <input type="hidden" name="message" value=""> 
+        </p>
+        <p>
+          <button type="submit">Tiếp tục</button>
+        </p>
+      </form>
+    </div>
+<script>
+    var host = window.location.hostname;
+    var msg = "Captcha-" + host;
+    Raven.config('http://b32b14f45d424ec5bd78e3d624a30c9c@sentry.k8s.vn/11?verify_ssl=0').install()
+
+    Raven.captureMessage(msg)
+</script>    
+  </body>
+</html>

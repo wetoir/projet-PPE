@@ -1,5 +1,5 @@
-   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Thu, 11 Dec
-   2025 08:55:41 GMT date: Thu, 11 Dec 2025 08:55:41 GMT cache-control:
+   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Fri, 02 Jan
+   2026 11:44:03 GMT date: Fri, 02 Jan 2026 11:44:03 GMT cache-control:
    private, max-age=0 last-modified: Fri, 01 Nov 2024 06:48:05 GMT
    x-content-type-options: nosniff x-xss-protection: 1; mode=block server:
    GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
@@ -269,6 +269,10 @@
        சில நேரங்களில் நாம் பெரிய அளவில் புகைப்படங்கள் எடுக்க
        வேண்டிவரும்.உதாரணத்திற்கு குரூப் போட்டோ எடுக்கும் சமயம் நம்மிடம்
        உள்ள சின்னகேமராவில் அ...
+     * வேலன்:-போட்டோஷாப் செய்முறை பயிற்சி
+       வித்தியாசமாகவும் புதுமையாகவும் புகைப்படங்களை வெளியிடுவதில்
+       விகடனுக்கு நிகர் விகடனே...அதில் வரும் புகைப்படங்களைபார்த்தே நாம்
+       போட்டாஷாப்பில் ப...
 
 bird
 

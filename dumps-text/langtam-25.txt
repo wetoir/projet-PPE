@@ -1,5 +1,5 @@
-   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Thu, 11 Dec
-   2025 08:58:01 GMT date: Thu, 11 Dec 2025 08:58:01 GMT cache-control:
+   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Fri, 02 Jan
+   2026 11:44:09 GMT date: Fri, 02 Jan 2026 11:44:09 GMT cache-control:
    private, max-age=0 last-modified: Thu, 26 Jun 2025 18:35:33 GMT
    x-content-type-options: nosniff x-xss-protection: 1; mode=block server:
    GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
@@ -230,10 +230,10 @@ New Blogger - Acknowledgements
    வாசன் பதிவை (படிக்க: அமேரிக்காவில் தமிழன் » அமேரிக்க மாநிலங்கள்)
    பார்த்தவுடன், நான் சென்ற மாகாணங்களின் பட்டியலைப் போட்டுப் பார்க்க
    எண்ணம்.
-   [AEn0k_u0DLc9RAUJYIo5Tgbg_P7pW_KhRxrP9DsRdZIofwuhqpPaakI59ZzEKC5xfAht50
-   ff0bDPnKFtxF8R_jLI4NMMmGgJTHKv9eR1tA0FV5iocOPRzWF5d_tawsxTQid8vWTpz9BOv
-   PNLif-EJE_o9tN7YZPKOjz_WtCgMpJmI0AdVMUOSXFpeWillwfYzawhF2YW48UVchHLUmYu
-   qw=s0-d]
+   [AEn0k_tNNA8lrhPHt-JBdxTOP8og9MXbVnZnL1CpCN6qBAYyPyhmSYCXldiHdmRhzbN8i8
+   _zraVJH3mCxEdDcMZT8mtfhQYC90wmCTgbKiNxPz2wLM-e3W-xV45Dp0eRX5YEn0FFnlt2m
+   cY-wLcbaLJ4ckNGa9QPm473ijVl4ykXBTAZuaXVHsNAft_OQKkMkeuXYu9DBR1WstlZHuHG
+   5Q=s0-d]
    create your own personalized map of the USA
    ஹ்ம்ம்... இன்னும் நிறைய பாக்கி இருக்கு!
 
@@ -297,8 +297,8 @@ Google Page rank - Tamil News
    சுயம் பேசுவதை நிலைநிறுத்த இத்தனை முஸ்தீபு எதற்கு?
    சுட்ட செய்திகளைத் தொகுத்து வைக்கும் Tamil News பதிவிற்கு கூகிள் பக்க
    மதிப்பில் 6/10 கிடைத்திருக்கிறது.
-   [AEn0k_sVzrivT9ldJh_SS67PsWIZRN1SIi3c7cAGZwbxj83__YWmJtTZ8ZCYHCa0CJOPWr
-   GViRQLfkGpPFIA-8ncup5Qys4BAwBTkWkc9OESujAxUa2sMayn0g=s0-d]
+   [AEn0k_v2uMlNuGxNWW5J8usga8jBCNOS3czXB_5GSu2mBNRCAWN9T5Bcf_HnzCdFRTC6Og
+   vRRAfmEZg4pw6lqqhkMLH2zgukH3Gf2JvQz3koSuoyXbB60MW-ww=s0-d]
    நிலாச்சாரல், திண்ணை, தமிழோவியம் போன்ற ஆதிகால அசல் தாதாக்களும்,
    தேன்கூடு, தமிழ்மணம் போன்ற இக்கால கல்லடி கணை வாங்கும் வலைமாந்தர்களும்
    கூட 5/10 என்று கூகிளாண்டவரால் அருள்பாலிக்கப்பட்டிருக்கும் இக்காலத்தில்,
@@ -1433,8 +1433,8 @@ Twitter Updates
 
 Latest Tamil News
 
-   [AEn0k_tBkwWnyGZ3YUWbsTsm-T7JKqOLsGzsTe4g7i6Av2agbfsZGOECQZXd3ykcjvrCA8
-   SgNquDovr-A3gtWfyXHLpWmpSXSA=s0-d]
+   [AEn0k_v55DLbEf3pW4czYvXniM_um3Fv0rjh_P9h4_fzjU3aBphpug2RSuMyHRTNuBo2C1
+   iQXZ5LZPoxWVd3W5GSEeroeb2oXw=s0-d]
 
 என்னைப் பற்றி
 

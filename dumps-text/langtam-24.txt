@@ -1,11 +1,11 @@
-   HTTP/2 200 server: nginx date: Thu, 11 Dec 2025 08:58:00 GMT
+   HTTP/2 200 server: nginx date: Fri, 02 Jan 2026 11:44:08 GMT
    content-type: text/html; charset=UTF-8 strict-transport-security:
    max-age=31536000 vary: Accept-Encoding x-hacker: Want root? Visit
    join.a8c.com/hacker and mention this header. host-header: WordPress.com
    vary: accept, content-type, cookie x-pingback:
    https://kadhaisolgiren.com/xmlrpc.php link: /wp.me/pcbJpq-Nc>;
-   rel=shortlink x-ac: 4.lhr _dfw STALE alt-svc: h3=":443"; ma=86400
-   server-timing: a8c-cdn, dc;desc=lhr, cache;desc=STALE;dur=1.0 #கதை
+   rel=shortlink x-ac: 2.cdg _dca STALE alt-svc: h3=":443"; ma=86400
+   server-timing: a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=2.0 #கதை
    சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories » Feed கதை
    சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories » Comments Feed கதை
    சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories » வெண்ணிற
@@ -225,28 +225,32 @@ Archives
 
 Top Posts
 
-     * வாடி வாசல்(Vaadi vaasal)
-       வாடி வாசல்(Vaadi vaasal)
      * தமிழக நாட்டு மாடுகள் TAMIL NATIVE CATTLE BREEDS
        தமிழக நாட்டு மாடுகள் TAMIL NATIVE CATTLE BREEDS
-     * தமிழக நாட்டு நாய்கள் TAMIL NATIVE DOG BREEDS
-       தமிழக நாட்டு நாய்கள் TAMIL NATIVE DOG BREEDS
-     * மான் செய்த தந்திரம்
-       மான் செய்த தந்திரம்
-     * சங்கத்-தமிழர்-உணவு-பகுதி-4
-       சங்கத்-தமிழர்-உணவு-பகுதி-4
      * உமா என் அம்மா
        உமா என் அம்மா
+     * சங்க கால மகளிர் தொழில் முனைவோர்
+       சங்க கால மகளிர் தொழில் முனைவோர்
+     * தமிழக நாட்டுப் புறக் கலைகள் 1 TAMIL TRADITIONAL FOLK ARTS
+       தமிழக நாட்டுப் புறக் கலைகள் 1 TAMIL TRADITIONAL FOLK ARTS
+     * தமிழக நாட்டு நாய்கள் TAMIL NATIVE DOG BREEDS
+       தமிழக நாட்டு நாய்கள் TAMIL NATIVE DOG BREEDS
      * சங்க இலக்கியங்களில் மலர்கள் FLOWERS IN SANGAM LITERATURE : பகுதி
        ...1 ( 25 மலர்கள்)
        சங்க இலக்கியங்களில் மலர்கள் FLOWERS IN SANGAM LITERATURE : பகுதி
        ...1 ( 25 மலர்கள்)
-     * புதிய நீதிக் கதைகள்
-       புதிய நீதிக் கதைகள்
-     * குமிழித் தூம்பு
-       குமிழித் தூம்பு
-     * சங்க இலக்கியத்தில் மலர்கள் FLOWERS IN SANGAM LITERATURE- பகுதி 4
-       சங்க இலக்கியத்தில் மலர்கள் FLOWERS IN SANGAM LITERATURE- பகுதி 4
+     * சங்க இலக்கியங்களில் மலர்கள் FLOWERS IN SANGAM LITERATURE: பகுதி
+       ...2 ( 25 மலர்கள்)
+       சங்க இலக்கியங்களில் மலர்கள் FLOWERS IN SANGAM LITERATURE: பகுதி
+       ...2 ( 25 மலர்கள்)
+     * சங்க இலக்கியங்களில் மலர்கள் FLOWERS IN SANGAM LITERATURE: பகுதி …3
+       ( 25 மலர்கள்)
+       சங்க இலக்கியங்களில் மலர்கள் FLOWERS IN SANGAM LITERATURE: பகுதி …3
+       ( 25 மலர்கள்)
+     * தளபதி
+       தளபதி
+     * சங்கத்-தமிழர்-உணவு-பகுதி-3
+       சங்கத்-தமிழர்-உணவு-பகுதி-3
 
 Recent Posts
 
@@ -268,7 +272,7 @@ Follow by e-mail
 
 Blog Stats
 
-     * 207,689 hits
+     * 209,109 hits
 
    Create a website or blog at WordPress.com
 

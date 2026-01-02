@@ -1,9 +1,9 @@
-   HTTP/2 200 date: Wed, 10 Dec 2025 10:57:14 GMT server:
-   mw-web.eqiad.main-5c5cb4f54-r6zm7 x-content-type-options: nosniff
-   content-language: ta accept-ch: last-modified: Sat, 29 Nov 2025
-   16:02:51 GMT content-type: text/html; charset=UTF-8 age: 78967
-   accept-ranges: bytes x-cache: cp6014 hit, cp6013 hit/5 x-cache-status:
-   hit-front server-timing: cache;desc="hit-front", host;desc="cp6013"
+   HTTP/2 200 date: Fri, 02 Jan 2026 11:31:03 GMT server:
+   mw-web.eqiad.main-8f8dcf6c-6rntq x-content-type-options: nosniff
+   content-language: ta accept-ch: last-modified: Fri, 19 Dec 2025
+   11:31:04 GMT content-type: text/html; charset=UTF-8 age: 773
+   accept-ranges: bytes x-cache: cp6014 miss, cp6011 hit/1 x-cache-status:
+   hit-front server-timing: cache;desc="hit-front", host;desc="cp6011"
    strict-transport-security: max-age=106384710; includeSubDomains;
    preload report-to: { "group": "wm_nel", "max_age": 604800, "endpoints":
    [{ "url":
@@ -11,22 +11,22 @@
    .network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
    nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
    0.05, "success_fraction": 0.0} set-cookie:
-   WMF-Last-Access=11-Dec-2025;Path=/;HttpOnly;secure;Expires=Mon, 12 Jan
+   WMF-Last-Access=02-Jan-2026;Path=/;HttpOnly;secure;Expires=Tue, 03 Feb
    2026 00:00:00 GMT set-cookie:
-   WMF-Last-Access-Global=11-Dec-2025;Path=/;Domain=.wikipedia.org;HttpOnl
-   y;secure;Expires=Mon, 12 Jan 2026 00:00:00 GMT set-cookie:
-   WMF-DP=952;Path=/;HttpOnly;secure;Expires=Thu, 11 Dec 2025 00:00:00 GMT
-   x-client-ip: 195.83.48.86 cache-control: private, s-maxage=0,
-   max-age=0, must-revalidate, no-transform vary:
+   WMF-Last-Access-Global=02-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnl
+   y;secure;Expires=Tue, 03 Feb 2026 00:00:00 GMT set-cookie:
+   WMF-DP=57d;Path=/;HttpOnly;secure;Expires=Fri, 02 Jan 2026 00:00:00 GMT
+   x-client-ip: 2a01:e0a:5a4:f120:7bb1:9d9d:e1f5:ca5c cache-control:
+   private, s-maxage=0, max-age=0, must-revalidate, no-transform vary:
    Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
-   GeoIP=FR:IDF:Paris:48.86:2.35:v4; Path=/; secure; Domain=.wikipedia.org
-   set-cookie:
+   GeoIP=FR:NOR:Vernon:49.09:1.47:v4; Path=/; secure;
+   Domain=.wikipedia.org set-cookie:
    NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
    set-cookie:
-   WMF-Uniq=iXF4J9W7W_Ybv2EVxap9DALGAAAAAFvd9X3GkgheiakknaLBE7Ilr4mUlgA9DD
-   2V;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=F
-   ri, 11 Dec 2026 00:00:00 GMT content-length: 120035 x-request-id:
-   38438d22-228c-4481-ad47-e4b0922a6de4 #தொகு விக்கிப்பீடியா (ta)
+   WMF-Uniq=9YV00eb74r9g4VCFuktoBgLcAAAAAFvdlYB-j9edmtqvQgr-t5IH4Obrq9Nf3A
+   BN;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=S
+   at, 02 Jan 2027 00:00:00 GMT content-length: 120064 x-request-id:
+   a0291f9a-1f8d-43b9-ad03-02a9f43a4ff0 #தொகு விக்கிப்பீடியா (ta)
    விக்கிப்பீடியா ஆட்டம் (Atom) ஓடை
 
    உள்ளடக்கத்துக்குச் செல்

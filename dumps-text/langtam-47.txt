@@ -1,18 +1,18 @@
-   HTTP/2 403 date: Thu, 11 Dec 2025 09:00:33 GMT content-type: text/html;
-   charset=UTF-8 content-length: 4515 x-frame-options: SAMEORIGIN
+   HTTP/2 403 date: Fri, 02 Jan 2026 11:44:25 GMT content-type: text/html;
+   charset=UTF-8 content-length: 4540 x-frame-options: SAMEORIGIN
    referrer-policy: same-origin cache-control: private, max-age=0,
    no-store, no-cache, must-revalidate, post-check=0, pre-check=0 expires:
    Thu, 01 Jan 1970 00:00:01 GMT set-cookie:
-   __cf_bm=iy_DoBzOorCJ9tDlVo2vItCHA39cz.1RhjDbocoZafI-1765443633-1.0.1.1-
-   Q_XVvE3rc26.rJp5dUE4sl9CX93mys.HHTcBI1NouA3HEuqdEO5Aocg40WVhYBHzNno5Wu3
-   0H4QrGwmsoBTscUoRyNhxVtbtTHMSN_ulz9w; path=/; expires=Thu, 11-Dec-25
-   09:30:33 GMT; domain=.filmibeat.com; HttpOnly; Secure; SameSite=None
+   __cf_bm=GLSPShaPW9Yqw4LQKYVOkem2JSgb6vW.6OFjx9_xXjM-1767354265-1.0.1.1-
+   ojanoz_OXC.9OaPipYPVPnIZNGW.v_9deQMz45JC5cjQBW9FfT0FD3J.0rBjX5I3Y3R1OwD
+   Ez6ZR6pMK2r_tx0CoFI9vQ8n9pSoJNAPXqF0; path=/; expires=Fri, 02-Jan-26
+   12:14:25 GMT; domain=.filmibeat.com; HttpOnly; Secure; SameSite=None
    strict-transport-security: max-age=15552000 speculation-rules:
    "/cdn-cgi/speculation" vary: User-Agent content-security-policy:
    frame-ancestors 'self' https://jionews.com
    https://jionewsdev1.jio.ril.com https://pie.news
    https://staging.pie.news https://www.techroader.com; server: cloudflare
-   cf-ray: 9ac3cad4dc7a554e-CDG alt-svc: h3=":443"; ma=86400
+   cf-ray: 9b7a011db92202af-CDG alt-svc: h3=":443"; ma=86400
 
    Please enable cookies.
 
@@ -33,5 +33,6 @@ What can I do to resolve this?
    include what you were doing when this page came up and the Cloudflare
    Ray ID found at the bottom of this page.
 
-   Cloudflare Ray ID: 9ac3cad4dc7a554e • Your IP: (BUTTON) Click to reveal
-   195.83.48.86 • Performance & security by Cloudflare
+   Cloudflare Ray ID: 9b7a011db92202af • Your IP: (BUTTON) Click to reveal
+   2a01:e0a:5a4:f120:7bb1:9d9d:e1f5:ca5c • Performance & security by
+   Cloudflare

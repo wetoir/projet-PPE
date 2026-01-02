@@ -1,7 +1,7 @@
-   HTTP/2 200 date: Thu, 11 Dec 2025 09:00:35 GMT server: nginx/1.23.4
+   HTTP/2 200 date: Fri, 02 Jan 2026 11:44:27 GMT server: nginx/1.23.4
    content-type: text/html; charset=UTF-8 cache-control: no-cache
    wpo-cache-status: cached content-security-policy:
-   upgrade-insecure-requests; last-modified: Wed, 10 Dec 2025 11:05:28 GMT
+   upgrade-insecure-requests; last-modified: Fri, 02 Jan 2026 01:03:51 GMT
    vary: Accept-Encoding content-language: ta-IN x-server-cache: true
    x-proxy-cache: MISS #Karundhel.com » Feed Karundhel.com » Comments Feed
    Karundhel.com » Doctor Strange (2016) – English Comments Feed oEmbed
@@ -420,7 +420,7 @@ RSS From Scorpsay.com
    ____________________
    Search
 
-Copyright © 2025 - Made with love and attention by Heath
+Copyright © 2026 - Made with love and attention by Heath
 
    RadarURL
    shopify visitor statistics

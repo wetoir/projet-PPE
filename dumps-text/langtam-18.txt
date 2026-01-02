@@ -1,15 +1,10 @@
-   HTTP/2 200 content-security-policy: upgrade-insecure-requests
-   content-security-policy-report-only: default-src https: blob: data:
-   'unsafe-inline' 'unsafe-eval'; report-to blogspot; report-uri
-   https://www.blogger.com/cspreport report-to:
-   {"group":"blogspot","max_age":2592000,"endpoints":[{"url":"https://www.
-   blogger.com/cspreport"}]} content-type: text/html; charset=UTF-8
-   expires: Thu, 11 Dec 2025 08:55:42 GMT date: Thu, 11 Dec 2025 08:55:42
-   GMT cache-control: private, max-age=0 last-modified: Fri, 25 Oct 2024
-   06:08:50 GMT x-content-type-options: nosniff x-xss-protection: 1;
-   mode=block server: GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443";
-   ma=2592000 accept-ranges: none vary: Accept-Encoding #தமிழ் டிஜிட்டல் -
-   Atom தமிழ் டிஜிட்டல் - RSS
+   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Fri, 02 Jan
+   2026 11:44:04 GMT date: Fri, 02 Jan 2026 11:44:04 GMT cache-control:
+   private, max-age=0 last-modified: Fri, 25 Oct 2024 06:08:50 GMT
+   x-content-type-options: nosniff x-xss-protection: 1; mode=block server:
+   GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+   accept-ranges: none vary: Accept-Encoding #தமிழ் டிஜிட்டல் - Atom தமிழ்
+   டிஜிட்டல் - RSS
 
    skip to main | skip to sidebar
    widgets
@@ -141,16 +136,16 @@
 
 JUST RELAX ட்ரம்ஸ் இயக்க அதன் மீது மவுஸை கொண்டு செல்லவும்
 
-   [AEn0k_v2-j-XVbUZNXoKZHH127VTm49qp2aY-oLeE3_xJisXLRoZT2fdJ25C8qypaFfkMM
-   5iltEony2Rp25pSTmx6b0chgXGV3YqBo8PEZqVj0LnkC49fTK8NBSgtTxpYIWzLqoWMOU4u
-   xMU1HQdqHkTQoFj66yHDkm_tCdFbUYvOrs85wHI6H2S0tnBszKdSzbpcsLnhoSwdzcRL05m
-   BS5yqrh33ZQksxwDtAc-yrGS1pNM45XYSqOSTBucyJMbbG9nhhCJkPN_fj3uocxMX9rLRCM
-   DL_lZfm3REiBz1ao=s0-d] [EMBED]
-   [AEn0k_th7sTU74-m7whaTKqF6ghIcNNakOuFqowUupXSe2VvTCKdRWYc8nooxgUQmNfKLq
-   nqpd4lncDHJqbX65XFTx1mwq7JVIyL6YFfA-uAm8l_ug6OTOgo49EUQ--NskSr8ttu30ux5
-   cW5AruEMyILihf-sce8phUQtmmHgJwZBKSpOVsMv5hXshdf5jK51_NwE09Aqp6TkRnMMyns
-   BU3CLWv2T9vNlxs-AOPRc7HRcKd-MPN_SsxjZSKG8NlbHt6_qMzdd1nYBNibc1hTVflhoh9
-   mXEk9TwcfP7H1svE=s0-d] [EMBED]
+   [AEn0k_vUiwT2mT1ZvlmTGUVq6kEPm7hsZn1vs1AiLWqIQwVROFnkl_XxyBec3d0cM_qG3u
+   4KCvCtYjQd7ewrN3lN4PjnwFsWh-YW0j8ZY1COi_Ytjfm-caERgKIkQp7pSXxUc0OUv2rC3
+   WsToQbU3YZIuXBge-fADN1GYVZnEEVpEtWhRcD9MJR_umdZ57o_Rds5E4hPK8ooUJzesiOt
+   nJoPQbyWBKTQS6RsLeECDJfqN5r6o_xdjg5T78jBjVkXVUK74zl_x58vrMEScJWUKHTN5Yq
+   a_g4RGWmgCOrSdyo=s0-d] [EMBED]
+   [AEn0k_uxcgsZ3ybi_TC2LUx9LXrIVy_wm-0hhkX9tgbK39kyAsCKZOBsTUjHycVqNC0ExK
+   b3PO7SzMFZjuIN1tysCq3MbN3yMP_vJfyp-T9q_i2tXWyac9y5EZlflvdcMVZIq7rCe_Rjh
+   eO_mhCBpS-a6HrpbiDJED8J-TAnrSgJezddMhTZRM2wzhAeIJs7wHNV5iE5ln3xyAryG42h
+   -iYSlMcKeV2EZ6H7b3DXR78D22PcwRvmqhJvIgGw-qxLtFhT0fKYuCRCipYJyUaPCaXSlAg
+   F20KkWKAAe-1iyrw=s0-d] [EMBED]
 
 கடிகாரம்
 
