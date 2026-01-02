@@ -19,8 +19,9 @@ CONCORDANCES="$PROJET/concordances"
 ASPIRATIONS="$PROJET/aspirations"
 TABLEAUX="$PROJET/tableaux"
 PALS="$PROJET/pals"
+BIGRAMMES="$PROJET/bigrammes"
 
-mkdir -p "$DUMPS" "$CONTEXTES" "$CONCORDANCES" "$TABLEAUX" "$ASPIRATIONS" "$PALS"
+mkdir -p "$DUMPS" "$CONTEXTES" "$CONCORDANCES" "$TABLEAUX" "$ASPIRATIONS" "$PALS" "$BIGRAMMES"
 
 
 # Début du fichier HTML, on précise qu'on veut que le tamoul
@@ -54,6 +55,7 @@ echo "<html>
             <th>Dump textuel</th>
             <th>Contexte</th>
             <th>Concordance</th>
+            <th>Bigrammes</th>
         </tr>" > "$tableau" # redirection pour obtenir les fichiers
 
 i=1
@@ -91,6 +93,29 @@ while read -r url; do
     lynx -dump -nolist "$aspiration_file" > "$dump_file"
 
 
+    bigram_file_freq="$BIGRAMMES/lang${lang}-$i.txt"
+
+        awk '
+function clean(word) {
+    gsub(/[[:punct:][:space:]]/, "", word)
+    return word
+}
+{
+    for(i=1;i<NF;i++){
+        w1 = clean($i)
+        w2 = clean($(i+1))
+        if(length(w1) && length(w2)){
+            bigram = w1 " " w2
+            count[bigram]++
+        }
+    }
+}
+END {
+    for (b in count) print count[b], b
+}' "$dump_file" | sort -nr > "$bigram_file_freq"
+
+
+
     # Nombre de mots
     nb_mots=$(wc -w < "$dump_file")
 
@@ -125,6 +150,7 @@ while read -r url; do
             <td><a href='$dump_file'>dump</a></td>
             <td><a href='$contexte_file'>contexte</a></td>
             <td><a href='$concordance_file'>concordance</a></td>
+            <td><a href='$bigram_file_freq'>bigrammes</a></td>
         </tr>" >> "$tableau"
 
     i=$((i+1))
@@ -169,6 +195,25 @@ for file in "$DUMPS"/lang${lang}-*.txt; do
     }' "$file" >> "$output_dumps"
     echo "" >> "$output_dumps"  # saut de ligne entre fichiers
 done
+
+#version de concatenation specialement pour le dump afin de respecter mise en page de la fiche exercice
+concat_v_bigram="$BIGRAMMES/concatenation-v-bigramme.txt"
+> "$concat_v_bigram"
+
+j=1
+for file in "$DUMPS"/lang${lang}-*.txt; do
+    echo "#URL$j" >> "$concat_v_bigram"
+    # Supprime les lignes vides, remplace les retours à la ligne par des espaces
+    # puis extrait les mots Unicode complets
+    tr '\n' ' ' < "$file" | perl -CSD -nE 'while (/\p{L}+/g) { say $& }' >> "$concat_v_bigram"
+    echo "" >> "$concat_v_bigram"  # saut de ligne entre fichiers
+    j=$((j+1))
+done
+
+
+
+
+
 
 
 
