@@ -1,10 +1,10 @@
-   HTTP/2 200 server: nginx date: Fri, 02 Jan 2026 11:44:17 GMT
+   HTTP/2 200 server: nginx date: Fri, 02 Jan 2026 13:38:03 GMT
    content-type: text/html; charset=UTF-8 vary: Accept-Encoding x-hacker:
    Want root? Visit join.a8c.com/hacker and mention this header.
    host-header: WordPress.com vary: accept, content-type, cookie link:
    /wp.me/LiKP>; rel=shortlink x-ac: 3.cdg _dca STALE alt-svc: h3=":443";
    ma=86400 strict-transport-security: max-age=31536000 server-timing:
-   a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=4.0 #Arrowoftheatre Blog »
+   a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=3.0 #Arrowoftheatre Blog »
    flöde Arrowoftheatre Blog » kommentarsflöde Arrowoftheatre Blog
    WordPress.com
 
@@ -667,7 +667,7 @@ Hello world!
    and start blogging!
      __________________________________________________________________
 
-   Skapa en gratis webbplats eller blogg på WordPress.com.
+   Blogg på WordPress.com.
 
      * Prenumerera Prenumererad
           + Arrowoftheatre Blog

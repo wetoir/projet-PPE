@@ -1,10 +1,10 @@
-   HTTP/2 200 server: nginx date: Fri, 02 Jan 2026 11:43:59 GMT
+   HTTP/2 200 server: nginx date: Fri, 02 Jan 2026 13:37:50 GMT
    content-type: text/html; charset=UTF-8 vary: Accept-Encoding x-hacker:
    Want root? Visit join.a8c.com/hacker and mention this header.
    host-header: WordPress.com link: /wp.me/it1I>; rel=shortlink vary:
    accept, content-type, cookie x-ac: 3.cdg _dca STALE alt-svc: h3=":443";
    ma=86400 strict-transport-security: max-age=31536000 server-timing:
-   a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=2.0 #அவார்டா கொடுக்கறாங்க? »
+   a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=1.0 #அவார்டா கொடுக்கறாங்க? »
    செய்தியோடை அவார்டா கொடுக்கறாங்க? » பின்னூட்ட செய்தியோடை அவார்டா
    கொடுக்கறாங்க? WordPress.com
 
@@ -798,7 +798,7 @@ In the Heat of the Night
 
 Blog Stats
 
-     * 841,511 hits
+     * 841,512 hits
 
    இதற்காகத் தேடு: ____________________ தேடு
 
@@ -831,13 +831,13 @@ Top Rated
      * அவர் எனக்கே சொந்தம்
      * ஆரூர் தாஸ் நினைவுகள் 1
      * பல்லாண்டு வாழ்க விகடன் விமர்சனம்
-     * நான் பெற்ற செல்வம் (Naan Petra Selvam)
-     * ஆரூர் தாஸ் நினைவுகள் 2
      * திரிசூலம் (Thirisoolam)
      * ஆரூர்தாஸ் நினைவுகள் – 3
      * ஊட்டி வரை உறவு (Ooty Varai Uravu)
      * திருவாவடுதுறை ராஜரத்தினம் பிள்ளை
      * சாரதா பதிவுகள்
+     * மயங்குகிறாள் ஒரு மாது (1975)
+     * கேட்டவரெல்லாம் பாடலாம் - பாடல் பிறந்த கதை 3
 
 மின்னஞ்சல் சந்தாதாரராக‌....
 
@@ -949,7 +949,7 @@ Top Rated
    srinivasan TMS V. gopalakrishnan V.k. ramasami V.s. raghavan Vaali
    Vikatan Vimal Viswanathan-Ramamoorthy Vyjayanthimala
 
-   Create a free website or blog at WordPress.com.
+   வேர்ட்பிரஸ்.காம் இல் வலைப்பதிவு.
 
    அவார்டா கொடுக்கறாங்க?
    வேர்ட்பிரஸ்.காம் இல் வலைப்பதிவு.

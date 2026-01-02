@@ -1,11 +1,11 @@
-   HTTP/2 200 server: nginx date: Fri, 02 Jan 2026 11:44:08 GMT
+   HTTP/2 200 server: nginx date: Fri, 02 Jan 2026 13:37:58 GMT
    content-type: text/html; charset=UTF-8 strict-transport-security:
    max-age=31536000 vary: Accept-Encoding x-hacker: Want root? Visit
    join.a8c.com/hacker and mention this header. host-header: WordPress.com
    vary: accept, content-type, cookie x-pingback:
    https://kadhaisolgiren.com/xmlrpc.php link: /wp.me/pcbJpq-Nc>;
    rel=shortlink x-ac: 2.cdg _dca STALE alt-svc: h3=":443"; ma=86400
-   server-timing: a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=2.0 #கதை
+   server-timing: a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=1.0 #கதை
    சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories » Feed கதை
    சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories » Comments Feed கதை
    சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories » வெண்ணிற
@@ -247,10 +247,10 @@ Top Posts
        ( 25 மலர்கள்)
        சங்க இலக்கியங்களில் மலர்கள் FLOWERS IN SANGAM LITERATURE: பகுதி …3
        ( 25 மலர்கள்)
-     * தளபதி
-       தளபதி
      * சங்கத்-தமிழர்-உணவு-பகுதி-3
        சங்கத்-தமிழர்-உணவு-பகுதி-3
+     * தளபதி
+       தளபதி
 
 Recent Posts
 
@@ -272,7 +272,7 @@ Follow by e-mail
 
 Blog Stats
 
-     * 209,109 hits
+     * 209,118 hits
 
    Create a website or blog at WordPress.com
 

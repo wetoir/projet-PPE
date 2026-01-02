@@ -12,9 +12,10 @@ PROJET="/home/annabelle/projet-PPE"
 DUMPS="$PROJET/dumps-text"
 CONTEXTES="$PROJET/contextes"
 CONCORDANCES="$PROJET/concordances"
+ASPIRATIONS="$PROJET/aspirations"
 TABLEAUX="$PROJET/tableaux"
 
-mkdir -p "$DUMPS" "$CONTEXTES" "$CONCORDANCES" "$TABLEAUX"
+mkdir -p "$DUMPS" "$CONTEXTES" "$CONCORDANCES" "$TABLEAUX" "$ASPIRATIONS"
 
 
 # Début du fichier HTML, on précise qu'on veut que le tamoul
@@ -42,6 +43,7 @@ echo "<html>
             <th>URL</th>
             <th>Code HTTP</th>
             <th>Encodage</th>
+            <th>Aspirations</th>
             <th>Nombre de mots</th>
             <th>Occurrences</th>
             <th>Dump textuel</th>
@@ -58,27 +60,30 @@ for fichier_urls in $dossier_urls/lang${lang}*.txt; do #K = oublie tout ce qu'il
 while read -r url; do
     echo "Traitement de $url ..." >&2
 
+    aspiration_file="$ASPIRATIONS/lang${lang}-$i.html"
     # Récupération du code HTTP et du type MIME avec encodage
-    data=$(curl -s -i -L -w "%{http_code}\n%{content_type}" -o ./temp.html "$url")
+    data=$(curl -s -i -L -w "%{http_code}\n%{content_type}" -o "$aspiration_file" "$url")
+
+
     http_code=$(echo "$data" | head -1)
     encoding=$(echo "$data" | tail -1 | grep -o "charset=[^ ;]*" | cut -d"=" -f2)
 
     if [ -z "$encoding" ]; then
-    encoding=$(grep -i -m1 '<meta charset=' ./temp.html | sed -E 's/.*charset=["'\'']?([^"'\'' >]+).*/\1/' )
+    encoding=$(grep -i -m1 '<meta charset=' "$aspiration_file" | sed -E 's/.*charset=["'\'']?([^"'\'' >]+).*/\1/' )
     fi
 
     encoding=${encoding:-"N/A"}  # si encodage vide, mettre N/A
 
     # Conversion du HTML si besoin
     if [[ "$encoding" != "UTF-8" && "$encoding" != "N/A" ]]; then
-        iconv -f "$encoding" -t UTF-8 ./temp.html -o ./temp_utf8.html
-        mv ./temp_utf8.html ./temp.html
+        iconv -f "$encoding" -t UTF-8 "$aspiration_file" -o "$aspiration_file.utf8"
+        mv "$aspiration_file.utf8" "$aspiration_file"
         encoding="UTF-8"
     fi
 
     # Dump textuel avec lynx
     dump_file="$DUMPS/lang$lang-$i.txt" #verifier que le chemin est bon
-    lynx -dump -nolist ./temp.html > "$dump_file"
+    lynx -dump -nolist "$aspiration_file" > "$dump_file"
 
 
     # Nombre de mots
@@ -109,6 +114,7 @@ while read -r url; do
             <td><a href='$url'>$url</a></td>
             <td>$http_code</td>
             <td>$encoding</td>
+            <td><a href='$aspiration_file'>html</a></td>
             <td>$nb_mots</td>
             <td>$occurrences</td>
             <td><a href='$dump_file'>dump</a></td>
@@ -127,9 +133,5 @@ done
 echo "    </table>
 </body>
 </html>" >> "$tableau"
-
-
-# Nettoyage temporaire
-rm -f ./temp.html
 
 

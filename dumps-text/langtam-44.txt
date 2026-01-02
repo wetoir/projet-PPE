@@ -1,9 +1,9 @@
    HTTP/2 200 date: Fri, 02 Jan 2026 11:31:35 GMT server:
    mw-web.eqiad.main-8f8dcf6c-g9d24 x-content-type-options: nosniff
    content-language: ta accept-ch: last-modified: Sat, 27 Dec 2025
-   16:10:40 GMT content-type: text/html; charset=UTF-8 age: 769
-   accept-ranges: bytes x-cache: cp6009 miss, cp6011 hit/1 x-cache-status:
-   hit-front server-timing: cache;desc="hit-front", host;desc="cp6011"
+   16:10:40 GMT content-type: text/html; charset=UTF-8 age: 7595
+   accept-ranges: bytes x-cache: cp6009 hit, cp6012 hit/3 x-cache-status:
+   hit-front server-timing: cache;desc="hit-front", host;desc="cp6012"
    strict-transport-security: max-age=106384710; includeSubDomains;
    preload report-to: { "group": "wm_nel", "max_age": 604800, "endpoints":
    [{ "url":
@@ -12,21 +12,21 @@
    nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
    0.05, "success_fraction": 0.0} set-cookie:
    WMF-Last-Access=02-Jan-2026;Path=/;HttpOnly;secure;Expires=Tue, 03 Feb
-   2026 00:00:00 GMT set-cookie:
+   2026 12:00:00 GMT set-cookie:
    WMF-Last-Access-Global=02-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnl
-   y;secure;Expires=Tue, 03 Feb 2026 00:00:00 GMT set-cookie:
-   WMF-DP=6a2;Path=/;HttpOnly;secure;Expires=Fri, 02 Jan 2026 00:00:00 GMT
-   x-client-ip: 2a01:e0a:5a4:f120:7bb1:9d9d:e1f5:ca5c cache-control:
+   y;secure;Expires=Tue, 03 Feb 2026 12:00:00 GMT set-cookie:
+   WMF-DP=6a2;Path=/;HttpOnly;secure;Expires=Sat, 03 Jan 2026 00:00:00 GMT
+   x-client-ip: 2a01:e0a:5a4:f120:4618:8e0b:4c30:dab1 cache-control:
    private, s-maxage=0, max-age=0, must-revalidate, no-transform vary:
    Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
    GeoIP=FR:NOR:Vernon:49.09:1.47:v4; Path=/; secure;
    Domain=.wikipedia.org set-cookie:
    NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
    set-cookie:
-   WMF-Uniq=3wE6hqd-Wdlm1KMtNXH8oALcAAAAAFvd5zawAQvtOzylD3yuxI5ABFoI1jgVdw
-   XP;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=S
+   WMF-Uniq=_cv3f_apGM-TrCZY6tWhcQLcAAAAAFvdbX1NMYvBrfgosgPH5JNasPmgHNrAXM
+   42;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=S
    at, 02 Jan 2027 00:00:00 GMT content-length: 215286 x-request-id:
-   e637f46a-89f8-4b82-bbc9-7cecb3628381 #தொகு விக்கிப்பீடியா (ta)
+   42638500-8e5f-48c0-ac2c-3c30c7a2383c #தொகு விக்கிப்பீடியா (ta)
    விக்கிப்பீடியா ஆட்டம் (Atom) ஓடை
 
    உள்ளடக்கத்துக்குச் செல்
