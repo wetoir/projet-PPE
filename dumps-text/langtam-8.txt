@@ -1,12 +1,6 @@
-   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Fri, 02 Jan
-   2026 16:06:53 GMT date: Fri, 02 Jan 2026 16:06:53 GMT cache-control:
-   private, max-age=0 last-modified: Fri, 24 Oct 2025 06:45:42 GMT
-   x-content-type-options: nosniff x-xss-protection: 1; mode=block server:
-   GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
-   accept-ranges: none vary: Accept-Encoding #PiT Photography in Tamil
-   தமிழில் புகைப்படக்கலை - Atom PiT Photography in Tamil தமிழில்
-   புகைப்படக்கலை - RSS PiT Photography in Tamil தமிழில் புகைப்படக்கலை -
-   Atom
+   #PiT Photography in Tamil தமிழில் புகைப்படக்கலை - Atom PiT Photography
+   in Tamil தமிழில் புகைப்படக்கலை - RSS PiT Photography in Tamil தமிழில்
+   புகைப்படக்கலை - Atom
 
    PiT Photography in Tamil தமிழில் புகைப்படக்கலை
      * Twitter

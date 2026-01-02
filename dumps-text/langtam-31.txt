@@ -1,18 +1,4 @@
-   HTTP/2 200 date: Fri, 02 Jan 2026 16:07:07 GMT content-type: text/html;
-   charset=UTF-8 report-to:
-   {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=JsARz1%2BEJUqC%2BUH98NIeNgvyo9vSXWnlw1zW437uv
-   XwcxioG%2FWDya%2BRiTI3tCcEYXPrWOK6noVJK%2B1dy%2FEZpFaCYHgaMOCvsARPKeAla
-   MU%2FOwX8pvqV6FVbGB%2BM%3D"}]} x-dns-prefetch-control: on link:
-   /www.giriblog.com/wp-json/>; rel="https://api.w.org/" link:
-   /www.giriblog.com/wp-json/wp/v2/posts/34708>; rel="alternate";
-   title="JSON"; type="application/json" x-litespeed-cache: hit
-   speculation-rules: "/cdn-cgi/speculation" vary: Accept-Encoding nel:
-   {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800} server:
-   cloudflare platform: hostinger panel: hpanel content-security-policy:
-   upgrade-insecure-requests x-turbo-charged-by: LiteSpeed
-   cf-cache-status: DYNAMIC cf-ray: 9b7b81ef6f75ae6d-CDG alt-svc:
-   h3=":443"; ma=86400 #giriblog » Feed JSON
+    #giriblog » Feed JSON
 
    << Previous
    Share on Facebook Share on X Share on WhatsApp

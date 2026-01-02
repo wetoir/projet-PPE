@@ -1,10 +1,4 @@
-   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Fri, 02 Jan
-   2026 16:06:55 GMT date: Fri, 02 Jan 2026 16:06:55 GMT cache-control:
-   private, max-age=0 last-modified: Wed, 12 Nov 2025 03:11:01 GMT
-   x-content-type-options: nosniff x-xss-protection: 1; mode=block server:
-   GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
-   accept-ranges: none vary: Accept-Encoding #சித்திரமும் கைப் பழக்கம் -
-   Atom சித்திரமும் கைப் பழக்கம் - RSS
+   #சித்திரமும் கைப் பழக்கம் - Atom சித்திரமும் கைப் பழக்கம் - RSS
 
 சித்திரமும் கைப் பழக்கம்
 

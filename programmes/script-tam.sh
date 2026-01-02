@@ -66,7 +66,7 @@ while read -r url; do
 
     aspiration_file="$ASPIRATIONS/lang${lang}-$i.html"
     # Récupération du code HTTP et du type MIME avec encodage
-    data=$(curl -s -i -L -w "%{http_code}\n%{content_type}" -o "$aspiration_file" "$url")
+    data=$(curl -s -L -w "%{http_code}\n%{content_type}" -o "$aspiration_file" "$url")
 
 
     http_code=$(echo "$data" | head -1)

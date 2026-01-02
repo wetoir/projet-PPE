@@ -1,33 +1,4 @@
-   HTTP/2 200 date: Fri, 02 Jan 2026 11:31:35 GMT server:
-   mw-web.eqiad.main-8f8dcf6c-g9d24 x-content-type-options: nosniff
-   content-language: ta accept-ch: last-modified: Sat, 27 Dec 2025
-   16:10:40 GMT content-type: text/html; charset=UTF-8 age: 16540
-   accept-ranges: bytes x-cache: cp6009 hit, cp6012 hit/12 x-cache-status:
-   hit-front server-timing: cache;desc="hit-front", host;desc="cp6012"
-   strict-transport-security: max-age=106384710; includeSubDomains;
-   preload report-to: { "group": "wm_nel", "max_age": 604800, "endpoints":
-   [{ "url":
-   "https://intake-logging.wikimedia.org/v1/events?stream=w3c.reportingapi
-   .network_error&schema_uri=/w3c/reportingapi/network_error/1.0.0" }] }
-   nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
-   0.05, "success_fraction": 0.0} set-cookie:
-   WMF-Last-Access=02-Jan-2026;Path=/;HttpOnly;secure;Expires=Tue, 03 Feb
-   2026 12:00:00 GMT set-cookie:
-   WMF-Last-Access-Global=02-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnl
-   y;secure;Expires=Tue, 03 Feb 2026 12:00:00 GMT set-cookie:
-   WMF-DP=6a2;Path=/;HttpOnly;secure;Expires=Sat, 03 Jan 2026 00:00:00 GMT
-   x-client-ip: 2a01:e0a:5a4:f120:6440:96c3:a3e5:4fc8 cache-control:
-   private, s-maxage=0, max-age=0, must-revalidate, no-transform vary:
-   Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
-   GeoIP=FR:NOR:Vernon:49.09:1.47:v4; Path=/; secure;
-   Domain=.wikipedia.org set-cookie:
-   NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
-   set-cookie:
-   WMF-Uniq=Ij-VJjayPs7zg519T_VxkQLcAAAAAFvdkQS1YzJVzmb2pTki8nqAJS6DeddicX
-   9A;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=S
-   at, 02 Jan 2027 00:00:00 GMT content-length: 215286 x-request-id:
-   a024309a-20d6-434a-819a-573ee2c2b388 #தொகு விக்கிப்பீடியா (ta)
-   விக்கிப்பீடியா ஆட்டம் (Atom) ஓடை
+   #தொகு விக்கிப்பீடியா (ta) விக்கிப்பீடியா ஆட்டம் (Atom) ஓடை
 
    உள்ளடக்கத்துக்குச் செல்
 

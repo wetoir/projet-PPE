@@ -1,14 +1,5 @@
-   HTTP/2 200 server: nginx date: Fri, 02 Jan 2026 16:07:14 GMT
-   content-type: text/html; charset=UTF-8 vary: Accept-Encoding x-hacker:
-   Want root? Visit join.a8c.com/hacker and mention this header.
-   host-header: WordPress.com vary: accept, content-type, cookie
-   last-modified: Fri, 02 Jan 2026 15:17:19 GMT cache-control:
-   max-age=300, must-revalidate x-nananana: Batcache-Set x-ac: 1.cdg _dca
-   STALE alt-svc: h3=":443"; ma=86400 strict-transport-security:
-   max-age=31536000 server-timing: a8c-cdn, dc;desc=cdg,
-   cache;desc=STALE;dur=2.0 #Ekalokam Trust for Photography » Feed
-   Ekalokam Trust for Photography » Comments Feed Ekalokam Trust for
-   Photography WordPress.com
+   #Ekalokam Trust for Photography » Feed Ekalokam Trust for Photography »
+   Comments Feed Ekalokam Trust for Photography WordPress.com
 
    Skip to content
 

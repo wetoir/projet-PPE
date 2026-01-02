@@ -1,17 +1,6 @@
-   HTTP/2 200 x-powered-by: PHP/8.1.33 content-type: text/html;
-   charset=UTF-8 x-pingback: https://trichymail.com/xmlrpc.php link:
-   /trichymail.com/wp-json/>; rel="https://api.w.org/" link:
-   /trichymail.com/wp-json/wp/v2/posts/2948>; rel="alternate";
-   title="JSON"; type="application/json" link: /trichymail.com/?p=2948>;
-   rel=shortlink date: Fri, 02 Jan 2026 16:06:57 GMT server: LiteSpeed
-   strict-transport-security: max-age=63072000; includeSubDomains
-   x-frame-options: SAMEORIGIN x-content-type-options: nosniff alt-svc:
-   h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443";
-   ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000,
-   quic=":443"; ma=2592000; v="43,46" #Trichy mail » Feed Trichy mail »
-   Comments Feed Trichy mail » “புகைப்படங்களுக்காக வாழ்பவர்கள்” – இவங்க
-   நம்ம ஊரு போட்டோகிராஃபர்ஸ்! Comments Feed oEmbed (JSON) oEmbed (XML)
-   JSON
+    #Trichy mail » Feed Trichy mail » Comments Feed Trichy mail »
+   “புகைப்படங்களுக்காக வாழ்பவர்கள்” – இவங்க நம்ம ஊரு போட்டோகிராஃபர்ஸ்!
+   Comments Feed oEmbed (JSON) oEmbed (XML) JSON
 
      * Likes
      * Followers
@@ -99,7 +88,7 @@
 “புகைப்படங்களுக்காக வாழ்பவர்கள்” – இவங்க நம்ம ஊரு போட்டோகிராஃபர்ஸ்!
 
    By TM Admin Last updated Aug 20, 2021
-   0 1,093
+   0 1,095
    Share
    Stalin trichy visit
 
@@ -298,7 +287,7 @@
 
    திருச்சி மெயில் செய்திகளை உடனுக்குடன் அறிய….
    https://chat.whatsapp.com/GIK8EHtoSzZArrJx8DcPlA
-   0 1,093
+   0 1,095
    Share FacebookTwitterGoogle+ReddItWhatsAppPinterestEmail
 
    TM Admin 9263 posts 0 comments

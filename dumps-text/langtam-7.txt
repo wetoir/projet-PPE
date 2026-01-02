@@ -1,15 +1,3 @@
-   HTTP/2 200 server: nginx/1.20.1 date: Fri, 02 Jan 2026 16:06:52 GMT
-   content-type: text/html; charset=UTF-8 x-powered-by: PHP/8.2.25
-   set-cookie: rl=1J3rX7Gf0h10S71H61J7; path=/; domain=.rssing.com;
-   HttpOnly access-control-allow-headers: origin, x-requested-with,
-   content-type access-control-allow-methods: *
-   access-control-allow-credentials: true vary:
-   CF-Connecting-IP,X-Nginx-Scheme,Accept-Encoding,Origin cache-control:
-   max-age=0 expires: Fri, 02 Jan 2026 16:06:51 GMT
-   content-security-policy-report-only: content-security-policy:
-   block-all-mixed-content strict-transport-security: max-age=63072000;
-   includeSubdomains x-content-type-options: nosniff
-
    Quantcast
 
      * Login

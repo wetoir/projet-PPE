@@ -1,10 +1,7 @@
-   x-content-type-options: nosniff x-xss-protection: 1; mode=block server:
-   GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
-   accept-ranges: none vary: Accept-Encoding #திரைப்படம் | பயணம் |
-   விளையாட்டு | புத்தகம் - Atom திரைப்படம் | பயணம் | விளையாட்டு | புத்தகம்
-   - RSS திரைப்படம் | பயணம் | விளையாட்டு | புத்தகம் - Atom
+   #திரைப்படம் | பயணம் | விளையாட்டு | புத்தகம் - Atom திரைப்படம் | பயணம் |
+   விளையாட்டு | புத்தகம் - RSS திரைப்படம் | பயணம் | விளையாட்டு | புத்தகம்
+   - Atom
 
-   Skip to main content
 --
    Search
 

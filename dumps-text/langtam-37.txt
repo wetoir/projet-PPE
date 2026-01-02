@@ -1,13 +1,5 @@
-   HTTP/2 200 x-powered-by: PHP/8.3.28 cache-control: no-cache
-   wpo-cache-status: cached last-modified: Fri, 02 Jan 2026 01:35:15 GMT
-   content-type: text/html; charset=UTF-8 date: Fri, 02 Jan 2026 16:07:10
-   GMT server: LiteSpeed strict-transport-security: max-age=63072000;
-   includeSubDomains x-frame-options: SAMEORIGIN x-content-type-options:
-   nosniff vary: User-Agent alt-svc: h3=":443"; ma=2592000, h3-29=":443";
-   ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000,
-   h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46" #ஹலோ
-   தமிழ் சினிமா. Hello Tamil Cinema. » Feed ஹலோ தமிழ் சினிமா. Hello Tamil
-   Cinema. » Comments Feed ஹலோ தமிழ் சினிமா. Hello Tamil Cinema. »
+   #ஹலோ தமிழ் சினிமா. Hello Tamil Cinema. » Feed ஹலோ தமிழ் சினிமா. Hello
+   Tamil Cinema. » Comments Feed ஹலோ தமிழ் சினிமா. Hello Tamil Cinema. »
    ரிவால்வர் ரீட்டா – சினிமா விமர்சனம் Comments Feed oEmbed (JSON) oEmbed
    (XML) JSON
 
