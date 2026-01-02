@@ -18,8 +18,9 @@ CONTEXTES="$PROJET/contextes"
 CONCORDANCES="$PROJET/concordances"
 ASPIRATIONS="$PROJET/aspirations"
 TABLEAUX="$PROJET/tableaux"
+PALS="$PROJET/pals"
 
-mkdir -p "$DUMPS" "$CONTEXTES" "$CONCORDANCES" "$TABLEAUX" "$ASPIRATIONS"
+mkdir -p "$DUMPS" "$CONTEXTES" "$CONCORDANCES" "$TABLEAUX" "$ASPIRATIONS" "$PALS"
 
 
 # Début du fichier HTML, on précise qu'on veut que le tamoul
@@ -141,8 +142,8 @@ echo "    </table>
 # awk = chaque mot sur une ligne mais fonctionne pas avec dumps
 # + ligne vide ajouté après une ponctuation forte
 
-output_file="$CONTEXTES/concatenation_contextes-${lang}.txt"
-> "$output_file"  # vide le fichier avant d'écrire
+output_contextes="$PALS/contextes-${lang}.txt"
+> "$output_contextes"  # vide le fichier avant d'écrire
 
 for file in "$CONTEXTES"/lang${lang}-*.txt; do
     awk '{
@@ -151,11 +152,11 @@ for file in "$CONTEXTES"/lang${lang}-*.txt; do
             print word
             if(word ~ /[.!?]$/) print ""
         }
-    }' "$file" >> "$output_file"
-    echo "" >> "$output_file"  # saut de ligne entre fichiers
+    }' "$file" >> "$output_contextes"
+    echo "" >> "$output_contextes"  # saut de ligne entre fichiers
 done
 
-output_dumps="$DUMPS/concatenation_dumps-${lang}.txt"
+output_dumps="$PALS/dumps-text-${lang}.txt"
 > "$output_dumps"
 
 for file in "$DUMPS"/lang${lang}-*.txt; do
