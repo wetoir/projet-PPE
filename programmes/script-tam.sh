@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+export LC_ALL=C.UTF-8
+export LANG=C.UTF-8
+
+
 # Vérification du nombre d'arguments
 if [ $# -ne 1 ]; then
     echo "Le script attend exactement un argument : fichier contenant les URLs"
@@ -102,8 +106,8 @@ while read -r url; do
     concordance_file="$CONCORDANCES/lang${lang}-$i.html"
     echo "<html><body><table border='1'><tr><th>Gauche</th><th>Mot</th><th>Droite</th></tr>" > "$concordance_file"
     while read -r line_context; do
-        gauche=$(echo "$line_context" | sed 's/\(.*\)\$mot\b.*/\1/')
-        droite=$(echo "$line_context" | sed 's/.*\$mot\b\(.*\)/\1/')
+        gauche=$(echo "$line_context" | sed "s/\(.*\)$mot.*/\1/")
+        droite=$(echo "$line_context" | sed "s/.*$mot\(.*\)/\1/")
         echo "<tr><td>$gauche</td><td>$mot</td><td>$droite</td></tr>" >> "$concordance_file"
     done < "$contexte_file"
     echo "</table></body></html>" >> "$concordance_file"
@@ -134,7 +138,37 @@ echo "    </table>
 </body>
 </html>" >> "$tableau"
 
-cat "$DUMPS"/lang${lang}-*.txt > "$DUMPS/concatenation_dumps-text-${lang}.txt"
-cat "$CONTEXTES"/lang${lang}-*.txt > "$CONTEXTES/concatenation_contextes-${lang}.txt"
+# awk = chaque mot sur une ligne mais fonctionne pas avec dumps
+# + ligne vide ajouté après une ponctuation forte
+
+output_file="$CONTEXTES/concatenation_contextes-${lang}.txt"
+> "$output_file"  # vide le fichier avant d'écrire
+
+for file in "$CONTEXTES"/lang${lang}-*.txt; do
+    awk '{
+        for(i=1;i<=NF;i++){
+            word=$i
+            print word
+            if(word ~ /[.!?]$/) print ""
+        }
+    }' "$file" >> "$output_file"
+    echo "" >> "$output_file"  # saut de ligne entre fichiers
+done
+
+output_dumps="$DUMPS/concatenation_dumps-${lang}.txt"
+> "$output_dumps"
+
+for file in "$DUMPS"/lang${lang}-*.txt; do
+    awk '{
+        for(i=1;i<=NF;i++){
+            word=$i
+            print word
+            if(word ~ /[.!?]$/) print ""
+        }
+    }' "$file" >> "$output_dumps"
+    echo "" >> "$output_dumps"  # saut de ligne entre fichiers
+done
+
+
 
 

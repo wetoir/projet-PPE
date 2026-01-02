@@ -2,7 +2,7 @@
    https://www.tamizhvalai.com/xmlrpc.php link:
    /www.tamizhvalai.com/wp-json/>; rel="https://api.w.org/" link:
    /www.tamizhvalai.com/?p=39260>; rel=shortlink date: Fri, 02 Jan 2026
-   14:15:47 GMT server: LiteSpeed alt-svc: h3=":443"; ma=2592000,
+   16:07:13 GMT server: LiteSpeed alt-svc: h3=":443"; ma=2592000,
    h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443";
    ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000;
    v="43,46" #RSS .92 RSS 2.0 தமிழ் வலை » Feed தமிழ் வலை » Comments Feed
@@ -153,6 +153,11 @@ Leave a Response Cancel reply
 
      *
 
+சென்னையில் உலகின் முன்னணி அழகியல் உடல்வடிவமைப்பு நுட்பம் – விவரம்
+          + சமுதாயம்
+          + /January 2, 2026
+     *
+
 எடப்பாடியும் ஓபிஎஸ்ஸும் இணைய வேண்டும் – நயினார் திடீர் விருப்பம்
           + Slide
           + /January 2, 2026
@@ -196,10 +201,5 @@ Leave a Response Cancel reply
      *
 
 விஜய் கட்சியுடன் கூட்டணி வைக்க டிடிவி.தினகரன் வைத்த நிபந்தனை
-          + Slide
-          + /December 27, 2025
-     *
-
-11 ஆண்டுகள் கழித்து கிறிஸ்துமஸ் விழாவில் மோடி – அதிர்ச்சிப் பின்னணி
           + Slide
           + /December 27, 2025

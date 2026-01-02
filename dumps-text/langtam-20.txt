@@ -1,15 +1,10 @@
-   HTTP/2 200 content-security-policy: upgrade-insecure-requests
-   content-security-policy-report-only: default-src https: blob: data:
-   'unsafe-inline' 'unsafe-eval'; report-to blogspot; report-uri
-   https://www.blogger.com/cspreport report-to:
-   {"group":"blogspot","max_age":2592000,"endpoints":[{"url":"https://www.
-   blogger.com/cspreport"}]} content-type: text/html; charset=UTF-8
-   expires: Fri, 02 Jan 2026 14:15:34 GMT date: Fri, 02 Jan 2026 14:15:34
-   GMT cache-control: private, max-age=0 last-modified: Wed, 19 Nov 2025
-   13:46:57 GMT x-content-type-options: nosniff x-xss-protection: 1;
-   mode=block server: GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443";
-   ma=2592000 accept-ranges: none vary: Accept-Encoding #ஊர் காவலன் - Atom
-   ஊர் காவலன் - RSS ஊர் காவலன் - Atom
+   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Fri, 02 Jan
+   2026 16:06:59 GMT date: Fri, 02 Jan 2026 16:06:59 GMT cache-control:
+   private, max-age=0 last-modified: Wed, 19 Nov 2025 13:46:57 GMT
+   x-content-type-options: nosniff x-xss-protection: 1; mode=block server:
+   GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+   accept-ranges: none vary: Accept-Encoding #ஊர் காவலன் - Atom ஊர் காவலன்
+   - RSS ஊர் காவலன் - Atom
 
 ஊர் காவலன்
 
@@ -102,9 +97,9 @@
    ஊக்கப்படுத்துமாறு கேட்டுக்கொள்கிறேன். இந்த தளம் உங்களுக்கு
    பிடித்திருந்தால் உங்கள் நண்பர்களுக்கும் அறிமுகப்படுத்தவும்).
    என்றும் அன்புடன்
-   [AEn0k_vjOHNcVx_cM-CFdKd4At3-T6sqnhVu5pfYh6efeFsohod9pOAl5xvF6aqU9WtjRT
-   mo3wXBB0gfq88kLjnye3B9vAaiG8s-p-gb5_mqNCXHim44Dt786f2BHCp61jICgF3dV1xIk
-   yva4VDUDmuNLq2ZIND9qaS_EQ=s0-d]
+   [AEn0k_uAOoAGtNmtDxJYtOVADWcaA-ndta4yrMv_tCFDykQXsMbKu6xexKWU2BtRA_Lrbs
+   xq-x5c7NcdY3WRKBqgxRBHPUebg98V4Iq1WoxPZogvzORMKqyZWafsp4EDr3OotPVikrq6E
+   7mkLIqYRXWJ8RbM9FGrflYDuQ=s0-d]
    Posted by N.H. Narasimma Prasad at திங்கள், ஜூன் 11, 2012
    இதை மின்னஞ்சல் செய்கBlogThis!Xஸில் பகிர்Facebook இல் பகிர்Pinterest இல்
    பகிர்

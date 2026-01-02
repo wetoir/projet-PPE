@@ -1,10 +1,15 @@
-   HTTP/2 200 content-type: text/html; charset=UTF-8 expires: Fri, 02 Jan
-   2026 14:15:35 GMT date: Fri, 02 Jan 2026 14:15:35 GMT cache-control:
-   private, max-age=0 last-modified: Wed, 19 Nov 2025 13:46:57 GMT
-   x-content-type-options: nosniff x-xss-protection: 1; mode=block server:
-   GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
-   accept-ranges: none vary: Accept-Encoding #ஊர் காவலன் - Atom ஊர் காவலன்
-   - RSS
+   HTTP/2 200 content-security-policy: upgrade-insecure-requests
+   content-security-policy-report-only: default-src https: blob: data:
+   'unsafe-inline' 'unsafe-eval'; report-to blogspot; report-uri
+   https://www.blogger.com/cspreport report-to:
+   {"group":"blogspot","max_age":2592000,"endpoints":[{"url":"https://www.
+   blogger.com/cspreport"}]} content-type: text/html; charset=UTF-8
+   expires: Fri, 02 Jan 2026 16:07:00 GMT date: Fri, 02 Jan 2026 16:07:00
+   GMT cache-control: private, max-age=0 last-modified: Wed, 19 Nov 2025
+   13:46:57 GMT x-content-type-options: nosniff x-xss-protection: 1;
+   mode=block server: GSE alt-svc: h3=":443"; ma=2592000,h3-29=":443";
+   ma=2592000 accept-ranges: none vary: Accept-Encoding #ஊர் காவலன் - Atom
+   ஊர் காவலன் - RSS
 
 ஊர் காவலன்
 
