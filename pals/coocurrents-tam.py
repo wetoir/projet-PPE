@@ -93,7 +93,6 @@ def read_corpus(
     do_fold = case_sensitivity in ('i', 'insensitive')
 
     for source in progress(sources):
-        # Ouverture du fichier avec gestion des erreurs d'encodage
         with open(source, encoding='utf-8', errors='ignore') as input_stream:
             for line in input_stream:
                 line = line.strip()
@@ -117,7 +116,6 @@ def read_corpus(
     return tokens, sentences, target_indices
 
 
-
 def get_counts(tokens: list[str], sentences: list[tuple[int,int]], target_indices: list[int],
                context_length: int, ignore_sentences: bool = False, tool_emulation: str='None'):
     T = len(tokens)
@@ -139,9 +137,9 @@ def get_counts(tokens: list[str], sentences: list[tuple[int,int]], target_indice
             if not indices:
                 break
 
-        for sentence, indices in sents:
+        for sentence, indices_ in sents:
             start, end = sentence
-            for idx in indices:
+            for idx in indices_:
                 lst = [item for item in range(max(idx - context_length, start),
                                               min(idx + context_length + 1, end)) if item != idx]
                 fs_tmp.update(lst)
@@ -208,24 +206,33 @@ def run(inputs: list[str | Path], target: str, match_mode: str='exact', n_firsts
         target = f'{match_mode}={target}'
         shape_counts.insert(0, [target, target_count])
 
-    print(file=sys.stderr)
-    print('target', 'frequency', sep='\t', file=sys.stderr)
-    for shape, count in shape_counts:
-        print(shape, count, sep='\t', file=sys.stderr)
-    print(file=sys.stderr)
+    # 📁 fichier de sortie
+    SCRIPT_DIR = Path(__file__).parent
+    resultat_file = SCRIPT_DIR / 'resultats-cooccurrents-tam.txt'
 
-    print('token', 'corpus size', 'all contexts size', 'frequency', 'co-frequency', 'specificity', sep='\t')
-    n_firsts = (n_firsts if n_firsts > 0 else len(data))
-    for token, tok_F, tok_f, tok_specif in data[:n_firsts]:
-        print(token, T, t, tok_F, tok_f, f'{tok_specif:.2f}', sep='\t')
+    with open(resultat_file, 'w', encoding='utf-8') as f:
+        # infos sur le target (toujours dans stderr)
+        print(file=sys.stderr)
+        print('target', 'frequency', sep='\t', file=sys.stderr)
+        for shape, count in shape_counts:
+            print(shape, count, sep='\t', file=sys.stderr)
+        print(file=sys.stderr)
+
+        # header des résultats dans le fichier
+        print('token', 'corpus size', 'all contexts size', 'frequency', 'co-frequency', 'specificity', sep='\t', file=f)
+        n_firsts = (n_firsts if n_firsts > 0 else len(data))
+        for token, tok_F, tok_f, tok_specif in data[:n_firsts]:
+            print(token, T, t, tok_F, tok_f, f'{tok_specif:.2f}', sep='\t', file=f)
+
+    print(f"\nRésultats enregistrés dans {resultat_file}", file=sys.stderr)
 
 
 def main(argv=None):
     import argparse
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawTextHelpFormatter)
 
-    PROJET = Path.home() / "projet-PPE"
-    DUMP_FILE = PROJET / "dumps-text" / "concatenation_dumps-tam.txt"
+    PROJET = Path.home() / "projet-PPE" / "pals"
+    DUMP_FILE = PROJET / "dumps-text-tam.txt"
 
     parser.add_argument('inputs', nargs='*', help='The parts of the corpus (list of files/folders)')
     parser.add_argument('--target', required=True, help='The target item')
