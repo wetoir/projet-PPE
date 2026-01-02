@@ -1,11 +1,11 @@
-   HTTP/2 200 server: nginx date: Fri, 02 Jan 2026 13:37:58 GMT
+   HTTP/2 200 server: nginx date: Fri, 02 Jan 2026 14:15:37 GMT
    content-type: text/html; charset=UTF-8 strict-transport-security:
    max-age=31536000 vary: Accept-Encoding x-hacker: Want root? Visit
    join.a8c.com/hacker and mention this header. host-header: WordPress.com
    vary: accept, content-type, cookie x-pingback:
    https://kadhaisolgiren.com/xmlrpc.php link: /wp.me/pcbJpq-Nc>;
    rel=shortlink x-ac: 2.cdg _dca STALE alt-svc: h3=":443"; ma=86400
-   server-timing: a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=1.0 #கதை
+   server-timing: a8c-cdn, dc;desc=cdg, cache;desc=STALE;dur=2.0 #கதை
    சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories » Feed கதை
    சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories » Comments Feed கதை
    சொல்கிறேன் | தமிழ் சிறுகதைகள் | Tamil Short Stories » வெண்ணிற

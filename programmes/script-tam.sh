@@ -134,4 +134,7 @@ echo "    </table>
 </body>
 </html>" >> "$tableau"
 
+cat "$DUMPS"/lang${lang}-*.txt > "$DUMPS/concatenation_dumps-text-${lang}.txt"
+cat "$CONTEXTES"/lang${lang}-*.txt > "$CONTEXTES/concatenation_contextes-${lang}.txt"
+
 

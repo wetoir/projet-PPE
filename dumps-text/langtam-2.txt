@@ -24,7 +24,7 @@
    object-src 'none'; report-uri
    /w/api.php?action=cspreport&format=json&reportonly=1 last-modified:
    Fri, 19 Dec 2025 11:30:59 GMT content-type: text/html; charset=UTF-8
-   age: 7604 accept-ranges: bytes x-cache: cp6009 hit, cp6012 hit/3
+   age: 9860 accept-ranges: bytes x-cache: cp6009 hit, cp6012 hit/4
    x-cache-status: hit-front server-timing: cache;desc="hit-front",
    host;desc="cp6012" strict-transport-security: max-age=106384710;
    includeSubDomains; preload report-to: { "group": "wm_nel", "max_age":
@@ -45,10 +45,10 @@
    Domain=.wiktionary.org set-cookie:
    NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
    set-cookie:
-   WMF-Uniq=m5uVEqs5kZOTcWiXpXBHRwLcAAAAAFvdA4--iCXiKPvwg0uHaioemAwaJdF6Or
-   q3;Domain=.wiktionary.org;Path=/;HttpOnly;secure;SameSite=None;Expires=
+   WMF-Uniq=7yOMSfU4SC4kEk7UT5vm_gLcAAAAAFvdkH_0n5PMsNmITSiiY_vcUceu7biY1Q
+   TE;Domain=.wiktionary.org;Path=/;HttpOnly;secure;SameSite=None;Expires=
    Sat, 02 Jan 2027 00:00:00 GMT content-length: 76120 x-request-id:
-   8b050192-7774-4023-b95e-f61591ee9b60 #தொகு விக்சனரி (ta) விக்சனரி
+   023c1216-2089-4888-bb53-33c57a2cb07f #தொகு விக்சனரி (ta) விக்சனரி
    ஆட்டம் (Atom) ஓடை
 
    உள்ளடக்கத்துக்குச் செல்

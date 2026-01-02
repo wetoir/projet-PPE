@@ -1,4 +1,4 @@
-   HTTP/2 200 date: Fri, 02 Jan 2026 13:37:44 GMT content-type: text/html;
+   HTTP/2 200 date: Fri, 02 Jan 2026 14:15:21 GMT content-type: text/html;
    charset=UTF-8 vary: Accept-Encoding x-powered-by: PHP/8.2.28
    x-dns-prefetch-control: on link: /cinepettai.com/wp-json/>;
    rel="https://api.w.org/" link:
@@ -6,11 +6,11 @@
    title="JSON"; type="application/json" link: /cinepettai.com/?p=32099>;
    rel=shortlink etag: W/"178681-1767219135;gz" x-litespeed-cache: hit
    platform: hostinger panel: hpanel content-security-policy:
-   upgrade-insecure-requests age: 2723 server: hcdn alt-svc: h3=":443";
-   ma=86400 x-hcdn-request-id: 0a845e9ca59b34c263a85bdc16f1078e-int-edge6
-   x-hcdn-cache-status: HIT #Cinepettai » Feed Cinepettai » Comments Feed
-   Cinepettai » Stories Feed JSON oEmbed (JSON) oEmbed (XML) Cinepettai
-   Feed
+   upgrade-insecure-requests server: hcdn alt-svc: h3=":443"; ma=86400
+   x-hcdn-request-id: 6ba543897542a3e3e88149117fe8617d-int-edge3
+   x-hcdn-cache-status: MISS x-hcdn-upstream-rt: 0.803 #Cinepettai » Feed
+   Cinepettai » Comments Feed Cinepettai » Stories Feed JSON oEmbed (JSON)
+   oEmbed (XML) Cinepettai Feed
 
    Thursday, January 1, 2026
    Cinepettai

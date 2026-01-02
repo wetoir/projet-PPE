@@ -1,4 +1,4 @@
-   HTTP/2 200 server: nginx date: Fri, 02 Jan 2026 13:38:03 GMT
+   HTTP/2 200 server: nginx date: Fri, 02 Jan 2026 14:15:43 GMT
    content-type: text/html; charset=UTF-8 vary: Accept-Encoding x-hacker:
    Want root? Visit join.a8c.com/hacker and mention this header.
    host-header: WordPress.com vary: accept, content-type, cookie link:
@@ -667,7 +667,7 @@ Hello world!
    and start blogging!
      __________________________________________________________________
 
-   Blogg på WordPress.com.
+   Skapa en gratis webbplats eller blogg på WordPress.com.
 
      * Prenumerera Prenumererad
           + Arrowoftheatre Blog

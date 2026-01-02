@@ -1,17 +1,18 @@
-   HTTP/2 200 date: Fri, 02 Jan 2026 13:38:00 GMT content-type: text/html;
+   HTTP/2 200 date: Fri, 02 Jan 2026 14:15:41 GMT content-type: text/html;
    charset=utf-8 server: cloudflare x-powered-by: PHP/8.2.28
    x-frame-options: SAMEORIGIN referrer-policy:
    strict-origin-when-cross-origin cross-origin-opener-policy: same-origin
-   expires: Wed, 17 Aug 2005 00:00:00 GMT cache-control: no-cache pragma:
-   no-cache vary: Accept-Encoding set-cookie:
-   3ac78a556fbf45dfe792e93034823567=83gaa4p728u2780m1fc9eicrma; path=/;
-   HttpOnly last-modified: Fri, 02 Jan 2026 13:32:27 GMT report-to:
+   expires: Wed, 17 Aug 2005 00:00:00 GMT cache-control: no-store,
+   no-cache, must-revalidate, post-check=0, pre-check=0 pragma: no-cache
+   set-cookie:
+   3ac78a556fbf45dfe792e93034823567=aiqlh2rq1mdurvhqq9jhm73p00; path=/;
+   HttpOnly last-modified: Fri, 02 Jan 2026 14:15:41 GMT report-to:
    {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=P%2Fu1cArB1KngBhVOi26mDcXkJiTdrhGs8U%2Fs7I66G
-   I3BiEROzCeF%2Faet4GPNwMkqqLDX75rL53rDTEkhfFfCOvgYpiKFnVyG6Rf718rYES05aR
-   oaI0K6GQ%3D%3D"}]} nel:
+   loudflare.com/report/v4?s=dV2att5q6YGZdMLOvhp9zS%2BQbt3uCzQ%2FuABzbxC3K
+   xEXbUbVcaRH4YI%2BiZg11QRbEldcpt5PH0R0Xzo%2FkonQPFdjaXKtMIaBNfUxE9XySN17
+   uRFTkZYOag%3D%3D"}]} nel:
    {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-   cf-cache-status: DYNAMIC cf-ray: 9b7aa780f85b3ce6-CDG alt-svc:
+   cf-cache-status: DYNAMIC cf-ray: 9b7adea9dbb69990-CDG alt-svc:
    h3=":443"; ma=86400
 
      * இலக்கியம்
@@ -200,17 +201,16 @@
 தொடர்புடைய படைப்புகள்
 
      * மாநில தன்னாட்சி உரிமை
-     * எனது 95வது பிறந்தநாள் செய்தி
-     * மாநில உரிமைகளைப் பறிக்காதே! கல்வி உரிமைகளைத் தடுக்காதே! மத வெறியைத்
-       திணிக்காதே!
-     * இந்தியாவின் ஒற்றுமையைப் பாதுகாப்பார்களா? சீர்குலைப்பார்களா?
-     * தமிழ் வாழ்க! இந்தி வீழ்க!
-     * மீண்டெழும் மாநில சுயாட்சி மாநாட்டின் அறைகூவல்…
-     * தமிழ்நாடு இழந்த உரிமைகள்: ஒரு சுருக்கமான வரலாறு (1)
-     * ‘சுதந்திர இந்தியாவில்’ பறிக்கப்பட்ட மாநில உரிமைகள்
+     * சமூகநீதியைச் சீர்குலைக்கும் ஒன்றிய அரசின் ஆபத்தான போக்கு
+     * மாநில உரிமை - இறுதிப் பேருரையின் மையப் புள்ளி
      * முன்னமே மென்று துப்பிய இந்தியத்தின் தீர்வுகளைப் பேசுவது தமிழ்த்
        தேசியம் ஆகுமா?
+     * கூட்டாட்சிக் கட்டமைப்பைச் சீர்குலைக்கும் பா.ஜ.க.
+     * ஆபத்தில் கூட்டாட்சி
+     * தமிழ்நாடு அரசும் ஆளுநர் ரவியும்!
      * சுயமரியாதையின் அடையாளம் மாநில சுயாட்சி
+     * ஒன்றிய அரசு
+     * தமிழ் வாழ்க! இந்தி வீழ்க!
 
 அரசியல் சட்டத்தில் மாநில சுயாட்சி இடம் பெறாமல் போனது ஏன்?
 

@@ -3,7 +3,7 @@
    /trichymail.com/wp-json/>; rel="https://api.w.org/" link:
    /trichymail.com/wp-json/wp/v2/posts/2948>; rel="alternate";
    title="JSON"; type="application/json" link: /trichymail.com/?p=2948>;
-   rel=shortlink date: Fri, 02 Jan 2026 13:37:54 GMT server: LiteSpeed
+   rel=shortlink date: Fri, 02 Jan 2026 14:15:31 GMT server: LiteSpeed
    strict-transport-security: max-age=63072000; includeSubDomains
    x-frame-options: SAMEORIGIN x-content-type-options: nosniff alt-svc:
    h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443";
@@ -99,7 +99,7 @@
 “புகைப்படங்களுக்காக வாழ்பவர்கள்” – இவங்க நம்ம ஊரு போட்டோகிராஃபர்ஸ்!
 
    By TM Admin Last updated Aug 20, 2021
-   0 1,083
+   0 1,084
    Share
    Stalin trichy visit
 
@@ -298,7 +298,7 @@
 
    திருச்சி மெயில் செய்திகளை உடனுக்குடன் அறிய….
    https://chat.whatsapp.com/GIK8EHtoSzZArrJx8DcPlA
-   0 1,083
+   0 1,084
    Share FacebookTwitterGoogle+ReddItWhatsAppPinterestEmail
 
    TM Admin 9263 posts 0 comments
@@ -362,11 +362,11 @@
    திருச்சி
 
    முதல்வர் மு.க.ஸ்டாலினுக்கு புத்தகம் வழங்கி வரவேற்ற…
-   TM Editor 5 hours ago 0
+   TM Editor 6 hours ago 0
    திருச்சி
 
    மதிமுக பொதுச்செயலாளர் வைகோவின் சமத்துவ நடைபயணம் :…
-   TM Editor 5 hours ago 0
+   TM Editor 6 hours ago 0
    திருச்சி
 
    தூய்மைப் பணியாளர்களுக்கு இனிப்புகள் : மாமன்ற உறுப்பினர்…
