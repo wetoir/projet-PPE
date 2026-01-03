@@ -9,7 +9,7 @@ from collections import Counter
 # --- Dossiers et fichiers ---
 SCRIPT_DIR = Path(__file__).parent
 dump_file = SCRIPT_DIR.parent / 'pals' / 'dumps-text-tam.txt'
-stopwords_file = SCRIPT_DIR / 'stopwords.txt'
+stopwords_file = SCRIPT_DIR / 'stopwords-tam.txt'
 images_dir = SCRIPT_DIR.parent / 'images'
 images_dir.mkdir(exist_ok=True)
 

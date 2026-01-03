@@ -223,18 +223,21 @@ for file in "$DUMPS"/lang${lang}-*.txt; do
 done
 
 #version de concatenation specialement pour le dump afin de respecter mise en page de la fiche exercice
-concat_v_bigram="$BIGRAMMES/concatenation-v-bigramme.txt"
+concat_v_bigram="$BIGRAMMES/concatenation-v-bigramme-tam.txt"
 > "$concat_v_bigram"
 
 j=1
-for file in "$DUMPS"/lang${lang}-*.txt; do
+for file in "$BIGRAMMES"/langtam-*.txt; do
     echo "#URL$j" >> "$concat_v_bigram"
-    # Supprime les lignes vides, remplace les retours à la ligne par des espaces
-    # puis extrait les mots Unicode complets
-    tr '\n' ' ' < "$file" | perl -CSD -nE 'while (/\p{L}+/g) { say $& }' >> "$concat_v_bigram"
+    # chaque mot sur une ligne, lignes vides séparant les fichiers
+    awk '{
+        for(i=1;i<=NF;i++)
+            print $i
+    }' "$file" >> "$concat_v_bigram"
     echo "" >> "$concat_v_bigram"  # saut de ligne entre fichiers
     j=$((j+1))
 done
+
 
 
 
