@@ -71,8 +71,8 @@ do
     # nbmots=$(cat ./.data.tmp | lynx -dump -nolist -stdin | wc -w)
     dump_file="$DUMP/lang${LANG}_$lineno.txt" 
     dump=$(lynx -dump -nolist "$aspi_file" > "$dump_file")
-    nbOcc=$(cat "$dump_file" | grep -ic $MOT)
-    concor=$()
+    nbOcc=$(grep -Fic "$MOT" "$dump_file")
+    concor="N/A"
 
 	echo -e "							<tr>
 								<td>$lineno</td>
@@ -80,8 +80,8 @@ do
 								<td>$http_code</td>
 								<td>$encoding</td>
 								<td>$nbOcc</td>
-                                <td>$aspi_file</td>
-                                <td>$dump</td>
+                                <td><a href="$aspi_file">HTML</a></td>
+                                <td><a href="$dump_file">Dump</a></td>
                                 <td>$concor</td>
 							</tr>" >> "$TAB"
 
