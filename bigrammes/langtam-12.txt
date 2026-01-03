@@ -143,6 +143,7 @@
 1 வேல என்
 1 வேறவேற சிங்கர்ஸ்
 1 வேற யாரும்
+1 வேர்ட்பிரஸ்காம் இல்
 1 வேண்டும் என்றும்
 1 வேண்டும் என
 1 வேண்டிய நல்ல
@@ -1814,6 +1815,7 @@
 1 இல்லங்க நம்ம
 1 இல்ல போடனுமேன்னு
 1 இல்ல ஏதோ
+1 இல் வலைப்பதிவு
 1 இல் how
 1 இல் Zacharysportsdomain9…
 1 இல் Marutham
@@ -2154,7 +2156,6 @@
 1 » செய்தியோடை
 1 « முந்தைய
 1 with WordPresscom
-1 website or
 1 up power…
 1 up Sign
 1 to be
@@ -2164,7 +2165,6 @@
 1 step up
 1 site like
 1 site in
-1 or blog
 1 mp3 ரிங்டோன்
 1 like this
 1 in மத்தது
@@ -2175,19 +2175,15 @@
 1 in Reader
 1 how a
 1 have a
-1 free website
 1 download பண்ணி
-1 blog at
 1 be an
 1 avatar வீட்டுக்குள்ள
 1 avatar ரம்மிய
 1 avatar மொழி
-1 at WordPresscom
 1 an Indian…
 1 account Log
 1 a step
 1 a site
-1 a free
 1 a WordPresscom
 1 a Comment
 1 WordPresscom account
@@ -2210,7 +2206,6 @@
 1 Indian… இல்
 1 Free Software
 1 Design a
-1 Create a
 1 Collapse this
 1 As மூலமா
 1 Already have

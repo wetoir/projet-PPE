@@ -135,13 +135,17 @@ END {
     contexte_file="$CONTEXTES/lang${lang}-$i.txt"  #le $lang correspond tout simplement à la variable crée plus haut qui récupère le chiffre après lang-
     grep -B2 -A2 -i "$mot" "$dump_file" > "$contexte_file"
 
+
+    #coloration pour le concordancier
+    mot_colore="<span style='color:pink;font-weight:bold;'>$mot</span>"
+
     # Concordance gauche/droite pour chaque occurence
     concordance_file="$CONCORDANCES/lang${lang}-$i.html"
     echo "<html><body><table border='1'><tr><th>Gauche</th><th>Mot</th><th>Droite</th></tr>" > "$concordance_file"
     while read -r line_context; do
         gauche=$(echo "$line_context" | sed "s/\(.*\)$mot.*/\1/")
         droite=$(echo "$line_context" | sed "s/.*$mot\(.*\)/\1/")
-        echo "<tr><td>$gauche</td><td>$mot</td><td>$droite</td></tr>" >> "$concordance_file"
+        echo "<tr><td>$gauche</td><td>$mot_colore</td><td>$droite</td></tr>" >> "$concordance_file"
     done < "$contexte_file"
     echo "</table></body></html>" >> "$concordance_file"
 
