@@ -1,0 +1,75 @@
+# Sitemap location
+Sitemap: https://www.giriblog.com/sitemap_index.xml
+
+# Twitterbot settings
+User-agent: Twitterbot
+Disallow: *
+Allow: /wp-content/uploads/*
+
+# General user-agent settings
+User-agent: *
+
+# Disallow unnecessary or duplicate pages
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/  # Disallow all of wp-content except uploads
+Disallow: /go/
+Disallow: /archives/
+Disallow: /author
+Disallow: /comments/feed/
+
+# Allow necessary assets for all user agents
+Allow: /wp-content/uploads/
+Allow: /wp-content/themes/
+Allow: /wp-content/plugins/
+Allow: /wp-includes/js/
+Allow: /wp-includes/css/
+
+# Googlebot settings
+User-agent: Googlebot
+Allow: *.js
+Allow: *.css
+
+# Mediapartners-Google (AdSense bots)
+User-agent: Mediapartners-Google
+Disallow:
+Allow: /*
+
+# Googlebot-Image (Image crawling settings)
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+
+# Adsbot-Google (Google Ads Bot)
+User-agent: Adsbot-Google
+Allow: /
+
+# Googlebot-Mobile (Mobile bot settings)
+User-agent: Googlebot-Mobile
+Allow: /
+
+# Allow Google AI to use content for Discover/Gemini
+User-agent: Google-Extended
+Allow: /
+
+# Block other AI crawlers from using content to train models
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /

@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://kalkionline.com/sitemap.xml
+Sitemap: https://kalkionline.com/news_sitemap.xml
+Allow: /

@@ -20,8 +20,10 @@ ASPIRATIONS="$PROJET/aspirations"
 TABLEAUX="$PROJET/tableaux"
 PALS="$PROJET/pals"
 BIGRAMMES="$PROJET/bigrammes"
+ROBOTS="$PROJET/robots"
+BLACKLISTS="$ROBOTS/blacklists"
 
-mkdir -p "$DUMPS" "$CONTEXTES" "$CONCORDANCES" "$TABLEAUX" "$ASPIRATIONS" "$PALS" "$BIGRAMMES"
+mkdir -p "$DUMPS" "$CONTEXTES" "$CONCORDANCES" "$TABLEAUX" "$ASPIRATIONS" "$PALS" "$BIGRAMMES" "$ROBOTS" "$BLACKLISTS"
 
 
 # Début du fichier HTML, on précise qu'on veut que le tamoul
@@ -47,6 +49,7 @@ echo "<html>
         <tr>
             <th>Numero</th>
             <th>URL</th>
+            <th>Robots.txt</th>
             <th>Code HTTP</th>
             <th>Encodage</th>
             <th>Aspirations</th>
@@ -58,11 +61,15 @@ echo "<html>
             <th>Bigrammes</th>
         </tr>" > "$tableau" # redirection pour obtenir les fichiers
 
-i=1
+
 
 for fichier_urls in $dossier_urls/lang${lang}*.txt; do #K = oublie tout ce qu'il y a avant dans le match. \d+ = un ou plusieurs chiffre => extrait uniquement après lang-
     # il n'a rien avoir avec le for, car le for dit déjà "pour chaque fichier dans url prend le et prend également le chiffre derrière" donc i=1 sert juste pour rajouter un chiffre pour les contextes
     #baseme = extrait uniquement le nom du fichier, sans le chemin du dossier
+
+    blacklist_file="$BLACKLISTS/$(basename "$fichier_urls")-blacklist"
+
+    i=1
 
 while read -r url; do
     echo "Traitement de $url ..." >&2
@@ -138,10 +145,25 @@ END {
     done < "$contexte_file"
     echo "</table></body></html>" >> "$concordance_file"
 
+
+
+    if [ -f "$blacklist_file" ]; then
+            if grep -Fxqi "$url NON" "$blacklist_file"; then
+                autorisation="NON"
+            else
+                autorisation="OUI"
+            fi
+        else
+            autorisation="OUI"
+    fi
+
+
+
     # Ajout de la ligne dans le tableau HTML principal
     echo "        <tr>
             <td>$lineno</td>
             <td><a href='$url'>$url</a></td>
+            <td>$autorisation</td>
             <td>$http_code</td>
             <td>$encoding</td>
             <td><a href='$aspiration_file'>html</a></td>

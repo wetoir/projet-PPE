@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+Disallow: /temp
+Disallow: /amphtml/temp/ 
+Disallow: /?utm=
+Disallow: /404.html
+Disallow: /scripts/
+Disallow: /videos/amphtml/
+Disallow: /videos/amphtml/*
+Disallow: /videos/search-videos/
+Disallow: /videos/next-videos.html
+Disallow: /promos/
+Disallow: /cdn-cgi/
+Disallow: /izooto/
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+Disallow: /press-releases/*
+User-agent: grapeshot
+Disallow:
+
+
+Sitemap: https://tamil.filmibeat.com/sitemap_index.xml
+Sitemap: https://tamil.filmibeat.com/sitemap-latest.xml
+Sitemap: https://tamil.filmibeat.com/sitemap_news.xml
+Sitemap: https://tamil.filmibeat.com/sitemap/popcorn/sitemap-index.xml
+Sitemap: https://tamil.filmibeat.com/sitemap-images-index.xml
+Sitemap: https://tamil.filmibeat.com/sitemap-categories.xml
