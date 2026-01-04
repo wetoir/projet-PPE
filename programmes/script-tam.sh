@@ -41,6 +41,7 @@ echo "<html>
 </head>
 <body>
         <nav class="tabs is-centered mb-0">
+        <ul>
             <li><a href="../index.html">Acceuil</a></li>
             <li><a href="../pages/presentation.html">Présentation</a></li>
             <li><a href="../pages/analyse.html">Analyse</a></li>
@@ -51,6 +52,7 @@ echo "<html>
                     <li><a href="../tableaux/langfr.html">Français</a></li>
                     <li><a href="../tableaux/langtam.html">Tamoul</a></li>
                     <li><a href="../tableaux/tableauVn.html">Vietnamien</a></li>
+            </ul>
                 </div>
             </div>
         </nav>
@@ -64,7 +66,7 @@ echo "<html>
         <!-- ContenuPrincipal -->
 		<section class="section">
 			<div class="card">
-				<p class="card-header-title">Tableau pour 'image' en TAMOUL /p>
+				<p class="card-header-title">Tableau pour 'image' en TAMOUL </p>
 				<div class="card-content">
 					<div class="table-container"> <!-- mettre dans un div sinon table n'est pas flexible par rapport à la taille de l'écran -->
                         <table class="table is-bordered is-striped is-hoverable is-fullwidth">

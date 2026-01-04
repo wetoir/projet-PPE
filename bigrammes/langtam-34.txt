@@ -2711,6 +2711,7 @@
 1 your first
 1 webbplats som
 1 webbplats i
+1 webbplats eller
 1 via RSS
 1 uppdaterad via
 1 to WordPresscom
@@ -2728,16 +2729,20 @@
 1 is your
 1 in nu
 1 i Läsare
+1 gratis webbplats
 1 flöde Arrowoftheatre
 1 first post
 1 ett WordPresscomkonto
 1 en webbplats
+1 en gratis
+1 eller blogg
 1 du redan
 1 dig uppdaterad
 1 detta innehåll
 1 detta fält
 1 denna med
 1 delete it
+1 blogg på
 1 arrowoftheatre arrowoftheatre
 1 and start
 1 WordPresscomkonto Logga
@@ -2748,6 +2753,7 @@
 1 This is
 1 Thespis என்னும்
 1 Spectacle மாற்ற
+1 Skapa en
 1 Signs குறியீடுகள்
 1 Signs எவ்வாறு
 1 Script முக்கியப்
@@ -2772,7 +2778,6 @@
 1 Hantera prenumerationer
 1 Edit or
 1 Designa en
-1 Blogg på
 1 Blog WordPresscom
 1 A’s என
 1 9 தொடர்பு
