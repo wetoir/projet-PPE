@@ -1,105 +1,58 @@
 <!DOCTYPE html>
 <html lang=fr>
-  <head>
-    <meta charset=utf-8>
+<head>
+	<meta charset="UTF-8" />
+    <link rel="stylesheet" href="present.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Qui sommes-nous ?</title>
+</head>
+<body>
+	<section class="header">
+        <nav>
+            <a href="../index.html">Index</a>
+            <a href="presentation.html">Présentation</a>
+            <a href="analyse.html">Analyse</a>
+            <a href="">Nuages de mots</a>
+            <div class="dropdown">
+                <a class="dropdown-toggle">Tableaux</a>
+                <div class="dropdown-menu">
+                    <a href="../tableaux/langfr.html">Français</a>
+                    <a href="../tableaux/langtam.html">Tamoul</a>
+                    <a href="../tableaux/tableauVn.html">Vietnamien</a>
+                </div>
+            </div>
+        </nav>
 
-  </head>
-  <body>
-
-
-  <center>
-<h1 class=titre>Qui sommes-nous ?</h1>
-
- </center>
-
+        <div class="text-box">
+			<h1 class=titre>Qui sommes-nous ?</h1>
 			<p class=paragraphe>Dans le cadre du cours de Projet-Programmation-Encadré, nous avons formé un groupe de trois étudiants issus de facultés différentes. Nous sommes tous les trois étudiants en Master 1 Traitement Automatique des Langues (TAL) :</p>
-
-    <div class=contenu>
-        <div class=un>
-            <div class=fac>Étudiant de Inalco</div>
-				<div class=langue>Corpus en langue vietnamienne</div>
+			<div class=contenu>
+				<div class=un>
+					<div class=fac>Étudiant de Inalco</div>
+					<div class=langue>Corpus en langue vietnamienne</div>
 					<img class=image src=../images/weitor.jpg alt=image>
-						<div class=nom>Pham Nguyen Gia Loc</div>
-	</div>
+					<div class=nom>Pham Nguyen Gia Loc</div>
+				</div>
 
-        <div class=un>
-            <div class=fac>Étudiante de Nanterre</div>
-				<div class=langue>Corpus en langue tamoul</div>
+				<div class=un>
+					<div class=fac>Étudiante de Nanterre</div>
+					<div class=langue>Corpus en langue tamoul</div>
 					<img class=image src=../images/annabelle.png alt=image>
-						<div class=nom>Lokutshu Annabelle</div>
-		</div>
+					<div class=nom>Lokutshu Annabelle</div>
+				</div>
 
-        <div class=un>
-            <div class=fac>Étudiante de Sorbonne Nouvelle</div>
-				<div class=langue>Corpus en langue française</div>
-				<img class=image src=../images/mm.jpg alt=image>
+				<div class=un>
+					<div class=fac>Étudiante de Sorbonne Nouvelle</div>
+					<div class=langue>Corpus en langue française</div>
+					<img class=image src=../images/mm.jpg alt=image>
 					<div class=nom>Yang Marine</div>
+				</div>
+			</div>
         </div>
-		</div>
+    </section>
 
 
+    
 
-
-<style>
-		.contenu {
-			display: flex;
-			flex-direction: column;
-			align-items: center;
-			gap: 40px;
-			margin: 40px auto;
-			padding: 40px;
-			flex-wrap: wrap;
-			background-color: white;
-		}
-
-		.un {
-			text-align: center;
-			display: flex;
-			flex-direction: column;
-			align-items: center;
-			font-family: has-text-weight-extrabold;
-			}
-
-		.fac {
-			font-size: 20px;
-			margin-bottom: 2px;
-			font-weight: bolder;
-			text-decoration: underline;
-			}
-
-		.image {
-			width: 150px;
-			border-radius: 5px;
-			border-width: 5px;
-			border-style: solid;
-			border-color: darkblue;
-			margin: auto;
-			}
-
-		.nom {
-			font-size: 16px;
-			}
-
-		  .titre {
-				color: darkblue;
-				background-color: white;
-				display: inline-block;
-				padding: 15px 150px;
-				border-radius: 8px;
-				}
-
-
-		.paragraphe {
-				color: darkblue
-					}
-
-
-		body {
-			background-color: #e6f2ff;
-			}
-
-</style>
-
-	</body>
-	</html>
+</body>
+</html>

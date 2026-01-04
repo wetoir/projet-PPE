@@ -31,7 +31,7 @@ cat > "$TAB" <<EOF
 	<!-- BarreDeNavi -->
 		<nav class="tabs is-centered mb-0">
         	<ul>
-        		<li><a href="../../index.html">Accueil</a></li>
+        		<li><a href="../index.html">Index</a></li>
             	<li class="is-active"><a href="tableau-fr.html">Tableaux</a></li>
 			</ul>
     	</nav>
@@ -39,7 +39,7 @@ cat > "$TAB" <<EOF
 		<section class="hero is-warning is-small">
 			<div class="hero-body">
 				<p class="title">Résultats de la collecte</p>
-				<p class="subtitle">Tableau généré automatiquement à partir du fichier TSV</p>
+				<p class="subtitle">Tableau généré automatiquement à partir du fichier txt</p>
 			</div>
 		</section>
 		<!-- ContenuPrincipal -->
