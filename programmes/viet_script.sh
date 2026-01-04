@@ -10,9 +10,11 @@ fichier_urls=$1
 TAB="../tableaux/vi-tableau.html"
 ASPIRATION="../aspi"
 DUMP="../dumps"
+CONTEXTE="../contextes"
 LANG=Viet
 MOT="hình ảnh"
 
+# création du tableau
 cat > "$TAB" <<EOF
 <html>
 	<head>
@@ -51,6 +53,7 @@ cat > "$TAB" <<EOF
 								<th>Nombre d'occurences</th>
                                 <th>HTLM</th>
                                 <th>Dump</th>
+								<th>Contexte</th>
                                 <th>Concordoncier</th> 
 							</tr>
 EOF
@@ -69,6 +72,8 @@ do
 	# fi
 
     # nbmots=$(cat ./.data.tmp | lynx -dump -nolist -stdin | wc -w)
+
+	# vérification de l'encodate et extraction du texte brut
     dump_file="$DUMP/lang${LANG}_$lineno.txt" 
 	if [[ "$encoding" == "UTF-8" || "$encoding" == "utf-8" ]]	# si le site est en utf-8
 	then
@@ -88,9 +93,16 @@ do
 		fi
     fi
     
-    nbOcc=$(grep -Fic "$MOT" "$dump_file")
+    nbOcc=$(grep -Fic "$MOT" "$dump_file")	# nombre d'occurences dans la page
+	
+	# contextes du mot
+	contex_file="$CONTEXTE/lang${LANG}_$lineno.txt"
+	contx=$(grep -in "$MOT" "$dump_file" > "$contex_file") 
+
+	# concordance
     concor="N/A"
 
+	# remplir le tableau
 	echo -e "							<tr>
 								<td>$lineno</td>
 								<td>$line</td>
@@ -99,6 +111,7 @@ do
 								<td>$nbOcc</td>
                                 <td><a href="$aspi_file">HTML</a></td>
                                 <td><a href="$dump_file">Dump</a></td>
+								<td><a href="$contex_file">Contexte</a></td>
                                 <td>$concor</td>
 							</tr>" >> "$TAB"
 
