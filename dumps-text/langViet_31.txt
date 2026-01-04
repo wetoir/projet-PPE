@@ -1,0 +1,567 @@
+   HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 20:54:39 GMT
+   content-type: text/html; charset=utf-8 content-length: 555509
+   last-modified: Sun, 04 Jan 2026 19:48:48 GMT vary: Accept-Encoding
+   asp-id: 6894 access-control-allow-origin: *
+   access-control-allow-methods: GET, POST, PUT, DELETE, OPTIONS
+   access-control-expose-headers: Location,Upload-Offset,Upload-Length
+   access-control-allow-headers: Origin, X-Requested-With, Content-Type,
+   Accept,csrf-token access-control-allow-credentials: true v-origin: 74
+   s-count: 3 r-count: 0 be: desktop device-type: desktop age: 3952
+   v-node: vnpt-4 strict-transport-security: max-age=31536000;
+   includeSubDomains; preload v-cache: HIT iph: 1 edge-hot-cache: MISS
+   edge-isp: VNPT accept-ranges: bytes #alternate
+
+   (menu)
+   Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7
+   DBuzz
+
+    1. Thế giới
+         1. Quân sự
+         2. Phân tích - Bình luận
+         3. Thế giới đó đây
+         4. Kiều bào
+    2. Thời sự
+         1. Chính trị
+         2. Học tập Bác
+         3. Đại hội Đảng XIV
+         4. Môi trường
+         5. Giao thông
+         6. Nóng trên mạng
+         7. Góp ý sửa đổi, bổ sung Hiến pháp 2013
+       (BUTTON) Xem thêm
+    3. Pháp luật
+         1. Hồ sơ vụ án
+         2. Pháp đình
+    4. Sức khỏe
+         1. Ung thư
+         2. Sống khỏe
+         3. Ngoại thần kinh - Cột sống
+         4. Chấm dứt cơn đau
+         5. Kiến thức giới tính
+         6. Tư vấn
+         7. Khỏe đẹp
+       (BUTTON) Xem thêm
+    5. Đời sống
+         1. Cộng đồng
+         2. Thượng lưu
+         3. Nhà đẹp
+         4. Giới trẻ
+         5. Chợ online
+         6. Xổ số
+         7. Cuộc thi ảnh EVNSPC
+       (BUTTON) Xem thêm
+    6. Du lịch
+         1. Tin tức
+         2. Khám phá
+         3. Món ngon - Điểm đẹp
+         4. Tour hay - Khuyến mại
+         5. Video - Ảnh
+       (BUTTON) Xem thêm
+    7. Kinh doanh
+         1. Tài chính
+         2. Chứng khoán
+         3. Doanh nghiệp
+         4. Khởi nghiệp
+         5. Tiêu dùng
+         6. ESG Việt Nam
+         7. Tin bước cùng Việt Nam
+         8. Toàn cảnh kinh tế tư nhân
+       (BUTTON) Xem thêm
+    8. Bất động sản
+         1. Dự án
+         2. Thị trường
+         3. Nhà đất
+         4. Nhịp sống đô thị
+         5. Sống xanh
+         6. Nội thất
+       (BUTTON) Xem thêm
+    9. Thể thao
+         1. Bóng đá
+         2. Pickleball
+         3. Tennis
+         4. Golf
+         5. Võ thuật - Các môn khác
+         6. Hậu trường
+         7. Thể thao sức bền
+         8. Lịch thi đấu
+       (BUTTON) Xem thêm
+   10. Giải trí
+         1. Hậu trường
+         2. Sách hay
+         3. Điện ảnh
+         4. Âm nhạc
+         5. Thời trang
+         6. Mỹ thuật - Sân khấu
+       (BUTTON) Xem thêm
+   11. Giáo dục
+         1. Góc phụ huynh
+         2. Khuyến học
+         3. Gương sáng
+         4. Giáo dục - Nghề nghiệp
+         5. Du học
+         6. Tuyển sinh
+       (BUTTON) Xem thêm
+   12. Xe ++
+         1. Thị trường xe
+         2. Xe điện
+         3. Đánh giá
+         4. Cộng đồng xe
+         5. Kinh nghiệm - Tư vấn
+         6. Bảng giá ô tô
+       (BUTTON) Xem thêm
+   13. Nội vụ
+         1. Chính sách
+         2. Tổ chức bộ máy
+         3. Tiền lương
+         4. Công sở
+         5. An sinh
+         6. Sắp xếp các đơn vị hành chính
+         7. Đại hội Thi đua yêu nước XI
+       (BUTTON) Xem thêm
+   14. Nhân ái
+         1. Hoàn cảnh
+         2. Dự án cộng đồng
+         3. Nhịp cầu nhân ái
+         4. Vượt lên số phận
+   15. Công nghệ
+         1. AI & Internet
+         2. An ninh mạng
+         3. Gia dụng thông minh
+         4. Sản phẩm & Cộng đồng
+   16. Việc làm
+         1. Nhân lực mới
+         2. Làm giàu
+         3. Chuyện nghề
+   17. Tình yêu
+         1. Chuyện của tôi
+         2. Gia đình
+         3. Tình yêu
+   18. Khoa học
+         1. Thế giới tự nhiên
+         2. Vũ trụ
+         3. Khám phá
+         4. Khoa học & đời sống
+
+    1. Dmagazine
+    2. DNews
+    3. D-Buzz
+    4. Photo News
+    5. Photo Story
+
+    1. Infographic
+    2. Interactive
+    3. Tâm điểm
+    4. Bạn đọc
+    5. Tọa đàm
+
+    1. SỰ KIỆN NỔI BẬT
+    2. Tin mới nhất
+    3. VIDEO
+
+    1. FICA
+    2. DTINEWS
+
+    1. Liên hệ toà soạn
+    2. 024-3736-6491
+
+    1. Liên hệ quảng cáo
+    2. 0945.54.03.03
+
+   Theo dõi Dân trí:
+   Facebook Youtube Tiktok Telegram
+
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi
+
+Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi
+
+(Dân trí) - Tại buổi ra mắt phim “F1” ở Mỹ, Brad Pitt và bạn gái hiện tại,
+Ines de Ramon, trông rất đẹp đôi. Họ có nhiều khoảnh khắc tình tứ trên thảm
+đỏ. Brad Pitt tiết lộ, Ines khiến cuộc sống của anh tốt hơn.
+
+   Mi Vân
+   Mi Vân
+   Thứ tư, 18/06/2025 - 13:07
+
+   GALLERY
+   (BUTTON) Xem toàn bộ album
+
+   13 ảnh
+   (BUTTON)
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   1
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   2
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   3
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   4
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   5
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   6
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   7
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   8
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   9
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   10
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   11
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   12
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   13
+   (BUTTON) (BUTTON)
+
+   Ngày 17/6, Brad Pitt nắm tay bạn gái, Ines de Ramon, xuất hiện trên
+   thảm đỏ buổi ra mắt phim F1 tại Quảng trường Thời đại ở thành phố New
+   York (Mỹ). Brad Pitt trông lịch lãm và cuốn hút trong bộ vest ôm sát,
+   đeo kính râm. Vẻ ngoài phong độ của Brad Pitt khiến nhiều người thừa
+   nhận, anh quá trẻ so với tuổi 62.
+
+   Sánh đôi cùng Brad Pitt là Ines de Ramon. Cô diện đầm trắng, với phần
+   cắt xẻ táo bạo ở phần ngực. Theo Daily Mail, trang phục của nhà thiết
+   kế trang sức lấy cảm hứng từ váy cưới.
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   1 Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi
+   - 2
+
+   Brad Pitt sánh đôi cùng bạn gái tại sự kiện ra mắt phim ở New York,
+   ngày 17/6 (Ảnh: Getty Images).
+
+   Kiểu tóc búi tự nhiên và lối trang điểm cổ điển khiến Ines rất rạng rỡ.
+   Ánh mắt Ines rạng ngời hạnh phúc khi sánh bước cùng một trong những
+   người đàn ông được khao khát nhất thế giới.
+
+   Brad Pitt và Ines không rời nhau suốt sự kiện. Họ nắm tay, chuyện trò
+   và trao nhau những ánh mắt tình tứ. Brad Pitt và bạn gái trẻ bắt đầu
+   hẹn hò từ năm 2022. Theo nhiều nguồn tin, tình cảm giữa họ ngày càng
+   gắn bó. Cặp đôi đã dọn về sống chung từ năm ngoái.
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   3 Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi
+   - 4
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   5
+
+   Tài tử 62 tuổi trẻ trung hơn từ khi gắn bó với Ines (Ảnh: DM).
+
+   Một người bạn của cặp đôi cho hay Ines chính là động lực giúp Brad chấm
+   dứt cuộc chiến ly hôn dài 8 năm với Angelina Jolie. "Anh ấy chịu ảnh
+   hưởng từ Ines nên cuối cùng chọn ổn định cuộc sống", nguồn tin của Page
+   Six cho hay.
+
+   Một nguồn tin khác nói với báo giới: "Họ đang rất hạnh phúc và tâm đầu
+   ý hợp. Brad Pitt rất vui vì chuyện ly hôn đã qua. Họ đang ở giai đoạn
+   tuyệt vời, cuộc sống tốt đẹp, không có gì để phàn nàn".
+
+   Một người bạn khác của tài tử Brad Pitt cũng nói với tờ Instyle: "Mối
+   quan hệ của họ phát triển tự nhiên và thoải mái. Ines đang mang lại sự
+   bình yên và niềm vui cho cuộc sống của Brad".
+
+   Ines de Ramon là người phụ nữ đầu tiên Brad công khai mối quan hệ từ
+   khi anh và Angelina Jolie xác nhận ly hôn vào năm 2016.
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   6 Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi
+   - 7
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   8
+
+   Brad Pitt dịu dàng bên bạn gái mới (Ảnh: Getty Images).
+
+   Theo nguồn tin thân cận, người đẹp Ines có chung nhiều đam mê với Brad
+   Pitt. Cặp đôi từng bị bắt gặp đi xem triển lãm nghệ thuật, hòa nhạc và
+   sánh đôi tại liên hoan phim.
+
+   Năm 2024, sau khi hoàn tất thủ tục ly hôn với Angelina Jolie, Brad Pitt
+   và Ines công khai xuất hiện bên nhau hơn.
+
+   Theo nguồn tin của People, Ines de Ramon đang theo đuổi công việc thiết
+   kế trang sức tại Los Angeles (Mỹ). Bạn gái của Brad Pitt từng tốt
+   nghiệp chuyên ngành quản trị kinh doanh tại trường đại học Geneva vào
+   năm 2013.
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   9
+
+   Khoảng cách 27 tuổi dường như không thể ngăn được tình yêu và sự quan
+   tâm họ dành cho nhau (Ảnh: Getty Images).
+
+   Cô còn có chứng chỉ hành nghề tư vấn dinh dưỡng, chăm sóc sức khỏe. Đam
+   mê lớn nhất và lĩnh vực thành công nhất của Ines chính là chuyên ngành
+   thiết kế trang sức.
+
+   Ines từng trải qua một cuộc hôn nhân nhưng không có con trước khi quen
+   Brad Pitt. Khi lập gia đình lần đầu, cô quyết định, tạm lui về hậu
+   trường nhưng cô vẫn ra sức học tập, trau dồi tri thức. Người đẹp thông
+   thạo nhiều ngoại ngữ như tiếng Anh, Đức và Italia.
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   10 Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27
+   tuổi - 11
+
+   Phong cách thời trang của tài tử 62 tuổi cũng có nhiều thay đổi sau khi
+   anh hẹn hò với Ines (Ảnh: Glamour).
+
+   Tại sự kiện ra mắt phim ngày 17/6, Brad Pitt nói với tờ Entertainment
+   Tonight: “Bất kể lỗi lầm là gì, bạn chỉ cần rút kinh nghiệm từ nó và
+   tiếp tục tiến lên. Nó sẽ dẫn bạn đến thành công tiếp theo. Khi bạn đến
+   tuổi của tôi, các bạn sẽ nhận ra tầm quan trọng của việc ở bên những
+   người bạn yêu thương và những người cũng yêu thương bạn. Bạn bè, gia
+   đình và thế là đủ. Từ đó, chúng ta có thể bắt tay vào làm mọi thứ”.
+
+   Sau gần 40 năm theo đuổi sự nghiệp diễn xuất, Brad Pitt hiện là một
+   trong những diễn viên nhận cát-xê cao nhất thế giới. Theo Celebrity Net
+   Worth, Brad Pitt đang sở hữu khoảng 400 triệu USD. Phần lớn thu nhập
+   của tài tử đến từ công việc diễn xuất.
+   Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27 tuổi -
+   12 Hình ảnh đẹp đôi của quý ông hấp dẫn Brad Pitt và bạn gái kém 27
+   tuổi - 13
+
+   Bạn bè cho biết, Brad Pitt tìm thấy sự bình yên và hạnh phúc bên Ines
+   (Ảnh: News).
+
+   Ngoài ra, Brad cũng kiếm được thu nhập đáng kể từ nhiều dự án kinh
+   doanh khác nhau như thành lập công ty sản xuất, kinh doanh thời trang,
+   mỹ phẩm chăm sóc da, buôn bán bất động sản.
+
+   Tài tử Hollywood từng có 2 cuộc hôn nhân đổ vỡ với nữ diễn viên
+   Jennifer Aniston và Angelina Jolie. Trong đó, ở cuộc hôn nhân thứ 2 với
+   Jolie, Brad Pitt có 6 người con, gồm 3 con nuôi và 3 con ruột. Theo
+   thỏa thuận ly hôn, các con sống với Angelina Jolie và Brad Pitt được
+   quyền thăm nuôi.
+
+   Tin liên quan
+
+Một phụ nữ bị lừa hơn 21 tỷ đồng bởi tin đang hẹn hò với tài tử Brad Pitt
+
+Brad Pitt và Angelina Jolie tốn 2 triệu USD để theo đuổi vụ ly hôn 8 năm
+
+Angelina Jolie và Brad Pitt kết thúc cuộc chiến ly hôn kéo dài 8 năm
+
+Cậu con trai út hiếm hoi lộ diện và bí ẩn của Angelina Jolie và Brad Pitt
+
+     * Từ khoá:
+     * Brad Pitt
+     * Ines de Ramon
+     * phim F1
+
+   Giải trí
+
+   Nhạc sĩ Đoàn Bổng - tác giả "Dòng sông quê anh, dòng sông quê em" - qua
+   đời
+
+Nhạc sĩ Đoàn Bổng - tác giả "Dòng sông quê anh, dòng sông quê em" - qua đời
+
+   Nhạc sĩ Đoàn Bổng - tác giả của ca khúc "Dòng sông quê anh, dòng sông
+   quê em" - qua đời, hưởng thọ 83 tuổi.
+
+   Vợ NSND Công Lý: "Tôi nghèo đến mức đi chợ luôn đắn đo xem giá"
+
+Vợ NSND Công Lý: "Tôi nghèo đến mức đi chợ luôn đắn đo xem giá"
+
+   Trước những tin đồn về tài chính của hai vợ chồng được chia sẻ trên
+   mạng xã hội, Ngọc Hà - bà xã của NSND Công Lý - lên tiếng.
+
+   Con trai 14 tuổi của Lệ Quyên: Cao 1,8m nổi bật, được mẹ mua nhà 400m2
+
+Con trai 14 tuổi của Lệ Quyên: Cao 1,8m nổi bật, được mẹ mua nhà 400m2
+
+   Ở tuổi 14, Kỳ Anh - con trai của ca sĩ Lệ Quyên - gây chú ý khi sở hữu
+   chiều cao 1,8m cùng ngoại hình chững chạc. Cậu bé cũng được quan tâm
+   bởi cuộc sống và mối quan hệ với cha mẹ.
+
+   Huỳnh Anh nói về cảnh phim hút triệu view: "Cuối cùng cũng được đền
+   đáp"
+
+Huỳnh Anh nói về cảnh phim hút triệu view: "Cuối cùng cũng được đền đáp"
+
+   Phân đoạn Bách (Huỳnh Anh) phát hiện bị vợ sắp cưới phản bội trong tập
+   36 phim "Cách em 1 milimet" gây bão mạng xã hội với hàng triệu lượt xem
+   nhờ màn diễn xuất bùng nổ, đầy cảm xúc.
+
+   Con trai cả và con dâu “đáp trả” tâm thư hàn gắn của David Beckham
+
+Con trai cả và con dâu “đáp trả” tâm thư hàn gắn của David Beckham
+
+   Sau khi danh thủ David Beckham và bà xã Victoria công khai gửi thông
+   điệp yêu thương, mong con trai cả sớm trở về đoàn tụ, vợ chồng Brooklyn
+   Beckham tiếp tục có động thái từ chối thiện chí này.
+
+   Hà Việt Dũng tuổi 39: Vướng tin đồn đào hoa, gắn mác "ông hoàng cảnh
+   nóng"
+
+Hà Việt Dũng tuổi 39: Vướng tin đồn đào hoa, gắn mác "ông hoàng cảnh nóng"
+
+   Với ngoại hình điển trai, thường vào các vai lãng tử nhà giàu, yêu
+   nhiều người nên Hà Việt Dũng được gắn mác "đào hoa". Nam diễn viên chia
+   sẻ rằng, vợ từng nhắn nhủ không nên nhận những vai như vậy.
+
+   Đội hình Tân binh thăng cấp bước vào chung kết, SOOBIN dặn dò kỹ lưỡng
+
+Đội hình Tân binh thăng cấp bước vào chung kết, SOOBIN dặn dò kỹ lưỡng
+
+   Bước vào vòng chung kết, đội hình Tân binh thăng cấp đối mặt với những
+   thử thách quyết định cho cơ hội ra mắt chính thức.
+
+   Chuyện tình đẹp như mơ của làng giải trí Trung Quốc sụp đổ sau một đêm
+
+Chuyện tình đẹp như mơ của làng giải trí Trung Quốc sụp đổ sau một đêm
+
+   Chuyện tình đẹp như mơ của 2 ngôi sao thế hệ 9X hàng đầu Trung Quốc
+   Quan Hiểu Đồng và Lộc Hàm đang dần sụp đổ trước mắt người hâm mộ sau
+   khi nghi vấn Lộc Hàm ngoại tình được hé lộ.
+
+   Cô gái khiến loạt tài tử, ngôi sao hạng A Trung Quốc "mất ăn mất ngủ"
+
+Cô gái khiến loạt tài tử, ngôi sao hạng A Trung Quốc "mất ăn mất ngủ"
+
+   Làng giải trí Trung Quốc đang dậy sóng trước loạt tố cáo của hot girl
+   mạng Iamroosie (Tư Hiểu Địch). Cô tuyên bố từng có quan hệ tình cảm với
+   các nghệ sĩ như Lâm Canh Tân, Ngô Diệc Phàm, Lộc Hàm...
+
+   Tài tử vươn lên đỉnh cao và rơi xuống tuyệt vọng vì phim tỷ USD
+   “Avatar”
+
+Tài tử vươn lên đỉnh cao và rơi xuống tuyệt vọng vì phim tỷ USD “Avatar”
+
+   Từ một diễn viên gần như vô danh và sống lang bạt trong xe hơi, nam
+   diễn viên người Australia Sam Worthington vươn lên trở thành gương mặt
+   hạng A gắn liền với thương hiệu điện ảnh thành công “Avatar”.
+
+   Tin mới
+
+   Hôm nay, xét xử nhóm sản xuất sữa giả trị giá hơn 2.400 tỷ đồng
+
+Hôm nay, xét xử nhóm sản xuất sữa giả trị giá hơn 2.400 tỷ đồng
+
+   18 bị cáo trong vụ án sản xuất và bán sữa giả trị giá hàng nghìn tỷ
+   đồng, xảy ra tại Công ty Z Holding bị đưa ra xét xử về hàng loạt tội
+   danh như Sản xuất, buôn bán hàng giả là thực phẩm; Rửa tiền...
+
+   Hôm nay, xét xử vụ nhận hối lộ tại Cục An toàn thực phẩm
+
+Hôm nay, xét xử vụ nhận hối lộ tại Cục An toàn thực phẩm
+
+   Bị cáo Nguyễn Thanh Phong, cựu Cục trưởng Cục An toàn thực phẩm Bộ Y tế
+   bị đưa ra xét xử về tội Nhận hối lộ. Trong vụ án này, cơ quan tố tụng
+   cáo buộc ông Nguyễn Thanh Phong hưởng lợi gần 49 tỷ đồng.
+
+   Miền Bắc đón thêm đợt không khí lạnh mạnh, có nơi dưới 5 độ C
+
+Miền Bắc đón thêm đợt không khí lạnh mạnh, có nơi dưới 5 độ C
+
+   Khu vực Bắc Bộ và Bắc Trung Bộ sẽ bị ảnh hưởng thêm đợt không khí lạnh
+   mạnh. Cơ quan khí tượng thủy văn cảnh báo vùng núi Bắc Bộ cần đề phòng
+   xảy ra băng giá và sương muối.
+
+   Vì sao đèn xanh, đèn đỏ áp dụng 8 giây đếm lùi?
+
+Vì sao đèn xanh, đèn đỏ áp dụng 8 giây đếm lùi?
+
+   Đối với chu kỳ đèn xanh, hệ thống không hiển thị số đếm lùi ngay từ đầu
+   mà chỉ xuất hiện trong 8 giây cuối, sau đó đèn chuyển vàng khoảng 3
+   giây rồi sang đỏ.
+
+   Làm giả giấy khám sức khỏe rồi rao bán trên mạng xã hội
+
+Làm giả giấy khám sức khỏe rồi rao bán trên mạng xã hội
+
+   Công an Quảng Ninh tạm giữ Nguyễn Văn Hạnh, 26 tuổi, để điều tra hành
+   vi làm giả con dấu, tài liệu, thu nhiều con dấu bệnh viện, phôi giấy và
+   thiết bị phục vụ phạm tội.
+
+   Triệt phá sới bạc giữa Vịnh Hạ Long, tạm giữ 30 người
+
+Triệt phá sới bạc giữa Vịnh Hạ Long, tạm giữ 30 người
+
+   Công an Quảng Ninh kiểm tra khu vực Hòn Dầm Bắc, phát hiện 3 tàu cá tổ
+   chức đánh bạc bằng hình thức xóc đĩa, tạm giữ 30 người cùng hơn 436
+   triệu đồng tiền mặt.
+
+   Ông Trump hé lộ những trợ lý phụ trách "điều hành" Venezuela
+
+Ông Trump hé lộ những trợ lý phụ trách "điều hành" Venezuela
+
+   Tổng thống Donald Trump không muốn công khai loại trừ khả năng triển
+   khai binh sĩ tới Venezuela sau khi bắt giữ Tổng thống Nicolas Maduro và
+   tuyên bố Mỹ sẽ “điều hành” Venezuela trong thời gian tới.
+
+   Bốn ô tô va chạm liên hoàn trên cao tốc Hà Nội - Hải Phòng
+
+Bốn ô tô va chạm liên hoàn trên cao tốc Hà Nội - Hải Phòng
+
+   Lực lượng chức năng đang làm rõ vụ tai nạn liên hoàn giữa 4 ô tô xảy ra
+   trên cao tốc Hà Nội - Hải Phòng. Vụ việc khiến giao thông bị ùn ứ.
+
+   HLV Kim Sang Sik nhận tin buồn về lực lượng trước màn so tài với U23
+   Jordan
+
+HLV Kim Sang Sik nhận tin buồn về lực lượng trước màn so tài với U23 Jordan
+
+   HLV Kim Sang Sik vô cùng lo lắng khi U23 Việt Nam tiếp tục có thêm một
+   ca chấn thương ngay trước trận mở màn vòng chung kết U23 châu Á 2026
+   gặp U23 Jordan vào ngày 6/1.
+
+   Rộ tin VinFast Limo Green sắp có bản “gia đình”, bổ sung nhiều trang bị
+
+Rộ tin VinFast Limo Green sắp có bản “gia đình”, bổ sung nhiều trang bị
+
+   VinFast Limo Green được cho là sắp có thêm phiên bản mới hướng tới
+   người dùng cá nhân, với việc bổ sung nút bấm trên vô-lăng, cảm biến
+   lùi, la-zăng hợp kim...
+   (BUTTON) Đọc thêm tin mới nhất
+
+   Đọc nhiều trong Giải trí
+
+   Phạm Cường: “Nam thần màn ảnh" một thời, tuổi 60 đóng chủ tịch tỉnh gây
+   sốt
+
+Phạm Cường: “Nam thần màn ảnh" một thời, tuổi 60 đóng chủ tịch tỉnh gây sốt
+
+   Người mẫu Việt xinh đẹp bị nhầm là AI, clip hút hơn 6 triệu view
+
+Người mẫu Việt xinh đẹp bị nhầm là AI, clip hút hơn 6 triệu view
+
+   NSND Thu Hà khoe con trai cao như người mẫu, kể về cuộc sống tuổi U60
+
+NSND Thu Hà khoe con trai cao như người mẫu, kể về cuộc sống tuổi U60
+
+   Vợ NSND Công Lý: "Tôi nghèo đến mức đi chợ luôn đắn đo xem giá"
+
+Vợ NSND Công Lý: "Tôi nghèo đến mức đi chợ luôn đắn đo xem giá"
+
+   Tài tử vươn lên đỉnh cao và rơi xuống tuyệt vọng vì phim tỷ USD
+   “Avatar”
+
+Tài tử vươn lên đỉnh cao và rơi xuống tuyệt vọng vì phim tỷ USD “Avatar”
+
+   Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7
+
+     * Cơ quan của Bộ Nội vụ
+     * Tổng biên tập: Phạm Tuấn Anh
+     * Giấy phép hoạt động báo điện tử Dân trí số 15/GP-BVHTTDL Hà Nội,
+       ngày 14-4-2025
+     * Địa chỉ tòa soạn: Số 48 ngõ 2 phố Giảng Võ, phường Giảng Võ, thành
+       phố Hà Nội
+     * Điện thoại: 024-3736-6491. Hotline HN: 0973-567-567
+     * Văn phòng đại diện miền Nam: Số 51-53 Võ Văn Tần, phường Xuân Hòa,
+       thành phố Hồ Chí Minh
+     * Hotline TPHCM: 0974-567-567
+     * Email: info@dantri.com.vn
+
+     * RSS
+     * Liên hệ toà soạn
+
+     * Liên hệ quảng cáo: 0945.54.03.03
+     * Email: quangcao@dantri.com.vn
+     * Chính sách bảo mật dữ liệu cá nhân
+
+   Đọc báo Dân trí trên mobile:
+   IOS Android
+   Theo dõi Dân trí trên:
+   Facebook Youtube Tiktok Telegram
+
+   © 2005-2026 Bản quyền thuộc về Báo điện tử Dân trí. Cấm sao chép dưới
+   mọi hình thức nếu không có sự chấp thuận bằng văn bản.
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PM6G9ZN

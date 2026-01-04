@@ -1,0 +1,27 @@
+   HTTP/2 403 date: Sun, 04 Jan 2026 20:54:48 GMT content-type: text/html;
+   charset=UTF-8 cache-control: private, max-age=0, no-store, no-cache,
+   must-revalidate, post-check=0, pre-check=0 expires: Thu, 01 Jan 1970
+   00:00:01 GMT referrer-policy: same-origin x-frame-options: SAMEORIGIN
+   server: cloudflare cf-ray: 9b8da21748f799cc-CDG
+
+   Please enable cookies.
+
+Sorry, you have been blocked
+
+You are unable to access fptshop.com.vn
+
+Why have I been blocked?
+
+   This website is using a security service to protect itself from online
+   attacks. The action you just performed triggered the security solution.
+   There are several actions that could trigger this block including
+   submitting a certain word or phrase, a SQL command or malformed data.
+
+What can I do to resolve this?
+
+   You can email the site owner to let them know you were blocked. Please
+   include what you were doing when this page came up and the Cloudflare
+   Ray ID found at the bottom of this page.
+
+   Cloudflare Ray ID: 9b8da21748f799cc • Your IP: (BUTTON) Click to reveal
+   88.138.238.59 • Performance & security by Cloudflare

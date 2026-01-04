@@ -1,6 +1,6 @@
    HTTP/2 200 content-type: text/html; charset=utf-8
    belfrage-cache-status: MISS bid: sally brequestid:
-   99b009c618cd4cbf94979ac7814c5ce6 bsig: 7bd76549134ba5509ea84f24ff21803e
+   db555b7b51cd4037b0522660af890595 bsig: 7bd76549134ba5509ea84f24ff21803e
    cache-control: public, stale-if-error=90, stale-while-revalidate=30,
    max-age=90 content-security-policy: default-src 'self' *.bbc.co.uk
    *.bbc.com *.bbci.co.uk *.bbci.com
@@ -85,14 +85,14 @@
    lt.bbc-reporting-api.app/report-endpoint","priority":1}],"include_subdo
    mains":true} server: BBC-GTM strict-transport-security:
    max-age=31536000; preload x-robots-tag: bingbot: noarchive
-   fastly-restarts: 1 accept-ranges: bytes date: Sun, 04 Jan 2026 19:46:14
-   GMT x-fastly-cache-status: HIT-STALE-CLUSTER x-served-by:
-   cache-par-lfpg1960093-PAR x-cache: HIT x-cache-hits: 1 x-timer:
-   S1767555975.506967,VS0,VE3 x-fastly-pre-flight-cache: MISS, HIT
-   x-fastly-pre-flight-cache-status: HIT-CLUSTER x-cache-age: 329
+   fastly-restarts: 1 accept-ranges: bytes date: Sun, 04 Jan 2026 20:54:26
+   GMT x-fastly-cache-status: MISS-CLUSTER x-served-by:
+   cache-par-lfpg1960088-PAR x-cache: MISS x-cache-hits: 0 x-timer:
+   S1767560066.966159,VS0,VE194 x-fastly-pre-flight-cache: MISS, HIT
+   x-fastly-pre-flight-cache-status: HIT-STALE-CLUSTER x-cache-age: 0
    x-lb-nocache: true vary: X-BBC-Edge-Scheme,Accept-Encoding alt-svc:
    h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
-   content-length: 295314 #alternate
+   content-length: 295318 #alternate
 
    BBC News, Tiếng ViệtBỏ qua để xem nội dung
 
@@ -294,7 +294,7 @@ hành' Venezuela, tiếp theo là gì?
      *
 
 'Một chặng đường dài phía trước': Người Venezuela vừa hy vọng vừa lo lắng
-       9 giờ trước
+       4 tháng 1 năm 2026
      *
 
 Điệp viên và drone: Cách Mỹ đã bắt ông Maduro
@@ -357,11 +357,11 @@ Phổ biến
     5. 5
        K-beauty: từ trào lưu trên mạng thành thế lực kinh tế
     6. 6
-       Ông Lê Trung Khoa, Nguyễn Văn Đài nói gì khi bị tuyên mỗi người 17
-       năm tù giam?
-    7. 7
        Hé lộ nguyên nhân quán bar Thụy Sĩ bùng cháy dữ dội qua hình ảnh và
        video
+    7. 7
+       Ông Lê Trung Khoa, Nguyễn Văn Đài nói gì khi bị tuyên mỗi người 17
+       năm tù giam?
     8. 8
        Mỹ tấn công Venezuela, ông Trump tuyên bố đã 'bắt giữ' Tổng
        thống Maduro

@@ -1,0 +1,422 @@
+   HTTP/2 200 x-powered-by: PHP/8.1.33 last-modified: Sat, 03 Jan 2026
+   09:46:19 GMT content-type: text/html; charset=UTF-8 cache-control:
+   public, max-age=0 expires: Sun, 04 Jan 2026 20:54:55 GMT date: Sun, 04
+   Jan 2026 20:54:55 GMT server: LiteSpeed vary:
+   User-Agent,Accept-Encoding
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5XMQTXP
+
+   Skip to content
+   Sổ Da Minh Châu
+   Cơ sở HN: 275 Nguyễn Trãi, Thanh Xuân0978891148
+   Cơ Sở HCM: 106 Nguyễn Văn Trỗi, P.8, Q. Phú Nhuận
+   zalo
+   Sổ Da Minh Châu
+     * Home
+     * Về chúng tôi
+     * SỔ TAY BÌA DA
+          + Sổ còng
+          + Sổ bìa da dán gáy
+          + Sổ tay bìa gài
+          + Sổ da cao cấp
+          + In sổ da theo yêu cầu
+     * SỔ TAY GIẤY
+          + Sổ tay lò xo
+          + Sổ tay bìa cứng
+          + In sổ tay
+     * Bìa Menu
+          + Menu bìa da bán sẵn
+          + Menu da gáy còng
+          + Menu đinh ốc
+          + Menu gáy soắn
+          + Menu bìa cứng
+          + in Menu
+          + In menu bìa cứng
+          + In menu bìa da
+          + Kẹp bill
+     * BÌA TỐT NGHIỆP
+          + BÌA TỐT NGHIỆP
+               o Bìa đựng bằng tốt nghiệp Đại học
+               o Bìa Kẹp Chứng Chỉ
+          + Dịch vụ
+               o Làm bìa bằng tốt nghiệp đại học
+     * BÌA TRÌNH KÝ
+          + Bìa trình ký đôi
+          + Bìa trình ký đơn
+          + Cặp trình ký
+          + In bìa trình ký da theo yêu cầu
+     * ĐỒ DA
+          + ĐỒ DA
+               o Ví da
+               o Ví đựng passport
+               o Móc khoá da
+               o Catagloue da
+               o Lót chuột da
+               o Đồ da khác
+          + Dịch vụ
+               o Làm ví da theo yêu cầu
+               o In catagloue da theo yêu cầu
+               o In lót chuột theo yêu cầu
+     * QUÀ TẶNG DOANH NGHIỆP
+          + Bút bi
+          + Dây đeo thẻ
+          + Set quà tặng
+          + In Bình giữ nhiệt
+          + Bát chén
+          + Ô Dù
+          + in dây đeo thẻ
+          + In bát chén
+     * NGUYÊN LIỆU SẢN XUẤT
+          + Da PU
+          + Còng sắt
+          + Còng nhựa
+          + Phụ kiện móc khoá
+          + Giấy
+     * Liên hệ
+     * Tin Tức
+          + Tin tức Về Sổ
+          + Tư Vấn In Ấn
+          + Tư Vấn Quà Tặng
+          + Tin tức Menu
+          + Thế Giới Đồ Da
+          + Tin Tức In Bút Bi
+          + Tư vấn chọn Bìa
+          + In catalogue
+
+Các định dạng hình ảnh (png, jpg, gif, tiff và bmp) trong in ấn
+
+   Tháng 9 16, 2019Chia sẻ
+   Trang chủ / Tin Tức / Tư Vấn In Ấn / Các định dạng hình ảnh (png,
+   jpg, gif, tiff và bmp) trong in ấn
+
+   Mỗi một định dạng hình ảnh khi được tạo ra có mục đích sử dụng và thuộc
+   tính và thông số khác nhau giữa các định dạng,
+   cùng sodaminhchau.com tìm hiểu về các định dạng hình ảnh thường dùng
+   trong thiết kế và in ấn, trong bài viết dưới đây nhé.
+
+   Hiện tại, có 5 định dạng hình ảnh phổ biến nhất mà chúng ta
+   vẫn thường gặp đó chính là : jpeg (jpg), PNG , GIF, TIFF, BMP
+
+1) Định dạng hình ảnh Jpeg :
+
+   (BUTTON) (BUTTON)
+
+Nội dung chính
+
+    1. 1) Định dạng hình ảnh Jpeg :
+    2. (BUTTON) 2) Định dạng hình ảnh PNG:
+         1. 3) Định dạng hình ảnh GIF:
+    3. 4) Định dạng hình ảnh TIFF:
+    4. 5) Định dạng hình ảnh BMP:
+    5. (BUTTON) Nên sử dụng định dạng hình ảnh nào thích hợp?
+         1. (BUTTON) Định dạng hình ảnh JPEG: Hình ảnh web
+              1. Định dạng hình ảnh GIF: Hình ảnh Web/ Hình động/ Clip
+                 Art
+         2. TIFF: Hình ảnh để in ấn
+         3. PNG: Hình ảnh Web/ Logo & Line Art
+         4. BMP: Hình ảnh sử dụng để in ấn sản phẩm
+    6. Công Ty In Ấn Minh Châu
+
+   Ra đời vào năm 1992, JPEG có đuôi mở rộng là jpg hay jpeg với độ sâu
+   màu từ 24-bit đến 16 triệu màu và là chuẩn ảnh thông dụng nhất với hầu
+   hết các máy ảnh số hiện nay. Là chuẩn ảnh có thuật toàn nên rất phức
+   tạp, thích hợp tạo ra những file dung lượng nhỏ và có hơn 256 màu.
+   Định dạng ảnh jpeg Định dạng ảnh jpeg Định dạng ảnh jpeg
+
+   Định dạng hình ảnh Jpeg là chuẩn  sử dụng tốt nhất cho ảnh trắng
+   đen, ảnh với màu sắc , những loại ảnh tĩnh vật, ảnh đời thường, chân
+   dung.
+
+2) Định dạng hình ảnh PNG:
+
+   Là chữ viết tắt của Portable Network Graphics là loại định dạng cho
+   hình ảnh hỗ trợ nén dữ liệu không bị suy giảm chất lượng sử dụng nhiều
+   nhất trên Internet.
+   Định dạng ảnh PNG Định dạng ảnh PNG Định dạng ảnh PNG
+
+   Ra đời vào năm 1996 với đuôi mở rộng .PNG, hình ảnh png không bị cạnh
+   răng cưa và không bị mất dữ liệu khi bị nén.
+
+   Với 2 loại định dạng hình ảnh PNG :
+     * PNG-8 gồm 256 màu và 1-bit màu trong suốt.
+     * PNG-24 gồm 24-bit màu.
+
+3) Định dạng hình ảnh GIF:
+
+   Được tạo ra bởi CompuServe vào năm 1987 Graphics Interchange Format với
+   đuôi mở rộng là GIF nhưng chuẩn hình ảnh này có ít màu nên các tập tin
+   sẽ có dung lượng nhỏ hơn nhiều so với JPEG. Ngoài ra, GIF sống động hơn
+   với ảnh động.
+
+4) Định dạng hình ảnh TIFF:
+
+   Là một định dạng file hình ảnh chất lượng cao và là chữ viết tắt
+   của Tagged Image File Format. La 2loa5i định dạng hình ảnh được tạo ra
+   từ năm 1986 như định dạng file ảnh dùng cho công việc scan.
+   Định dạng ảnh TIFF Định dạng ảnh TIFF Định dạng ảnh TIFF
+
+   File hình ảnh TIFF có thể xem được và chỉnh sửa được và giống như PNG
+   file TIFF không bị mất dữ liệu khi nén.
+
+5) Định dạng hình ảnh BMP:
+
+   Là dạng file ảnh đồ họa dạng lưới và sử dụng để lưu trữ hình ảnh kỹ
+   thuật số bitmap.
+
+   BMP được tạo ra vào năm 1994 với đuôi mở rộng cho hình ảnh là BMP và là
+   định dạng hình ảnh ổn định cho windows từ đời 3.0 tuy nhiên loại file
+   này lại không hỗ trợ nén hình ảnh tốt.
+
+Nên sử dụng định dạng hình ảnh nào thích hợp?
+
+   Không có một định dạng hình ảnh in ấn phổ biến nào có thể dùng được
+   tốt nhất cho tất cả các tình huống. Mỗi loại định dạng hình ảnh có lợi
+   thế và bất lợi riêng của nó. Sau đây là bảng tóm tắt từng định dạng
+   hình ảnh trong in ấn nên sử dụng để phù hợp với tình huống.
+
+Định dạng hình ảnh JPEG: Hình ảnh web
+
+   Có lẽ đây là định dạng phổ biến và thông dụng nhất cho hình ảnh web.
+   Định dạng JPEG là lựa chọn tốt nhất cho nhu cầu lưu hình ảnh lại với
+   kích thước file nhỏ. Chẳng hạn như khi bạn cần phải upload online hoặc
+   gửi qua email.
+
+   Nếu bạn không cần quan tâm lắm đến chất lượng hình ảnh hoặc có thể hình
+   ảnh bị giảm chất lượng nhưng không đáng kể thì nên dùng JPEG.
+
+Định dạng hình ảnh GIF: Hình ảnh Web/ Hình động/ Clip Art
+
+   Trong số 3 định dạng GIF, JPEG, PNG thì GIF là lựa chọn tệ nhất cho
+   hình ảnh đồ họa web. Mặc dù kích thước tập tin rất nhỏ và load rất
+   nhanh. Thêm vào đó, nếu bạn muốn thêm những hiệu ứng hình ảnh động thì
+   nên sử dụng GIF. Nó cũng là định dạng tốt cho ảnh Clip Art.
+
+TIFF: Hình ảnh để in ấn
+
+   TIFF là lựa chọn tốt nhất và duy nhất cho các chuyên gia khi hình ảnh
+   được dùng để in. Nó có khả năng đọc được màu sắc CMYK VÀ YCbCr. Cộng
+   với khả năng có thể lưu được ảnh với pixel lớn. Làm cho nó trở thành
+   lựa chọn duy nhất cho thiết kế in ấn, nhiếp ảnh và nhà xuất bản.
+
+PNG: Hình ảnh Web/ Logo & Line Art
+
+   Đây là định dạng tốt cho hình ảnh đồ họa web. Nếu bạn muốn file ảnh có
+   kích thước nhỏ, nhưng vẫn giữ được chất lượng, nên sử dụng chúng. Ngoài
+   ra, nếu bạn muốn sử dụng hình trong suốt như logo, icon không có nền,
+   để chèn lên những hình ảnh khác, nó là định dạng dành cho bạn.
+
+BMP: Hình ảnh sử dụng để in ấn sản phẩm
+
+   Những file với định dạng ảnh này có kích thước rất lớn và không hỗ trợ
+   nén. Hình ảnh của nó mang lại rất tốt, màu sắc đậm đà, file chất lượng
+   cao, đơn giản, dể sử dụng và có khả năng tương thích tốth nất trong tất
+   cả phần mềm và hệ điều hành Windows. File BMP cũng còn được gọi là ảnh
+   lưới hoặc ảnh paint.
+
+Công Ty In Ấn Minh Châu
+
+   Sổ Da Minh Châu hy vọng rằng, qua bài viết trên các bạn sẽ
+   phần nào về hình ảnh dùng trong in ấn, và sử dụng
+   hình ảnh đúng mục đích sử dụng, cũng như gửi ảnh cho nhà in
+   một cách chính xác nhất. Chúng tôi là :
+
+   Công ty in ấn trên mọi chất liệu & Xưởng sản xuất sổ da cao
+   cấp, sổ da quà tặng, in sổ bìa da
+
+   Tại TpHCM : 7th Floor, Centre Point, 106 Nguyễn Văn Trỗi, P.8, Q. Phú
+   nhuận, TP. HCM
+
+   Tại Hà Nội : 1705c, golden Land, Nguyễn Trãi, Thanh Xuân, Hà Nội
+
+   Website: sodaminhchau.com
+
+   Với những sản phẩm In Ấn chất lượng và có giá cả in ấn hợp lý.
+
+   Giao hàng tận nơi và tư vấn miễn phí về in ấn.
+
+   Các lĩnh vực thế mạnh của Minh Châu : in card visit nhựa
+   trong  – in bút bi quảng cáo – in dây đeo thẻ nhân viên– in tờ
+   rơi – in Poster– In bìa đựng hồ sơ – in catalogue nhanh  – in phong bì
+   –in lịch để bàn – in kỷ yếu lớp ……
+   5/5 - (1 bình chọn)
+
+   Tác giả
+   admin admin
+
+   Sổ da Minh Châu - Xưởng sản xuất sổ da hàng đầu thị trường
+
+   admin
+
+   Bình luận
+   0 0 đánh giá
+   Đánh giá bài viết
+   Theo dõi
+   Đăng nhập
+   Thông báo của
+   [bình luận theo dõi mới_________________......]
+   ____________________
+   ›
+   Label
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (ordered) (bullet) (BUTTON)
+   (BUTTON) (BUTTON) (BUTTON) {} (BUTTON) [+]
+                       
+   ____________________ Tên*
+   ____________________ Email*
+   ____________________ Trang web
+   [ ] Đăng bình luận
+   Label
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (ordered) (bullet) (BUTTON)
+   (BUTTON) (BUTTON) (BUTTON) {} (BUTTON) [+]
+                       
+   ____________________ Tên*
+   ____________________ Email*
+   ____________________ Trang web
+   [ ] Đăng bình luận
+   0 Góp ý
+   Cũ nhất
+   Mới nhất Được bỏ phiếu nhiều nhất
+   Phản hồi nội tuyến
+   Xem tất cả bình luận
+
+   Bài viết liên quan
+   Tư Vấn In Ấn
+
+   Dịch vụ in ảnh trên mica |In hình lên mica – Giá tốt, hình ảnh đẹp
+   In logo lên balo da In logo lên balo da
+   Tư Vấn In Ấn
+
+   Cách In Trên Chất Liệu Da – Công nghệ in UV trên da
+   Tư Vấn In Ấn
+
+   Giới thiệu một số phần mềm scan tài liệu chuyên nghiệp
+   In logo lên balo da In logo lên balo da
+   Tư Vấn In Ấn
+
+   Mới Thành Lập Công Ty Cần Những Đồ Dùng Văn Phòng Phẩm Nào ?
+   Tư Vấn In Ấn
+
+   Công ty số hóa tài liệu nào tốt nhất tại Miền Bắc ?
+   In bản vẽ trong layout In bản vẽ trong layout
+   Tư Vấn In Ấn
+
+   Cách in bản vẽ trong Layout – In nhiều bản dễ dàng
+   Mẫu hợp đồng in ấn dây đeo thẻ Mẫu hợp đồng in ấn dây đeo thẻ
+   Tư Vấn In Ấn
+
+   Mẫu hợp đồng in ấn – Hợp đồng thỏa thuận về việc in ấn
+   Định dạng file PDF Định dạng file PDF
+   Tin Tức
+
+   Khi nào nên sử dụng file PDF và không nên dùng PDF
+   Tư Vấn In Ấn
+
+   Cách in trên máy tính các loại tài liệu, văn bản, hợp đồng
+   Tư Vấn In Ấn
+
+   Dịch Vụ In Sách Tại Hà Nội – In Theo Yêu Cầu, Giá Tốt
+
+   Nội dung liên quan
+   các định dạng ảnh phổ biến cho web
+   cách định dạng ảnh jpg
+   file ảnh là gì
+   đâu là một trong số định dạng của file png?
+   định dạng ảnh cho web mobile
+   định dạng ảnh khi in
+   định dạng ảnh nhỏ nhất
+   định dạng hình ảnh
+   đổi định dạng ảnh
+   Chia sẻ:
+   home home
+   Xưởng sản xuất sổ da #1
+   Kết nối
+
+   Danh mục
+     * Sổ tay bìa da
+     * In sổ tay
+     * In Menu Bìa Cứng
+     * Bìa Trình Ký
+     * Bìa Tốt Nghiệp
+
+   Khách hàng
+     * Hướng dẫn mua hàng
+     * Bảo mật thông tin
+     * Chính sách hoàn tiền
+     * Chính sách hoàn hàng, đổi trả , vận chuyển
+
+   Thời gian làm việc
+     * Thứ 2 » Thứ 6: 08:00 – 17:00
+     * Thứ 7: 08:00 – 12:00
+     * Chủ nhật: Nghỉ
+     * Lễ & Tết Việt Nam: Nghỉ
+
+   VP Hà Nội
+   275 Đ. Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội, Việt Nam
+
+   VP TP. Hồ Chí Minh
+   106 Đ. Nguyễn Văn Trỗi, Phường 8, Phú Nhuận, Hồ Chí Minh, Việt Nam
+
+   ©2024 Sodaminhchau.com
+   DMCA compliant image DMCA compliant image
+
+   Hotline dịch vụ
+   0978891148
+
+   Email dịch vụ
+   Sodaminchau@gmail.com
+
+   Tìm kiếm: ____________________ (Tìm kiếm)
+
+   Sổ Da Minh Châu Sổ Da Minh Châu
+     * Sổ tay bìa da
+          + Sổ còng
+          + Sổ tay bìa gài
+          + Sổ bìa dán gáy
+          + Sổ da cao cấp
+     * Sổ tay giấy
+          + Sổ tay lò xo
+          + Sổ tay bìa cứng
+     * Bìa tốt nghiệp
+          + Bìa đựng bằng tốt nghiệp đại học
+          + Bìa kẹp chứng chỉ
+     * Bìa menu
+          + Menu bìa da bán sẵn
+          + Menu da gáy còng
+          + Menu đinh ốc
+          + Menu gáy soắn
+          + Menu bìa cứng
+          + Kẹp bill
+     * Bìa trình ký
+          + Bìa trình ký đôi
+          + Bìa trình ký đơn
+          + Cặp trình ký
+     * Đồ da
+          + Ví da
+          + Ví đựng Passport
+          + Móc khóa da
+          + Catagloue da
+          + Lót chuột da
+          + Đồ da khác
+     * Qùa tặng doanh nghiệp
+          + Bút bi
+          + Dây đeo thẻ
+          + Set quà tặng
+          + Bình giữ nhiệt
+          + Bát chén
+          + Ô dù
+
+   wpDiscuz
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   (BUTTON) Insert

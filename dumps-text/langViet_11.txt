@@ -1,4 +1,4 @@
-   HTTP/2 403 date: Sun, 04 Jan 2026 19:45:54 GMT content-type: text/html;
+   HTTP/2 403 date: Sun, 04 Jan 2026 20:54:01 GMT content-type: text/html;
    charset=UTF-8 accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
    Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
    Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List,
@@ -16,21 +16,21 @@
    rd-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magne
    tometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen
    -wake-lock=(),serial=(),sync-xhr=(),usb=() referrer-policy: same-origin
-   server-timing: chlray;desc="9b8d3d2c9a8fd886" x-content-type-options:
+   server-timing: chlray;desc="9b8da0f0dd1c3c93" x-content-type-options:
    nosniff x-frame-options: SAMEORIGIN cache-control: private, max-age=0,
    no-store, no-cache, must-revalidate, post-check=0, pre-check=0 expires:
    Thu, 01 Jan 1970 00:00:01 GMT set-cookie:
-   __cf_bm=pkSMwoJ2AG5yFArPSluFOj5YB48Y05N0cNbgf3g3ZEE-1767555954-1.0.1.1-
-   gHqWIk71C6RpEHMJi22A1kJJrFa.SGLzP4zWhnCTpPvHmROyfeKVtDsDc8Pkq2h0Tc7sZkA
-   IRZ0uZfLnspU.0lena_ppFo_hT7mnFu8KPRE; path=/; expires=Sun, 04-Jan-26
-   20:15:54 GMT; domain=.support.reddithelp.com; HttpOnly; Secure;
+   __cf_bm=USWL3WsyiTbwPwiUJnyKJTgwmzPAMJOYd2qurKUqtXc-1767560041-1.0.1.1-
+   4HFq9dzuiYd1xakajSQ0DXrIvLuBQCM9alGYieKKLycke4Cr4ECxPtZoypHIDlOYI5ugffl
+   3DbfKe8nmz0jTE2IQ3DJtAKdewi.AowIEiiw; path=/; expires=Sun, 04-Jan-26
+   21:24:01 GMT; domain=.support.reddithelp.com; HttpOnly; Secure;
    SameSite=None report-to:
-   {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ixBy
-   SyFDixAGPdZI5SBwv7WUXq4CXNCMHQT6fayhOPiavKYC3e0iKlILLzdmunC8pD%2BMsu11F
-   SzY9vjysnkI14Ve3KviqFfNRtS7JvoD%2F9TtLpo0xLbrMaPfnY29oG58PqlH2WQSrUA%3D
-   "}],"group":"cf-nel","max_age":604800} nel:
+   {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=WjFY
+   W0J6VHhcZ9hvpjQ8tM6psZDwUoZOk0o19aktoWVndbfzsC54AkYeqFvIOrTHgre%2FpBHTG
+   6rCJ6tbHzyQzBO%2BD2g5AQwH5R702ZMPrXga5%2FxXImXNF0qH4Xfr1IQ2whRblkB4Ukc%
+   3D"}],"group":"cf-nel","max_age":604800} nel:
    {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800} server:
-   cloudflare cf-ray: 9b8d3d2c9a8fd886-CDG
+   cloudflare cf-ray: 9b8da0f0dd1c3c93-CDG
    REFRESH(360 sec):
    file://localhost/home/xubuntu/projet-PPE/aspirations/langViet_11.html
 

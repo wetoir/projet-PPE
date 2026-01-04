@@ -1,0 +1,49 @@
+86:Các định dạng hình ảnh (png, jpg, gif, tiff và bmp) trong in ấn
+89:   Trang chủ / Tin Tức / Tư Vấn In Ấn / Các định dạng hình ảnh (png,
+92:   Mỗi một định dạng hình ảnh khi được tạo ra có mục đích sử dụng và thuộc
+94:   cùng sodaminhchau.com tìm hiểu về các định dạng hình ảnh thường dùng
+100:1) Định dạng hình ảnh Jpeg :
+106:    1. 1) Định dạng hình ảnh Jpeg :
+107:    2. (BUTTON) 2) Định dạng hình ảnh PNG:
+108:         1. 3) Định dạng hình ảnh GIF:
+109:    3. 4) Định dạng hình ảnh TIFF:
+110:    4. 5) Định dạng hình ảnh BMP:
+111:    5. (BUTTON) Nên sử dụng định dạng hình ảnh nào thích hợp?
+112:         1. (BUTTON) Định dạng hình ảnh JPEG: Hình ảnh web
+113:              1. Định dạng hình ảnh GIF: Hình ảnh Web/ Hình động/ Clip
+115:         2. TIFF: Hình ảnh để in ấn
+116:         3. PNG: Hình ảnh Web/ Logo & Line Art
+117:         4. BMP: Hình ảnh sử dụng để in ấn sản phẩm
+130:2) Định dạng hình ảnh PNG:
+133:   hình ảnh hỗ trợ nén dữ liệu không bị suy giảm chất lượng sử dụng nhiều
+137:   Ra đời vào năm 1996 với đuôi mở rộng .PNG, hình ảnh png không bị cạnh
+140:   Với 2 loại định dạng hình ảnh PNG :
+144:3) Định dạng hình ảnh GIF:
+147:   đuôi mở rộng là GIF nhưng chuẩn hình ảnh này có ít màu nên các tập tin
+151:4) Định dạng hình ảnh TIFF:
+153:   Là một định dạng file hình ảnh chất lượng cao và là chữ viết tắt
+154:   của Tagged Image File Format. La 2loa5i định dạng hình ảnh được tạo ra
+158:   File hình ảnh TIFF có thể xem được và chỉnh sửa được và giống như PNG
+161:5) Định dạng hình ảnh BMP:
+163:   Là dạng file ảnh đồ họa dạng lưới và sử dụng để lưu trữ hình ảnh kỹ
+166:   BMP được tạo ra vào năm 1994 với đuôi mở rộng cho hình ảnh là BMP và là
+167:   định dạng hình ảnh ổn định cho windows từ đời 3.0 tuy nhiên loại file
+168:   này lại không hỗ trợ nén hình ảnh tốt.
+170:Nên sử dụng định dạng hình ảnh nào thích hợp?
+173:   tốt nhất cho tất cả các tình huống. Mỗi loại định dạng hình ảnh có lợi
+177:Định dạng hình ảnh JPEG: Hình ảnh web
+179:   Có lẽ đây là định dạng phổ biến và thông dụng nhất cho hình ảnh web.
+180:   Định dạng JPEG là lựa chọn tốt nhất cho nhu cầu lưu hình ảnh lại với
+184:   Nếu bạn không cần quan tâm lắm đến chất lượng hình ảnh hoặc có thể hình
+187:Định dạng hình ảnh GIF: Hình ảnh Web/ Hình động/ Clip Art
+190:   hình ảnh đồ họa web. Mặc dù kích thước tập tin rất nhỏ và load rất
+191:   nhanh. Thêm vào đó, nếu bạn muốn thêm những hiệu ứng hình ảnh động thì
+194:TIFF: Hình ảnh để in ấn
+196:   TIFF là lựa chọn tốt nhất và duy nhất cho các chuyên gia khi hình ảnh
+201:PNG: Hình ảnh Web/ Logo & Line Art
+203:   Đây là định dạng tốt cho hình ảnh đồ họa web. Nếu bạn muốn file ảnh có
+206:   để chèn lên những hình ảnh khác, nó là định dạng dành cho bạn.
+208:BMP: Hình ảnh sử dụng để in ấn sản phẩm
+211:   nén. Hình ảnh của nó mang lại rất tốt, màu sắc đậm đà, file chất lượng
+292:   Dịch vụ in ảnh trên mica |In hình lên mica – Giá tốt, hình ảnh đẹp
+334:   định dạng hình ảnh

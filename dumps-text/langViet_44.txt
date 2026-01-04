@@ -1,0 +1,334 @@
+   HTTP/2 200 x-powered-by: PHP/7.4.27 content-type: text/html;
+   charset=UTF-8 link: /chanthuongvacotsong.bachmai.gov.vn/wp-json/>;
+   rel="https://api.w.org/" link:
+   /chanthuongvacotsong.bachmai.gov.vn/wp-json/wp/v2/posts/4232>;
+   rel="alternate"; title="JSON"; type="application/json" link:
+   /chanthuongvacotsong.bachmai.gov.vn/?p=4232>; rel=shortlink
+   x-litespeed-cache: hit content-length: 94586 date: Sun, 04 Jan 2026
+   20:55:13 GMT server: LiteSpeed alt-svc: h3=":443"; ma=2592000,
+   h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443";
+   ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000;
+   v="43,46" #Dòng thông tin KHOA CHẤN THƯƠNG CHỈNH HÌNH & CỘT SỐNG - BỆNH
+   VIỆN BẠCH MAI » oNhúng (JSON) oNhúng (XML) JSON
+
+   Skip to content
+
+     * Gọi tổng đài: 0869587728 Đặt lịch khám
+
+     * Gọi tổng đài: 0869587728 Đặt lịch khám
+
+   KHOA CHẤN THƯƠNG CHỈNH HÌNH & CỘT SỐNG – BỆNH VIỆN BẠCH MAI KHOA CHẤN
+   THƯƠNG CHỈNH HÌNH & CỘT SỐNG – BỆNH VIỆN BẠCH MAI
+
+     * vì sức khỏe nhân dân
+
+     * ____________________
+       (BUTTON)
+
+     *
+          + ____________________
+            (BUTTON)
+     *
+
+     * Trang chủ
+     * Giới thiệu
+     * Chấn thương chỉnh hình
+          + NỘI SOI KHỚP
+               o Khớp vai
+               o Khớp cổ chân
+               o Khớp háng
+               o Khớp gối
+               o Ca phẫu thuật điển hình
+          + Thay khớp
+               o Khớp gối
+               o Khớp háng
+               o Thay khớp robot
+     * Cột sống
+          + Bệnh lý cột sống
+          + Phẫu thuật cột sống
+          + Chẩn đoán và điều trị phẫu thuật các tổn thương mất vững cột
+            sống cổ cao
+     * Tin tức
+     * Liên hệ
+
+Tin hoạt động Bệnh viện
+
+Bệnh viện Bạch Mai cứu sống bệnh nhân shock tim ngừng tuần hoàn 90 phút
+
+   Posted on 28 Tháng 12, 2018 by Bác sĩ Lê Đăng Tân
+
+   Sáng ngày 28/12/2018, Bệnh viện Bạch Mai vui mừng tổ chức lễ tiễn ra
+   viện bệnh nhân nhồi máu cơ tim cấp biến chứng ngừng tuần hoàn kéo dài
+   trên 90 phút. Bệnh nhân có bệnh cảnh vô cùng phức tạp, luôn trong tình
+   thế “ngàn cân treo sợi tóc” đã được các bác sĩ bệnh viện Bạch Mai cứu
+   sống một cách ngoạn mục. Đây là một trường hợp rất hy hữu trong y văn
+   Việt Nam và thế giới.
+
+   a3 3517
+
+   PGS.TS Lương Ngọc Khuê – Cục trưởng Cục QLKCB, Bộ Y tế tặng hoa chúc
+   mừng bệnh nhân được trở về với gia đình. Ảnh: Dương Ngọc/TTX
+
+   Theo PGS.TS Đào Xuân Cơ – Trưởng Khoa Hồi sức tích cực, bệnh viện Bạch
+   Mai: 20h ngày 22/11/2018, Bệnh viện Bạch Mai tiếp nhận bệnh nhân Trần
+   Đắc Hải, nam 57 tuổi, với chẩn đoán: nhồi máu cơ tim cấp biến chứng
+   ngừng tuần hoàn kéo dài trên 90 phút, suy đa tạng/ đã thay van tim nhân
+   tạo– tăng huyết áp. BN là một bác sĩ đang công tác tại Bệnh viện Gang
+   Thép Thái Nguyên, có tiền sử tăng huyết áp nhiều năm, đã mổ thay van
+   tim cơ học từ 15 năm trước phải duy trì thuốc chống đông thường xuyên.
+   16h cùng ngày, bệnh nhân đau ngực trái dữ dội, điện tim có biến đổi,
+   được bệnh viện Gang Thép Thái Nguyên chẩn đoán nhồi máu cơ tim cấp, có
+   chỉ định chuyển lên bệnh viện Bạch Mai, trong lúc chuẩn bị chuyển viện
+   bệnh nhân xuất hiện cơn ngừng tim, rung thất.
+
+   Tại bệnh viện Gang Thép Thái Nguyên, các bác sĩ và điều dưỡng đã thực
+   hiện cấp cứu ngừng tuần hoàn, sốc điện nhiều lần. Sau 90 phút tim bệnh
+   nhân đã đập trở lại, nhưng người bệnh đi vào hôn mê sâu phải thở hoàn
+   toàn theo máy, tim đập rất yếu mặc dù phải sử dụng đến 3 loại thuốc trợ
+   tim. Ngay sau đó, bệnh nhân được thực hiện các biện pháp hồi sức ban
+   đầu: thở máy, thuốc chống đông và duy trì thuốc trợ tim để chuyển đến
+   bệnh viện Bạch Mai vào lúc 20h cùng ngày trong tình trạng hôn mê, suy
+   tuần hoàn chảy máu dạ dày, suy hô hấp nặng (PaO2 54 mmHg, với oxy
+   100%,) thiếu oxy tổ chức nặng, suy thận, rối loạn đông máu.
+
+   BN đnga được thực hienj kỹ thuật ECMO
+
+   Bệnh nhân đang được thực hiện kỹ thuật tim phổi nhân tạo ECMO. Ảnh: M.T
+
+   Kết quả hội chẩn toàn viện bệnh nhân đã được chẩn đoán: nhồi máu cơ tim
+   cấp có biến chứng ngừng tuần hoàn, suy đa tạng, xuất huyết tiêu hóa có
+   chỉ định chụp và đặt stent mạch vành. Tuy nhiên do tình trạng quá nặng,
+   đặc biệt là xuất huyết tiêu hóa nên BN được chuyển đến khoa Hồi sức
+   tích cực ngày 23/11/2018 để tiến hành các biện pháp hồi sức. Sau khi
+   hội chẩn với lãnh đạo Viện tim mạch và khoa Tiêu hóa, các bác sĩ thống
+   nhất chẩn đoán: nhồi máu cơ tim cấp có biến chứng ngừng tuần hoàn, suy
+   đa tạng, xuất huyết tiêu hóa/ van tim nhân tạo, tăng huyết áp. Hướng xử
+   trí: tim phổi nhân tạo (ECMO), can thiệp mạch vành để tránh nguy cơ
+   ngừng tuần hoàn trong quá trình can thiệp.
+
+   Từ ngày 24/11 – 03/12, Bệnh nhân được tiếp tục ECMO, lọc máu liên tục,
+   thở máy, kháng sinh phổ rộng, duy trì thuốc chống đông tránh tắc stent
+   và van cơ học, truyền chế phẩm máu, kiểm soát nhiễm khuẩn, ngừng thuốc
+   an thần. Tình trạng lâm sàng cải thiện từng ngày, đến 03/12, bệnh nhân
+   xuất hiện tình trạng sốc: huyết áp không đo được, nhịp tim nhanh, suy
+   hô hấp tăng với nhiều máu chảy ra từ phổi, siêu âm tim thấy hình ảnh
+   kẹt van cơ học do huyết khối bám van tim. Ban giám đốc Bệnh viện đã tổ
+   chức ngay 1 cuộc hội chẩn toàn viện gồm các chuyên gia đầu ngành và
+   quyết định dùng thuốc tiêu sợi huyết trước, nếu không cải thiện thì
+   phải phẫu thuật.
+
+   BN dược chăm soc dặc biệt
+
+   Bệnh nhân được chăm sóc trong phòng đặc biệt. Ảnh: M.T
+
+   Sau 04 dùng thuốc tiêu sợi huyết, ECMO, lọc máu liên tục và các biện
+   pháp hồi sức tích cực khác, tình trạng kẹt van không cải thiện. Hội
+   chẩn toàn viện lần 2, Hội đồng chuyên môn thống nhất chẩn đoán: sốc tim
+   do kẹt van hai lá, nhồi máu cơ tim cấp biến chứng ngừng tuần hoàn, suy
+   đa tạng/ đã thay van tim nhân tạo – tăng huyết áp… tiên lượng rất nặng,
+   có chỉ định mổ thay van hai lá sinh học.
+
+   Sau mổ, tình trạng bệnh nhân tiến triển tốt lên đến ngày 10/12, bệnh
+   nhân được rút ống nội khí quản, rút hết các dẫn lưu, không cần lọc máu.
+   Bệnh nhân tiếp tục được điều trị hồi sức, kiểm soát nhiễm khuẩn và phục
+   hồi chức năng. Đến 28/12, bệnh nhân hồi phục hoàn toàn, chức năng gan,
+   thận trở về bình thường, vận động bình thường, siêu âm tim bình thường
+   và đã được các bác sĩ cho ra viện cho niềm vui khôn xiết của gia đình
+   và người thân.
+
+   a2 3526
+
+   GS.TS Ngô Quý Châu tặng hoa chúc mừng thành công của các y bác sĩ. Ảnh:
+   Dương Ngọc/TTX
+
+   Đánh giá về ca bệnh này, GS.TS Ngô Quý Châu – Phó giám đốc bệnh viện
+   khẳng định: Thành công của ca bệnh này là nhờ sự chỉ đạo sát sao và
+   quyết liệt của Ban giám đốc Bệnh viện Bạch Mai, cùng sự phối hợp rất
+   tốt giữa các viện, khoa phòng trong bệnh viện và quá trình điều trị hồi
+   sức tích cực của các thầy thuốc khoa Hồi sức tích cực trong thời gian
+   hơn 1 tháng, đã đưa bệnh nhân từ cõi chết trở về, hồi phục hoàn toàn.
+   Bên cạnh đó, cũng nhận thấy hiệu quả của hoạt động đào tạo chuyển giao
+   kỹ thuật đối với hệ thống 26 BV vệ tinh của BV Bạch Mai – Bệnh viện
+   Gang Thép Thái Nguyên là một trong số đó, đã được chuyển giao nhiều kỹ
+   thuật trong đó có cấp cứu ngừng tuần hoàn… nhờ đó đã tiến hành cấp cứu
+   ban đầu tốt, hội chẩn liên tục với các chuyên gia của bệnh viện Bạch
+   Mai trong quá trình cấp cứu và vận chuyển bệnh nhân lên tuyến trên được
+   an toàn.
+
+   a1 3536
+
+   Để ghi nhận thành tích của các y bác sĩ, Giám đốc bệnh viện đã quyết
+   định trao tặng giấy khen cho 2 tập thể và 54 cá nhân. Ảnh: Dương
+   Ngọc/TTX
+
+   Thay mặt lãnh đạo Bộ y tế, PGS.TS Lương Ngọc Khuê – Cục trưởng Cục Quản
+   lý khám chữa bệnh đã đến tham dự và chúc mừng thành công của tập thể
+   các thầy thuốc bệnh viện Bạch Mai cũng như chia sẻ niềm vui của gia
+   đình bệnh nhân. PGS. Khuê cũng nhấn mạnh thành công trong hai ca bệnh
+   này thể hiện sự đoàn kết, phối kết hợp chặt chẽ, hiệu quả giữa các đơn
+   vị trong bệnh viện, xứng tầm của một bệnh viện đa khoa hạng đặc biệt
+   với bề dày 108 năm trưởng thành và phát triển.
+
+   Mai Thanh
+
+   This entry was posted in Tin hoạt động Bệnh viện. Bookmark the
+   permalink.
+
+Bác sĩ Lê Đăng Tân
+
+   Người đầu tiên được bổ nhiệm lãnh đạo ngành y từ thi tuyển
+   Bệnh viện Bạch Mai cứu sống bệnh nhân shock tim ngừng tuần hoàn 90 phút
+
+   Tìm
+   ____________________
+   (BUTTON)
+
+   Tin mới
+     * 24
+       Th12
+       Xylomethazoline Chức năng bình luận bị tắt ở Xylomethazoline
+     * 24
+       Th12
+       Xanh methylen Chức năng bình luận bị tắt ở Xanh methylen
+     * 24
+       Th12
+       Warfarin Chức năng bình luận bị tắt ở Warfarin
+     * 24
+       Th12
+       Vancomycin Chức năng bình luận bị tắt ở Vancomycin
+     * 24
+       Th12
+       Vitamin D Chức năng bình luận bị tắt ở Vitamin D
+
+   Danh mục
+     * A – Các chuyên luận riêng (69)
+     * B – Các chuyên luận riêng (26)
+     * Bài viết chuyên môn (681)
+     * Bệnh lý cột sống (15)
+     * BỆNH LÝ VỀ KHỚP (2)
+     * C – Các chuyên luận riêng (80)
+     * Cảnh giác dược (524)
+     * Chẩn đoán và điều trị phẫu thuật các tổn thương mất vững cột sống
+       cổ cao (1)
+     * CỘT SỐNG (3)
+     * D – Các chuyên luận riêng (44)
+     * E – Các chuyên luận riêng (24)
+     * F – Các chuyên luận riêng (26)
+     * G – Các chuyên luận riêng (29)
+     * H – Các chuyên luận riêng (12)
+     * HỎI ĐÁP (12)
+     * Hội đồng chuyên môn (12)
+     * Hướng dẫn và Quy trình khám chữa bệnh (5)
+     * I – Các chuyên luận riêng (24)
+     * K – Các chuyên luận riêng (9)
+     * L – Các chuyên luận riêng (24)
+     * M – Các chuyên luận riêng (32)
+     * N – Các chuyên luận riêng (33)
+     * Nhịp cầu nhân ái (445)
+     * O – Các chuyên luận riêng (12)
+     * P – Các chuyên luận riêng (51)
+     * Phẫu thuật cột sống (12)
+     * Q – Các chuyên luận riêng (2)
+     * R – Các chuyên luận riêng (13)
+     * S – Các chuyên luận riêng (22)
+     * T – Các chuyên luận riêng (44)
+     * Thay khớp (1)
+     * Thông tin thuốc (68)
+     * Tin hoạt động Bệnh viện (2.593)
+     * Tin trong ngành (2.709)
+     * Tin tức (5)
+     * Tư vấn và Tiêm chủng Vắc xin (5)
+     * U – Các chuyên luận riêng (1)
+     * V – Các chuyên luận riêng (25)
+     * W – Các chuyên luận riêng (1)
+     * X – Các chuyên luận riêng (2)
+     * Y học thường thức (2.594)
+     * Z – Các chuyên luận riêng (2)
+
+   ﻿
+
+   logo KHOA CHẤN THƯƠNG CHỈNH HÌNH VÀ CỘT SỐNG
+
+   Địa chỉ: Tầng 7, tòa nhà 21 tầng (Nhà Q), Số 78, Giải Phóng, Phương
+   Mai, Đống Đa, Hà Nội.
+   Điện thoại: 024 62537694, Hotline: 0869587728 (ZALO, VIBER)
+
+   Website: chanthuongvacotsong.bachmai.gov.vn
+
+   Email: ctchhanhchinh@gmail.com hoặc osdbachmai@gmail.com
+
+   Fanpage: Khoa Chấn thương chỉnh hình và cột sống – Bệnh viện Bạch Mai
+
+   DMCA.com Protection Status
+
+Thông tin
+
+          + Liên hệ
+          + Giới thiệu
+          + Làm việc: 6h – 22h
+
+Về chúng tôi
+
+   Khoa chấn thương chỉnh hình & Cột sống - Bệnh Viện Bạch Mai chuyên lĩnh
+   vực về cột sống, khớp, phục hồi chức năng,....
+
+Video
+
+   IFRAME: https://www.youtube.com/embed/LcdwQMyKtII
+
+Cơ cấu tổ chức:
+
+     * 01 trưởng khoa, 02 phó trưởng khoa
+     * Tổng số cán bộ và nhân viên: 42 nhân viên
+     * 02 Tiến sĩ, 03 BBCKII, 10 Thạc sỹ và Bác sĩ nội trú
+     * 25 Điều dưỡng: 01 thạc sĩ điều dưỡng, 14 cử nhân điều dưỡng, 14
+       điều dưỡng cao đẳng
+     * 02 hộ lý
+
+Cơ sở vật chất, trang thiết bị:
+
+     * 82 giường bệnh với nhiều loại giường khác nhau
+     * 02 phòng khám chuyên khoa tại Khoa Khám bệnh, nhà K2 (Phòng 111)
+     * 02 phòng tư vấn tái khám tại Tầng 4 - Trung tâm Khám chữa bệnh và
+       điều trị ban ngày, nhà K1 (Phòng 424 và 425).
+     * 01 hệ thống O.arm và định vị không gian 3 chiều chính xác
+
+   © Copyright 2020 Khoa Chấn Thương Chỉnh Hình Cột Sống Bệnh Viện Bạch
+   Mai. Thiết kế website bởi Lưu Anh Media.
+
+     * ____________________
+       (BUTTON)
+     * Trang chủ
+     * Giới thiệu
+     * Chấn thương chỉnh hình
+          + NỘI SOI KHỚP
+               o Khớp vai
+               o Khớp cổ chân
+               o Khớp háng
+               o Khớp gối
+               o Ca phẫu thuật điển hình
+          + Thay khớp
+               o Khớp gối
+               o Khớp háng
+               o Thay khớp robot
+     * Cột sống
+          + Bệnh lý cột sống
+          + Phẫu thuật cột sống
+          + Chẩn đoán và điều trị phẫu thuật các tổn thương mất vững cột
+            sống cổ cao
+     * Tin tức
+     * Liên hệ
+     *
+
+   086 9587728
+
+     * tìm kiếm
+       xóa
+       ____________________
+       (BUTTON)
+     * (BUTTON) giỏ hàng
+     * (BUTTON) chát
+
+   [contact-form-7 id="6" title="Đặt hàng"] Đóng
+
+   [contact-form-7 id="508" title="Liên hệ"] Đóng

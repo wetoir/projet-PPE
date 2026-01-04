@@ -34,7 +34,7 @@ cat > "$TAB" <<EOF
         		<li><a href="../index.html">Index</a></li>
             	<li class="is-active"><a href="../tableaux/tableauVn.html">Tableau Viet</a></li>
 				<li><a href="../tableaux/langtam.html">Tableaux Tamoul</a></li>
-				<li><a href="../tableaux/langfr.html"">Tableaux Français</a></li>
+				<li><a href="../tableaux/langfr.html">Tableaux Français</a></li>
 			</ul>
     	</nav>
 		<!-- Bannière/Hero -->
@@ -108,20 +108,31 @@ do
 	# concordance
 	concor_file="$CONCORDONCIER/lang${LANG}_$lineno.html"
     # Concordance gauche/droite pour chaque occurence
-    echo "<html>
+    cat > "$concor_file" <<EOF
+	<html>
 	<head>
 		<meta charset="UTF-8">
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" />
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Tableau Concordance – PPE 2025</title>
 	</head>
 	<body>
-		<table border='1'>
-			<tr>
-				<th>Gauche</th>
-				<th>Mot</th>
-				<th>Droite</th>
-			</tr>" > "$concor_file"
+		<nav class="tabs is-centered mb-0">
+        	<ul>
+        		<li><a href="../index.html">Index</a></li>
+            	<li class="is-active"><a href="../tableaux/tableauVn.html">Tableau Viet</a></li>
+				<li><a href="../tableaux/langtam.html">Tableaux Tamoul</a></li>
+				<li><a href="../tableaux/langfr.html">Tableaux Français</a></li>
+			</ul>
+    	</nav>
+		<div class="table-container">
+			<table class="table is-bordered is-striped is-hoverable is-fullwidth">
+				<tr>
+					<th>Gauche</th>
+					<th>Mot</th>
+					<th>Droite</th>
+				</tr>
+EOF
     while read -r line_context; do
 		mot_colore=$(echo "$line_context" | cut -d":" -f2 | grep -io "$MOT" | head -n 1)
         gauche=$(echo "$line_context" | cut -d":" -f2 | sed "s/\(.*\)$MOT.*/\1/I")
@@ -133,6 +144,7 @@ do
 			</tr>" >> "$concor_file"
     done < "$contex_file"
     echo "		</table>
+		</div>
 	</body>
 </html>" >> "$concor_file"
 

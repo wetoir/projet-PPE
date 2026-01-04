@@ -1,0 +1,461 @@
+   HTTP/2 200 content-type: text/html; charset=utf-8
+   belfrage-cache-status: MISS bid: sally brequestid:
+   7e0a20fdbe344ed9b3519c3e113ce40d bsig: 4aedc602e1f6b316f804aeddc7db08ac
+   cache-control: public, stale-if-error=90, stale-while-revalidate=30,
+   max-age=90 content-security-policy: default-src 'self' *.bbc.co.uk
+   *.bbc.com *.bbci.co.uk *.bbci.com
+   https://*.googlesyndication.com;child-src 'self';connect-src
+   https:;font-src *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com data:
+   https://*.teads.tv https://cdnjs.cloudflare.com/ajax/libs/font-awesome/
+   https://fonts.gstatic.com;frame-src 'self' *.bbc.co.uk *.bbc.com
+   *.bbci.co.uk *.bbci.com https://*.amazon-adsystem.com
+   https://*.chartbeat.com https://*.doubleclick.net
+   https://*.facebook.com https://*.google.com
+   https://*.googleadservices.com https://*.googlesyndication.com
+   https://*.mapcreator.io https://*.teads.tv https://*.thomsonreuters.com
+   https://*.twitter.com https://bbc-maps.carto.com https://bbc.com
+   https://cdn.privacy-mgmt.com https://chartbeat.com
+   https://edigitalsurvey.com https://flo.uri.sh
+   https://public.flourish.studio https://www.instagram.com
+   https://www.riddle.com https://www.tiktok.com
+   https://www.youtube-nocookie.com https://www.youtube.com;img-src
+   *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com data: 'self'
+   https://*.adsafeprotected.com https://*.amazon-adsystem.com
+   https://*.cdninstagram.com https://*.doubleclick.net
+   https://*.effectivemeasure.net https://*.google.com
+   https://*.googlesyndication.com https://*.googleusercontent.com
+   https://*.gstatic.com https://*.imrworldwide.com https://*.teads.tv
+   https://*.tiktokcdn.com https://*.twimg.com https://*.twitter.com
+   https://*.xx.fbcdn.net https://i.ytimg.com https://ping.chartbeat.net
+   https://sb.scorecardresearch.com
+   https://www.googleadservices.com;script-src 'self' 'unsafe-inline'
+   *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com
+   https://*.adsafeprotected.com https://*.amazon-adsystem.com
+   https://*.chartbeat.com https://*.covatic.io https://*.doubleverify.com
+   https://*.effectivemeasure.net https://*.facebook.com
+   https://*.g.doubleclick.net https://*.google.ae https://*.google.at
+   https://*.google.az https://*.google.be https://*.google.ca
+   https://*.google.ch https://*.google.cl https://*.google.co.id
+   https://*.google.co.il https://*.google.co.in https://*.google.co.jp
+   https://*.google.co.kr https://*.google.co.nz https://*.google.co.tz
+   https://*.google.co.ve https://*.google.com https://*.google.com.af
+   https://*.google.com.ar https://*.google.com.au https://*.google.com.bo
+   https://*.google.com.br https://*.google.com.co https://*.google.com.cy
+   https://*.google.com.ec https://*.google.com.eg https://*.google.com.gt
+   https://*.google.com.hk https://*.google.com.kh https://*.google.com.mm
+   https://*.google.com.mt https://*.google.com.mx https://*.google.com.ng
+   https://*.google.com.ni https://*.google.com.np https://*.google.com.pe
+   https://*.google.com.pk https://*.google.com.pr https://*.google.com.py
+   https://*.google.com.ro https://*.google.com.sa https://*.google.com.sg
+   https://*.google.com.sv https://*.google.com.tr https://*.google.com.tw
+   https://*.google.com.ua https://*.google.com.uy https://*.google.com.vn
+   https://*.google.cv https://*.google.cz https://*.google.de
+   https://*.google.dk https://*.google.es https://*.google.fi
+   https://*.google.fr https://*.google.ge https://*.google.hn
+   https://*.google.ie https://*.google.iq https://*.google.it
+   https://*.google.jo https://*.google.kz https://*.google.lk
+   https://*.google.lv https://*.google.nl https://*.google.no
+   https://*.google.pl https://*.google.ru https://*.google.se
+   https://*.google.so https://*.googlesyndication.com
+   https://*.imrworldwide.com https://*.mapcreator.io
+   https://*.permutive.com https://*.teads.tv https://*.thomsonreuters.com
+   https://*.twimg.com https://*.twitter.com
+   https://*.webcontentassessor.com https://*.xx.fbcdn.net
+   https://adservice.google.co.uk https://bbc.gscontxt.net
+   https://cdn.ampproject.org https://cdn.privacy-mgmt.com
+   https://connect.facebook.net https://lf16-tiktok-web.ttwstatic.com
+   https://public.flourish.studio https://sb.scorecardresearch.com
+   https://www.googletagservices.com https://www.instagram.com
+   https://www.riddle.com https://www.tiktok.com;style-src 'unsafe-inline'
+   *.bbc.co.uk *.bbc.com *.bbci.co.uk *.bbci.com https://*.twimg.com
+   https://*.twitter.com https://*.xx.fbcdn.net
+   https://fonts.googleapis.com
+   https://lf16-tiktok-web.ttwstatic.com;media-src https: blob:;worker-src
+   blob: 'self' *.bbc.co.uk *.bbc.com;report-to
+   worldsvc;upgrade-insecure-requests; report-to:
+   {"group":"worldsvc","max_age":2592000,"endpoints":[{"url":"https://ws.b
+   bc-reporting-api.app/report-endpoint","priority":1}],"include_subdomain
+   s":true} req-svc-chain: FASTLY,GTM,BELFRAGE,SIMORGH via: 1.1 BBC-GTM,
+   1.1 Belfrage, 1.1 varnish x-frame-options: DENY origin-agent-cluster:
+   ?0 nel:
+   {"report_to":"default","max_age":2592000,"include_subdomains":true,"fai
+   lure_fraction":0.25} x-bbc-edge-cache-status: MISS
+   x-bbc-origin-response-status: 200 report-to:
+   {"group":"default","max_age":2592000,"endpoints":[{"url":"https://defau
+   lt.bbc-reporting-api.app/report-endpoint","priority":1}],"include_subdo
+   mains":true} server: BBC-GTM strict-transport-security:
+   max-age=31536000; preload x-robots-tag: bingbot: noarchive
+   fastly-restarts: 1 accept-ranges: bytes date: Sun, 04 Jan 2026 20:54:52
+   GMT x-fastly-cache-status: MISS-CLUSTER x-served-by:
+   cache-par-lfpg1960087-PAR x-cache: MISS x-cache-hits: 0 x-timer:
+   S1767560092.484972,VS0,VE144 x-fastly-pre-flight-cache: MISS, HIT
+   x-fastly-pre-flight-cache-status: HIT-CLUSTER x-cache-age: 0
+   x-lb-nocache: true vary: X-BBC-Edge-Scheme,Accept-Encoding alt-svc:
+   h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+   content-length: 314227 #alternate
+
+   BBC News, Tiếng ViệtBỏ qua để xem nội dung
+
+   (BUTTON) Mục
+     * Tin chính
+     * Việt Nam
+     * Thế giới
+     * Kinh tế
+     * Thể thao
+     * Video
+
+     * Tin chính
+     * Việt Nam
+     * Thế giới
+     * Kinh tế
+     * Thể thao
+     * Video
+
+Hé lộ nguyên nhân quán bar Thụy Sĩ bùng cháy dữ dội qua hình ảnh và video
+
+   Giới chức cho biết những cây nến pháo sáng gắn trên các chai champagne,
+   được cầm "quá gần trần nhà", dường như là nguyên nhân gây ra đám cháy
+   Chụp lại hình ảnh, Giới chức cho biết những cây nến pháo hoa gắn trên
+   các chai champagne, được cầm "quá gần trần nhà", dường như là nguyên
+   nhân gây ra đám cháy
+
+     *
+          + Tác giả, Richard Irvine-Brown, Kevin Nguyen và Kayleen Devlin
+          + Vai trò, BBC Verify
+     * 3 tháng 1 2026
+     * Thời gian đọc: 8 phút
+
+   Các điều tra viên đang gấp rút xác định cách thức và nguyên nhân vì
+   sao vụ hỏa hoạn chết người xảy ra vào đêm Giao thừa tại một quán bar ở
+   khu nghỉ dưỡng trượt tuyết của Thụy Sĩ lại lan nhanh đến mức như vậy.
+
+   Tại buổi họp báo hôm 2/1, giới chức cho biết những cây nến pháo hoa gắn
+   trên các chai champagne, được giơ "quá gần trần nhà", dường như là
+   nguyên nhân gây ra đám cháy tại tầng hầm của quán bar Le Constellation
+   ở Crans-Montana.
+
+   Tuy nhiên, giới chức đang hướng trọng tâm điều tra nguyên nhân khiến
+   ngọn lửa bùng phát dữ dội đến mức làm ít nhất 40 người thiệt mạng và
+   119 người bị thương - nhiều trường hợp nguy kịch - bên cạnh lịch sử an
+   toàn phòng cháy chữa cháy của quán bar này.
+
+   BBC Verify đã phân tích các video do người sống sót và người chứng kiến
+   ghi lại, đồng thời trao đổi với các chuyên gia an toàn cháy nổ để tìm
+   manh mối về những gì đã xảy ra.
+
+Chai champagne gắn nến pháo hoa được giơ cao
+
+   Hai hình ảnh đáng chú ý và được chia sẻ rộng rãi trên mạng cho thấy
+   nhiều người cầm chai champagne có gắn nến pháo hoa đang cháy, giơ cao
+   quá đầu giữa đám đông.
+
+   Một hình ảnh cho thấy ngọn lửa bắt đầu xuất hiện trên trần nhà, ngay
+   phía trên những người đang giơ năm chai champagne như vậy.
+   Mọi người cầm các chai champagne gắn pháo sáng bên trong quán bar ở khu
+   nghỉ dưỡng trượt tuyết của Thụy Sĩ ngay trước khi đám cháy bùng phát.
+   Một đốm lửa màu cam nhỏ xuất hiện trên phần trần nhà trông giống vật
+   liệu mút xốp, ngay phía trên pháo sáng
+   Chụp lại hình ảnh, Nhiều người cầm các chai champagne gắn nến pháo hoa
+   bên trong quán bar ở khu nghỉ dưỡng trượt tuyết của Thụy Sĩ ngay trước
+   khi đám cháy bùng phát. Một đốm lửa màu cam nhỏ xuất hiện trên trần nhà
+   trông giống vật liệu mút xốp, ngay phía trên pháo sáng
+
+   Hình ảnh thứ hai được chụp ở góc gần hơn, cho thấy một người đội mũ bảo
+   hiểm, cầm chai champagne có gắn nến pháo hoa, ngồi trên vai một người
+   khác đeo mặt nạ Guy Fawkes.
+
+   Các tia lửa từ chai này dường như ở rất sát trần nhà.
+
+   Skip Đọc nhiều nhất and continue reading
+   Đọc nhiều nhất
+     * Ông Maduro bị áp giải
+       Điệp viên và drone: Cách Mỹ đã bắt ông Maduro
+     * Người biểu tình ở Bogota, Colombia sau khi ông Nicolás Maduro bị
+       bắt giữ
+       'Một chặng đường dài phía trước': Người Venezuela vừa hy vọng vừa
+       lo lắng
+     * Hình minh họa Nicolás Maduro với hai màu đen trắng trên nền vàng
+       Nicolás Maduro: người 'được chọn' bị ông Trump lật đổ
+     * Cô Kim Ju-ae (váy áo nâu) đứng cạnh cha, lãnh đạo Triều Tiên Kim
+       Jong-un, và mẹ, trong chuyến viếng thăm Điện Mặt trời Kumsusan ngày
+       1/1
+       Ái nữ của ông Kim Jong-un lần đầu xuất hiện công khai tại Điện Mặt
+       trời
+
+   End of Đọc nhiều nhất
+   Một người đội mũ bảo hiểm xe máy ngồi trên vai người khác. Cả hai cùng
+   cầm các chai champagne gắn pháo sáng, đưa sát trần nhà và di chuyển qua
+   quán bar đông nghịt người
+   Chụp lại hình ảnh, Một người đội mũ bảo hiểm ngồi trên vai người khác.
+   Cả hai cùng cầm các chai champagne gắn nến pháo hoa, dí sát trần nhà và
+   di chuyển qua quán bar đông nghịt người
+
+   BBC Verify xác định những hình ảnh này được chụp sau thời khắc nửa đêm
+   ngày 1/1, bằng cách kiểm chứng không có phiên bản nào xuất hiện sớm hơn
+   và đối chiếu với các bức ảnh công khai của Le Constellation - dựa trên
+   thiết kế quán bar và hệ thống đường ống đặc trưng.
+
+   Không có bằng chứng cho thấy các hình ảnh này đã bị chỉnh sửa bằng trí
+   tuệ nhân tạo (AI).
+
+   Trong những video khác được BBC Verify xác thực từ đêm xảy ra vụ cháy,
+   có thể thấy một số người bên trong quán bar đang quay video ngọn lửa
+   trong khi tiếng nhạc vang lên ầm ĩ. Trong một video, một số người bắt
+   đầu vội vã chạy về phía cầu thang thoát hiểm, vừa chạy vừa la hét.
+
+   Hôm 2/1, Tổng chưởng lý vùng Valais Béatrice Pilloud, cho biết mọi dấu
+   hiệu đều khiến các điều tra viên tin rằng đám cháy bắt nguồn từ nến
+   pháo hoa gắn trên các chai champagne được "đưa tới quá sát trần nhà".
+
+Nghi vấn về lớp mút xốp trên trần
+
+   Một trọng tâm khác của cuộc điều tra là lớp vật liệu trông giống mút
+   xốp trên trần quán bar, và liệu vật liệu đó có đáp ứng các tiêu chuẩn
+   an toàn hay không.
+
+   Hai chuyên gia an toàn cháy nổ nói với BBC Verify rằng các vật liệu
+   nhìn thấy trong ảnh và video của Le Constellation dường như là "mút
+   trứng gà" – một loại vật liệu cách âm làm từ polyurethane (PU).
+
+   Trong bức ảnh chụp cảnh các chai champagne được giơ cao, có thể thấy
+   ngọn lửa xuất hiện trên một phần trần quán được phủ lớp vật liệu giống
+   mút xốp.
+
+   Mút PU thường được xử lý bằng chất chống cháy trước khi lắp đặt làm vật
+   liệu tiêu âm trong các nhà máy và địa điểm giải trí.
+
+   Tuy nhiên, nếu không được xử lý, vật liệu này có thể rất dễ bắt lửa.
+
+   "Một khi bắt lửa, mút polyurethane cách âm có thể khiến ngọn lửa lan
+   rất nhanh do bề mặt lớn, đồng thời tạo ra khói dày đặc và độc hại, làm
+   gia tăng đáng kể tốc độ lây lan của đám cháy và rút ngắn thời gian
+   thoát hiểm," Tiến sĩ Peter Wilkinson, Đại học Loughborough, cho biết.
+
+   Giáo sư Edwin Galea, Đại học Greenwich, nói rằng hiệu quả của lớp chống
+   cháy trên mút PU có thể suy giảm theo thời gian.
+
+   Giới chức Thụy Sĩ cho biết họ chưa thể xác nhận loại mút xốp được sử
+   dụng tại quán bar cũng như liệu nó có đáp ứng các tiêu chuẩn an toàn
+   hay không.
+
+   Tại cuộc họp báo hôm 2/1, các quan chức đề cập đến hiện tượng
+   "flashover" xảy ra trong quán bar.
+
+   Giáo sư Galea giải thích đây là hiện tượng khi các khí nóng bốc lên
+   trần nhà, đạt tới nhiệt độ tới hạn rồi khiến toàn bộ không gian bùng
+   cháy gần như tức thì.
+
+   Theo ông Michael Klippel, chuyên gia an toàn cháy nổ tại Đại học ETH
+   Zurich, "khả năng sống sót sau hiện tượng flashover là rất thấp".
+
+   Cơ quan chịu trách nhiệm giám sát công tác kiểm tra an toàn cháy nổ tại
+   Crans-Montana là Văn phòng Phòng cháy Cantonal (OCF) thuộc bang Valais.
+   Việc kiểm tra do giới chức địa phương tiến hành.
+
+   Giới chức Thụy Sĩ cho biết tại họp báo rằng các công trình có quy mô
+   như Le Constellation sẽ được kiểm tra hằng năm.
+
+   BBC Verify đã liên hệ với OCF để đề nghị được tiếp cận các tài liệu
+   kiểm tra trước đây.
+
+Lối thoát hiểm của quán bar
+
+   Giới chức cho biết họ cũng sẽ tập trung xem xét các lối thoát hiểm tại
+   quán bar và cả tầng trệt lẫn tầng hầm. Đám cháy được cho là bắt
+   nguồn từ tầng hầm, nơi hai hình ảnh được nhắc tới ở trên được ghi lại.
+
+   Các đoạn video quay lại thời điểm ngọn lửa bùng phát cho thấy mọi người
+   đã cố gắng dập lửa trước khi tìm cách thoát ra khỏi tầng hầm bằng một
+   cầu thang hẹp.
+
+   Giáo sư Galea cho biết các lối thoát hiểm dạng cầu thang có thể trở
+   thành những "điểm nghẽn" chết người, khi người ta vấp ngã và bị giẫm
+   đạp lên nhau.
+   Máy của bạn không hỗ trợ nghe xem
+   (BUTTON) Play video, "Footage shows person trying to put out flames
+   during deadly Swiss bar fire", Thời lượng 0,09
+   00:09
+   Chụp lại video,
+
+   Một chuyên gia cho biết, ngay cả khi có các lối thoát hiểm khác, những
+   người hoảng loạn trong không gian xa lạ thường có xu hướng chạy theo
+   lối họ đã đi vào.
+
+   Giới chức cũng xác nhận tòa nhà có hơn một lối ra, nhưng cho biết hiện
+   "chưa thể khẳng định" lối thoát hiểm khẩn cấp có mở hay không vào thời
+   điểm xảy ra hỏa hoạn.
+
+   Ông Stéphane Ganzer, Ủy viên chính quyền bang Valais, nói: "Không chỉ
+   có một cánh cửa duy nhất, dù tại thời điểm xảy ra cháy, có vẻ phần lớn
+   mọi người đã thoát ra bằng lối chính. Nhưng đây là một địa điểm công
+   cộng. Rõ ràng nó phải được trang bị lối thoát hiểm khẩn cấp."
+
+   Bà Pilloud nói với báo giới rằng hai nhà quản lý người Pháp của
+   quán bar và những người thoát khỏi đám cháy đã được thẩm vấn.
+
+   Có thông tin nói rằng một trong các chủ sở hữu quán đã nói với
+   truyền thông địa phương rằng cơ sở này đã được kiểm tra ba lần trong
+   vòng 10 năm qua và mọi việc đều được thực hiện đúng quy định.
+
+Nến pháo hoa từng được sử dụng trước đó
+
+   Các điều tra viên cho biết họ cũng đang phân tích những video khác ghi
+   lại hoạt động của quán bar.
+
+   Một video mà BBC Verify tìm thấy cho thấy nến pháo hoa gắn trên chai
+   champagne đã được sử dụng bên trong quán bar này ít nhất từ năm 2024.
+   Ảnh chụp một video trên YouTube đăng năm 2024, cho thấy một người cầm
+   chai champagne gắn pháo sáng bên trong quán bar Le Constellation
+
+   Nguồn hình ảnh, Ảnh chụp màn hình
+   Chụp lại hình ảnh, Ảnh chụp một video trên YouTube đăng năm 2024, cho
+   thấy một người cầm chai champagne gắn nến pháo hoa bên trong quán bar
+   Le Constellation
+
+   Video cho thấy các phụ nữ đội mũ bảo hộ có kiểu dáng khác lạ, mang
+   chai champagne và pháo sáng đến cho khách, trước khi tháo nến ra rồi
+   rót đồ uống.
+
+   Đoạn video được đăng lên YouTube vào tháng 5/2024 từ tài khoản
+   @ConstellationCransMontana, dù chúng tôi hiện chưa thể xác định chính
+   xác thời điểm đoạn phim được quay.
+
+Chủ đề liên quan
+
+   Châu Âu
+
+Tin liên quan
+
+     * People react outside the "Le Constellation" bar
+
+'Tôi trốn khỏi một bức tường lửa': nhân chứng kể về hỏa hoạn tại quán bar ở
+Thụy Sĩ
+       2 tháng 1 năm 2026
+     * A wide shot shows the front of Le Constellation bar covered in
+       white tarpaulin, with an emergency worker standing in the
+       foreground. Christmas trees and model reindeer are also visible in
+       front of the bar.
+
+Vụ cháy làm hàng chục người chết tại Thụy Sĩ: Những gì chúng ta biết tới lúc
+này
+       1 tháng 1 năm 2026
+     * Cô Kim Ju-ae (váy áo nâu) đứng cạnh cha, lãnh đạo Triều Tiên Kim
+       Jong-un, và mẹ, trong chuyến viếng thăm Điện Mặt trời Kumsusan ngày
+       1/1
+
+Ái nữ của ông Kim Jong-un lần đầu xuất hiện công khai tại Điện Mặt trời
+       3 tháng 1 năm 2026
+     * ảnh minh họa
+
+Việt Nam và châu Á khép lại 2025: nền tảng vững, đơn hàng tăng trở lại
+       2 tháng 1 năm 2026
+     * Internet safety
+
+Cẩm nang lừa tình: kịch bản tội phạm dẫn dụ nạn nhân trong một tuần
+       2 tháng 1 năm 2026
+     * Hình ảnh Chủ tịch Trung Quốc Tập Cận Bình bắt tay với Tổng thống
+       Hàn Quốc Lý Lee Jae-myung trên màn hình truyền hình, trong khuôn
+       khổ Tuần lễ Lãnh đạo Kinh tế APEC, tại Gyeongju, Hàn Quốc vào tháng
+       1/11/2025
+
+Ông Tập Cận Bình tiếp Tổng thống Hàn Quốc giữa căng thẳng với Nhật Bản
+       2 tháng 1 năm 2026
+
+Tin chính
+
+     *
+
+TRỰC TIẾP, Mỹ giam ông Maduro tại New York, Tổng thống Trump nói sẽ 'điều
+hành' Venezuela, tiếp theo là gì?
+     *
+
+'Một chặng đường dài phía trước': Người Venezuela vừa hy vọng vừa lo lắng
+       4 tháng 1 năm 2026
+     *
+
+Điệp viên và drone: Cách Mỹ đã bắt ông Maduro
+       4 tháng 1 năm 2026
+
+BBC giới thiệu
+
+     * Hội nghị Trung ương 15
+
+Khai mạc Hội nghị Trung ương 15: Chốt nhân sự Bộ Chính trị
+       22 tháng 12 năm 2025
+     * CSIS cho biết trên Bãi Thuyền Chài, tiền đồn lớn nhất ở Trường Sa
+       của Việt Nam, có 5 cụm tòa nhà, ảnh chụp ngày 1/8/2025
+
+Việt Nam sắp hoàn thành các tiền đồn ở Biển Đông, có khả năng quân sự hóa?
+       18 tháng 12 năm 2025
+     * Hội nghị 15 sẽ bàn đến vấn đề nhân sự cấp cao nhất
+
+Hội nghị Trung ương 15: ai có khả năng gia nhập Bộ Ngũ nhiệm kỳ 14?
+       6 tháng 12 năm 2025
+     * Ông Nguyễn Đức Trung
+
+Điều gì khiến ông Nguyễn Đức Trung rời ghế Chủ tịch UBND sau 10 ngày?
+       28 tháng 11 năm 2025
+     * Các nữ chính trị gia Việt Nam
+
+Quyền lực và áp lực - thăng trầm của các nữ lãnh đạo trên chính trường Việt
+Nam
+       14 tháng 11 năm 2025
+     * ảnh minh họa
+
+Hội nghị Trung ương 14: ai sẽ vào Bộ Chính trị khóa tới?
+       5 tháng 11 năm 2025
+     * Đảo Koh Phi Phi của Thái Lan (trái) và Vịnh Hạ Long của Việt Nam
+
+Bao giờ du lịch Việt Nam vượt qua Thái Lan?
+       4 tháng 11 năm 2025
+     * Bà Phạm Thị Thanh Trà giữ chức bộ trưởng Nội vụ từ
+       tháng 4/2021
+
+Bà Phạm Thị Thanh Trà - nữ phó thủ tướng đầu tiên của Việt Nam - là ai?
+       25 tháng 10 năm 2025
+     * Hai Đại tướng Trịnh Văn Quyết (trái) và Nguyễn Trọng Nghĩa
+
+Hai đại tướng quân đội, một cuộc 'đổi ghế' và thông điệp quyền lực mới
+       4 tháng 11 năm 2025
+
+Phổ biến
+
+    1. 1
+       Điệp viên và drone: Cách Mỹ đã bắt ông Maduro
+    2. 2
+       'Một chặng đường dài phía trước': Người Venezuela vừa hy vọng vừa
+       lo lắng
+    3. 3
+       Nicolás Maduro: người 'được chọn' bị ông Trump lật đổ
+    4. 4
+       Ái nữ của ông Kim Jong-un lần đầu xuất hiện công khai tại Điện Mặt
+       trời
+    5. 5
+       K-beauty: từ trào lưu trên mạng thành thế lực kinh tế
+    6. 6
+       Hé lộ nguyên nhân quán bar Thụy Sĩ bùng cháy dữ dội qua hình ảnh và
+       video
+    7. 7
+       Ông Lê Trung Khoa, Nguyễn Văn Đài nói gì khi bị tuyên mỗi người 17
+       năm tù giam?
+    8. 8
+       Mỹ tấn công Venezuela, ông Trump tuyên bố đã 'bắt giữ' Tổng
+       thống Maduro
+    9. 9
+       Về Florida thăm nhà cũ, trường xưa
+   10. 10
+       'Thú tội trên truyền hình' trước phiên tòa xét xử ông Lê Trung
+       Khoa, Nguyễn Văn Đài
+
+   BBC News, Tiếng Việt
+     * Tại sao bạn có thể tin tưởng BBC News
+     * Điều khoản sử dụng
+     * Về BBC
+     * Chính sách riêng tư
+     * Cookie
+     * Liên hệ BBC
+     * BBC News các ngôn ngữ khác
+     * Do not share or sell my info
+
+   © 2026 BBC. BBC không chịu trách nhiệm nội dung các trang ngoài. Tìm
+   hiểu cách chúng tôi tiếp cận việc dẫn tới trang ngoài

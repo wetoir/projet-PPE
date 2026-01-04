@@ -1,12 +1,12 @@
-   HTTP/2 200 date: Sun, 04 Jan 2026 19:45:57 GMT content-type: text/html;
+   HTTP/2 200 date: Sun, 04 Jan 2026 20:54:04 GMT content-type: text/html;
    charset=UTF-8 vary: Accept-Encoding,Accept-Encoding set-cookie:
    device_env=4; expires=Sun, 11 Jan 2026 19:45:56 GMT; Max-Age=604800;
    path=/; domain=vnexpress.net; secure; SameSite=None set-cookie:
    device_env_real=4; expires=Sun, 11 Jan 2026 19:45:56 GMT;
    Max-Age=604800; path=/; domain=vnexpress.net; secure; SameSite=None
    x-zone: hn x-page-speed: 1.13.35.2-0 cache-control: max-age=0, no-cache
-   x-time: 1137 nxcb: MISS 4 server: vne-qt-fe-bot-0 x-proxy-cache: MISS
-   alt-svc: h3=":443"; ma=86400 x-time: 1161 #alternate
+   x-time: 1137 nxcb: HIT 4 server: vne-qt-fe-bot-0 x-proxy-cache: HIT
+   alt-svc: h3=":443"; ma=86400 x-time: 10 #alternate
 
    VnExpress Thời sự Thứ tư, 3/9/2025, 06:00 (GMT+7)
 

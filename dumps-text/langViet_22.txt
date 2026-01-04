@@ -1,8 +1,9 @@
-   HTTP/2 200 content-type: text/html; charset=utf-8 date: Sun, 04 Jan
-   2026 19:46:12 GMT server: Kestrel servername: k8s x-xss-protection: 1;
-   mode=block x-frame-options: sameorigin timecached: 05/01/2026 02:46:12
-   timeexpire: 900 x-cache-status: Hit lastmodifieddate: 28/10/2025
-   15:49:35 distributiondate: 23/10/2025 11:59:00 #One Piece live-action
+   HTTP/2 200 content-length: 49393 content-type: text/html; charset=utf-8
+   date: Sun, 04 Jan 2026 20:54:21 GMT server: Kestrel servername: k8s
+   x-xss-protection: 1; mode=block x-frame-options: sameorigin timecached:
+   05/01/2026 03:54:22 timeexpire: 900 lastmodifieddate: 28/10/2025
+   15:49:35 distributiondate: 23/10/2025 11:59:00
+   x-html-minification-powered-by: WebMarkupMin #One Piece live-action
    phần 2 "nhá hàng" hình ảnh đầy đủ đầu tiên về những gã khổng lồ
    alternate alternate
    REFRESH(3600 sec):

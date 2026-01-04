@@ -1,0 +1,750 @@
+   HTTP/1.1 200 OK Date: Sun, 04 Jan 2026 20:54:54 GMT Server:
+   Apache/2.4.52 (Ubuntu) Strict-Transport-Security: max-age=31536000;
+   includeSubDomains X-Frame-Options: SAMEORIGIN X-Content-Type-Options:
+   nosniff X-XSS-Protection: 1; mode=block X-Frame-Options: SAMEORIGIN
+   X-Content-Type-Options: nosniff Last-Modified: Sun, 04 Jan 2026
+   20:54:54 GMT Expires: Thu, 19 Nov 1981 08:52:00 GMT Cache-Control:
+   private, no-cache, max-age=0 Set-Cookie: xf_csrf=s3ww1Noy0Wq1QYIJ;
+   path=/; secure Content-Length: 187613 Vary: Accept-Encoding
+   Content-Type: text/html; charset=utf-8
+
+   Giải Pháp Excel
+   (BUTTON)
+   Giải Pháp Excel
+     * Trang chủ
+       Có gì mới Hoạt động gần nhất Tác giả
+     * Diễn đàn
+       Tìm bài viết mới Tìm theo chuyên mục
+     * Video New
+       Video về Excel Video về tin học khác Tin tức về tin học chung
+     * Thông tin mới
+       Featured content Tìm bài mới Tài Nguyên Mới Hoạt động gần nhất
+     * Tài nguyên
+       Đánh giá mới nhất Tìm tài nguyên
+     * Facebook
+     * Đóng góp
+
+   Đăng nhập Đăng Ký
+   Có gì mới? Tìm kiếm
+
+Tìm kiếm
+
+   ____________________ [Mọi nơi_______...]
+   [ ] Chỉ tìm trong tiêu đề
+   Bởi: ____________________
+   (BUTTON) Tìm kiếm (BUTTON) Tìm nâng cao…
+     * Tìm bài viết mới
+     * Tìm theo chuyên mục
+
+   Menu
+   Đăng nhập
+     __________________________________________________________________
+
+   Đăng Ký
+     __________________________________________________________________
+
+   Install the app
+   (BUTTON) Install
+   How to install the app on iOS
+
+   Follow along with the video below to see how to install our site as a
+   web app on your home screen.
+
+   Note: This feature may not be available in some browsers.
+     *
+
+   Khách ơi!
+   GPE thông tin đến bạn ấn phẩm "lập trình VBA trong Excel":
+       - Phần cơ bản     - Phần Nâng Cao
+       - VBA trong Excel - Cải thiện và tăng tốc
+
+     * Trang chủ
+
+     Diễn đàn
+
+     Những vấn đề chung
+
+   JavaScript is disabled. For a better experience, please enable
+   JavaScript in your browser before proceeding.
+
+   You are using an out of date browser. It may not display this or other
+   websites correctly.
+   You should upgrade or use an alternative browser.
+
+Hỏi về cách copy nhiều hình ảnh 1 lần trong excel (1 người xem)
+
+     * Thread starter huyanh90
+     * Ngày gửi 22/7/14
+
+   Liên hệ QC
+
+Người dùng đang xem chủ đề này
+
+   Đang trực tuyến: 2 (Thành viên: 0, Khách: 2)
+   H
+
+huyanh90
+
+Thành viên mới
+[gold.gif]
+
+   Tham gia
+          16/4/10
+
+   Bài viết
+          29
+
+   Được thích
+          0
+
+     * 22/7/14
+
+     *
+     *
+     * #1
+
+   Hi các mem
+   Cho mình hỏi vấn đề này: mình muốn copy nhanh nhiều hình ảnh 1 lần
+   trong excel thì làm thế nào vậy?
+   Mình đang gặp trường hợp như trong file đính kèm. Muốn copy nhiều hình
+   ảnh trong "sheet copy" ở ô tô màu vàng sang "sheet paste noi dung" ở
+   cột Shape-Dimention thì mình có cách nào làm nhanh ko? Hiện tại mình
+   đang làm kiểu thủ công là giữ Ctrl và nhấn từng hình, thấy thế này lâu
+   quá mà mình chưa nghỉ ra cách nào để nhanh hơn.
+   Mong các mem cho y kiến với.
+   File đính kèm!
+
+File đính kèm
+
+     * KLTTD1.xls
+       84 KB · Đọc: 22
+
+   Hoàng Trọng Nghĩa
+
+Hoàng Trọng Nghĩa
+
+Chuyên gia GPE
+[iconnh.gif]
+
+   Thành viên BQT
+   Moderator
+
+   Tham gia
+          17/8/08
+
+   Bài viết
+          8,662
+
+   Được thích
+          16,725
+
+   Giới tính
+          Nam
+
+     * 22/7/14
+
+     *
+     *
+     * #2
+
+   huyanh90 đã viết:
+
+   Hi các mem
+   Cho mình hỏi vấn đề này: mình muốn copy nhanh nhiều hình ảnh 1 lần
+   trong excel thì làm thế nào vậy?
+   Mình đang gặp trường hợp như trong file đính kèm. Muốn copy nhiều hình
+   ảnh trong "sheet copy" ở ô tô màu vàng sang "sheet paste noi dung" ở
+   cột Shape-Dimention thì mình có cách nào làm nhanh ko? Hiện tại mình
+   đang làm kiểu thủ công là giữ Ctrl và nhấn từng hình, thấy thế này lâu
+   quá mà mình chưa nghỉ ra cách nào để nhanh hơn.
+   Mong các mem cho y kiến với.
+   File đính kèm!
+   Nhấp chuột vào đây để mở rộng...
+
+   Bạn thử với cách này xem sao: Bấm tổ hợp phím Ctrl+G, chọn Special...
+   phần Select chọn mục Objects rồi bấm OK.
+
+   H
+
+huyanh90
+
+Thành viên mới
+[gold.gif]
+
+   Tham gia
+          16/4/10
+
+   Bài viết
+          29
+
+   Được thích
+          0
+
+     * 22/7/14
+
+     *
+     *
+     * #3
+
+   Thanks bạn. Mình đã làm được!
+
+   ndu96081631
+
+ndu96081631
+
+Huyền thoại GPE
+[diamond.png]
+
+   Thành viên BQT
+   Super Moderator
+
+   Tham gia
+          5/6/08
+
+   Bài viết
+          30,703
+
+   Được thích
+          53,981
+
+     * 23/7/14
+
+     *
+     *
+     * #4
+
+   Hoàng Trọng Nghĩa đã viết:
+
+   Bạn thử với cách này xem sao: Bấm tổ hợp phím Ctrl+G, chọn Special...
+   phần Select chọn mục Objects rồi bấm OK.
+   Nhấp chuột vào đây để mở rộng...
+
+   Tôi thì hay dùng cách này: Chọn đại 1 hình rồi Ctrl + A
+
+   L
+
+longsudv
+
+Thành viên mới
+[gold.gif]
+
+   Tham gia
+          3/6/12
+
+   Bài viết
+          7
+
+   Được thích
+          0
+
+     * 12/9/18
+
+     *
+     *
+     * #5
+
+   ndu96081631 đã viết:
+
+   Tôi thì hay dùng cách này: Chọn đại 1 hình rồi Ctrl + A[/QUOT
+   Nhấp chuột vào đây để mở rộng...
+
+   Bài đã được tự động gộp: 12/9/18
+   bác ơi e muốn cop 1 shet mà cop dc cả hình ảnh thì làm sao ạ.trước e
+   vẫn cop dc nhưng jo nó bị sao ý e k cop được. mong bác chỉ giáo ạ. Em
+   cảm ơn
+
+File đính kèm
+
+     * 1536725426641.png
+       1536725426641.png
+       242.4 KB · Đọc: 13
+     * bản gốc.xlsx
+       59.3 KB · Đọc: 6
+     * bản coppy.xlsx
+       44.6 KB · Đọc: 4
+
+   be_09
+
+be_09
+
+Biên Hòa, Đồng Nai
+
+   Tham gia
+          9/4/11
+
+   Bài viết
+          9,972
+
+   Được thích
+          9,884
+
+   Nghề nghiệp
+          Công chức
+
+     * 12/9/18
+
+     *
+     *
+     * #6
+
+   longsudv đã viết:
+
+   Bài đã được tự động gộp: 12/9/18
+   bác ơi e muốn cop 1 shet mà cop dc cả hình ảnh thì làm sao ạ.trước e
+   vẫn cop dc nhưng jo nó bị sao ý e k cop được. mong bác chỉ giáo ạ. Em
+   cảm ơn
+   Nhấp chuột vào đây để mở rộng...
+
+   Thì Copy nguyên cả sheet và Paste bình thường chứ có gì đâu mà không
+   làm được.
+   Theo tôi thì nên làm 1 sheet mẫu và dựa vào dữ liệu của sheet theo dõi
+   hoặc danh mục hàng hóa để lấy dữ liệu vào sheet mẫu và tự động Load
+   hình từ Folder chứa hình vào chứ Copy và Paste kiểu này có ngày File
+   tăng dung lượng bất thường và nó ì ạch thì không biết đâu mà lần.
+
+   L
+
+longsudv
+
+Thành viên mới
+[gold.gif]
+
+   Tham gia
+          3/6/12
+
+   Bài viết
+          7
+
+   Được thích
+          0
+
+     * 13/9/18
+
+     *
+     *
+     * #7
+
+   be09 đã viết:
+
+   Thì Copy nguyên cả sheet và Paste bình thường chứ có gì đâu mà không
+   làm được.
+   Theo tôi thì nên làm 1 sheet mẫu và dựa vào dữ liệu của sheet theo dõi
+   hoặc danh mục hàng hóa để lấy dữ liệu vào sheet mẫu và tự động Load
+   hình từ Folder chứa hình vào chứ Copy và Paste kiểu này có ngày File
+   tăng dung lượng bất thường và nó ì ạch thì không biết đâu mà lần.
+   Nhấp chuột vào đây để mở rộng...
+
+   e đã chuyển qua máy khác kiểm tra file .máy e có vấn đề bác ah.e cảm ơn
+   bác
+
+   Bạn phải đăng nhập hoặc đăng ký để trả lời bài viết tại đây.
+
+Bài viết mới nhất
+
+   Momominh
+   hỏi về công thức tách kí tự từ chuỗi (2 người xem)
+     * Momominh
+     * Thứ bảy lúc 11:52
+     * Hàm và công thức Excel
+
+   Trả lời
+          9
+
+   Đọc
+          163
+
+   30 phút trước
+   DeTong
+   D
+   T
+   Mọi người giúp mình lập bảng tính sao hạn ạ (1 người xem)
+     * thinhthien1
+     * Hôm qua, lúc 22:23
+     * Tìm kiếm, dò tìm và tham chiếu
+
+   Trả lời
+          0
+
+   Đọc
+          20
+
+   Hôm qua, lúc 22:23
+   thinhthien1
+   T
+   SA_DQ
+   Copilot bình luận các ván cờ vua từng ngày.
+     *
+          + Thích
+
+     * SA_DQ
+     * 3/11/25
+     * Chia sẻ
+
+   Trả lời
+          22
+
+   Đọc
+          945
+
+   Hôm qua, lúc 15:32
+   SA_DQ
+   SA_DQ
+   S
+   TỰ ĐỘNG CẬP NHẬT DỮ LIỆU
+     * sangdennh
+     * Thứ sáu lúc 09:55
+     * Hàm và công thức Excel
+
+   Trả lời
+          13
+
+   Đọc
+          385
+
+   Hôm qua, lúc 14:35
+   DeTong
+   D
+   zonmaomao
+   File.xlsx hay bị tự động out, khi mở lại báo lỗi repaired và chỉ lưu
+   được đến lần last saved gần nhất ạ
+     * zonmaomao
+     * Thứ sáu lúc 21:50
+     * Giải thích, gỡ rối, xử lý lỗi công thức
+
+   Trả lời
+          3
+
+   Đọc
+          86
+
+   Hôm qua, lúc 12:38
+   huhumalu
+   H
+   T
+   Nhờ làm file excel quản lý kho N-X-T theo vị trí
+     *
+          + Thích
+
+     * Tuan_Leok
+     * 1/11/18
+     * Excel Ứng Dụng
+
+   Trả lời
+          15
+
+   Đọc
+          5K
+
+   Thứ bảy lúc 18:11
+   thanhphongtslocphat
+   thanhphongtslocphat
+   NguyenNgocThuHien
+     * Question
+
+   Liệt kê tổ hợp chập k của nhóm n phần tử.
+     *
+          + Thích
+          + Yêu thích
+
+     * NguyenNgocThuHien
+     * 5/12/17
+     * Lập Trình với Excel
+
+   Trả lời
+          55
+
+   Đọc
+          19K
+
+   Thứ sáu lúc 14:14
+   tohop
+   T
+   G
+   Em xin hỏi hàm Vlook up ạ!
+     * giangong
+     * Thứ sáu lúc 10:23
+     * Hàm và công thức Excel
+
+   Trả lời
+          1
+
+   Đọc
+          73
+
+   Thứ sáu lúc 10:38
+   dungpham01
+   D
+   PhanTuHuong
+   Chương trình lập Báo cáo khảo sát Địa chất công trình GeoSection
+     *
+          + Thích
+
+     * PhanTuHuong
+     * 7/10/21
+     * Xây dựng ứng dụng.
+
+   Trả lời
+          10
+
+   Đọc
+          7K
+
+   Thứ năm lúc 14:52
+   PhanTuHuong
+   PhanTuHuong
+   2
+   Xin hỏi về Công thức tính tiết theo PPCT (phân phối chương trình) trong
+   Lịch báo giảng tự động
+     * 2013myvietnam
+     * Thứ tư lúc 20:22
+     * Excel và Giáo Dục
+
+   Trả lời
+          9
+
+   Đọc
+          311
+
+   Thứ năm lúc 14:25
+   2013myvietnam
+   2
+   V
+   Giúp tạo bảng phân công lịch trực tự động (1 người xem)
+     *
+          + Cười
+
+     * vudaicacvatn
+     * Thứ tư lúc 17:05
+     * Những vấn đề chung
+
+   Trả lời
+          4
+
+   Đọc
+          163
+
+   Thứ năm lúc 08:51
+   thanthanhan
+   thanthanhan
+   GPE-Trợ Lý
+   [GPE21] ỨNG DỤNG POWER QUERY TRONG ĐỐI CHIẾU DỮ LIỆU HÓA ĐƠN ĐIỆN TỬ VÀ
+   DỮ LIỆU KẾ TOÁN
+     *
+          + Thích
+
+     * GPE-Trợ Lý
+     * 21/12/25
+     * Học tập Online
+
+   Trả lời
+          1
+
+   Đọc
+          10K
+
+   Thứ năm lúc 05:26
+   GPE-Trợ Lý
+   GPE-Trợ Lý
+   hanhlx88
+   Nhờ các cao nhân chỉ giúp file excel quá nặng. không không biết nguyên
+   nhân
+     * hanhlx88
+     * 29/12/25
+     * Giải thích, gỡ rối, xử lý lỗi công thức
+
+   Trả lời
+          5
+
+   Đọc
+          236
+
+   Thứ tư lúc 22:56
+   Mr.hieudoanxd
+   Mr.hieudoanxd
+   Q
+   Nhờ các anh chị giúp cho công thức đếm số khách hàng theo File đính kèm
+     * QUANSUNG
+     * 29/12/25
+     * Hướng dẫn sử dụng các hàm trong Excel
+
+   Trả lời
+          8
+
+   Đọc
+          279
+
+   Thứ tư lúc 16:31
+   dungpham01
+   D
+   T
+   Nhờ các Pro giúp thiết lập bảng excel
+     * thanhkybk
+     * 29/12/25
+     * Hàm và công thức Excel
+
+   Trả lời
+          10
+
+   Đọc
+          458
+
+   Thứ tư lúc 15:19
+   thanhkybk
+   T
+   D
+     * Question
+
+   Tách dòng tự động theo điều kiện bằng VBA
+     *
+          + Cười
+
+     * duongnhuxuyen
+     * 12/12/25
+     * Lập Trình với Excel
+
+   Trả lời
+          20
+
+   Đọc
+          770
+
+   Thứ ba lúc 10:32
+   ptm0412
+   ptm0412
+   D
+   Công thức tính thuế TNCN cho người lao động nước ngoài
+     * Dinh Hong Nhung
+     * 29/12/25
+     * Hàm và công thức Excel
+
+   Trả lời
+          1
+
+   Đọc
+          211
+
+   29/12/25
+   Phan Thế Hiệp
+   Phan Thế Hiệp
+   D
+   Công thức tính thuế thu nhập cá nhân mới nhất theo mức 5 bậc
+     * Dinh Hong Nhung
+     * 11/12/25
+     * Hàm và công thức Excel
+
+   Trả lời
+          16
+
+   Đọc
+          2K
+
+   29/12/25
+   dungpham01
+   D
+   L
+   [Nhờ giúp đỡ] Tìm khoảng thời gian bị gối, hoặc trùng nhau
+     * Lá chanh
+     * 26/12/25
+     * Hàm và công thức Excel
+
+   Trả lời
+          8
+
+   Đọc
+          247
+
+   29/12/25
+   lamvankhoat1
+   L
+   B
+   Tính 1 đồng Doanh thu thuần mang về thì còn lại được bao nhiêu đồng
+   EBITDA
+     * Bobby52
+     * 27/12/25
+     * Hàm và công thức Excel
+
+   Trả lời
+          0
+
+   Đọc
+          124
+
+   27/12/25
+   Bobby52
+   B
+   Xem thêm…
+
+   Chia sẻ:
+   Facebook X Bluesky LinkedIn Reddit Pinterest Tumblr WhatsApp Email Chia
+   sẻ Link
+
+Thành viên có số lượng bài viết cao nhất tháng
+
+     * sangdennh 7
+     * Phan Thế Hiệp 5
+     * dungpham01 5
+     * 2013myvietnam 4
+     * DeTong 4
+     * Duy Tùng 9x 3
+     * thanhphongtslocphat 2
+     * zonmaomao 2
+     * huhumalu 2
+     * SA_DQ 2
+     * huuthang_bd 1
+     * thanthanhan 1
+     * PhanTuHuong 1
+     * giangong 1
+     * tohop 1
+     * thinhthien1 1
+     * Momominh 1
+
+Thành viên có điểm tương tác cao nhất tháng
+
+     * Phan Thế Hiệp 13
+     * 2013myvietnam 5
+     * thanthanhan 2
+     * PhanTuHuong 2
+     * dungpham01 2
+     * huhumalu 2
+     * Duy Tùng 9x 1
+     * SA_DQ 1
+
+Thời gian đếm ngược.
+
+   000
+   Ngày
+   00
+   Giờ
+   00
+   phút
+   00
+   giây
+   Thân mời tham dự sự kiện sinh nhật GPE 2025
+
+     * Trang chủ
+
+     Diễn đàn
+
+     Những vấn đề chung
+
+     * GPE 2017
+     * Tiếng Việt
+
+     * Nội quy diễn đàn
+     * Chính sách bảo mật
+     * Trợ giúp
+     * Trang chủ
+     * RSS
+
+   Community platform by XenForo^® © 2010-2025 XenForo Ltd.
+   XenPorta 2 PRO © Jason Axelrod of 8WAYRUN
+
+     * Website này sử dụng cookies. Tiếp tục sử dụng trang này, đồng nghĩa
+       với việc bạn chấp nhận website sử dụng cookies.
+       Chấp nhận Tìm hiểu thêm.…
+
+   Back
+
+   Top Bottom
+
+   ____________________

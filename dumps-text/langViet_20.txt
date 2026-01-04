@@ -1,15 +1,15 @@
-   HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 19:46:08 GMT
-   content-type: text/html; charset=utf-8 content-length: 490056
-   last-modified: Sun, 04 Jan 2026 19:40:36 GMT vary: Accept-Encoding
-   asp-id: 8389 access-control-allow-origin: *
+   HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 20:54:17 GMT
+   content-type: text/html; charset=utf-8 content-length: 490151
+   last-modified: Sun, 04 Jan 2026 20:33:31 GMT vary: Accept-Encoding
+   asp-id: 2316 access-control-allow-origin: *
    access-control-allow-methods: GET, POST, PUT, DELETE, OPTIONS
    access-control-expose-headers: Location,Upload-Offset,Upload-Length
    access-control-allow-headers: Origin, X-Requested-With, Content-Type,
    Accept,csrf-token access-control-allow-credentials: true v-origin: 188
-   s-count: 1 r-count: 0 be: desktop device-type: desktop age: 331 v-node:
-   vnpt-4 strict-transport-security: max-age=31536000; includeSubDomains;
-   preload v-cache: HIT iph: 1 edge-hot-cache: MISS edge-isp: VNPT
-   accept-ranges: bytes #alternate
+   s-count: 1 r-count: 0 be: desktop device-type: desktop age: 1246
+   v-node: vnpt-3 strict-transport-security: max-age=31536000;
+   includeSubDomains; preload v-cache: HIT iph: 1 edge-hot-cache: MISS
+   edge-isp: VNPT accept-ranges: bytes #alternate
 
    Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7
    Fica Fica DTiNews DTiNews NoiVuXaHoi Nội vụ & Xã hội
@@ -440,12 +440,21 @@ Chia tay chồng sắp cưới vì anh phá sản, tôi thấy mình hành độ
 
 Đêm tân hôn, chồng tức giận khi tôi cầm một chiếc khăn trên tay
 
-   Tôi nấu món gì bố chồng cũng chê, sự thật phía sau khiến tôi “sáng mắt”
+   Tôi mất ngủ triền miên vì "âm thanh lạ" phát ra từ phòng hàng xóm mỗi
+   đêm
 
-Tôi nấu món gì bố chồng cũng chê, sự thật phía sau khiến tôi “sáng mắt”
+Tôi mất ngủ triền miên vì "âm thanh lạ" phát ra từ phòng hàng xóm mỗi đêm
 
    Thông tin doanh nghiệp - sản phẩm
    (BUTTON) (BUTTON)
+   Tủ lạnh Aqua 50 lít AQR-D59FA rất nhỏ gọn mà giá chỉ 2,3 triệu đồng Tủ
+   lạnh Aqua 50 lít AQR-D59FA rất nhỏ gọn mà giá chỉ 2,3 triệu đồng
+   Máy giặt Panasonic 9 kg NA-F90A9DRV giá chỉ 5.8 triệu mà thiết kế hiện
+   đại, rất tiết kiệm điện Máy giặt Panasonic 9 kg NA-F90A9DRV giá chỉ 5.8
+   triệu mà thiết kế hiện đại, rất tiết kiệm điện
+   Máy lọc không khí Panasonic F-P15EHA nhỏ gọn, chất lượng giá chỉ 1,2
+   triệu đồng Máy lọc không khí Panasonic F-P15EHA nhỏ gọn, chất lượng giá
+   chỉ 1,2 triệu đồng
    Bình nóng lạnh trực tiếp Ferroli DIVOSSN rất an toàn mà thiết kế thời
    thượng Bình nóng lạnh trực tiếp Ferroli DIVOSSN rất an toàn mà thiết kế
    thời thượng
@@ -454,14 +463,6 @@ Tôi nấu món gì bố chồng cũng chê, sự thật phía sau khiến tôi 
    Máy sấy bơm nhiệt Electrolux UltimateCare 9 kg EDH903R7SC/EDH903R7WC
    rất chất lượng, giá rẻ Máy sấy bơm nhiệt Electrolux UltimateCare 9 kg
    EDH903R7SC/EDH903R7WC rất chất lượng, giá rẻ
-   Máy giặt Panasonic 9 kg NA-F90A9DRV giá chỉ 5.8 triệu mà thiết kế hiện
-   đại, rất tiết kiệm điện Máy giặt Panasonic 9 kg NA-F90A9DRV giá chỉ 5.8
-   triệu mà thiết kế hiện đại, rất tiết kiệm điện
-   Tủ lạnh Aqua 50 lít AQR-D59FA rất nhỏ gọn mà giá chỉ 2,3 triệu đồng Tủ
-   lạnh Aqua 50 lít AQR-D59FA rất nhỏ gọn mà giá chỉ 2,3 triệu đồng
-   Máy lọc không khí Panasonic F-P15EHA nhỏ gọn, chất lượng giá chỉ 1,2
-   triệu đồng Máy lọc không khí Panasonic F-P15EHA nhỏ gọn, chất lượng giá
-   chỉ 1,2 triệu đồng
 
    Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7
 

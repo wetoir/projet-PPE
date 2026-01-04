@@ -1,562 +1,562 @@
    HTTP/1.1 302 Moved Temporarily Server: nginx Date: Sun, 04 Jan 2026
-   19:45:27 GMT Content-Type: text/html Content-Length: 138
+   20:53:30 GMT Content-Type: text/html Content-Length: 138
    Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   3002161130de2c8cae7f82fadc792072 Set-Cookie:
-   muid_mly=5QBJH4KbLavJewcWPWltRVndsZkL1hWQzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:27 GMT; HttpOnly;
+   43dba0b6a2caf801abf524fe223c2cd3 Set-Cookie:
+   muid_mly=vMeh7zGdRFD5dcjweUTrkJMLPsMfv/ybzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:30 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:27 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:30 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   b2f4fd2fd3f5a0677c60e8865f65190d Set-Cookie:
-   muid_mly=VmeuD++9lbvJewcWPWltRYESJGHDayckKMDJe/tEydoX+IvRTXGfymYNPNjSPa
-   5AKiNyMjqZbqolcAZplxtjFapkg0TDkWXvt5NS1mB2WH1b+7Px+dOlhgQ=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:27 GMT; HttpOnly;
+   356e9c751a1107f84985a85531e9fa80 Set-Cookie:
+   muid_mly=KrPRxvdTqE35dcjweUTrkIRbYAbVnKryzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:30 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:27 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:30 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   c0449319c7e3eaad1a84be4ed88b3e69 Set-Cookie:
-   muid_mly=T8Tig1BnV3nJewcWPWltRVR0C2eSAW9RzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:27 GMT; HttpOnly;
+   c84b8125350ce3b23b13538dce4360b1 Set-Cookie:
+   muid_mly=bjBS27b+Grg8u0nkHv66+nYYkNPJQnnfzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:31 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:27 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:31 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   486c38a5fb11cdce93f7cd54d40e41e0 Set-Cookie:
-   muid_mly=2wws/202EQbJewcWPWltReyOXhcl2f+izlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:27 GMT; HttpOnly;
+   66907516ac3532c35085bde588bc079e Set-Cookie:
+   muid_mly=I6P7m4mbMSk8u0nkHv66+km+jllYzgHfzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:31 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:28 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:31 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   424723d30a3039baa64e50630d0cea15 Set-Cookie:
-   muid_mly=N70AetztkdoHY5qRtzXPvDYDLNmZIkKYzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:28 GMT; HttpOnly;
+   c71d556312840195d69a6eddd24d1593 Set-Cookie:
+   muid_mly=MI4kecWWGhQ8u0nkHv66+q9xnQiD7KEAzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:31 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:28 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:31 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   7ff8615ecfbb08da0429c20eab7df916 Set-Cookie:
-   muid_mly=46+VDacK+u4HY5qRtzXPvLZnFgL3K7dnzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:28 GMT; HttpOnly;
+   d1b4d3896a5305eeb4c049140ab1c72b Set-Cookie:
+   muid_mly=0Wnbh9qPrq48u0nkHv66+mUVfLiAfmvnzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:31 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:28 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:31 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   c968667cb3338b69de88ac35649e8285 Set-Cookie:
-   muid_mly=WLesEorJWQAHY5qRtzXPvNrlSwzl05ELzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:28 GMT; HttpOnly;
+   489f845d3c3fa7149a9ee45178a9a41f Set-Cookie:
+   muid_mly=IkG39p5k/EA8u0nkHv66+igXH/p7JKyjzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:31 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:28 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:31 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   bf11b0623df6830ac4bcfc50be647af7 Set-Cookie:
-   muid_mly=sJ68gDq6efwHY5qRtzXPvNESLOtqOoc4zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:28 GMT; HttpOnly;
+   095ac80a098ccd82aa12912bc5f9ccd1 Set-Cookie:
+   muid_mly=X6zHuWIfSjE8u0nkHv66+q053Dr22sLCzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:31 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:29 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:32 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   2017eed4b35ae711abd12f9db49dffb3 Set-Cookie:
-   muid_mly=NkKBAtvgEkKy8Ayg6mRkPI94K3o8v33ZzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:29 GMT; HttpOnly;
+   0f58e4e51a18dff1c1996ae987c37eed Set-Cookie:
+   muid_mly=Wzo/O3S101G0nhg41cMLGo8X5AgbDZyVzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:32 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:29 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:32 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   82e42c3c79f2feb6320cd1d6bc43caf7 Set-Cookie:
-   muid_mly=k+WYkP7jnFey8Ayg6mRkPJQBzEZBFPHWzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:29 GMT; HttpOnly;
+   e367c3e0fb02bc31dfd33b3364765979 Set-Cookie:
+   muid_mly=n6nlbI6NbMO0nhg41cMLGqWaUzx4V6PQKMDJe/tEydoX+IvRTXGfymYNPNjSPa
+   5AKiNyMjqZbqolcAZplxtjFSTard27t0X7t5NS1mB2WH1b+7Px+dOlhgQ=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:32 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:29 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:32 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   1869659f6d306d9a18f627ae94cf61d3 Set-Cookie:
-   muid_mly=Vi1k8NzY8QSy8Ayg6mRkPNQ7K/RkA7RUzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:29 GMT; HttpOnly;
+   453f6b359eac57c846f057e8a5ab821b Set-Cookie:
+   muid_mly=HcceZ5lQ3/m0nhg41cMLGrRRVM8GwIxRKMDJe/tEydoX+IvRTXGfymYNPNjSPa
+   5AKiNyMjqZbqolcAZplxtjFSTard27t0X7t5NS1mB2WH1b+7Px+dOlhgQ=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:32 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:29 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:32 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   40b1e3b1c13fe4eb3212ebf7fcada3cc Set-Cookie:
-   muid_mly=yJEdTZH2lw+y8Ayg6mRkPBYb7AFBhj03zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:29 GMT; HttpOnly;
+   06cd9c533a1282cf9b012c0929daec76 Set-Cookie:
+   muid_mly=W6DFpkgvg+u0nhg41cMLGuiAU7iToI10zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:32 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:29 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:32 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   777926cc0eb04c9ed8b2e99c6149c229 Set-Cookie:
-   muid_mly=dM+ktVLWujSy8Ayg6mRkPMmu8X0fnbz6zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:29 GMT; HttpOnly;
+   50ed8f82305d44ab50137704b4f0def6 Set-Cookie:
+   muid_mly=RV8j2vsVX3C0nhg41cMLGmI8/Z+O0S1DzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:32 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:30 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:33 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   f8d39e3a41d3e0b27256b8596a131d73 Set-Cookie:
-   muid_mly=Ne9OnPv1ZcYsvNVkqpmZZkDQsnFHUAsBzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:30 GMT; HttpOnly;
+   2bc66b1eed1b7d0d7ac16847c09fbfb8 Set-Cookie:
+   muid_mly=zE5zIc2zymJGZDXDVfP3nBKsQjEu4POzKMDJe/tEydoX+IvRTXGfymYNPNjSPa
+   5AKiNyMjqZbqolcAZplxtjFSTard27t0X7t5NS1mB2WH1b+7Px+dOlhgQ=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:33 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:30 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:33 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   1bb4b17a318aa2b214ff70007f848ccb Set-Cookie:
-   muid_mly=69fIvJTHrA8svNVkqpmZZguyLayNMswuzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:30 GMT; HttpOnly;
+   417fa058d431f29d61dda79958e3a565 Set-Cookie:
+   muid_mly=6qod1/xum+NGZDXDVfP3nL4G8/LJB1WfzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:33 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:30 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:33 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   e4190b7dc513e0a835cdc827eec24768 Set-Cookie:
-   muid_mly=TmOuG2zLwggsvNVkqpmZZt5wFVovNuD9zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:30 GMT; HttpOnly;
+   897b4448d94c80633883f56fc9d0090e Set-Cookie:
+   muid_mly=WLumdHP9typGZDXDVfP3nOijjltThJcHzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:33 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:30 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:33 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   5862db6a5a9cc4c36af0c8f35ea75154 Set-Cookie:
-   muid_mly=2nbRQqqUTPwsvNVkqpmZZhekZe+P+AwkzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:30 GMT; HttpOnly;
+   4fb576b3aa1d527428f50b69543741f2 Set-Cookie:
+   muid_mly=A53zIuaIuAhGZDXDVfP3nFYyVtAAlsyezlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:33 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:31 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:33 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   6187de6e63151d0a0261d157c5cf954e Set-Cookie:
-   muid_mly=QdbSPvf5MT1i1uh1JsAXpeshH6K2j9e+zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:31 GMT; HttpOnly;
+   85cbbccfa03fb2bacd3e945c8a162bb1 Set-Cookie:
+   muid_mly=6IO3+O0oOBRGZDXDVfP3nB7ARK+q5rRTzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:33 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:31 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:34 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   6bfa9c84dea60fc0c3266ce88f46d8a2 Set-Cookie:
-   muid_mly=sabkVkR7XYJi1uh1JsAXpUaFsonIKx1izlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:31 GMT; HttpOnly;
+   9f1ea58b0b8c85b71c084a1ec3eb9b1d Set-Cookie:
+   muid_mly=/8FSvObiB2QC1LWUgvsFbFsMM3JqrGcZzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:34 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:33 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:34 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   fb855b48ac0331e6a1132c263e33f13a Set-Cookie:
-   muid_mly=zIBnbbtSKe7PRt0wkM1lAzO6SxBYCRqGzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:33 GMT; HttpOnly;
+   4e471e7695b0d5452320be05929aafdc Set-Cookie:
+   muid_mly=o0fMZPggacEC1LWUgvsFbH+iUE4ErVXizlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:34 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:33 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:34 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   2636a0e596a31567165c2aa4c145c4e5 Set-Cookie:
-   muid_mly=wJqH/8E/LbjPRt0wkM1lAxrHZBDj2yU9zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:33 GMT; HttpOnly;
+   89b32d9167c9ba40ca7a30a153dfb6d9 Set-Cookie:
+   muid_mly=nGRS09ZA5wgC1LWUgvsFbKOqW2GoFS+XzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:34 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:34 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:36 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   758d6587bb6027c28a4941d596d9b188 Set-Cookie:
-   muid_mly=Meh4u+stxCce6hdkGeHpEls1nVaLuhbCzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:34 GMT; HttpOnly;
+   d5825bd7cffdd417d269065e80002df9 Set-Cookie:
+   muid_mly=SPynDDvbNBrortbb7Dw6UmHb7vroSZbfzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:36 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:34 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:36 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   beaaf5e6e1ba0765840a54ccfcdc2d80 Set-Cookie:
-   muid_mly=Hcp1iWLTqQQe6hdkGeHpEigguqh3ZQcGzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:34 GMT; HttpOnly;
+   a349cbafd5038475110a514d26f1537e Set-Cookie:
+   muid_mly=vzNz/WHQs67ortbb7Dw6UrLojotgDAL+zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:36 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:34 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:36 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   89c2ff91edc2c8ad00c05788ccb20bf0 Set-Cookie:
-   muid_mly=h5Go5MudWv8e6hdkGeHpEkD2/e60rFwxzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:34 GMT; HttpOnly;
+   2ad7f0e86104f083734a4883683cd13c Set-Cookie:
+   muid_mly=uRCWLWqgfgfortbb7Dw6Ul7gtZaE8LKczlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:36 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:34 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:36 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   ff21745d5b7cbddbe24293a3c58afd2c Set-Cookie:
-   muid_mly=Q8IaFjkzVd4e6hdkGeHpElRtdsUyG8dCKMDJe/tEydoX+IvRTXGfymYNPNjSPa
-   5AKiNyMjqZbqolcAZplxtjFapkg0TDkWXvt5NS1mB2WH1b+7Px+dOlhgQ=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:34 GMT; HttpOnly;
+   ba71fc6f848663c6c786528bf10533cc Set-Cookie:
+   muid_mly=rRaALSYeQLrortbb7Dw6Uh3ChP+8tserzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:36 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:34 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:37 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   c7dd896c166cd775b516e86d2ba30ac5 Set-Cookie:
-   muid_mly=G77qJCn64r4e6hdkGeHpEhyiKWXsmA0zzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:34 GMT; HttpOnly;
+   5f1fa13ec50d9063a98356b4734a534f Set-Cookie:
+   muid_mly=JZUdSuNZkwgb0aeXjTVU9zfj4WdMEhYezlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:37 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:35 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:37 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   0d31744a9afeead2cdbcc5fa4af336e1 Set-Cookie:
-   muid_mly=o9P4mqYmsFNTXX/MHaww4EbOQb3CnRiHzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:35 GMT; HttpOnly;
+   1c3d48df2a7b75f9918c2bff856d18be Set-Cookie:
+   muid_mly=3OlMLnXD7eEb0aeXjTVU91HbKCU0/DK2zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:37 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:35 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:37 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   43959bc43ac9ac288af1c76a32367b53 Set-Cookie:
-   muid_mly=qDo3MIggH4tTXX/MHaww4Ns7+fHiek1lzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:35 GMT; HttpOnly;
+   ecdf0a51977eb9adc98c7ca9a7441791 Set-Cookie:
+   muid_mly=9xAPA7x82FIb0aeXjTVU9zbw1a1LmXNFzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:37 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:35 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:37 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   2c00a457e50d969ee8d32b380312387c Set-Cookie:
-   muid_mly=FOsvKxQfD35TXX/MHaww4H0qfAVuG3e+zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:35 GMT; HttpOnly;
+   674633d02cac3edcbace52925d27fdf8 Set-Cookie:
+   muid_mly=Z3ZDIdfzYHAb0aeXjTVU9/XAKtFKkXVWzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:37 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:35 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:37 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   61b01daaafd12e53461a614669f8861e Set-Cookie:
-   muid_mly=ZwjYBkkYN4xTXX/MHaww4JFoRniH7gGczlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:35 GMT; HttpOnly;
+   641780202c63845bbe496de8f1bfbbd2 Set-Cookie:
+   muid_mly=1MGqkF9OWOkb0aeXjTVU99ctPF74/5vwzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:37 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:36 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:38 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   12b758b20f254aa7aeb776456e75c213 Set-Cookie:
-   muid_mly=PxvVvMwCK2DMWoNhgIz6A+ImyU2aCxu6zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:36 GMT; HttpOnly;
+   e85a5f0cb1afe4dbc2ae05f7a06eefee Set-Cookie:
+   muid_mly=e9R31//PfnZgwofDh2eOlx/FlEyUC78PzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:38 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:36 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:38 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   b117ab7c52492df72f309f758db55561 Set-Cookie:
-   muid_mly=aBnLA9p3URbMWoNhgIz6A8W+VKf68fPrzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:36 GMT; HttpOnly;
+   3773ec85d7f9afd8c71ed86a3bdff5ce Set-Cookie:
+   muid_mly=NbMQHUJ8cPNgwofDh2eOl0m+jllYzgHfzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:38 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:36 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:38 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   6a3f245d33d8e29ffc2e74b70c33f193 Set-Cookie:
-   muid_mly=OzPsLTdtkoDMWoNhgIz6A1p8IdHo89QYzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:36 GMT; HttpOnly;
+   9e7258426450bf5e33e0e3f51e26c220 Set-Cookie:
+   muid_mly=97mTslrwsopgwofDh2eOl7WiXdXjszwNzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:38 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:36 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:38 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   87e2dd5d4b0fd2cf7798c266c48baa55 Set-Cookie:
-   muid_mly=Xzqd/SYZtaHMWoNhgIz6A9s+3aSbxfbIzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:36 GMT; HttpOnly;
+   1ef2babb288d1fb120ade67a21d72c52 Set-Cookie:
+   muid_mly=MsvXaYsmGs9gwofDh2eOl5xiJJ2c9Gw6zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:38 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:36 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:38 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   c74428ccb3e42ebac1a2d5d3fab2ee4d Set-Cookie:
-   muid_mly=oqn6Bv/lP17MWoNhgIz6A/ILYCicZNJdqIodSlP8ZoZx+e9yeoELZKVdcA7bOL
-   3zndzZktV4W2mSz9wrTsDRQv3u4ThmzQ2Y7SA+vHxv9iF9Vq9Kvm+RlgU=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:36 GMT; HttpOnly;
+   a1f66dc56b41e678e8b48bce2572d41d Set-Cookie:
+   muid_mly=k7zpEG5QxYFgwofDh2eOl9/wh++QdHdczlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:38 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:37 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:38 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   d60a04b5fe434a985a0c6b5cde279c35 Set-Cookie:
-   muid_mly=YkYbmQ4zrUNq+a2hRQ3t990YkGGP5KZ1zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:37 GMT; HttpOnly;
+   f56ef585e3ec6ceb8ec186a946361735 Set-Cookie:
+   muid_mly=uzUu2TWuJNhgwofDh2eOl2L4mRzJwCOGzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:38 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:37 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:39 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   a2d180e7328868dcc91615d8155c73c1 Set-Cookie:
-   muid_mly=H38GqJuqTgFq+a2hRQ3t96+tsV3g6zxBzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:37 GMT; HttpOnly;
+   1e389e4d910aaa46cf1c9d35058d37cb Set-Cookie:
+   muid_mly=BOUV67OG8YT1W1eyL5IK2LlDquyH/GtpzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:39 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:37 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:39 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   b5854af55ab195e505acb7c0ca29a446 Set-Cookie:
-   muid_mly=tw7f1mshQHdq+a2hRQ3t9zuctxcwqRKGzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:37 GMT; HttpOnly;
+   9eb6256812e9159e3f66bf1ca2268395 Set-Cookie:
+   muid_mly=MJxYV8LxD6f1W1eyL5IK2O+Yh3truEwyzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:39 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:37 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:39 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   148c6ec7de307f1dcc7eef0562f82801 Set-Cookie:
-   muid_mly=FLeoBC39Joxq+a2hRQ3t928IChxWdB5ozlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:37 GMT; HttpOnly;
+   07098366e6340dda10223fd806758860 Set-Cookie:
+   muid_mly=bwhZagyAaLL1W1eyL5IK2EOmv66dQiJczlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:39 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:38 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:39 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   34c2ebea3ffd278d3fc120cc716ba197 Set-Cookie:
-   muid_mly=ySPfq0a1ZxxCOijnX2TY7OTB3Mu1aLRqzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:38 GMT; HttpOnly;
+   f50763e5bf5b58af3daffa6a95bfaa77 Set-Cookie:
+   muid_mly=NXGq+55tSWb1W1eyL5IK2Hv75bEplA2izlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:39 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:38 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:39 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   0b424b777a39f34ddc26a6df1fb23c6b Set-Cookie:
-   muid_mly=ZRWQLKnEZjVCOijnX2TY7B5Ur0BNAuCWzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:38 GMT; HttpOnly;
+   ba54afcebf8040d4547a3af7e8ad5d9e Set-Cookie:
+   muid_mly=Zb+mBs7Sb/f1W1eyL5IK2HSzQnXY7NyvKMDJe/tEydoX+IvRTXGfymYNPNjSPa
+   5AKiNyMjqZbqolcAZplxtjFSTard27t0X7t5NS1mB2WH1b+7Px+dOlhgQ=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:39 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:38 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:40 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   968963dca68c1b9838768ef6aa1aaf63 Set-Cookie:
-   muid_mly=U1QLW55YqTtCOijnX2TY7DlDPEjna0BBzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:38 GMT; HttpOnly;
+   02c0d92dd3fafae6d9c20603175cbb76 Set-Cookie:
+   muid_mly=zRFQMZxuQSpvvmA052/yBy72biDmss+dzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:40 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:38 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:40 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   10d62f959948c82789ccc9532331b472 Set-Cookie:
-   muid_mly=n9VkTImDb1lCOijnX2TY7KVvjGnnkcr1zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:38 GMT; HttpOnly;
+   a04d09ee00148802bb5cd2e93912d77c Set-Cookie:
+   muid_mly=Rz9JmeywpfxvvmA052/yB78wIoYrDDbkzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:40 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:38 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:40 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   08b8a1c9cfdb9b09e44c9b5af53b36ec Set-Cookie:
-   muid_mly=1cX6NQ3khhhCOijnX2TY7JytmLcSYy0VzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:38 GMT; HttpOnly;
+   dcf432865d1d51cb820da5801eb47886 Set-Cookie:
+   muid_mly=tc6yh4ArlN9vvmA052/yBxLyp+tMa7B1zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:40 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:39 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:40 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   2e8bbe1d2921dbe6eb9a605a94948d3e Set-Cookie:
-   muid_mly=8L2l8KrBw9hghIwO/+OuCVgH6g/NzDA7zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:39 GMT; HttpOnly;
+   b73abdad52ed40a71f39d55fcc27daac Set-Cookie:
+   muid_mly=k8Qb1g7NHR5vvmA052/yB3BvG+GB5mUvzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:40 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:39 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:40 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   2791e7d4a74fe1aaf1511808d29f1e82 Set-Cookie:
-   muid_mly=WvO3W3x/uZBghIwO/+OuCbMtJNp74WE5KMDJe/tEydoX+IvRTXGfymYNPNjSPa
-   5AKiNyMjqZbqolcAZplxtjFapkg0TDkWXvt5NS1mB2WH1b+7Px+dOlhgQ=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:39 GMT; HttpOnly;
+   2f4745cc8934c60cfdbd6d4ee9bc7fc0 Set-Cookie:
+   muid_mly=vvhmW+HpsGhvvmA052/yB4AgZOlPz/+rzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:40 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:39 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:41 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   4c07b9879a221cdf3ff1371c774f0b85 Set-Cookie:
-   muid_mly=7ypkzZQ0f0lghIwO/+OuCXDZsS0rgIxAzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:39 GMT; HttpOnly;
+   ecf4d76478adec11c593617606102e35 Set-Cookie:
+   muid_mly=fJzd6oZGSMUAykfnwwuzKX+F39TEwxtkzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:41 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:39 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:41 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   b89990247ca144a29c378dae7497da3f Set-Cookie:
-   muid_mly=7WHG2z7qwxJghIwO/+OuCaTzDK7a3qQJzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:39 GMT; HttpOnly;
+   0dd07253cb57ea2e9235577c965e22e0 Set-Cookie:
+   muid_mly=JrJCZ4zGGJYAykfnwwuzKSj3jmMaENHozlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:41 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:40 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:41 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   ca1071d8f381f5eff08a6b9dc1be57e5 Set-Cookie:
-   muid_mly=2AZtuQ22UhuTZEfrDtCGp30+YUq+iU0/zlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:40 GMT; HttpOnly;
+   743a8fd8490b0eaae97cc3c1e69d7bcb Set-Cookie:
+   muid_mly=7Y7yXqX/CV0AykfnwwuzKR5rESsX4AJQzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:41 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:40 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:41 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   9275ddd372987dcf6adbcedf66e3298f Set-Cookie:
-   muid_mly=qgLIULXpcCuTZEfrDtCGp+PT89aqhlBZzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:40 GMT; HttpOnly;
+   f2b4520778965600363131468ca049ed Set-Cookie:
+   muid_mly=1bckSBkUujYAykfnwwuzKQY3ZeXiFoSvKMDJe/tEydoX+IvRTXGfymYNPNjSPa
+   5AKiNyMjqZbqolcAZplxtjFSTard27t0X7t5NS1mB2WH1b+7Px+dOlhgQ=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:41 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
-   nginx Date: Sun, 04 Jan 2026 19:45:40 GMT Content-Type: text/html
+   da006.vn03.swiftserve.com:443 HTTP/1.1 302 Moved Temporarily Server:
+   nginx Date: Sun, 04 Jan 2026 20:53:41 GMT Content-Type: text/html
    Content-Length: 138 Timing-Allow-Origin: * Via: mly inter X-Mly-Id:
-   5b420ad7bde5bfe2b4d9c3c350a32589 Set-Cookie:
-   muid_mly=GXseNFZCaaaTZEfrDtCGpzzj2KeZ9u1XzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
-   mNGyQVa9qYIN5F8MyzbIEy8aYHJyEgZot2vYNiU8E0rn0VUS8DrEq5LQM=;
-   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 19:45:40 GMT; HttpOnly;
+   63ef9c74c91ca74a29089de1aca31c7c Set-Cookie:
+   muid_mly=qAGRGdZwAwgAykfnwwuzKfjSvqNjKfyPzlkvsE74RGQ2tO1M+kZt5EudRXnsMD
+   mNGyQVa9qYIN5F8MyzbIEy8TDL8ullHSpovYNiU8E0rn0VUS8DrEq5LQM=;
+   Domain=vov.vn; Path=/; Expires=Mon, 04-May-26 20:53:41 GMT; HttpOnly;
    secure; SameSite=None Location:
    https://vov.vn/the-gioi/cuoc-song-do-day/chiem-nguong-nhung-hinh-anh-an
    -tuong-cua-vu-tru-duoc-nasa-ghi-lai-853598.vov?jskey=gublNUPY44M2M3G%2F
    jc%2F8AqUUOyYoUmPRAg%3D%3D Cache-Control: private X-Cache: MISS from
-   da009.vn19.swiftserve.com:443
+   da006.vn03.swiftserve.com:443

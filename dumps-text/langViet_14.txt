@@ -1,8 +1,8 @@
    HTTP/1.1 302 Moved Temporarily server: openresty date: Sun, 04 Jan 2026
-   19:45:59 GMT content-type: text/html content-length: 142 location:
+   20:54:07 GMT content-type: text/html content-length: 142 location:
    http://c.cafef.vn/sorry?continue=http%3A//cafef.vn/mot-don-vi-van-dung-
    hinh-anh-hoa-hau-thuy-tien-de-quang-cao-188250627070907115.chn
-   filterid: ft HTTP/1.1 200 OK date: Sun, 04 Jan 2026 19:45:59 GMT
+   filterid: ft HTTP/1.1 200 OK date: Sun, 04 Jan 2026 20:54:07 GMT
    content-type: text/html; charset=UTF-8 content-length: 2210
    x-xss-protection: 1; mode=block x-content-type-options: nosniff
    content-security-policy: script-src 'self' server: cf-captcha

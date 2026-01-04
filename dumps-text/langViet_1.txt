@@ -1,13 +1,13 @@
-   HTTP/2 200 date: Sun, 04 Jan 2026 19:45:25 GMT content-type: text/html;
+   HTTP/2 200 date: Sun, 04 Jan 2026 20:53:28 GMT content-type: text/html;
    charset=UTF-8 x-dns-prefetch-control: on nel:
    {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
    x-litespeed-cache: hit report-to:
    {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
-   loudflare.com/report/v4?s=hEg3fbl05Bz8oqlGdio3jaJkYDFYnZJPU96tZINgQgXNT
-   3CEoiIOfuTMknDEN3dI7YHq5gL01q5u%2BAM%2B%2BkrQ745GiEMxLu%2BI%2FqP07M7PMz
-   CLPZ8%3D"}]} vary: Accept-Encoding server: cloudflare alt-svc:
-   h3=":443"; ma=86400 x-turbo-charged-by: LiteSpeed cf-cache-status:
-   DYNAMIC cf-ray: 9b8d3c73bd130346-CDG #oNhúng (JSON) oNhúng (XML)
+   loudflare.com/report/v4?s=LnkzGvJdd4TJI1oNjViWRl9A85SfUMQpMv1U5D0y68DaQ
+   NGmnMdUcHjAFjcn8SUjthwmGsdrYoht79i8ygm%2BxLBVa1LtasqsIuEDPfHn9HANuX0%3D
+   "}]} vary: Accept-Encoding server: cloudflare alt-svc: h3=":443";
+   ma=86400 x-turbo-charged-by: LiteSpeed cf-cache-status: DYNAMIC cf-ray:
+   9b8da020385a154c-CDG #oNhúng (JSON) oNhúng (XML)
 
    Logo Từ Điển Online
    ____________________ Tìm kiếm

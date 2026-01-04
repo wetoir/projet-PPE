@@ -1,0 +1,36 @@
+   HTTP/2 403 date: Sun, 04 Jan 2026 20:55:20 GMT content-type: text/html;
+   charset=UTF-8 accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
+   Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
+   Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List,
+   Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version,
+   UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA cf-mitigated:
+   challenge critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
+   Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
+   Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List,
+   Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version,
+   UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+   cross-origin-embedder-policy: require-corp cross-origin-opener-policy:
+   same-origin cross-origin-resource-policy: same-origin
+   origin-agent-cluster: ?1 permissions-policy:
+   accelerometer=(),browsing-topics=(),camera=(),clipboard-read=(),clipboa
+   rd-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magne
+   tometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen
+   -wake-lock=(),serial=(),sync-xhr=(),usb=() referrer-policy: same-origin
+   server-timing: chlray;desc="9b8da2e24d68d10c" x-content-type-options:
+   nosniff x-frame-options: SAMEORIGIN cache-control: private, max-age=0,
+   no-store, no-cache, must-revalidate, post-check=0, pre-check=0 expires:
+   Thu, 01 Jan 1970 00:00:01 GMT report-to:
+   {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=rgm1
+   Rmd9DrjxyTAWrCFsQgMkatL%2Bzwl5PJz%2B8QsA3qTj%2FCU05%2BK9TyT%2FKJlopGydx
+   2pY1VO2v%2FPXz9SShM1UJJX75lutk7CgDprgR6QxMBw1kBd68zFRxMmXgbY%3D"}],"gro
+   up":"cf-nel","max_age":604800} nel:
+   {"success_fraction":0,"report_to":"cf-nel","max_age":604800} server:
+   cloudflare cf-ray: 9b8da2e24d68d10c-CDG alt-svc: h3=":443"; ma=86400
+   server-timing:
+   cfL4;desc="?proto=TCP&rtt=4981&min_rtt=4481&rtt_var=1280&sent=5&recv=8&
+   lost=0&retrans=0&sent_bytes=3403&recv_bytes=778&delivery_rate=640350&cw
+   nd=253&unsent_bytes=0&cid=2d898929e661b333&ts=63&x=0"
+   REFRESH(360 sec):
+   file://localhost/home/xubuntu/projet-PPE/aspirations/langViet_48.html
+
+   Enable JavaScript and cookies to continue
