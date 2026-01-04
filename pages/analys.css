@@ -111,38 +111,114 @@ nav a:hover {
     visibility: visible;
     transform: translateX(-50%) translateY(0);
 }
+/* ================= CONTENU TEXTE ================= */
 
-.title {
-    margin-bottom: 20px;
+/* Conteneur implicite du texte */
+.header > h1,
+.header > h3,
+.header > h4,
+.header > p,
+.header > table,
+.header > ol {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
-.intro {
-    margin-bottom: 50px;
-}
-
-.team {
-    display: flex;    
-    gap: 40px;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.member {
+/* Titre principal */
+.titre {
+    margin: 40px auto;
+    font-size: 36px;
     text-align: center;
 }
 
-.member img {
-    width: 150px;
+/* Titres de sections */
+h3 {
+    margin-top: 50px;
+    margin-bottom: 15px;
+    color: #ffd966;
+}
+
+h4 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+/* Paragraphes */
+p {
+    margin-bottom: 15px;
+    line-height: 1.7;
+    text-align: justify;
+}
+
+/* Listes */
+ol {
+    margin: 15px auto 25px auto;
+    max-width: 850px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* ================= TABLE ================= */
+
+table {
+    width: 100%;
+    max-width: 900px;
+    margin: 30px auto;
+    border-collapse: collapse;
+    background: rgba(255, 255, 255, 0.95);
+    color: black;
     border-radius: 8px;
-    border: 4px solid darkblue;
-    margin: 10px 0;
+    overflow: hidden;
 }
 
-.school {
-    font-size: 18px;
-    text-decoration: underline;
+caption {
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: white;
 }
 
-.name {
-    font-size: 16px;
+th, td {
+    padding: 8px 10px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+th {
+    background-color: #2c2c2c;
+    color: white;
+}
+
+/* ================= ESPACEMENTS BR ================= */
+/* Compense l’usage excessif de <br> */
+br {
+    line-height: 2;
+}
+
+/* ================= RESPONSIVE ================= */
+
+@media (max-width: 768px) {
+
+    .titre {
+        font-size: 28px;
+    }
+
+    nav {
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+
+    table {
+        font-size: 14px;
+    }
+
+    p {
+        text-align: left;
+    }
 }
