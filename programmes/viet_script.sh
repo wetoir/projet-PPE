@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# Vérification du nombre d'arguments
 if [ $# -ne 1 ]
 then
 	echo "Le script attend exactement un argument"
@@ -8,9 +9,9 @@ fi
 
 # variables utiles
 fichier_urls=$1
-TAB="../tableaux/vi-tableau.html"
-ASPIRATION="../aspi"
-DUMP="../dumps"
+TAB="../tableaux/tableauVn.html"
+ASPIRATION="../aspirations"
+DUMP="../dumps-text"
 CONTEXTE="../contextes"
 CONCORDONCIER="../concordances"
 LANG=Viet
