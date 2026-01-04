@@ -58,19 +58,36 @@ EOF
 lineno=1    #numéro
 while read -r line
 do
-    aspi_file="$ASPIRATION/lang${LANG}_$lineno.html" 
-    aspi=$(curl -siL -w "%{http_code}\n%{content_type}" -o "$aspi_file" $line)
-    http_code=$(echo "$aspi" | head -1)
-	encoding=$(echo "$aspi" | tail -1 | grep -Po "charset=\S+" | cut -d"=" -f2)
+    aspi_file="$ASPIRATION/lang${LANG}_$lineno.html"	# chemin vers le fichier html à créer
+    aspi=$(curl -siL -w "%{http_code}\n%{content_type}" -o "$aspi_file" $line)	# aspiration du site
+    http_code=$(echo "$aspi" | head -1)	# réponse du site
+	encoding=$(echo "$aspi" | tail -1 | grep -Po "charset=\S+" | cut -d"=" -f2)	# encodage du site
 
-    if [ -z "${encoding}" ] # true if length of encoding est 0
-	then
-		encoding="N/A" # petit raccourci qu'on peut utiliser à la place du if : encoding=${encoding:-"N/A"}
-	fi
+    # if [ -z "${encoding}" ] # true si length de encoding est 0, donc pas de détails sur l'encodage du site
+	# then
+	# 	encoding="N/A" # petit raccourci qu'on peut utiliser à la place du if : encoding=${encoding:-"N/A"}
+	# fi
 
     # nbmots=$(cat ./.data.tmp | lynx -dump -nolist -stdin | wc -w)
     dump_file="$DUMP/lang${LANG}_$lineno.txt" 
-    dump=$(lynx -dump -nolist "$aspi_file" > "$dump_file")
+	if [[ "$encoding" == "UTF-8" || "$encoding" == "utf-8" ]]	# si le site est en utf-8
+	then
+		dump=$(lynx -dump -nolist "$aspi_file" > "$dump_file")	# on extrait le texte brut
+	else	# sinon
+		encode=$(file "$aspi_file" | cut -d"," -f2 | cut -d" " -f2)
+		VERIFENCODAGEDANSICONV=$(iconv -l | egrep -io "$encode" | sort -u)	# on va voir si l'encodage détecté par file est reconnu par iconv
+		if [[ $VERIFENCODAGEDANSICONV != "" && $VERIFENCODAGEDANSICONV != "Unicode" ]]	# si oui alors on va convertir le fichier aspiré en utf-8 et extraire le texte brut
+		then
+			iconv -f "$encoding" -t UTF-8 "$aspi_file" -o "$aspi_file.utf8"
+			mv "$aspi_file.utf8" "$aspi_file"
+			encoding="UTF-8"	
+			dump=$(lynx -dump -nolist "$aspi_file" > "$dump_file")
+		else	# sinon alors on va laisser son encodage inconnu et essaie quand même d'extraire le texte brut
+			encoding="N/A"
+			dump=$(lynx -dump -nolist "$aspi_file" > "$dump_file")
+		fi
+    fi
+    
     nbOcc=$(grep -Fic "$MOT" "$dump_file")
     concor="N/A"
 
