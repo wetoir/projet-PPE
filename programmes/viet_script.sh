@@ -6,11 +6,13 @@ then
 	exit 1
 fi
 
+# variables utiles
 fichier_urls=$1
 TAB="../tableaux/vi-tableau.html"
 ASPIRATION="../aspi"
 DUMP="../dumps"
 CONTEXTE="../contextes"
+CONCORDONCIER="../concordances"
 LANG=Viet
 MOT="hình ảnh"
 
@@ -24,6 +26,7 @@ cat > "$TAB" <<EOF
 		<title>Tableau Viet – PPE 2025</title>
 	</head>
 
+	<body>
 	<!-- BarreDeNavi -->
 		<nav class="tabs is-centered mb-0">
         	<ul>
@@ -100,7 +103,35 @@ do
 	contx=$(grep -in "$MOT" "$dump_file" > "$contex_file") 
 
 	# concordance
-    concor="N/A"
+	concor_file="$CONCORDONCIER/lang${LANG}_$lineno.html"
+    # Concordance gauche/droite pour chaque occurence
+    echo "<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Tableau Concordance – PPE 2025</title>
+	</head>
+	<body>
+		<table border='1'>
+			<tr>
+				<th>Gauche</th>
+				<th>Mot</th>
+				<th>Droite</th>
+			</tr>" > "$concor_file"
+    while read -r line_context; do
+		mot_colore=$(echo "$line_context" | cut -d":" -f2 | grep -io "$MOT" | head -n 1)
+        gauche=$(echo "$line_context" | cut -d":" -f2 | sed "s/\(.*\)$MOT.*/\1/I")
+        droite=$(echo "$line_context" | cut -d":" -f2 | sed "s/.*$MOT\(.*\)/\1/I")
+        echo "			<tr>
+				<td>$gauche</td>
+				<td style='color:red;fond-weight:bold;'>$mot_colore</td>
+				<td>$droite</td>
+			</tr>" >> "$concor_file"
+    done < "$contex_file"
+    echo "		</table>
+	</body>
+</html>" >> "$concor_file"
 
 	# remplir le tableau
 	echo -e "							<tr>
@@ -112,7 +143,7 @@ do
                                 <td><a href="$aspi_file">HTML</a></td>
                                 <td><a href="$dump_file">Dump</a></td>
 								<td><a href="$contex_file">Contexte</a></td>
-                                <td>$concor</td>
+                                <td><a href="$concor_file">Concordance</a></td>
 							</tr>" >> "$TAB"
 
 	lineno=$(expr $lineno + 1)
