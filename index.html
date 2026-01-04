@@ -2,8 +2,8 @@
 <html>
     <head>
         <meta charset="UTF-8" />
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" />
-        <!-- <link rel="stylesheet" href="index_style.css"/> -->
+        <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" /> -->
+        <link rel="stylesheet" href="index_style.css"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Page Acceuille Projet PPE-1</title>
     </head>
@@ -11,69 +11,24 @@
     <body>
         <!-- BarreDeNavi -->
         <nav class="tabs is-centered mb-0"> <!-- pas de marge en bas -->
-            <ul>
-                <li class="is-active"><a href="index.html">Accueil</a></li>
-                <li><a href=""> Nuages de mots </a></li>
-                <div class="dropdown">
-                    <a class="dropdown-toggle">Tableaux</a>
-                    <div class="dropdown-menu">
-                        <a href="tableaux/langfr.html"> Tableau Français </a>
-                        <a href="tableaux/langtam.html"> Tableau Tamoul </a>
-                        <a href="tableaux/tableauVn.html"> Tableau Vietnamien </a>
-                    </div>
+            <a href="index.html">Accueil</a>
+            <a href=""> Nuages de mots </a>
+            <div class="dropdown">
+                <a class="dropdown-toggle">Tableaux</a>
+                <div class="dropdown-menu">
+                    <a href="tableaux/langfr.html"> Tableau Français </a>
+                    <a href="tableaux/langtam.html"> Tableau Tamoul </a>
+                    <a href="tableaux/tableauVn.html"> Tableau Vietnamien </a>
                 </div>
-                <div class="dropdown">
-                    <a class="dropdown-toggle">Journal</a>
-                    <div class="dropdown-menu">
-                        <a href=""> Français </a>
-                        <a href=""> Tamoul </a>
-                        <a href=""> Vietnamien </a>
-                    </div>
+            </div>
+            <div class="dropdown">
+                <a class="dropdown-toggle">Journal</a>
+                <div class="dropdown-menu">
+                    <a href=""> Français </a>
+                    <a href=""> Tamoul </a>
+                    <a href=""> Vietnamien </a>
                 </div>
-                <div class="dropdown is-hoverable">
-                    <div class="dropdown-trigger">
-                        <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4">
-                        <span>Hover me</span>
-                        <span class="icon is-small">
-                            <i class="fas fa-angle-down" aria-hidden="true"></i>
-                        </span>
-                        </button>
-                    </div>
-                    <div class="dropdown-menu" id="dropdown-menu4" role="menu">
-                        <div class="dropdown-content">
-                        <div class="dropdown-item">
-                            <p>
-                            You can insert <strong>any type of content</strong> within the
-                            dropdown menu.
-                            </p>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="dropdown">
-                    <div class="dropdown-trigger">
-                        <button class="button" aria-haspopup="true" aria-controls="dropdown-menu3">
-                        <span>Click me</span>
-                        <span class="icon is-small">
-                            <i class="fas fa-angle-down" aria-hidden="true"></i>
-                        </span>
-                        </button>
-                    </div>
-                    <div class="dropdown-menu" id="dropdown-menu3" role="menu">
-                        <div class="dropdown-content">
-                        <a href="#" class="dropdown-item"> Overview </a>
-                        <a href="#" class="dropdown-item"> Modifiers </a>
-                        <a href="#" class="dropdown-item"> Grid </a>
-                        <a href="#" class="dropdown-item"> Form </a>
-                        <a href="#" class="dropdown-item"> Elements </a>
-                        <a href="#" class="dropdown-item"> Components </a>
-                        <a href="#" class="dropdown-item"> Layout </a>
-                        <hr class="dropdown-divider" />
-                        <a href="#" class="dropdown-item"> More </a>
-                        </div>
-                    </div>
-                </div>
-            </ul>
+            </div>
         </nav>
 
         <!-- Bannière/Hero -->

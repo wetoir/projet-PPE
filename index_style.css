@@ -1,22 +1,27 @@
-/* Choix de Langues */
+body {
+    background-image: url("images/bg.jpg");
+    background-color: aquamarine;
+}
 
-
-/* --------------Menu déroulant-------------- */
+nav {
+    position:fixed;
+    background: bisque;
+}
+/* Menu déroulant */
 .dropdown {
     position: relative;
     display: inline-block;
 }
 
-
 .dropdown-toggle {
-    color: white;
-    text-decoration: none;
-    transition: opacity 0.3s ease;
+    color: black;
+    /* text-decoration: none; */
+    transition: opacity 3000ms ease-in;
 }
 
 .dropdown-toggle:hover { opacity: 0.7; }
 
-/* --------------Cacher le Menu-------------- */
+/* Hide menu */
 .dropdown-menu {
     position: absolute;
     top: calc(100% + 14px);
@@ -31,7 +36,7 @@
     padding: 14px 14px;
     border-radius: 16px;
 
-    background: rgba(255, 255, 255, 0.12);
+    background: rgba(49, 4, 4, 0.521);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
 
@@ -52,7 +57,7 @@
 }
 
 .dropdown-menu a:hover {
-    background: rgba(255, 255, 255, 0.14);
+    background: rgba(52, 41, 5, 0.14);
     opacity: 0.95;
 }
 
@@ -66,17 +71,4 @@
     opacity: 1;
     visibility: visible;
     transform: translateX(-50%) translateY(0);
-}
-
-/* --------------Container-------------- */
-.glass-container {
-    max-width: 1400px;
-    margin: 0 auto;
-
-    background: rgba(220, 235, 225, 0.6);
-    backdrop-filter: blur(18px);
-    -webkit-backdrop-filter: blur(14px);
-
-    border-radius: 22px;
-    padding: 48px;
 }
