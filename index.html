@@ -1,111 +1,164 @@
 <!doctype html>
-    <html>
-        <head>
-            <meta charset="utf-8" />
-            <title>Page Acceuille Projet PPE-1</title>
-        </head>
-        <body>
-            <p> Que l'aventure commence ! </p>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" />
+        <!-- <link rel="stylesheet" href="index_style.css"/> -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Page Acceuille Projet PPE-1</title>
+    </head>
 
-              <!--- Je vais commencer par créer le menu --->
-        <div>
-        <header>
-            <div> <!-- permet de regroupe les choses ensembles pour que ça ne se mélange pas ! pratique pour créer des groupes -->
-            <aside> <!--- pour qu'il soit mis de côté -->
-            <p> MENU </P>
-                <nav>
-                    <ul>
-                        <li><a href="pages/presentation.html"> Présentation </a></li>
-                        <li><a href="pages/analyse.html"> Analyse </a></li>
-                        <li><a href=""> Tableaux </a>
-                            <ul>
-                                <li><a href="tableaux/langfr.html"> Tableau Français </a></li>
-                                <li><a href="tableaux/langtam.html"> Tableau Tamoul </a></li>
-                                <li><a href="tableaux/tableauVn.html"> Tableau Vietnamien </a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#"> Journal de bord </a>
-                            <ul>
-                                <li><a href=""> Journal Français </a></li>
-                                <li><a href=""> Journal Tamoul </a></li>
-                                <li><a href=""> Journal Vietnamien </a></li>
-                            </ul>
-                        </li>
-                        <li><a href=""> Nuages de mots </a></li>
-                    </ul>
-                </nav>
-            </aside>
-            </div> <!-- partie fr -->
-                <br />
-            <h1><strong> BIENVENUE </strong></h1>
-            <h1>
-            Projet PPE-1 Master TAL
-            </h1>
-            <h2>
-            Collaboration Nanterre Université - Sorbonne Nouvelle - INALCO
-            </h2>
-            <p> 2025-2026 </p>
-                <br />
-                <br />
-        </header>
-        </div>
-        <section>
-            <h3><strong> 🇫🇷 IMAGE | 🇮🇳 படம் | 🇻🇳 </strong></h3>  <!-- mettre ça au centre -->
-        </section>
-        <main> <!-- POur la zone principale du site -->
-        <div> <!-- image qui illustre le sens "FIGURE" -->
-            <img src="" alt=""> <!-- alt permet de décrire l'image pour les personnes malvoyantes ! trop trop cool vraiment !! -->
-            <h3> IMAGE </h3>
-            <p> Que signifie <strong>"image"</strong> en français ?</p>
-            <p> définition </p>
+    <body>
+        <!-- BarreDeNavi -->
+        <nav class="tabs is-centered mb-0"> <!-- pas de marge en bas -->
+            <ul>
+                <li class="is-active"><a href="index.html">Accueil</a></li>
+                <li><a href=""> Nuages de mots </a></li>
+                <div class="dropdown">
+                    <a class="dropdown-toggle">Tableaux</a>
+                    <div class="dropdown-menu">
+                        <a href="tableaux/langfr.html"> Tableau Français </a>
+                        <a href="tableaux/langtam.html"> Tableau Tamoul </a>
+                        <a href="tableaux/tableauVn.html"> Tableau Vietnamien </a>
+                    </div>
+                </div>
+                <div class="dropdown">
+                    <a class="dropdown-toggle">Journal</a>
+                    <div class="dropdown-menu">
+                        <a href=""> Français </a>
+                        <a href=""> Tamoul </a>
+                        <a href=""> Vietnamien </a>
+                    </div>
+                </div>
+                <div class="dropdown is-hoverable">
+                    <div class="dropdown-trigger">
+                        <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4">
+                        <span>Hover me</span>
+                        <span class="icon is-small">
+                            <i class="fas fa-angle-down" aria-hidden="true"></i>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="dropdown-menu" id="dropdown-menu4" role="menu">
+                        <div class="dropdown-content">
+                        <div class="dropdown-item">
+                            <p>
+                            You can insert <strong>any type of content</strong> within the
+                            dropdown menu.
+                            </p>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="dropdown">
+                    <div class="dropdown-trigger">
+                        <button class="button" aria-haspopup="true" aria-controls="dropdown-menu3">
+                        <span>Click me</span>
+                        <span class="icon is-small">
+                            <i class="fas fa-angle-down" aria-hidden="true"></i>
+                        </span>
+                        </button>
+                    </div>
+                    <div class="dropdown-menu" id="dropdown-menu3" role="menu">
+                        <div class="dropdown-content">
+                        <a href="#" class="dropdown-item"> Overview </a>
+                        <a href="#" class="dropdown-item"> Modifiers </a>
+                        <a href="#" class="dropdown-item"> Grid </a>
+                        <a href="#" class="dropdown-item"> Form </a>
+                        <a href="#" class="dropdown-item"> Elements </a>
+                        <a href="#" class="dropdown-item"> Components </a>
+                        <a href="#" class="dropdown-item"> Layout </a>
+                        <hr class="dropdown-divider" />
+                        <a href="#" class="dropdown-item"> More </a>
+                        </div>
+                    </div>
+                </div>
+            </ul>
+        </nav>
 
-        </div> <!-- fin partie fr -->
+        <!-- Bannière/Hero -->
+        <!-- <section class="hero is-warning is-small">
+            <div class="hero-body">
+                <p class="title">Le projet : la vie des mots</p>
+                <p class="subtitle">3 langues, 3 vies, 3 mots "différents"</p>
+            </div>
+        </section> -->
+
+        <p> Que l'aventure commence ! </p>
+
+            <!--- Je vais commencer par créer le menu --->
+    <div>
+    <header>
+        <div> <!-- permet de regroupe les choses ensembles pour que ça ne se mélange pas ! pratique pour créer des groupes -->
+        </div> <!-- partie fr -->
+            <br />
+        <h1><strong> BIENVENUE </strong></h1>
+        <h1>
+        Projet PPE-1 Master TAL
+        </h1>
+        <h2>
+        Collaboration Nanterre Université - Sorbonne Nouvelle - INALCO
+        </h2>
+        <p> 2025-2026 </p>
             <br />
             <br />
-        <div> <!--- illustre sens tableau -->
-            <img src="" alt=""> <!-- j'ai pensé que ça serait cool de mettre une image qui les différencies les uns des autres -->
-            <h3> படம் </h3>
-            <p> Que signifie <strong>"படம்"</strong> en Tamoul ?</p>
-            <p> définition </p>
-        </div><!-- partie tam -->
-            <br />
-            <br />
-        <div> <!--  illustre sud et nord ? -->
-            <img src="" alt="">
-            <h3> </h3>
-            <p> Que signifie <strong>" "</strong> en Vietnamien ?</p>
-            <p> définition </p>
-        </div> <!-- partie vietnamien -->
-            <br />
-            <br />
-        </main>
-            <br />
-                <section> <!-- pour créer des zones sur le site -->
-                    <h3> Qui sommes nous ? </h3 >
-                        <br />
-                        <br />
-                        <div>
-                            <h4> Tamoul </h4>
-                            <h5> A.L </h5>
-                            <p> Mini description </p>
-                            <p> Nanterre </p>
-                        </div>
-                        <div>
-                            <h4> Français </h4>
-                            <h5> M.W </h5>
-                            <p> Mini description </p>
-                            <p> Sorbonne Nouvelle </p>
-                        </div>
-                        <div>
-                            <h4> Vietnamien </h4>
-                            <h5> G. </h5>
-                            <p> Mini description </p>
-                            <p> INALCO </p>
-                        </div>
-                </section>
+    </header>
+    </div>
+    <section>
+        <h3><strong> 🇫🇷 IMAGE | 🇮🇳 படம் | 🇻🇳 </strong></h3>  <!-- mettre ça au centre -->
+    </section>
+    <main> <!-- POur la zone principale du site -->
+    <div> <!-- image qui illustre le sens "FIGURE" -->
+        <img src="" alt=""> <!-- alt permet de décrire l'image pour les personnes malvoyantes ! trop trop cool vraiment !! -->
+        <h3> IMAGE </h3>
+        <p> Que signifie <strong>"image"</strong> en français ?</p>
+        <p> définition </p>
+
+    </div> <!-- fin partie fr -->
+        <br />
+        <br />
+    <div> <!--- illustre sens tableau -->
+        <img src="" alt=""> <!-- j'ai pensé que ça serait cool de mettre une image qui les différencies les uns des autres -->
+        <h3> படம் </h3>
+        <p> Que signifie <strong>"படம்"</strong> en Tamoul ?</p>
+        <p> définition </p>
+    </div><!-- partie tam -->
+        <br />
+        <br />
+    <div> <!--  illustre sud et nord ? -->
+        <img src="" alt="">
+        <h3> </h3>
+        <p> Que signifie <strong>" "</strong> en Vietnamien ?</p>
+        <p> définition </p>
+    </div> <!-- partie vietnamien -->
+        <br />
+        <br />
+    </main>
+        <br />
+            <section> <!-- pour créer des zones sur le site -->
+                <h3> Qui sommes nous ? </h3 >
+                    <br />
+                    <br />
+                    <div>
+                        <h4> Tamoul </h4>
+                        <h5> A.L </h5>
+                        <p> Mini description </p>
+                        <p> Nanterre </p>
+                    </div>
+                    <div>
+                        <h4> Français </h4>
+                        <h5> M.W </h5>
+                        <p> Mini description </p>
+                        <p> Sorbonne Nouvelle </p>
+                    </div>
+                    <div>
+                        <h4> Vietnamien </h4>
+                        <h5> G. </h5>
+                        <p> Mini description </p>
+                        <p> INALCO </p>
+                    </div>
+            </section>
 <!-- mot dans les  -->
 
-
-
-        </body>
-    </html>
+    </body>
+</html>
