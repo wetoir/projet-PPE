@@ -1,0 +1,205 @@
+/* ======================
+   RESET / BASE
+====================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: white;
+}
+
+/* ======================
+   HEADER / BACKGROUND
+====================== */
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url("../images/bg.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    overflow: auto; /* Pour permettre le scroll si contenu long */
+}
+
+/* ======================
+   NAVIGATION
+   (on garde exactement le style de presentation)
+====================== */
+nav {
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+nav a:hover {
+    background: rgba(205, 161, 16, 0.14);
+    opacity: 0.95;
+    transition: 0.5s;
+}
+
+/* Dropdown menu */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-toggle {
+    color: white;
+    transition: opacity 3000ms ease-in;
+}
+
+.dropdown-toggle:hover { 
+    opacity: 0.7;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: calc(100% + 14px);
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    padding: 1px 1px;
+    border-radius: 16px;
+    background: rgba(49, 4, 4, 0.521);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    opacity: 0;
+    visibility: hidden;
+    transform-origin: top center;
+    transition: opacity 200ms ease, visibility 200ms ease, transform 200ms ease;
+}
+
+.dropdown-menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    padding: 6px 10px;
+    border-radius: 10px;
+    transition: 200ms ease, opacity 200ms ease;
+}
+
+.dropdown-menu a:hover {
+    background: rgba(205, 161, 16, 0.14);
+    opacity: 0.95;
+}
+
+.dropdown:hover .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+}
+
+/* ======================
+   TEXTE / CONTENU NUAGES
+====================== */
+.text-box {
+    width: 90%;
+    color: #fff;
+    margin: 0 auto;
+    padding: 50px 0; /* espace depuis le haut pour la nav */
+    text-align: center;
+    position: relative;
+}
+
+.text-box h2 {
+    font-size: 32px;
+    margin: 30px 0 15px 0;
+    color: darkblue;
+    border-bottom: 2px solid rgba(255,255,255,0.4);
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.text-box img {
+    max-width: 400px;
+    width: 90%;
+    height: auto;
+    margin: 20px 0;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+.text-box p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 10px 0;
+    text-align: justify;
+}
+
+/* ======================
+   LISTES (tamoul / exemples)
+====================== */
+.text-box ol {
+    text-align: left;
+    max-width: 800px;
+    margin: 10px auto 20px auto;
+    padding-left: 30px;
+}
+
+.text-box ol li {
+    margin: 10px 0;
+    line-height: 1.5;
+}
+
+/* ======================
+   LIENS
+====================== */
+.text-box a {
+    color: #ffd700; /* doré pour ressortir */
+    text-decoration: underline;
+}
+
+.text-box a:hover {
+    opacity: 0.8;
+}
+
+/* ======================
+   BOUTON ANALYSE
+====================== */
+.hero-btn {
+    display: inline-block;
+    padding: 12px 25px;
+    margin: 20px 0;
+    background-color: darkblue;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.hero-btn:hover {
+    background-color: #003366;
+}
+
+/* ======================
+   RESPONSIVE
+====================== */
+@media screen and (max-width: 768px) {
+    .text-box h2 {
+        font-size: 24px;
+    }
+
+    .text-box img {
+        max-width: 90%;
+    }
+
+    .text-box p {
+        font-size: 14px;
+    }
+}
