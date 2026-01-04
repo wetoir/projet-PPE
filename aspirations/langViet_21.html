@@ -1,0 +1,76 @@
+HTTP/1.1 302 Moved Temporarily
+server: openresty
+date: Sun, 04 Jan 2026 05:17:48 GMT
+content-type: text/html
+content-length: 142
+location: http://c.genk.vn/sorry?continue=http%3A//genk.vn/youtuber-khoai-lang-thang-dau-dau-vi-bi-su-dung-hinh-anh-di-lua-dao-20251024141006491.chn
+filterid: ft
+
+HTTP/1.1 200 OK
+date: Sun, 04 Jan 2026 05:17:49 GMT
+content-type: text/html; charset=UTF-8
+content-length: 2181
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: script-src 'self'
+server: gamek-captcha
+cache-control: private
+x-frame-options: DENY
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=false;">
+    <link rel="stylesheet" type="text/css" href="/public/style_new.css">
+    <script src="https://cdn.ravenjs.com/3.0.4/raven.min.js"></script>
+  </head>
+  <body>
+    <div class='logo'>
+      <img src='/public/genk-logo.jpg' width='234' height='36'>
+    </div>
+    
+    
+    <div class='content'>
+      <div class='text'>
+        <p>
+        Máy tính của bạn có khả năng bị đối tượng xấu lợi dụng làm công cụ tấn công từ chối dịch vụ (DDOS) vào <p1>Genk</p1>.
+        </p>
+        <p>
+        Để tiếp tục đọc <p1>Genk</p1> bạn vui lòng nhập những ký tự dưới đây vào ô trống.
+        </p>
+        <p>
+        Xin trân trọng cảm ơn và chúc bạn có một ngày đọc báo thật vui vẻ với <p1>Genk</p1>.
+        </p>
+      </div>
+      
+      <form method="post" action="/sorry">
+        <p>
+          <label for="turing_number">
+              <img id="captcha" 
+                   src="/captcha.jpg?c=oj_weCrnQ6qxIHhjGp_1gQ"
+                   title="Lấy mã mới"
+                   onclick="this.src='/captcha.jpg?c=oj_weCrnQ6qxIHhjGp_1gQ&r=' + Math.floor(Math.random()*100+1)">
+              <input type="hidden" name="c" value="oj_weCrnQ6qxIHhjGp_1gQ">
+          </label>
+          <input id="turing_number" 
+                 name="turing_number"
+                 type="text"
+                 maxlength="4"
+                 autocomplete="off"
+                 autofocus="autofocus">
+          <button type="submit">TIẾP TỤC</button>       
+          <input type="hidden" name="continue" value="http://genk.vn/youtuber-khoai-lang-thang-dau-dau-vi-bi-su-dung-hinh-anh-di-lua-dao-20251024141006491.chn">
+          <input type="hidden" name="message" value="">          
+        </p>
+      </form>
+    </div>
+<script>
+    var host = window.location.hostname;
+    var msg = "Captcha-" + host;
+    Raven.config('http://b32b14f45d424ec5bd78e3d624a30c9c@sentry.k8s.vn/11?verify_ssl=0').install()
+
+    Raven.captureMessage(msg)
+</script>    
+  </body>
+</html>

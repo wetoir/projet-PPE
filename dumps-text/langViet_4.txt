@@ -1,0 +1,400 @@
+   HTTP/2 200 cache-control: private content-type: text/html;
+   charset=utf-8 server: Microsoft-IIS/10.0 x-powered-by: ASP.NET date:
+   Sun, 04 Jan 2026 05:17:13 GMT content-length: 201776
+
+   ĐÓNG
+     * Sự kiện
+          + Thời sự trong nước
+          + Thời sự quốc tế
+          + Thể thao - Giải trí
+     * Chính sách
+     * Khoa học
+          + Khoa học thường thức
+          + Thiên văn - Vũ trụ
+          + Phát minh - Sáng chế
+     * Công nghệ
+          + Ôtô - Xe máy
+          + Thế giới số
+     * Khám phá
+          + Giải mã
+          + Độc - Lạ
+     * Sống - Khỏe
+          + Sức khỏe
+          + Tâm lý - Giới tính
+     * Địa phương
+     * Ảnh - Clip
+          + Ảnh
+          + Clip
+     * Khoa học quốc tế
+     * Kết quả nghiên cứu mới
+
+   ____________________
+   Nóng 24h 7
+     * An ninh mạng đối mặt làn sóng tấn công ngày càng tinh vi An ninh
+       mạng đối mặt làn sóng tấn công ngày càng tinh vi
+     * Nhiếp ảnh trong thời đại AI Nhiếp ảnh trong thời đại AI
+     * [Infographic] Dự báo chất lượng không khí trên cả nước - tuần từ
+       22/12 đến 28/12/2025 [Infographic] Dự báo chất lượng không khí trên
+       cả nước - tuần từ 22/12 đến 28/12/2025
+     * Gấu Bắc Cực biến đổi gene để thích nghi với biến đổi khí hậu và
+       tránh nguy cơ tuyệt chủng Gấu Bắc Cực biến đổi gene để thích nghi
+       với biến đổi khí hậu và tránh nguy cơ tuyệt chủng
+     * Hơn một nửa số nhà nghiên cứu sử dụng AI để bình duyệt ngang hàng
+       Hơn một nửa số nhà nghiên cứu sử dụng AI để bình duyệt ngang hàng
+     * Tự do hóa thương mại: Chuyển đổi dinh dưỡng của người Việt? Tự do
+       hóa thương mại: Chuyển đổi dinh dưỡng của người Việt?
+     * Tự động hóa nông nghiệp: Từ drone đến robot trượt bùn Tự động hóa
+       nông nghiệp: Từ drone đến robot trượt bùn
+     * Khi nhân loại hóa thánh thần Khi nhân loại hóa thánh thần
+     * Sử dụng dữ liệu huấn luyện AI: Giải bài toán hài hòa lợi ích Sử
+       dụng dữ liệu huấn luyện AI: Giải bài toán hài hòa lợi ích
+     * Giáo dục đại học: Áp lực từ công nghệ số và kỳ vọng xã hội Giáo dục
+       đại học: Áp lực từ công nghệ số và kỳ vọng xã hội
+
+     * [icon-home.png]
+     * Sự kiện
+          + An ninh mạng đối mặt làn sóng tấn công ngày càng tinh vi
+
+An ninh mạng đối mặt làn sóng tấn công ngày càng tinh vi
+            Gấu Bắc Cực biến đổi gene để thích nghi với biến đổi khí hậu
+            và tránh nguy cơ tuyệt chủng
+
+Gấu Bắc Cực biến đổi gene để thích nghi với biến đổi khí hậu và tránh nguy cơ
+tuyệt chủng
+            Hơn một nửa số nhà nghiên cứu sử dụng AI để bình duyệt ngang
+            hàng
+
+Hơn một nửa số nhà nghiên cứu sử dụng AI để bình duyệt ngang hàng
+            Đón đọc KHPT số 1375+1376 từ ngày 18/12 đến 31/12/2025
+
+Đón đọc KHPT số 1375+1376 từ ngày 18/12 đến 31/12/2025
+            TPHCM ra mắt Cổng thông tin ĐMST và Chuyển giao công nghệ mở
+            rộng
+
+TPHCM ra mắt Cổng thông tin ĐMST và Chuyển giao công nghệ mở rộng
+            Thời sự trong nước Thời sự quốc tế Thể thao - Giải trí
+     * Chính sách
+          + Hỗ trợ tài chính trong trong thiên tai: Chuyển đổi số có thể
+            giúp gì?
+
+Hỗ trợ tài chính trong trong thiên tai: Chuyển đổi số có thể giúp gì?
+            Giáo dục đại học: Áp lực từ công nghệ số và kỳ vọng xã hội
+
+Giáo dục đại học: Áp lực từ công nghệ số và kỳ vọng xã hội
+            Trung Quốc dẫn đầu nghiên cứu về công nghệ mới
+
+Trung Quốc dẫn đầu nghiên cứu về công nghệ mới
+            Châu Âu: Đẩy mạnh hợp tác quốc tế về chip bán dẫn
+
+Châu Âu: Đẩy mạnh hợp tác quốc tế về chip bán dẫn
+            Học song ngành: Khoản đầu tư xa xỉ hay chiến lược sinh tồn?
+
+Học song ngành: Khoản đầu tư xa xỉ hay chiến lược sinh tồn?
+     * Khoa học
+          + Đi tìm cấu trúc vật liệu Janus: Xanh hóa việc sản xuất năng
+            lượng sạch
+
+Đi tìm cấu trúc vật liệu Janus: Xanh hóa việc sản xuất năng lượng sạch
+            Nhiếp ảnh trong thời đại AI
+
+Nhiếp ảnh trong thời đại AI
+            Khi nhân loại hóa thánh thần
+
+Khi nhân loại hóa thánh thần
+            Sử dụng dữ liệu huấn luyện AI: Giải bài toán hài hòa lợi ích
+
+Sử dụng dữ liệu huấn luyện AI: Giải bài toán hài hòa lợi ích
+            Năm 2025: 9 đột phá y học
+
+Năm 2025: 9 đột phá y học
+            Khoa học thường thức Thiên văn - Vũ trụ Phát minh - Sáng chế
+     * Công nghệ
+          + Khởi nghiệp Việt Nam: Những xu hướng nổi bật trong năm 2025
+
+Khởi nghiệp Việt Nam: Những xu hướng nổi bật trong năm 2025
+            Điều gì tạo nên một quỹ đổi mới sáng tạo tốt?
+
+Điều gì tạo nên một quỹ đổi mới sáng tạo tốt?
+            Để người khuyết tật có chỗ đứng trong xã hội số
+
+Để người khuyết tật có chỗ đứng trong xã hội số
+            RetriV: Khai thác đại dương xanh trong nước thải thực phẩm
+
+RetriV: Khai thác đại dương xanh trong nước thải thực phẩm
+            Chung kết Thách thức Net Zero 2025: Startup Việt giành hai
+            trong ba giải
+
+Chung kết Thách thức Net Zero 2025: Startup Việt giành hai trong ba giải
+            Ôtô - Xe máy Thế giới số
+     * Khám phá
+          + Lịch sử kỳ thị phụ nữ không sinh con
+
+Lịch sử kỳ thị phụ nữ không sinh con
+            Thần thoại về “trí tuệ nhân tạo”: từ thời Hy Lạp cổ cho tới
+            chatbot của Giáo hoàng
+
+Thần thoại về “trí tuệ nhân tạo”: từ thời Hy Lạp cổ cho tới chatbot của Giáo
+hoàng
+            Viết dưới ánh nhìn của tha nhân
+
+Viết dưới ánh nhìn của tha nhân
+            Iain Douglas-Hamilton: người bảo hộ loài voi
+
+Iain Douglas-Hamilton: người bảo hộ loài voi
+            Gia vị đã định hình thế giới như thế nào?
+
+Gia vị đã định hình thế giới như thế nào?
+            Giải mã Độc - Lạ
+     * Sống - Khỏe
+          + Vì sao nam giới tự tử nhiều hơn nữ giới?
+
+Vì sao nam giới tự tử nhiều hơn nữ giới?
+            Sự khác nhau giữa các nhóm được chẩn đoán tự kỷ sớm và muộn
+
+Sự khác nhau giữa các nhóm được chẩn đoán tự kỷ sớm và muộn
+            Phụ nữ mang thai có nên dùng thuốc hạ sốt paracetamol?
+
+Phụ nữ mang thai có nên dùng thuốc hạ sốt paracetamol?
+            Thú vui sáng tạo làm chậm quá trình lão hóa não
+
+Thú vui sáng tạo làm chậm quá trình lão hóa não
+            Đốt hương làm tăng nồng độ PM2.5 trong nhà
+
+Đốt hương làm tăng nồng độ PM2.5 trong nhà
+            Sức khỏe Tâm lý - Giới tính
+     * Địa phương
+          + Hải Dương: Phục tráng giống khoai sọ Miễu Sơn
+
+Hải Dương: Phục tráng giống khoai sọ Miễu Sơn
+            Đắk Nông: Xây dựng mô hình sản xuất hoa công nghệ cao
+
+Đắk Nông: Xây dựng mô hình sản xuất hoa công nghệ cao
+            Lạng Sơn: Bảo tồn nguồn gen cây chanh rừng
+
+Lạng Sơn: Bảo tồn nguồn gen cây chanh rừng
+            Phú Yên: Sản xuất giống và nuôi thương phẩm cá chim vây vàng
+
+Phú Yên: Sản xuất giống và nuôi thương phẩm cá chim vây vàng
+            Đắk Lắk: Trồng gai xanh lấy sợi và sản xuất phân bón
+
+Đắk Lắk: Trồng gai xanh lấy sợi và sản xuất phân bón
+     * Ảnh - Clip
+          + [Infographic] Dự báo chất lượng không khí trên cả nước - tuần
+            từ 22/12 đến 28/12/2025
+
+[Infographic] Dự báo chất lượng không khí trên cả nước - tuần từ 22/12 đến
+28/12/2025
+            [Infographic] Dự báo chất lượng không khí trên cả nước - tuần
+            từ 15/12 đến 21/12/2025
+
+[Infographic] Dự báo chất lượng không khí trên cả nước - tuần từ 15/12 đến
+21/12/2025
+            [Infographic] Dự báo chất lượng không khí trên cả nước - tuần
+            từ 8/12 đến 14/12/2025
+
+[Infographic] Dự báo chất lượng không khí trên cả nước - tuần từ 8/12 đến
+14/12/2025
+            [Infographic] Dự báo chất lượng không khí trên cả nước - tuần
+            từ 1/12 đến 7/12/2025
+
+[Infographic] Dự báo chất lượng không khí trên cả nước - tuần từ 1/12 đến
+7/12/2025
+            [Infographic] Dự báo chất lượng không khí trên cả nước - tuần
+            từ 24/11 đến 30/11/2025
+
+[Infographic] Dự báo chất lượng không khí trên cả nước - tuần từ 24/11 đến
+30/11/2025
+            Ảnh Clip
+     * Khoa học quốc tế
+          + Phát hiện đột phá về phản ứng viêm liên quan đến lão hóa
+
+Phát hiện đột phá về phản ứng viêm liên quan đến lão hóa
+            Não thức dậy sau giấc ngủ như thế nào
+
+Não thức dậy sau giấc ngủ như thế nào
+            Bùng nổ bài báo kém chất lượng dựa trên dữ liệu y tế mở
+
+Bùng nổ bài báo kém chất lượng dựa trên dữ liệu y tế mở
+            Người Neanderthal đã biết đun xương để lấy mỡ
+
+Người Neanderthal đã biết đun xương để lấy mỡ
+            Cách não bộ phân biệt hình ảnh thực tế và hình ảnh tưởng tượng
+
+Cách não bộ phân biệt hình ảnh thực tế và hình ảnh tưởng tượng
+     * Kết quả nghiên cứu mới
+          + Sự khác nhau giữa các nhóm được chẩn đoán tự kỷ sớm và muộn
+
+Sự khác nhau giữa các nhóm được chẩn đoán tự kỷ sớm và muộn
+            Đốt hương làm tăng nồng độ PM2.5 trong nhà
+
+Đốt hương làm tăng nồng độ PM2.5 trong nhà
+            Điều trị polyp đại trực tràng bằng kỹ thuật cắt niêm mạc nội
+            soi dưới nước
+
+Điều trị polyp đại trực tràng bằng kỹ thuật cắt niêm mạc nội soi dưới nước
+            Lần đầu nghiên cứu bào chế viên nén phối hợp điều trị tăng
+            huyết áp
+
+Lần đầu nghiên cứu bào chế viên nén phối hợp điều trị tăng huyết áp
+            Tín dụng xanh tác động tích cực đến phát triển kinh tế bền
+            vững
+
+Tín dụng xanh tác động tích cực đến phát triển kinh tế bền vững
+
+   ____________________ (BUTTON) Tìm kiếm
+   Trang chủ Khám phá
+     * Khám phá
+
+Hình ảnh đẹp khó cưỡng về thiên nhiên Đà Lạt xưa
+
+   Theo Kiến Thức
+   28/10/2017 11:03
+
+   Theo thời gian, có những thắng cảnh thiên nhiên nổi tiếng Đà Lạt đã
+   biến mất hoàn toàn, các thắng cảnh còn lại cũng bị biến dạng ít nhiều.
+   Hinh anh dep kho cuong ve thien nhien Da Lat xua
+   Thác Gougah còn có tên gọi là thác Ổ Gà, nằm ở huyện Đức Trọng, sát
+   quốc lộ 20, cách Đà Lạt khoảng 37 km.
+   Hinh anh dep kho cuong ve thien nhien Da Lat xua-Hinh-2
+   Từng được xếp hạng di tích quốc gia nhưng hiện nay thác nước tuyệt đẹp
+   này đã biến mất do ngập nước từ đập nước của nhà máy thủy điện Đại
+   Ninh.
+   Hinh anh dep kho cuong ve thien nhien Da Lat xua-Hinh-3
+   Thác Liên Khương ở cạnh ngã ba Liên Khương, cách Đà Lạt khoảng 30 km.
+   Ảnh chụp vào thập niên 1920.
+   Hinh anh dep kho cuong ve thien nhien Da Lat xua-Hinh-4
+   Cũng như thác Gougah, thác Liên Khương từng được xếp hạng di tích quốc
+   gia nhưng ngày nay đã biến mất do bị cạn nước.
+   Hinh anh dep kho cuong ve thien nhien Da Lat xua-Hinh-5
+   Thác Cam Ly, một thắng cảnh nằm gần trung tâm thành phố Đà Lạt, thập
+   niên 1920. Ngày nay sự lấn chiếm của cư dân và tình trạng ô nhiễm nước
+   đã khiến thác nước này không còn được thơ mộng như xưa.
+   Hinh anh dep kho cuong ve thien nhien Da Lat xua-Hinh-6
+   Thác Prenn nằm ở cửa ngõ vào thành phố Đà Lạt, cũng là một danh thắng
+   của thành phố này. Ngày nay khu vực quanh thác đã được quy hoạch thành
+   một khu du lịch hoành tráng với đủ mọi loại hình dịch vụ.
+   Hinh anh dep kho cuong ve thien nhien Da Lat xua-Hinh-7
+   Một hình ảnh của Thác Prenn năm 1963.
+   Hinh anh dep kho cuong ve thien nhien Da Lat xua-Hinh-8
+   Thác Pongour còn gọi là thác Bảy Tầng nằm tại huyện Đức Trọng, tỉnh Lâm
+   Đồng, cách Đà Lạt 50 km về hướng Nam.
+   Hinh anh dep kho cuong ve thien nhien Da Lat xua-Hinh-9
+   Thác Pongour thời điểm năm 1963. Đây được coi là thác nước lớn nhất khu
+   vực xung quanh Đà Lạt.
+   Hinh anh dep kho cuong ve thien nhien Da Lat xua-Hinh-10
+   Thác Bốp La, một thác nước nằm ở huyện Di Linh, cách Đà Lạt 80 km.
+   Hinh anh dep kho cuong ve thien nhien Da Lat xua-Hinh-11
+   Hồ Than Thở, hồ nước tự nhiên nổi tiếng của Đà Lạt, đầu thế kỷ 20.
+   Hinh anh dep kho cuong ve thien nhien Da Lat xua-Hinh-12
+   Một hình ảnh khác về hồ Than Thở xưa.
+   [1.jpg]
+   Theo Kiến Thức
+     * TAGS
+     * Đà Lạt
+     * thác nước
+     * Thác Pongour
+     * thắng cảnh
+     * Thác Prenn
+     * Hồ Than Thở
+     * thiên nhiên
+     * biến mất
+     * Đức Trọng
+     * Thác Cam Ly
+     * di tích
+
+TIN LIÊN QUAN
+
+   Mẫu đơn đỏ - loài hoa tượng trưng cho sắc đẹp và sự giàu sang
+
+Mẫu đơn đỏ - loài hoa tượng trưng cho sắc đẹp và sự giàu sang
+
+   Lạc bước vào “Hạ Long giữa đại ngàn”
+
+Lạc bước vào “Hạ Long giữa đại ngàn”
+
+   12 quốc gia có tấm hộ chiếu "quyền lực" nhất thế giới
+
+12 quốc gia có tấm hộ chiếu "quyền lực" nhất thế giới
+
+TIN KHÁC
+
+   Loài tôm hùm nước ngọt lớn nhất thế giới sắp tuyệt chủng
+
+Loài tôm hùm nước ngọt lớn nhất thế giới sắp tuyệt chủng
+
+   Vườn thú Đan Mạch gom xác ngựa cho sư tử ăn thịt
+
+Vườn thú Đan Mạch gom xác ngựa cho sư tử ăn thịt
+
+   Cá trê vàng 8 râu hiếm gặp ở Cà Mau
+
+Cá trê vàng 8 râu hiếm gặp ở Cà Mau
+
+TIN TIÊU ĐIỂM
+
+Nhà sinh học tìm ra lời giải cho bài toán hóc búa suốt 68 năm
+
+   02/05
+
+ADN hé lộ bí mật chưa từng biết đến về châu Mỹ Latin
+
+   01/05
+
+Phát hiện loài cá voi cổ đại mới ở New Zealand
+
+   29/04
+
+Trái Đất quay từ Tây – Đông, nhưng tại sao máy bay bay về phía Tây lại không
+nhanh hơn?
+
+   23/04
+
+Sự kiện
+
+   Thế giới động vật
+
+Thế giới động vật
+
+   Cảnh đẹp - thiên nhiên
+
+Cảnh đẹp - thiên nhiên
+
+   Sự thật về sự sống ngoài Trái đất
+
+Sự thật về sự sống ngoài Trái đất
+
+   Các nhân vật lịch sử nổi tiếng
+
+Các nhân vật lịch sử nổi tiếng
+
+   Kỳ hoa dị thảo ở Việt nam
+
+Kỳ hoa dị thảo ở Việt nam
+
+   IFRAME:
+   https://www.facebook.com/plugins/likebox.php?href=https://www.facebook.
+   com/BaoKhoaHocPhatTrien&width&height=258&colorscheme=light&show_faces=t
+   rue&header=false&stream=false&show_border=true
+
+   Trang TTĐTTH của Trung tâm Báo Khoa học phát triển - Tia Sáng
+   Trụ sở: 70 Trần Hưng Đạo, Q.Hoàn Kiếm, Hà Nội
+   Tel/Fax: 024.39428445
+   VPĐD phía Nam: 31 Hàn Thuyên, Q1, T.p Hồ Chí Minh
+   Tel/Fax: 028.8.273080
+   Email: khpt@most.gov.vn
+   Người chịu trách nhiệm nội dung: Phạm Trần Lê
+   Giấy phép trang TTĐTTH số:
+   9/ GP-TTĐT Ngày cấp 18/01/2024
+
+CHUYÊN MỤC
+
+     * Sự kiện
+     * Chính sách
+     * Khoa học
+     * Công nghệ
+     * Khám phá
+     * Sống - Khỏe
+     * Địa phương
+     * Ảnh - Clip
+     * Khoa học quốc tế
+     * Kết quả nghiên cứu mới

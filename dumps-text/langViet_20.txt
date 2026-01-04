@@ -1,0 +1,495 @@
+   HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 05:17:44 GMT
+   content-type: text/html; charset=utf-8 content-length: 489734
+   last-modified: Sun, 04 Jan 2026 04:32:26 GMT vary: Accept-Encoding
+   asp-id: 2016 access-control-allow-origin: *
+   access-control-allow-methods: GET, POST, PUT, DELETE, OPTIONS
+   access-control-expose-headers: Location,Upload-Offset,Upload-Length
+   access-control-allow-headers: Origin, X-Requested-With, Content-Type,
+   Accept,csrf-token access-control-allow-credentials: true v-origin: 188
+   s-count: 1 r-count: 0 be: desktop device-type: desktop age: 2717
+   v-node: vnpt-3 strict-transport-security: max-age=31536000;
+   includeSubDomains; preload v-cache: HIT iph: 1 edge-hot-cache: MISS
+   edge-isp: VNPT accept-ranges: bytes #alternate
+
+   Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7
+   Fica Fica DTiNews DTiNews NoiVuXaHoi Nội vụ & Xã hội
+   ____________________ (BUTTON)
+   Xu hướng
+     * # Mỹ tuyên bố bắt giữ Tổng thống Venezuela
+     * # "Hiệp sĩ" Nguyễn Thanh Hải bị bắt
+     * # Vòng chung kết U23 châu Á 2026
+     * # Hủy đêm nhạc "Về đây bốn cánh chim trời"
+     * # Điều khoản Zalo gây tranh cãi
+     * # Giả chết để trục lợi bảo hiểm
+     * # Lộ trình chuyển xe máy xăng sang xe máy điện
+     * # Camera AI - "Mắt thần" giao thông
+     * # Lật xe chở đoàn thiện nguyện lên Lào Cai
+     * # Thưởng Tết 2026
+
+    1.
+    2. Mới nhất
+    3. Thế giới
+         1. Quân sự
+         2. Phân tích - Bình luận
+         3. Thế giới đó đây
+         4. Kiều bào
+    4. Thời sự
+         1. Chính trị
+         2. Học tập Bác
+         3. Đại hội Đảng XIV
+         4. Môi trường
+         5. Giao thông
+         6. Nóng trên mạng
+         7. Góp ý sửa đổi, bổ sung Hiến pháp 2013
+    5. Pháp luật
+         1. Hồ sơ vụ án
+         2. Pháp đình
+    6. Sức khỏe
+         1. Ung thư
+         2. Sống khỏe
+         3. Ngoại thần kinh - Cột sống
+         4. Chấm dứt cơn đau
+         5. Kiến thức giới tính
+         6. Tư vấn
+         7. Khỏe đẹp
+    7. Đời sống
+         1. Cộng đồng
+         2. Tết 2025
+         3. Thượng lưu
+         4. Nhà đẹp
+         5. Giới trẻ
+         6. Chợ online
+         7. Xổ số
+         8. Cuộc thi ảnh EVNSPC
+    8. Du lịch
+         1. Tin tức
+         2. Khám phá
+         3. Món ngon - Điểm đẹp
+         4. Tour hay - Khuyến mại
+         5. Video - Ảnh
+    9. Kinh doanh
+         1. Tài chính
+         2. Chứng khoán
+         3. Doanh nghiệp
+         4. Khởi nghiệp
+         5. Tiêu dùng
+         6. ESG Việt Nam
+         7. Tin bước cùng Việt Nam
+         8. Toàn cảnh kinh tế tư nhân
+   10. Bất động sản
+         1. Dự án
+         2. Thị trường
+         3. Nhà đất
+         4. Nhịp sống đô thị
+         5. Sống xanh
+         6. Nội thất
+   11. Thể thao
+         1. Bóng đá
+         2. Pickleball
+         3. Tennis
+         4. Golf
+         5. Võ thuật - Các môn khác
+         6. Hậu trường
+         7. Thể thao sức bền
+         8. Lịch thi đấu
+   12. Giải trí
+         1. Hậu trường
+         2. Sách hay
+         3. Điện ảnh
+         4. Âm nhạc
+         5. Thời trang
+         6. Mỹ thuật - Sân khấu
+   13. Giáo dục
+         1. Góc phụ huynh
+         2. Khuyến học
+         3. Gương sáng
+         4. Giáo dục - Nghề nghiệp
+         5. Du học
+         6. Tuyển sinh
+   14. Xe ++
+         1. Thị trường xe
+         2. Xe điện
+         3. Đánh giá
+         4. Cộng đồng xe
+         5. Kinh nghiệm - Tư vấn
+         6. Bảng giá ô tô
+   15. Nội vụ
+         1. Chính sách
+         2. Tổ chức bộ máy
+         3. Tiền lương
+         4. Công sở
+         5. An sinh
+         6. Sắp xếp các đơn vị hành chính
+         7. Đại hội Thi đua yêu nước XI
+   16. Nhân ái
+         1. Hoàn cảnh
+         2. Dự án cộng đồng
+         3. Nhịp cầu nhân ái
+         4. Vượt lên số phận
+   17. Công nghệ
+         1. AI & Internet
+         2. An ninh mạng
+         3. Gia dụng thông minh
+         4. Sản phẩm & Cộng đồng
+   18.
+
+    1. Thế giới
+         1. Quân sự
+         2. Phân tích - Bình luận
+         3. Thế giới đó đây
+         4. Kiều bào
+    2. Thời sự
+         1. Chính trị
+         2. Học tập Bác
+         3. Đại hội Đảng XIV
+         4. Môi trường
+         5. Giao thông
+         6. Nóng trên mạng
+         7. Góp ý sửa đổi, bổ sung Hiến pháp 2013
+       (BUTTON) Xem thêm
+    3. Pháp luật
+         1. Hồ sơ vụ án
+         2. Pháp đình
+    4. Sức khỏe
+         1. Ung thư
+         2. Sống khỏe
+         3. Ngoại thần kinh - Cột sống
+         4. Chấm dứt cơn đau
+         5. Kiến thức giới tính
+         6. Tư vấn
+         7. Khỏe đẹp
+       (BUTTON) Xem thêm
+    5. Đời sống
+         1. Cộng đồng
+         2. Thượng lưu
+         3. Nhà đẹp
+         4. Giới trẻ
+         5. Chợ online
+         6. Xổ số
+         7. Cuộc thi ảnh EVNSPC
+       (BUTTON) Xem thêm
+    6. Du lịch
+         1. Tin tức
+         2. Khám phá
+         3. Món ngon - Điểm đẹp
+         4. Tour hay - Khuyến mại
+         5. Video - Ảnh
+       (BUTTON) Xem thêm
+    7. Kinh doanh
+         1. Tài chính
+         2. Chứng khoán
+         3. Doanh nghiệp
+         4. Khởi nghiệp
+         5. Tiêu dùng
+         6. ESG Việt Nam
+         7. Tin bước cùng Việt Nam
+         8. Toàn cảnh kinh tế tư nhân
+       (BUTTON) Xem thêm
+    8. Bất động sản
+         1. Dự án
+         2. Thị trường
+         3. Nhà đất
+         4. Nhịp sống đô thị
+         5. Sống xanh
+         6. Nội thất
+       (BUTTON) Xem thêm
+    9. Thể thao
+         1. Bóng đá
+         2. Pickleball
+         3. Tennis
+         4. Golf
+         5. Võ thuật - Các môn khác
+         6. Hậu trường
+         7. Thể thao sức bền
+         8. Lịch thi đấu
+       (BUTTON) Xem thêm
+   10. Giải trí
+         1. Hậu trường
+         2. Sách hay
+         3. Điện ảnh
+         4. Âm nhạc
+         5. Thời trang
+         6. Mỹ thuật - Sân khấu
+       (BUTTON) Xem thêm
+   11. Giáo dục
+         1. Góc phụ huynh
+         2. Khuyến học
+         3. Gương sáng
+         4. Giáo dục - Nghề nghiệp
+         5. Du học
+         6. Tuyển sinh
+       (BUTTON) Xem thêm
+   12. Xe ++
+         1. Thị trường xe
+         2. Xe điện
+         3. Đánh giá
+         4. Cộng đồng xe
+         5. Kinh nghiệm - Tư vấn
+         6. Bảng giá ô tô
+       (BUTTON) Xem thêm
+   13. Nội vụ
+         1. Chính sách
+         2. Tổ chức bộ máy
+         3. Tiền lương
+         4. Công sở
+         5. An sinh
+         6. Sắp xếp các đơn vị hành chính
+         7. Đại hội Thi đua yêu nước XI
+       (BUTTON) Xem thêm
+   14. Nhân ái
+         1. Hoàn cảnh
+         2. Dự án cộng đồng
+         3. Nhịp cầu nhân ái
+         4. Vượt lên số phận
+   15. Công nghệ
+         1. AI & Internet
+         2. An ninh mạng
+         3. Gia dụng thông minh
+         4. Sản phẩm & Cộng đồng
+   16. Việc làm
+         1. Nhân lực mới
+         2. Làm giàu
+         3. Chuyện nghề
+   17. Tình yêu
+         1. Chuyện của tôi
+         2. Gia đình
+         3. Tình yêu
+   18. Khoa học
+         1. Thế giới tự nhiên
+         2. Vũ trụ
+         3. Khám phá
+         4. Khoa học & đời sống
+
+    1. Dmagazine
+    2. DNews
+    3. D-Buzz
+    4. Photo News
+    5. Photo Story
+
+    1. Infographic
+    2. Interactive
+    3. Tâm điểm
+    4. Bạn đọc
+    5. Tọa đàm
+
+    1. SỰ KIỆN NỔI BẬT
+    2. Tin mới nhất
+    3. VIDEO
+
+    1. FICA
+    2. DTINEWS
+
+    1. Liên hệ toà soạn
+    2. 024-3736-6491
+
+    1. Liên hệ quảng cáo
+    2. 0945.54.03.03
+
+   Theo dõi Dân trí:
+   Facebook Youtube Tiktok Telegram
+
+     * Tình yêu - Giới tính
+     * Chuyện của tôi
+
+Sát ngày cưới, tôi sốc khi xem những clip ghi lại "cảnh nóng" của bạn gái
+
+   Giang Hà
+   Giang Hà
+   Thứ ba, 09/12/2025 - 06:00
+
+(Dân trí) - Vào sát ngày cưới, tôi bất ngờ nhận được những clip được gửi đến
+từ một tài khoản lạ. Những clip quay lại cảnh "thân mật" của một đôi trai gái
+mà nhân vật nữ chính lại là vợ sắp cưới của tôi.
+
+   Tôi yêu Thùy ngay từ lần đầu nhìn thấy mặt. Thùy không đẹp nhưng vẻ
+   hiền lành, dịu dàng, kín đáo của cô ấy mách bảo tôi rằng đó là người
+   phụ nữ mình nên cưới làm vợ.
+
+   Tuổi thanh niên, tôi yêu cũng nhiều. Những cuộc tình khi vui thì đến,
+   khi buồn thì đi, không mấy nhớ nhung luyến tiếc. Nhiều người nói tôi
+   đào hoa, nhưng tôi lại nghĩ phụ nữ bây giờ suy nghĩ phóng khoáng hơn
+   xưa. Họ cũng dễ dàng yêu hết mình và dừng lại khi không còn hứng thú.
+   Những cô gái như vậy, yêu thì vui, nhưng lấy làm vợ thì còn cần cân
+   nhắc.
+
+   So với những cô gái tôi từng yêu, Thùy không xinh đẹp bằng nhưng lại là
+   mẫu phụ nữ tôi tin rằng thích hợp để làm vợ, làm mẹ. Sau nhiều cuộc
+   tình, tôi nhận ra, lấy vợ không cần quá xinh đẹp, chỉ cần ngoan, hiểu
+   chuyện, đảm đang là được.
+
+   Một điều ở Thùy khiến tôi thích nữa là cô ấy không hề dễ tán tỉnh. Cô
+   ấy hiền lành nhưng nghiêm khắc, ít nói nhưng nói câu nào thấm câu đó.
+   Cô ấy không ăn diện hay lòe loẹt phấn son mà chỉnh chu, lịch sự. Thùy
+   dạy tôi kiên nhẫn để hiểu rằng, yêu đương qua đường thì dễ, nhưng để
+   tìm người gắn bó cả cuộc đời thì không dễ.
+
+   Ngày mới bắt đầu yêu, Thùy thú nhận với tôi em không còn trong trắng
+   nữa. Tôi ôm em cười bảo không sao. Tôi không cổ hủ đến mức đi đánh giá
+   một người qua cái màng sinh học mỏng manh ấy. Huống hồ, tôi yêu ai cũng
+   đều vượt qua giới hạn nên sẽ thật vô lý nếu đòi hỏi vợ mình chưa từng
+   “thân mật” với bất cứ ai.
+   Sát ngày cưới, tôi sốc khi xem những clip ghi lại cảnh nóng của bạn gái
+   - 1
+
+   Tôi bị sốc khi hình tượng ngoan hiền của người yêu sụp đổ ngay trước
+   ngày cưới (Ảnh minh họa: iStock).
+
+   Ngày cưới đã chọn, ảnh cưới đã chụp, khách mời đã lên danh sách. Tôi
+   đang hồi hộp đếm ngày để mang xe hoa tới rước em về nhà. Nhưng rồi, có
+   một chuyện xảy ra khiến tôi sốc nặng.
+
+   Tôi bất ngờ nhận được những clip được gửi đến từ một tài khoản lạ.
+   Những đoạn video ghi lại cảnh thân mật của một đôi trai gái mà nữ chính
+   trong những clip đó lại chính là vợ sắp cưới của tôi.
+
+   Không phải là những clip quay lén, mà là cả hai người họ đã chủ động
+   quay, với đủ mọi tư thế trong nhiều không gian khác nhau. Có vẻ như là,
+   họ muốn cùng nhau ghi lại những khoảnh khắc yêu đương của mình.
+
+   Xem đến đâu, tôi sốc đến đó. Tôi và em cũng đã vượt giới hạn, nhưng với
+   tôi, em là một người hoàn toàn khác, e ấp, ngại ngùng, khác xa em trong
+   những đoạn phim tôi đang xem.
+
+   Tôi không thể ngờ, người phụ nữ hiền dịu, đoan trang mà tôi sắp cưới
+   làm vợ lại từng có một quá khứ yêu đương nồng nhiệt cùng bạn trai cũ
+   đến thế. Những hình ảnh ấy ám ảnh tôi đến mức, tôi cảm giác mình đang
+   bị lừa. Rằng em chỉ giả vờ tỏ ra ngoan hiền, đoan trang để che đậy một
+   con người phóng túng và dễ dãi.
+
+   Khi tôi hỏi về những clip kia, Thùy bật khóc. Thùy nói, người đàn ông
+   trong những clip đó là bạn trai cũ của cô ấy. Trước đó, mỗi lần gần gũi
+   nhau, anh ta luôn năn nỉ Thùy quay lại để làm kỷ niệm. Hồi đó, hai
+   người yêu nhau, đã xác định sẽ cưới.
+
+   Nhưng càng ngày, anh ta càng lộ rõ khuynh hướng lệch lạc về chuyện chăn
+   gối khiến Thùy sợ nên đã quyết định dừng lại. Sau nhiều níu kéo không
+   thành, anh ta mới chịu buông tay. Chỉ là không ngờ, anh ta lại chờ đúng
+   dịp cô ấy sắp kết hôn để gửi những hình ảnh kia cho tôi nhằm phá đám.
+
+   Dù Thùy giải thích như vậy, tôi cũng không mấy tin. Những gì tôi được
+   chứng kiến trong những đoạn phim tự quay kia khác hẳn so với những gì
+   tôi được biết khiến bản thân hoàn toàn thất vọng.
+
+   Cậu bạn thân của tôi nói tôi đang quan trọng hóa vấn đề. Chuyện trai
+   gái yêu nhau rồi “thân mật” là chuyện bình thường. Chỉ là cô ấy quay
+   lại, người khác thì không. Đã yêu nhau thì nên chấp nhận quá khứ của
+   nhau. Nếu những cuộc tình của tôi quay lại hết thành phim, có khi còn
+   “hoành tráng” hơn cô ấy rất nhiều.
+
+   Tôi biết, cậu ấy nói không hoàn toàn vô lý nhưng thà rằng “mắt không
+   thấy, tim không đau”. Tôi chỉ sợ, sau này mỗi lần vợ chồng gần nhau,
+   những hình ảnh tôi đã xem sẽ trở thành nỗi ám ảnh.
+
+   Như tôi đã nói, tôi yêu Thùy không phải vì sắc đẹp (vì sự thật, cô ấy
+   không đẹp bằng những cô người yêu cũ của tôi). Tôi yêu và chọn cưới
+   Thùy vì tin rằng cô ấy đoan trang, nghiêm túc. Giờ biết rằng cô ấy từng
+   yêu đương mạnh bạo, phóng khoáng như thế, tôi hoàn toàn mất hết động
+   lực kết hôn.
+
+   Tôi muốn dừng lại nhưng do dự không biết làm như vậy có quá tàn nhẫn
+   với Thùy hay không? Còn đám cưới đã chuẩn bị gần như hoàn tất. Còn phải
+   giải thích với hai bên gia đình nữa.
+
+   Nếu các bạn rơi vào hoàn cảnh như tôi, vào sát ngày cưới mới phát hiện
+   vợ sắp cưới hoàn toàn không giống như mình nghĩ, mình biết, các bạn sẽ
+   xử lý thế nào?
+
+   Góc "Chuyện của tôi" ghi lại những câu chuyện trong đời sống hôn nhân,
+   tình yêu. Bạn đọc có câu chuyện của mình muốn chia sẻ vui lòng gửi về
+   chương trình qua hòm thư: dantri@dantri.com.vn. Câu chuyện của bạn có
+   thể được biên tập nếu cần. Trân trọng.
+
+   Tin liên quan
+
+   Bạn trai đăng ảnh cưới lên mạng, tôi run sợ khi lộ quá khứ đen tối
+
+Bạn trai đăng ảnh cưới lên mạng, tôi run sợ khi lộ quá khứ đen tối
+
+   Chỉ còn vài tuần nữa là đến ngày cưới nhưng tôi không biết cuộc đời
+   mình sẽ đi về đâu?
+
+   Vợ luôn khen cô hàng xóm mới đến, tôi tá hỏa khi em sang chơi nhà
+
+Vợ luôn khen cô hàng xóm mới đến, tôi tá hỏa khi em sang chơi nhà
+
+   Một hôm, sau bữa cơm tối, có tiếng gõ cửa vang lên. Trời đang mưa gió
+   thế này, ai lại ghé thăm? Tôi vừa nghĩ, vừa ra mở cửa. Và rồi, người
+   đứng trước cửa mỉm cười khiến tôi như đứng hình.
+     * Từ khoá:
+     * quá khứ yêu đương
+     * vợ sắp cưới
+     * clip bạn gái thân mật
+     * bạn trai cũ
+
+   Đọc nhiều trong Tình yêu - Giới tính
+
+   Tôi nấu món gì bố chồng cũng chê, sự thật phía sau khiến tôi “sáng mắt”
+
+Tôi nấu món gì bố chồng cũng chê, sự thật phía sau khiến tôi “sáng mắt”
+
+   Chia tay chồng sắp cưới vì anh phá sản, tôi thấy mình hành động khôn
+   ngoan
+
+Chia tay chồng sắp cưới vì anh phá sản, tôi thấy mình hành động khôn ngoan
+
+   Cô bạn thân của chồng sinh con, tôi choáng váng khi thấy mặt đứa trẻ
+
+Cô bạn thân của chồng sinh con, tôi choáng váng khi thấy mặt đứa trẻ
+
+   Cưới con cậu, tôi “trả lễ” 10 triệu vẫn bị quở trách
+
+Cưới con cậu, tôi “trả lễ” 10 triệu vẫn bị quở trách
+
+   Đêm tân hôn, chồng tức giận khi tôi cầm một chiếc khăn trên tay
+
+Đêm tân hôn, chồng tức giận khi tôi cầm một chiếc khăn trên tay
+
+   Thông tin doanh nghiệp - sản phẩm
+   (BUTTON) (BUTTON)
+   Bình nóng lạnh trực tiếp Ferroli DIVOSSN rất an toàn mà thiết kế thời
+   thượng Bình nóng lạnh trực tiếp Ferroli DIVOSSN rất an toàn mà thiết kế
+   thời thượng
+   Máy hút mùi Bosch DFS097A51B cực hiện đại và thiết kế thời thượng Máy
+   hút mùi Bosch DFS097A51B cực hiện đại và thiết kế thời thượng
+   Tủ lạnh Aqua 50 lít AQR-D59FA rất nhỏ gọn mà giá chỉ 2,3 triệu đồng Tủ
+   lạnh Aqua 50 lít AQR-D59FA rất nhỏ gọn mà giá chỉ 2,3 triệu đồng
+   Máy lọc không khí Panasonic F-P15EHA nhỏ gọn, chất lượng giá chỉ 1,2
+   triệu đồng Máy lọc không khí Panasonic F-P15EHA nhỏ gọn, chất lượng giá
+   chỉ 1,2 triệu đồng
+   Máy sấy bơm nhiệt Electrolux UltimateCare 9 kg EDH903R7SC/EDH903R7WC
+   rất chất lượng, giá rẻ Máy sấy bơm nhiệt Electrolux UltimateCare 9 kg
+   EDH903R7SC/EDH903R7WC rất chất lượng, giá rẻ
+   Máy giặt Panasonic 9 kg NA-F90A9DRV giá chỉ 5.8 triệu mà thiết kế hiện
+   đại, rất tiết kiệm điện Máy giặt Panasonic 9 kg NA-F90A9DRV giá chỉ 5.8
+   triệu mà thiết kế hiện đại, rất tiết kiệm điện
+
+   Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7
+
+     * Cơ quan của Bộ Nội vụ
+     * Tổng biên tập: Phạm Tuấn Anh
+     * Giấy phép hoạt động báo điện tử Dân trí số 15/GP-BVHTTDL Hà Nội,
+       ngày 14-4-2025
+     * Địa chỉ tòa soạn: Số 48 ngõ 2 phố Giảng Võ, phường Giảng Võ, thành
+       phố Hà Nội
+     * Điện thoại: 024-3736-6491. Hotline HN: 0973-567-567
+     * Văn phòng đại diện miền Nam: Số 51-53 Võ Văn Tần, phường Xuân Hòa,
+       thành phố Hồ Chí Minh
+     * Hotline TPHCM: 0974-567-567
+     * Email: info@dantri.com.vn
+
+     * RSS
+     * Liên hệ toà soạn
+
+     * Liên hệ quảng cáo: 0945.54.03.03
+     * Email: quangcao@dantri.com.vn
+     * Chính sách bảo mật dữ liệu cá nhân
+
+   Đọc báo Dân trí trên mobile:
+   IOS Android
+   Theo dõi Dân trí trên:
+   Facebook Youtube Tiktok Telegram
+
+   © 2005-2026 Bản quyền thuộc về Báo điện tử Dân trí. Cấm sao chép dưới
+   mọi hình thức nếu không có sự chấp thuận bằng văn bản.
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PM6G9ZN

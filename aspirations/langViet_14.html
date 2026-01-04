@@ -1,0 +1,83 @@
+HTTP/1.1 302 Moved Temporarily
+server: openresty
+date: Sun, 04 Jan 2026 05:17:35 GMT
+content-type: text/html
+content-length: 142
+location: http://c.cafef.vn/sorry?continue=http%3A//cafef.vn/mot-don-vi-van-dung-hinh-anh-hoa-hau-thuy-tien-de-quang-cao-188250627070907115.chn
+filterid: ft
+
+HTTP/1.1 200 OK
+date: Sun, 04 Jan 2026 05:17:35 GMT
+content-type: text/html; charset=UTF-8
+content-length: 2210
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: script-src 'self'
+server: cf-captcha
+cache-control: private
+x-frame-options: DENY
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=false;">
+    <link rel="stylesheet" type="text/css" href="/public/style.css">
+    <script src="https://cdn.ravenjs.com/3.0.4/raven.min.js"></script>
+  </head>
+  <body>
+
+
+    <div class='logo'>
+      <img src='/public/cafef_logo.png' width='177' height='32'>
+    </div>
+    
+    <div class='heading'>
+      CAFEF KÍNH BÁO:
+    </div>
+    
+    <div class='content'>
+      <div class='text'>
+        <p>
+        Để đảm bảo máy tính của quý bạn đọc không bị đối tượng xấu lợi dụng làm
+        công cụ tấn công từ chối dịch vụ (DDoS) vào Cafef, chúng tôi đề
+        nghị bạn đọc vui lòng điền vào ô trống những ký tự xuất hiện trong hình
+        ảnh bên cạnh thông báo này.
+        </p>
+        <p>
+        Xin trân trọng cảm ơn!
+        </p>
+      </div>
+      
+      <form method="post" action="/sorry">
+        <p>
+          <label for="turing_number">
+              <img id="captcha" 
+                   src="/captcha.jpg?c=pPAPwkaaQqW0IcUlzo7VRw"
+                   title="Lấy mã mới"
+                   onclick="this.src='/captcha.jpg?c=pPAPwkaaQqW0IcUlzo7VRw&r=' + Math.floor(Math.random()*100+1)">
+              <input type="hidden" name="c" value="pPAPwkaaQqW0IcUlzo7VRw">
+          </label>
+          <input id="turing_number" 
+                 name="turing_number"
+                 type="text"
+                 maxlength="4"
+                 autocomplete="off"
+                 autofocus="autofocus">
+          <input type="hidden" name="continue" value="http://cafef.vn/mot-don-vi-van-dung-hinh-anh-hoa-hau-thuy-tien-de-quang-cao-188250627070907115.chn">
+          <input type="hidden" name="message" value=""> 
+        </p>
+        <p>
+          <button type="submit">Tiếp tục</button>
+        </p>
+      </form>
+    </div>
+<script>
+    var host = window.location.hostname;
+    var msg = "Captcha-" + host;
+    Raven.config('http://b32b14f45d424ec5bd78e3d624a30c9c@sentry.k8s.vn/11?verify_ssl=0').install()
+
+    Raven.captureMessage(msg)
+</script>    
+  </body>
+</html>

@@ -1,0 +1,37 @@
+   HTTP/2 403 date: Sun, 04 Jan 2026 05:17:31 GMT content-type: text/html;
+   charset=UTF-8 accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
+   Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
+   Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List,
+   Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version,
+   UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA cf-mitigated:
+   challenge critical-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch,
+   Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model,
+   Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List,
+   Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version,
+   UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+   cross-origin-embedder-policy: require-corp cross-origin-opener-policy:
+   same-origin cross-origin-resource-policy: same-origin
+   origin-agent-cluster: ?1 permissions-policy:
+   accelerometer=(),browsing-topics=(),camera=(),clipboard-read=(),clipboa
+   rd-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magne
+   tometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen
+   -wake-lock=(),serial=(),sync-xhr=(),usb=() referrer-policy: same-origin
+   server-timing: chlray;desc="9b88452049cf99b4" x-content-type-options:
+   nosniff x-frame-options: SAMEORIGIN cache-control: private, max-age=0,
+   no-store, no-cache, must-revalidate, post-check=0, pre-check=0 expires:
+   Thu, 01 Jan 1970 00:00:01 GMT set-cookie:
+   __cf_bm=Q1lTPgLkOOcyub2G5fS1c3bL3XaCp1tVU.mzVRHWcWk-1767503851-1.0.1.1-
+   _jYWpBq7Ho66B5avSIRNhcRKJCLuQbGhHmxMC.jJG1S_yQ_xV.7TLGhoDJl30TC9i8J2qqg
+   xJRmJZjyuwWH9MXD1vNjIMvBMjg4_zl3RZFY; path=/; expires=Sun, 04-Jan-26
+   05:47:31 GMT; domain=.support.reddithelp.com; HttpOnly; Secure;
+   SameSite=None report-to:
+   {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=scH4
+   gERLzX3zOqBmncl%2BmSg2oZjVCxxy1tLkJHmQHN1SecK33sAXx1Tr2aiZmAaQxOeOYPnuD
+   gnbBktXNCMufg%2FsHvzKfg%2BISyVQyXXC6lDzo0eUfyku1BwLBIcvFMhlUQbwLHYoS4Q%
+   3D"}],"group":"cf-nel","max_age":604800} nel:
+   {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800} server:
+   cloudflare cf-ray: 9b88452049cf99b4-CDG
+   REFRESH(360 sec):
+   file://localhost/home/xubuntu/projet-PPE/aspirations/langViet_11.html
+
+   Enable JavaScript and cookies to continue

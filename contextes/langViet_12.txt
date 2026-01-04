@@ -1,0 +1,13 @@
+17:Ứng dụng Reddit không tải hình ảnh? 9 cách để sửa chữa
+23:   được hình ảnh, có thể có sự cố với ứng dụng hoặc tùy chọn cài đặt trên
+29:   Reddit không hiển thị hình ảnh. Chúng tôi sẽ xem xét một số cách để
+34:   Khi bạn không thấy hình ảnh trong ứng dụng Reddit , điều đầu tiên cần
+55:   là lý do tại sao ứng dụng Reddit của bạn không tải hình ảnh.
+68:   nội dung hình ảnh của bạn. Nếu đúng như vậy, buộc đóng và mở lại ứng
+93:   khiến Reddit không hiển thị hình ảnh. Nếu bạn không chắc chắn chính xác
+115:   hình ảnh.
+138:   Sự cố tải hình ảnh của Reddit có thể liên quan đến các tệp bộ nhớ cache
+163:   tạm thời hình ảnh bài đăng của bạn. Nếu bạn đã từ chối các quyền này
+190:   trên điện thoại của bạn, bao gồm cả việc không tải hình ảnh của bạn.
+241:Mang hình ảnh trở lại trong ứng dụng di động của Reddit^(Bring Images Back in
+244:   Có nhiều lý do khiến ứng dụng Reddit không tải hình ảnh trên điện thoại
