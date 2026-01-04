@@ -12,7 +12,7 @@ fi
 
 dossier_urls=$1
 
-PROJET="/home/annabelle/projet-PPE"
+PROJET="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/.."
 DUMPS="$PROJET/dumps-text"
 CONTEXTES="$PROJET/contextes"
 CONCORDANCES="$PROJET/concordances"

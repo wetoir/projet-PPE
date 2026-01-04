@@ -25,7 +25,6 @@
 3 அப்போதைய காலகட்டங்களில்
 3 us on
 3 mail »
-3 hours ago
 3 ago 0
 3 TM Editor
 3 Join us
@@ -62,6 +61,7 @@
 2 to you
 2 password will
 2 emailed to
+2 day ago
 2 be emailed
 2 Welcome Login
 2 TM Admin
@@ -74,12 +74,12 @@
 2 Log In
 2 Forget password
 2 Feed Trichy
-2 Editor 9
+2 Editor 1
 2 Comments Feed
 2 A password
-2 9 hours
 2 23 வருடங்களாக
-2 0 1127
+2 1 day
+2 0 1129
 1 “விஷுவல் போட்டோஸ்
 1 “மொமண்ட போட்டோ
 1 “மனசுல நிப்பாட்டனும்”
@@ -998,6 +998,7 @@
 1 might also
 1 like More
 1 in this
+1 hours ago
 1 from author
 1 for the
 1 email and
@@ -1056,7 +1057,7 @@
 1 Feed oEmbed
 1 Facebook Likes
 1 Facebook Join
-1 Editor 5
+1 Editor 24
 1 E Tamil
 1 Design s2s
 1 Cancel Reply
@@ -1070,11 +1071,11 @@
 1 A Reply
 1 9263 posts
 1 50க்கும் மேற்பட்ட
-1 5 hours
 1 30 வருடங்களாக
 1 3 மணி
 1 25 ஆண்டுகாலமாக
 1 25 ஆண்டுகள்
+1 24 hours
 1 23 ஆண்டுகள்
 1 22 கால
 1 20072008ம் ஆண்டுகளில்
