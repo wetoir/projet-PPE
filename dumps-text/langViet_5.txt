@@ -1,14 +1,14 @@
-   HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 05:17:18 GMT
+   HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 19:45:44 GMT
    content-type: text/html; charset=UTF-8 cache-control: public expires:
-   Sun, 04 Jan 2026 05:18:18 GMT vary: Accept-Encoding,User-Agent
+   Sun, 04 Jan 2026 19:46:44 GMT vary: Accept-Encoding,User-Agent
    access-control-allow-origin: *
 
    Fanpage Eva
-   Nhiều mây, không mưa
+   Nhiều mây, có mưa nhỏ
 
    Hà Nội
 
-   18°C
+   17°C
    ____________________ (BUTTON)
      *
      * Tin tức
@@ -192,13 +192,15 @@ Trend ngậm quạt “phá đảo” thế giới ảo, hút triệu lượt xe
 
    Với đạo cụ là một chiếc quạt xếp cầm tay, những chiếc clip triệu view
    trên TikTok lần lượt ra đời, thu hút giới trẻ.
-   Lifestyle - Anh đào Nhật Bản bung nở giữa rừng ở Điện Biên
+   Lifestyle - Loại quả rừng vị “khổ trước sướng sau” bất ngờ thành món
+   đặc sản được nhiều người “săn đón”
 
-Anh đào Nhật Bản bung nở giữa rừng ở Điện Biên
+Loại quả rừng vị “khổ trước sướng sau” bất ngờ thành món đặc sản được nhiều
+người “săn đón”
 
-   Hàng chục nghìn gốc hoa anh đào Nhật Bản trồng trên đảo giữa hồ Pá
-   Khoang, Điện Biên đồng loạt khoe sắc, hấp dẫn du khách trước lễ hội
-   vào...
+   Loại quả dân dã này mang vị chua chát đặc trưng của núi rừng, hậu vị
+   ngọt nơi cổ họng đang trở thành món ăn vặt gây “sốt”, thu hút sự
+   quan...
    Lifestyle - Cách “đu trend” tạo ảnh đại diện bằng AI trên Tik Tok
 
 Cách “đu trend” tạo ảnh đại diện bằng AI trên Tik Tok
@@ -251,41 +253,46 @@ iPhone 18 Pro sẽ có ba màu hoàn toàn mới cực "hot"
 
 Tin hay đừng bỏ lỡ
 
-   Nhiều năm bảo quản gừng giờ mới biết, ngâm ngay vào thứ nước rẻ tiền
-   này, để cả năm vẫn tươi ngon, không teo hay thối
+   5 loài bò sát làm thú cưng cho người mới bắt đầu, không đụng hàng lại
+   dễ nuôi, có con tuổi thọ hơn 40 năm
 
-Nhiều năm bảo quản gừng giờ mới biết, ngâm ngay vào thứ nước rẻ tiền này, để
-cả năm vẫn tươi ngon, không teo hay thối
+5 loài bò sát làm thú cưng cho người mới bắt đầu, không đụng hàng lại dễ
+nuôi, có con tuổi thọ hơn 40 năm
 
-   Ở Hưng Yên có món giò lạ làm từ nguyên liệu quen thuộc trên bàn nhậu,
-   khách thèm cũng khó mà mua
+   Food tour Hải Phòng đừng quên 5 món tên lạ, nghe như đặc sản vùng cao,
+   có món chế biến 12 tiếng mới ra lò
 
-Ở Hưng Yên có món giò lạ làm từ nguyên liệu quen thuộc trên bàn nhậu, khách
-thèm cũng khó mà mua
+Food tour Hải Phòng đừng quên 5 món tên lạ, nghe như đặc sản vùng cao, có món
+chế biến 12 tiếng mới ra lò
 
-   Loại quả "tốt nhất thế giới" được trồng bạt ngàn ở Việt Nam, thành đặc
-   sản chỉ từ 15.000 đồng/kg, tốt cho sức khỏe
+   Đặc sản dưới lòng đất được ví như "lộc trời" ở Sơn La, giá đắt đỏ vẫn
+   hút khách
 
-Loại quả "tốt nhất thế giới" được trồng bạt ngàn ở Việt Nam, thành đặc sản
-chỉ từ 15.000 đồng/kg, tốt cho sức khỏe
+Đặc sản dưới lòng đất được ví như "lộc trời" ở Sơn La, giá đắt đỏ vẫn hút
+khách
 
-   Những đặc sản của Việt Nam được xếp hạng "ngon nhất thế giới 2025"
+   Đặc sản trong mâm cỗ Ninh Bình, có món khách ăn hết veo, có món chỉ để
+   mang về
 
-Những đặc sản của Việt Nam được xếp hạng "ngon nhất thế giới 2025"
+Đặc sản trong mâm cỗ Ninh Bình, có món khách ăn hết veo, có món chỉ để mang
+về
 
-   Loài cá chỉ có ở Tuyên Quang, nghe tên đã thấy "khổ" nhưng thịt lại đậm
-   đà, nay siêu hiếm có tiền cũng khó mà mua
+   4 con giáp được Thần Tài gọi tên, khởi đầu rực rỡ từ ngày 4/1
 
-Loài cá chỉ có ở Tuyên Quang, nghe tên đã thấy "khổ" nhưng thịt lại đậm đà,
-nay siêu hiếm có tiền cũng khó mà mua
+4 con giáp được Thần Tài gọi tên, khởi đầu rực rỡ từ ngày 4/1
 
-   Loài hoa này nở 160 ngày một năm, thơm hơn hoa nhài, dễ trồng hơn trầu
-   bà, trồng trước cổng giúp rước lộc
+   Loại quả "tốt nhất thế giới", Việt Nam trồng bạt ngàn thành đặc sản chỉ
+   từ 25.000 đồng/kg, tốt cho sức khỏe
 
-Loài hoa này nở 160 ngày một năm, thơm hơn hoa nhài, dễ trồng hơn trầu bà,
-trồng trước cổng giúp rước lộc
+Loại quả "tốt nhất thế giới", Việt Nam trồng bạt ngàn thành đặc sản chỉ từ
+25.000 đồng/kg, tốt cho sức khỏe
 
    Tin tức thị trường
+   Việt Nga Mall chính thức ra mắt: không gian mua sắm hiện đại và đa dạng
+   đặc sản xứ lạnh giữa lòng Sài Gòn
+
+   Việt Nga Mall chính thức ra mắt: không gian mua sắm hiện đại và đa dạng
+   đặc sản xứ lạnh giữa lòng Sài Gòn
    Đếm ngược đến ShopeeFood Trùm Deal Lên Live 17.12: B.O.F bắt tay dàn
    KOL tung “vạn” deal ngon giảm 50%
 
@@ -296,11 +303,6 @@ trồng trước cổng giúp rước lộc
 
    Cùng người thương thảnh thơi ngày cuối năm tại Four Seasons Resort The
    Nam Hải, Hội An
-   Việt Nga Mall chính thức ra mắt: không gian mua sắm hiện đại và đa dạng
-   đặc sản xứ lạnh giữa lòng Sài Gòn
-
-   Việt Nga Mall chính thức ra mắt: không gian mua sắm hiện đại và đa dạng
-   đặc sản xứ lạnh giữa lòng Sài Gòn
    Nỗi đau của những đứa trẻ không tiếng nói
 
 Nỗi đau của những đứa trẻ không tiếng nói
@@ -315,33 +317,29 @@ Caramel mùa hè
        19
 
    Clip Eva
-   Clip Eva - 5 loại trái cây nếu ăn đúng cách sẽ giúp não bộ minh mẫn,
-   nhớ lâu hơn
+   Clip Eva - Chỉ cần đổi 3 lối tư duy nhỏ này, cuộc sống của bạn có thể
+   rẽ sang một hướng hoàn toàn khác
 
-   5 loại trái cây nếu ăn đúng cách sẽ giúp não bộ minh mẫn, nhớ lâu hơn
-   Clip Eva - Thu Trang: 'Chê phim tôi sao cũng được, nhưng đừng để chuyện
-   của Trấn Thành, Trường Giang ảnh hưởng'
+   Chỉ cần đổi 3 lối tư duy nhỏ này, cuộc sống của bạn có thể rẽ sang một
+   hướng hoàn toàn khác
+   Clip Eva - Chia sẻ bài viết "xấu, độc" trên mạng xã hội, một cá nhân bị
+   xử lý
 
-   Thu Trang: 'Chê phim tôi sao cũng được, nhưng đừng để chuyện của Trấn
-   Thành, Trường Giang ảnh hưởng'
-   Clip Eva - Chân dung người phụ nữ mang 2 lệnh truy nã, từng sát hại
-   chồng rồi bỏ trốn
+   Chia sẻ bài viết "xấu, độc" trên mạng xã hội, một cá nhân bị xử lý
+   Clip Eva - Thanh xuân rực rỡ: 3 con giáp nữ càng yêu muộn càng hạnh
+   phúc
 
-   Chân dung người phụ nữ mang 2 lệnh truy nã, từng sát hại chồng rồi bỏ
-   trốn
-   Clip Eva - Năm mới tươi mới: 3 động tác yoga làm sạch tâm trí ngay lập
-   tức
+   Thanh xuân rực rỡ: 3 con giáp nữ càng yêu muộn càng hạnh phúc
+   Clip Eva - Bí mật trẻ lâu: 3 loại thực phẩm nuôi dưỡng thanh xuân từ
+   bên trong
 
-   Năm mới tươi mới: 3 động tác yoga làm sạch tâm trí ngay lập tức
-   Clip Eva - 3 món đậm hương riềng, sả khiến mùa lạnh trở nên thơm ngon
-   hơn
+   Bí mật trẻ lâu: 3 loại thực phẩm nuôi dưỡng thanh xuân từ bên trong
+   Clip Eva - 3 món bao tử heo ngon sần sật, ăn là vui miệng không dứt
 
-   3 món đậm hương riềng, sả khiến mùa lạnh trở nên thơm ngon hơn
-   Clip Eva - Top 3 chòm sao nói chuyện bằng "tiếng Việt premium": Càng
-   giao tiếp càng kết nối yêu thương”
+   3 món bao tử heo ngon sần sật, ăn là vui miệng không dứt
+   Clip Eva - Quy định giao thông mới có hiệu lực năm 2026
 
-   Top 3 chòm sao nói chuyện bằng "tiếng Việt premium": Càng giao tiếp
-   càng kết nối yêu thương”
+   Quy định giao thông mới có hiệu lực năm 2026
 
 Chia sẻ thông tin hữu ích
 

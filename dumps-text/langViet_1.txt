@@ -1,12 +1,13 @@
-   HTTP/2 200 x-dns-prefetch-control: on content-type: text/html;
-   charset=UTF-8 x-litespeed-cache-control: public,max-age=604800
-   x-litespeed-tag:
-   549_post,549_URL.f33d1f7f8da863b98710c82c60572127,549_Po.6243,549_
-   etag: "3420206-1767503817;;;" x-litespeed-cache: miss date: Sun, 04 Jan
-   2026 05:16:57 GMT server: LiteSpeed alt-svc: h3=":443"; ma=2592000,
-   h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443";
-   ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000;
-   v="43,46" #oNhúng (JSON) oNhúng (XML)
+   HTTP/2 200 date: Sun, 04 Jan 2026 19:45:25 GMT content-type: text/html;
+   charset=UTF-8 x-dns-prefetch-control: on nel:
+   {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+   x-litespeed-cache: hit report-to:
+   {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.c
+   loudflare.com/report/v4?s=hEg3fbl05Bz8oqlGdio3jaJkYDFYnZJPU96tZINgQgXNT
+   3CEoiIOfuTMknDEN3dI7YHq5gL01q5u%2BAM%2B%2BkrQ745GiEMxLu%2BI%2FqP07M7PMz
+   CLPZ8%3D"}]} vary: Accept-Encoding server: cloudflare alt-svc:
+   h3=":443"; ma=86400 x-turbo-charged-by: LiteSpeed cf-cache-status:
+   DYNAMIC cf-ray: 9b8d3c73bd130346-CDG #oNhúng (JSON) oNhúng (XML)
 
    Logo Từ Điển Online
    ____________________ Tìm kiếm
@@ -270,26 +271,26 @@ Kết luận
    Từ điển mới Từ đồng âm
 
    Đang tải từ điển liên quan...
-     * Khẩu ngữ
-     * 150 từ ngữ địa phương miền Bắc (phương ngữ Bắc Bộ)
-     * Cơ cực
-     * Thuyết pháp
-     * Pháp hội
-     * Tồn tại
-     * Tồn tại
-     * Vãn
-     * Nhời nhẽ
-     * Ngớt
-     * Cao vút
-     * Ảnh hưởng
-     * Nghiên cứu
-     * Tương tác
-     * Khùng
-     * Tương thích
-     * Nghĩ
-     * Nhời
-     * Nắng nôi
-     * Khùng
+     * Thiết lập
+     * Định hướng
+     * Chuyển hướng
+     * Ngào ngạt
+     * Sẵn lòng
+     * Tò mò
+     * Công tâm
+     * Bạch
+     * Bạch
+     * Đoàn tụ
+     * Buổi sáng
+     * Chằng chịt
+     * Tuy nhiên
+     * Sinh hoạt
+     * Cuộc đời
+     * Chức năng
+     * Tối giản
+     * Tiếp nhận
+     * Chiêm nghiệm
+     * Hoàn chỉnh
 
    Blog Từ Điển là dự án phi lợi nhuận hoạt động theo Giấy phép CC BY-SA
    4.0 với sứ mệnh mang lại cho cộng đồng một công cụ tra cứu từ điển trực

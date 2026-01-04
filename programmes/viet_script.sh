@@ -32,7 +32,9 @@ cat > "$TAB" <<EOF
 		<nav class="tabs is-centered mb-0">
         	<ul>
         		<li><a href="../index.html">Index</a></li>
-            	<li class="is-active"><a href="tableau-fr.html">Tableaux</a></li>
+            	<li class="is-active"><a href="../tableaux/tableauVn.html">Tableau Viet</a></li>
+				<li><a href="../tableaux/langtam.html">Tableaux Tamoul</a></li>
+				<li><a href="../tableaux/langfr.html"">Tableaux Français</a></li>
 			</ul>
     	</nav>
 		<!-- Bannière/Hero -->

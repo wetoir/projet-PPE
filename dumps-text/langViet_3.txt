@@ -1,13 +1,13 @@
-   HTTP/2 200 date: Sun, 04 Jan 2026 05:17:12 GMT content-type: text/html;
+   HTTP/2 200 date: Sun, 04 Jan 2026 19:45:41 GMT content-type: text/html;
    charset=utf-8 server: nginx/1.18.0 (Ubuntu) cache-control: no-cache,
    private lastmodifieddate: 03/09/2025 18:31:15 timeexpire: 900
    servername: live set-cookie:
-   laravel_session=eyJpdiI6IjVqZ2Q4UVhLOEtudGlNZ3BHV1ZPK2c9PSIsInZhbHVlIjo
-   iM3dvb0M4YnJPcWdxaWRBRm9EMk9wK0pnNGNEZCtsazAxQ2xFdVpMenQ5Vi9tbk1yTHZKSj
-   RFUnRIVTIyTDd5bWlSR0c4SGRiUVM2M1BoSUoxQ0k3TVFLQzlzUFQyYWtORVgrd1dRUWVRY
-   jVITVZwby90bjJVdHBHWTl1bk9FeVAiLCJtYWMiOiI1Y2MyY2ZmZWVkNjZmZDYyYTc2MmM2
-   NjNkNGYyNGE1NzlhOGJiYmM2MTkzOWJlMDI4NzMzZmUyNmRhZDg0MzhhIiwidGFnIjoiIn0
-   %3D; expires=Sun, 04-Jan-2026 07:17:12 GMT; Max-Age=7200; path=/;
+   laravel_session=eyJpdiI6IktlSnBvK2g5WThHWTZ4TnkzblB6cXc9PSIsInZhbHVlIjo
+   ibjJDYmFwTkNBa0dpUTRWaCtUV2hiMVhMY1h3bkt4R3A3anJpOU5kTmVQKzRySmV0NkJrMk
+   FmWUZGZ0tUV0F2NGRhcE5lWVJ5ZTdrZHZKelVLTkd1RTA1UmZXQklIajl2NDVneHRRR29zQ
+   khwOVMwUW92TXdtZm5UMjdtS0dycjMiLCJtYWMiOiJhNjk5ZWU1ZjYyYmQ0ZGJlMDkzZGZk
+   YWQwNjBiZjgzNDUyZTI3YmFmZTQzMmY1NWVhMTMxMWM2OTYyOWU1YmU1IiwidGFnIjoiIn0
+   %3D; expires=Sun, 04-Jan-2026 21:45:41 GMT; Max-Age=7200; path=/;
    httponly; samesite=lax x-cache-status: MISS filterid: ft
    REFRESH(3600 sec):
    file://localhost/home/xubuntu/projet-PPE/aspirations/langViet_3.html

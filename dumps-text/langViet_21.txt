@@ -1,8 +1,8 @@
    HTTP/1.1 302 Moved Temporarily server: openresty date: Sun, 04 Jan 2026
-   05:17:48 GMT content-type: text/html content-length: 142 location:
+   19:46:11 GMT content-type: text/html content-length: 142 location:
    http://c.genk.vn/sorry?continue=http%3A//genk.vn/youtuber-khoai-lang-th
    ang-dau-dau-vi-bi-su-dung-hinh-anh-di-lua-dao-20251024141006491.chn
-   filterid: ft HTTP/1.1 200 OK date: Sun, 04 Jan 2026 05:17:49 GMT
+   filterid: ft HTTP/1.1 200 OK date: Sun, 04 Jan 2026 19:46:12 GMT
    content-type: text/html; charset=UTF-8 content-length: 2181
    x-xss-protection: 1; mode=block x-content-type-options: nosniff
    content-security-policy: script-src 'self' server: gamek-captcha

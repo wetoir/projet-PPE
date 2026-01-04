@@ -1,8 +1,8 @@
-   HTTP/2 200 date: Sat, 03 Jan 2026 22:31:45 GMT server:
-   mw-web.eqiad.main-8f8dcf6c-nnwzs x-content-type-options: nosniff
+   HTTP/2 200 date: Sun, 04 Jan 2026 19:40:18 GMT server:
+   mw-web.eqiad.main-8f8dcf6c-blq8l x-content-type-options: nosniff
    content-language: vi accept-ch: last-modified: Fri, 02 Jan 2026
-   03:32:45 GMT content-type: text/html; charset=UTF-8 age: 24341
-   accept-ranges: bytes x-cache: cp6011 hit, cp6014 hit/17 x-cache-status:
+   03:32:45 GMT content-type: text/html; charset=UTF-8 age: 334
+   accept-ranges: bytes x-cache: cp6011 miss, cp6014 hit/1 x-cache-status:
    hit-front server-timing: cache;desc="hit-front", host;desc="cp6014"
    strict-transport-security: max-age=106384710; includeSubDomains;
    preload report-to: { "group": "wm_nel", "max_age": 604800, "endpoints":
@@ -12,10 +12,10 @@
    nel: { "report_to": "wm_nel", "max_age": 604800, "failure_fraction":
    0.05, "success_fraction": 0.0} set-cookie:
    WMF-Last-Access=04-Jan-2026;Path=/;HttpOnly;secure;Expires=Thu, 05 Feb
-   2026 00:00:00 GMT set-cookie:
+   2026 12:00:00 GMT set-cookie:
    WMF-Last-Access-Global=04-Jan-2026;Path=/;Domain=.wikipedia.org;HttpOnl
-   y;secure;Expires=Thu, 05 Feb 2026 00:00:00 GMT set-cookie:
-   WMF-DP=155;Path=/;HttpOnly;secure;Expires=Sun, 04 Jan 2026 00:00:00 GMT
+   y;secure;Expires=Thu, 05 Feb 2026 12:00:00 GMT set-cookie:
+   WMF-DP=155;Path=/;HttpOnly;secure;Expires=Mon, 05 Jan 2026 00:00:00 GMT
    x-client-ip: 88.138.238.59 cache-control: private, s-maxage=0,
    max-age=0, must-revalidate, no-transform vary:
    Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent set-cookie:
@@ -23,10 +23,10 @@
    Domain=.wikipedia.org set-cookie:
    NetworkProbeLimit=0.001;Path=/;Secure;SameSite=None;Max-Age=3600
    set-cookie:
-   WMF-Uniq=j-1h3q07PuA_6rSmOFhSHALeAAAAAFvdCSrLTJzkGFVIqojtJZ266E0qq3Lnym
-   X_;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=M
-   on, 04 Jan 2027 00:00:00 GMT content-length: 118347 x-request-id:
-   08428ac5-1e30-47f3-a8f8-43dbe4f2406b #Sửa đổi Wikipedia (vi) Nguồn cấp
+   WMF-Uniq=FMDoxfnVfd-rxrNQaYlM_ALeAAAAAFvdipfFLLEzNA4wah0AVQxLCzmn22j0-O
+   NA;Domain=.wikipedia.org;Path=/;HttpOnly;secure;SameSite=None;Expires=M
+   on, 04 Jan 2027 00:00:00 GMT content-length: 118345 x-request-id:
+   d90acb3b-8286-4315-bc45-5e7b71967a3f #Sửa đổi Wikipedia (vi) Nguồn cấp
    Atom của Wikipedia
 
    Bước tới nội dung

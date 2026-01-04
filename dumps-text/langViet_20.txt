@@ -1,15 +1,15 @@
-   HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 05:17:44 GMT
-   content-type: text/html; charset=utf-8 content-length: 489734
-   last-modified: Sun, 04 Jan 2026 04:32:26 GMT vary: Accept-Encoding
-   asp-id: 2016 access-control-allow-origin: *
+   HTTP/2 200 server: nginx date: Sun, 04 Jan 2026 19:46:08 GMT
+   content-type: text/html; charset=utf-8 content-length: 490056
+   last-modified: Sun, 04 Jan 2026 19:40:36 GMT vary: Accept-Encoding
+   asp-id: 8389 access-control-allow-origin: *
    access-control-allow-methods: GET, POST, PUT, DELETE, OPTIONS
    access-control-expose-headers: Location,Upload-Offset,Upload-Length
    access-control-allow-headers: Origin, X-Requested-With, Content-Type,
    Accept,csrf-token access-control-allow-credentials: true v-origin: 188
-   s-count: 1 r-count: 0 be: desktop device-type: desktop age: 2717
-   v-node: vnpt-3 strict-transport-security: max-age=31536000;
-   includeSubDomains; preload v-cache: HIT iph: 1 edge-hot-cache: MISS
-   edge-isp: VNPT accept-ranges: bytes #alternate
+   s-count: 1 r-count: 0 be: desktop device-type: desktop age: 331 v-node:
+   vnpt-4 strict-transport-security: max-age=31536000; includeSubDomains;
+   preload v-cache: HIT iph: 1 edge-hot-cache: MISS edge-isp: VNPT
+   accept-ranges: bytes #alternate
 
    Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7
    Fica Fica DTiNews DTiNews NoiVuXaHoi Nội vụ & Xã hội
@@ -423,26 +423,26 @@ Vợ luôn khen cô hàng xóm mới đến, tôi tá hỏa khi em sang chơi nh
 
    Đọc nhiều trong Tình yêu - Giới tính
 
-   Tôi nấu món gì bố chồng cũng chê, sự thật phía sau khiến tôi “sáng mắt”
+   Đến nhà bạn gái ăn cơm, bố cô ấy bất ngờ “loại” tôi chỉ sau một câu hỏi
 
-Tôi nấu món gì bố chồng cũng chê, sự thật phía sau khiến tôi “sáng mắt”
+Đến nhà bạn gái ăn cơm, bố cô ấy bất ngờ “loại” tôi chỉ sau một câu hỏi
+
+   Cô bạn thân của chồng sinh con, tôi choáng váng khi thấy mặt đứa trẻ
+
+Cô bạn thân của chồng sinh con, tôi choáng váng khi thấy mặt đứa trẻ
 
    Chia tay chồng sắp cưới vì anh phá sản, tôi thấy mình hành động khôn
    ngoan
 
 Chia tay chồng sắp cưới vì anh phá sản, tôi thấy mình hành động khôn ngoan
 
-   Cô bạn thân của chồng sinh con, tôi choáng váng khi thấy mặt đứa trẻ
-
-Cô bạn thân của chồng sinh con, tôi choáng váng khi thấy mặt đứa trẻ
-
-   Cưới con cậu, tôi “trả lễ” 10 triệu vẫn bị quở trách
-
-Cưới con cậu, tôi “trả lễ” 10 triệu vẫn bị quở trách
-
    Đêm tân hôn, chồng tức giận khi tôi cầm một chiếc khăn trên tay
 
 Đêm tân hôn, chồng tức giận khi tôi cầm một chiếc khăn trên tay
+
+   Tôi nấu món gì bố chồng cũng chê, sự thật phía sau khiến tôi “sáng mắt”
+
+Tôi nấu món gì bố chồng cũng chê, sự thật phía sau khiến tôi “sáng mắt”
 
    Thông tin doanh nghiệp - sản phẩm
    (BUTTON) (BUTTON)
@@ -451,17 +451,17 @@ Cưới con cậu, tôi “trả lễ” 10 triệu vẫn bị quở trách
    thời thượng
    Máy hút mùi Bosch DFS097A51B cực hiện đại và thiết kế thời thượng Máy
    hút mùi Bosch DFS097A51B cực hiện đại và thiết kế thời thượng
-   Tủ lạnh Aqua 50 lít AQR-D59FA rất nhỏ gọn mà giá chỉ 2,3 triệu đồng Tủ
-   lạnh Aqua 50 lít AQR-D59FA rất nhỏ gọn mà giá chỉ 2,3 triệu đồng
-   Máy lọc không khí Panasonic F-P15EHA nhỏ gọn, chất lượng giá chỉ 1,2
-   triệu đồng Máy lọc không khí Panasonic F-P15EHA nhỏ gọn, chất lượng giá
-   chỉ 1,2 triệu đồng
    Máy sấy bơm nhiệt Electrolux UltimateCare 9 kg EDH903R7SC/EDH903R7WC
    rất chất lượng, giá rẻ Máy sấy bơm nhiệt Electrolux UltimateCare 9 kg
    EDH903R7SC/EDH903R7WC rất chất lượng, giá rẻ
    Máy giặt Panasonic 9 kg NA-F90A9DRV giá chỉ 5.8 triệu mà thiết kế hiện
    đại, rất tiết kiệm điện Máy giặt Panasonic 9 kg NA-F90A9DRV giá chỉ 5.8
    triệu mà thiết kế hiện đại, rất tiết kiệm điện
+   Tủ lạnh Aqua 50 lít AQR-D59FA rất nhỏ gọn mà giá chỉ 2,3 triệu đồng Tủ
+   lạnh Aqua 50 lít AQR-D59FA rất nhỏ gọn mà giá chỉ 2,3 triệu đồng
+   Máy lọc không khí Panasonic F-P15EHA nhỏ gọn, chất lượng giá chỉ 1,2
+   triệu đồng Máy lọc không khí Panasonic F-P15EHA nhỏ gọn, chất lượng giá
+   chỉ 1,2 triệu đồng
 
    Báo điện tử Dân trí - Tin tức cập nhật liên tục 24/7
 

@@ -1,13 +1,13 @@
-   HTTP/2 200 date: Sun, 04 Jan 2026 05:17:20 GMT content-type: text/html;
+   HTTP/2 200 date: Sun, 04 Jan 2026 19:45:46 GMT content-type: text/html;
    charset=utf-8 server: nginx cache-control: no-cache, private
    lastmodifieddate: 10/05/2015 00:32:44 timeexpire: 900 servername: k8s
    set-cookie:
-   laravel_session=eyJpdiI6Ii81bVg2VmRoNENxQk5aS1pMRXpQZ0E9PSIsInZhbHVlIjo
-   iUGhDQndnbVpBSyttNjBpV24vaW1QQ2FZVmlnZ2REY29WeVFkRTNOTlJ1S3VDaWZSb0kxRW
-   tvRElOT0JrTm5HVmhnN1luSGRhV3NDZzJNK0txWkVib0JNaWRWbDhqK0JQcFZRZjhYRGsxS
-   ldJb1htYnNadnkydjk5YkhKNHRQZTgiLCJtYWMiOiJhYzU0NzA2NWRlNTJhY2E1YzA5OTEx
-   ZTNkZTFiNzQ4MWQ4MmEzM2U4ZjQ4MjAwOTU2MThkNjk1MWUxODQyOWU3IiwidGFnIjoiIn0
-   %3D; expires=Sun, 04-Jan-2026 07:17:20 GMT; Max-Age=7200; path=/;
+   laravel_session=eyJpdiI6ImVvOGV5dVZhcEpSZUp1VCthVGg2Umc9PSIsInZhbHVlIjo
+   iRkRQNlRZZWRseTV1dEdncndQY084MmdFelR2UkE5c0JsTGI4MVIxSk1tT0xBQkRnWERkUm
+   5jU3hISnkyYUpmK3VDRkNlSmptdkdBWFlIK2RpeGF0bE9DMzZwaHNnaGMzbnp2N0pLSnBrN
+   1NINzV2b0JUY2p1Zno2Q3NkYUw2TmsiLCJtYWMiOiI4NmU5Y2I5NWNmN2MyZjI0NThhMWRj
+   MjBhNDM2ZmI2NWYyZDk3MGRmMzY2ODRjOGQzNzU2OGFmYWFjYWM5MTc2IiwidGFnIjoiIn0
+   %3D; expires=Sun, 04-Jan-2026 21:45:46 GMT; Max-Age=7200; path=/;
    httponly; samesite=lax x-cache-status: MISS filterid: ft #alternate
    alternate
 

@@ -1,6 +1,6 @@
    HTTP/2 200 content-type: text/html; charset=utf-8
    belfrage-cache-status: MISS bid: sally brequestid:
-   5baab7bb29934ecf84602376bbc42fa9 bsig: a4c5d1c6e9e525dd312556862ceadd5a
+   b1b17ada1af545f8a6a8e5a7d5389b94 bsig: a4c5d1c6e9e525dd312556862ceadd5a
    cache-control: public, stale-if-error=90, stale-while-revalidate=30,
    max-age=90 content-security-policy: default-src 'self' *.bbc.co.uk
    *.bbc.com *.bbci.co.uk *.bbci.com
@@ -85,14 +85,14 @@
    lt.bbc-reporting-api.app/report-endpoint","priority":1}],"include_subdo
    mains":true} server: BBC-GTM strict-transport-security:
    max-age=31536000; preload x-robots-tag: bingbot: noarchive
-   fastly-restarts: 1 accept-ranges: bytes date: Sun, 04 Jan 2026 05:17:53
+   fastly-restarts: 1 accept-ranges: bytes date: Sun, 04 Jan 2026 19:46:14
    GMT x-fastly-cache-status: HIT-STALE-CLUSTER x-served-by:
-   cache-par-lfpg1960061-PAR x-cache: HIT x-cache-hits: 0 x-timer:
-   S1767503874.732747,VS0,VE2 x-fastly-pre-flight-cache: MISS, HIT
-   x-fastly-pre-flight-cache-status: HIT-CLUSTER x-cache-age: 1877
+   cache-par-lfpg1960033-PAR x-cache: HIT x-cache-hits: 0 x-timer:
+   S1767555975.819780,VS0,VE4 x-fastly-pre-flight-cache: MISS, HIT
+   x-fastly-pre-flight-cache-status: HIT-CLUSTER x-cache-age: 329
    x-lb-nocache: true vary: X-BBC-Edge-Scheme,Accept-Encoding alt-svc:
    h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
-   content-length: 314765 #alternate
+   content-length: 316418 #alternate
 
    BBC News, Tiếng ViệtBỏ qua để xem nội dung
 
@@ -163,22 +163,19 @@ Hàng loạt nghệ sĩ Việt bị công kích vì 'chuyện cờ vàng'
 
    Skip Đọc nhiều nhất and continue reading
    Đọc nhiều nhất
-     * Cảnh tượng ở Venezuela
-       Mỹ tấn công Venezuela, ông Trump tuyên bố đã 'bắt giữ' Tổng
-       thống Maduro
+     * Ông Maduro bị áp giải
+       Điệp viên và drone: Cách Mỹ đã bắt ông Maduro
+     * Người biểu tình ở Bogota, Colombia sau khi ông Nicolás Maduro bị
+       bắt giữ
+       'Một chặng đường dài phía trước': Người Venezuela vừa hy vọng vừa
+       lo lắng
+     * Hình minh họa Nicolás Maduro với hai màu đen trắng trên nền vàng
+       Nicolás Maduro: người 'được chọn' bị ông Trump lật đổ
      * Cô Kim Ju-ae (váy áo nâu) đứng cạnh cha, lãnh đạo Triều Tiên Kim
        Jong-un, và mẹ, trong chuyến viếng thăm Điện Mặt trời Kumsusan ngày
        1/1
        Ái nữ của ông Kim Jong-un lần đầu xuất hiện công khai tại Điện Mặt
        trời
-     * Giới chức cho biết những cây nến pháo sáng gắn trên các chai
-       champagne, được cầm "quá gần trần nhà", dường như là nguyên nhân
-       gây ra đám cháy
-       Hé lộ nguyên nhân quán bar Thụy Sĩ bùng cháy dữ dội qua hình ảnh và
-       video
-     * Lê Trung Khoa, Nguyễn Văn Đài
-       Ông Lê Trung Khoa, Nguyễn Văn Đài nói gì khi bị tuyên mỗi người 17
-       năm tù giam?
 
    End of Đọc nhiều nhất
 
@@ -379,13 +376,16 @@ Tin chính
 
      *
 
-TRỰC TIẾP, Mỹ bắt Tổng thống Maduro: Áp giải tới New York, tiếp theo là gì?
+TRỰC TIẾP, Mỹ giam ông Maduro tại New York, Tổng thống Trump nói sẽ 'điều
+hành' Venezuela, tiếp theo là gì?
      *
 
-K-beauty: từ trào lưu trên mạng thành thế lực kinh tế
-       2 giờ trước
-     * Mỹ tấn công Venezuela: Đặc nhiệm Mỹ bắt Tổng thống Maduro, giải về
-       New York, truy tố tội về ma túy và vũ khí
+'Một chặng đường dài phía trước': Người Venezuela vừa hy vọng vừa lo lắng
+       9 giờ trước
+     *
+
+Điệp viên và drone: Cách Mỹ đã bắt ông Maduro
+       4 tháng 1 năm 2026
 
 BBC giới thiệu
 
@@ -432,32 +432,31 @@ Hai đại tướng quân đội, một cuộc 'đổi ghế' và thông điệp
 Phổ biến
 
     1. 1
-       Mỹ tấn công Venezuela, ông Trump tuyên bố đã 'bắt giữ' Tổng
-       thống Maduro
+       Điệp viên và drone: Cách Mỹ đã bắt ông Maduro
     2. 2
+       'Một chặng đường dài phía trước': Người Venezuela vừa hy vọng vừa
+       lo lắng
+    3. 3
+       Nicolás Maduro: người 'được chọn' bị ông Trump lật đổ
+    4. 4
        Ái nữ của ông Kim Jong-un lần đầu xuất hiện công khai tại Điện Mặt
        trời
-    3. 3
-       Hé lộ nguyên nhân quán bar Thụy Sĩ bùng cháy dữ dội qua hình ảnh và
-       video
-    4. 4
-       Ông Lê Trung Khoa, Nguyễn Văn Đài nói gì khi bị tuyên mỗi người 17
-       năm tù giam?
     5. 5
        K-beauty: từ trào lưu trên mạng thành thế lực kinh tế
     6. 6
-       Việt Nam và châu Á khép lại 2025: nền tảng vững, đơn hàng tăng trở
-       lại
+       Ông Lê Trung Khoa, Nguyễn Văn Đài nói gì khi bị tuyên mỗi người 17
+       năm tù giam?
     7. 7
-       Ông Tập Cận Bình tiếp Tổng thống Hàn Quốc giữa căng thẳng với Nhật
-       Bản
+       Mỹ tấn công Venezuela, ông Trump tuyên bố đã 'bắt giữ' Tổng
+       thống Maduro
     8. 8
-       Về Florida thăm nhà cũ, trường xưa
+       Hé lộ nguyên nhân quán bar Thụy Sĩ bùng cháy dữ dội qua hình ảnh và
+       video
     9. 9
+       Về Florida thăm nhà cũ, trường xưa
+   10. 10
        'Thú tội trên truyền hình' trước phiên tòa xét xử ông Lê Trung
        Khoa, Nguyễn Văn Đài
-   10. 10
-       Hãng thông tấn Reuters viết gì về ông Tô Lâm?
 
    BBC News, Tiếng Việt
      * Tại sao bạn có thể tin tưởng BBC News

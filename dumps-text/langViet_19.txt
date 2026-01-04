@@ -1,7 +1,7 @@
    HTTP/2 200 accept-ranges: bytes access-control-allow-origin: * server:
-   Universe date: Sun, 04 Jan 2026 05:17:42 GMT x-cache-status: MISS age:
-   0 content-type: text/html;charset=utf-8 vary: Accept-Encoding
-   zsurrogate-key: 1.804800 cache-control: Private
+   Universe date: Sun, 04 Jan 2026 19:46:06 GMT x-cache-status: HIT age:
+   331 content-length: 78868 content-type: text/html;charset=utf-8 vary:
+   Accept-Encoding zsurrogate-key: 1.804800 cache-control: Private
    REFRESH(1200 sec):
    file://localhost/home/xubuntu/projet-PPE/aspirations/langViet_19.html
 
@@ -117,6 +117,39 @@ Từ khóa
 
 Tin cùng chuyên mục
 
+   CONGB mở màn năm mới với bản ballad tự sáng tác kết hợp buitruonglinh
+   CONGB mở màn năm mới với bản ballad tự sáng tác kết hợp buitruonglinh
+
+CONGB mở màn năm mới với bản ballad tự sáng tác kết hợp buitruonglinh
+
+   Văn hóa - Giải trí 04/01/2026 21:21
+   Nghệ nhân làng rối nước Nam Chấn (Ninh Bình) Nghệ nhân làng rối nước
+   Nam Chấn (Ninh Bình)
+
+Lập hồ sơ di sản “Phở” và “Múa rối nước” đề nghị UNESCO ghi danh
+
+   Văn hóa - Giải trí 04/01/2026 16:19
+   Yêu cầu Netflix gỡ bỏ phim có hình ảnh bản đồ chứa đường lưỡi bò phi
+   pháp Yêu cầu Netflix gỡ bỏ phim có hình ảnh bản đồ chứa đường lưỡi bò
+   phi pháp
+
+Yêu cầu Netflix gỡ bỏ phim có hình ảnh bản đồ chứa đường lưỡi bò phi pháp
+
+   Văn hóa - Giải trí 04/01/2026 16:04
+   Đêm du ca “Cay” đồng hành cùng “Áo ấm đến trường” Đêm du ca “Cay” đồng
+   hành cùng “Áo ấm đến trường”
+
+Đêm du ca “Cay” đồng hành cùng “Áo ấm đến trường”
+
+   Văn hóa - Giải trí 04/01/2026 15:50
+   "Người đi muôn trùng non nước": Làm đầy đặn thêm một phần tiểu sử của
+   Chủ tịch Hồ Chí Minh "Người đi muôn trùng non nước": Làm đầy đặn thêm
+   một phần tiểu sử của Chủ tịch Hồ Chí Minh
+
+"Người đi muôn trùng non nước": Làm đầy đặn thêm một phần tiểu sử của Chủ
+tịch Hồ Chí Minh
+
+   Sách 04/01/2026 15:36
    Nghệ sĩ jazz saxophone Trần Mạnh Tuấn Nghệ sĩ jazz saxophone Trần Mạnh
    Tuấn
 
@@ -206,41 +239,6 @@ Năm của âm nhạc truyền cảm hứng
 "Nhà mình đi thôi" gia nhập "đường đua" phim tết 2026
 
    Văn hóa - Giải trí 03/01/2026 19:24
-   Các nghệ sĩ Nhà hát nghệ thuật Hát bội TPHCM sẽ trình diễn trích đoạn
-   "Tạ Ôn Đình chém Tá" trong chương trình "Hội show 2026". Ảnh: THÚY BÌNH
-   Các nghệ sĩ Nhà hát nghệ thuật Hát bội TPHCM sẽ trình diễn trích đoạn
-   "Tạ Ôn Đình chém Tá" trong chương trình "Hội show 2026". Ảnh: THÚY BÌNH
-
-Thưởng thức nghệ thuật trình diễn hát bội qua Hội show 2026
-
-   Văn hóa - Giải trí 03/01/2026 14:42
-   Chim sẻ buổi sớm Chim sẻ buổi sớm
-
-Chim sẻ buổi sớm
-
-   Văn hóa - Giải trí 03/01/2026 09:40
-   Hà Anh Tuấn, Phạm Toàn Thắng tái hợp cùng MV “Một năm qua” Hà Anh Tuấn,
-   Phạm Toàn Thắng tái hợp cùng MV “Một năm qua”
-
-Hà Anh Tuấn, Phạm Toàn Thắng tái hợp cùng MV “Một năm qua”
-
-   Văn hóa - Giải trí 02/01/2026 17:20
-   Chủ tịch UBND tỉnh Đồng Tháp Phạm Thành Ngại trao Bằng Chứng nhận Di
-   sản văn hóa phi vật thể quốc gia đối với Lễ giỗ Thiên Hộ Dương, Đốc
-   Binh Kiều và Lễ hội Vía bà Chúa xứ Gò Tháp. Ảnh: V.T Chủ tịch UBND tỉnh
-   Đồng Tháp Phạm Thành Ngại trao Bằng Chứng nhận Di sản văn hóa phi vật
-   thể quốc gia đối với Lễ giỗ Thiên Hộ Dương, Đốc Binh Kiều và Lễ hội Vía
-   bà Chúa xứ Gò Tháp. Ảnh: V.T
-
-Đồng Tháp đón nhận 2 Di sản văn hóa phi vật thể quốc gia
-
-   Văn hóa - Giải trí 02/01/2026 17:13
-   Chương trình Piano Racital: Hồ Khánh Vân – 60 năm Chương trình Piano
-   Racital: Hồ Khánh Vân – 60 năm
-
-Chương trình Piano Racital: Hồ Khánh Vân – 60 năm
-
-   Nhân vật 02/01/2026 12:24
    (BUTTON) Xem thêm
 
    BÁO SÀI GÒN GIẢI PHÓNG
