@@ -1,0 +1,540 @@
+   #alternate
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M7ZQ75V
+
+   IFRAME: https://server.psbedu.paris/ns.html?id=GTM-TXBXRM78
+
+   Skip to main content
+
+   Accueil
+   Logos Logos Logos
+   (BUTTON) Candidature
+     * Candidature en ligne
+     * Dossier de candidature
+
+   Brochure
+
+     *
+     *
+
+     * fr
+     * en
+
+   (BUTTON)
+     * (BUTTON) École
+       (BUTTON)
+     * (BUTTON) Faculté & Recherche
+       (BUTTON)
+     * (BUTTON) Programmes
+       (BUTTON)
+     * (BUTTON) Admissions
+       (BUTTON)
+     * (BUTTON) Vie étudiante
+       (BUTTON)
+     * (BUTTON) International
+       (BUTTON)
+     * (BUTTON) Entreprise
+       (BUTTON)
+     * 14 Janvier Portes ouvertes
+
+   Logos
+
+     *
+     *
+
+     * fr
+     * en
+
+   (BUTTON)
+   (BUTTON) École
+     * Notre école
+     * Accréditations & labels
+     * Classements
+     * Le nouveau campus
+     * Nos événements
+     * Notre démarche RSE
+     * Actualités
+     * Partenariats & réseau
+     * Glossaire
+     * Les métiers formés
+
+   (BUTTON)
+   (BUTTON) Faculté & Recherche
+     * (BUTTON) Faculté (BUTTON)
+     * (BUTTON) Recherche (BUTTON)
+
+   (BUTTON)
+   (BUTTON) Faculté
+     * Membres de la faculté
+
+   (BUTTON)
+   (BUTTON) Recherche
+     * (BUTTON) La recherche à PSB (BUTTON)
+          + A propos de la recherche
+          + Enseignants-chercheurs
+          + Actualités
+          + Prix
+          + Subventions actives
+          + Séminaires
+     * (BUTTON) Perspectives PSB (BUTTON)
+          + Perspectives par sujet
+          + Enseignants-chercheurs dans l’actualité
+          + Évènements
+     * (BUTTON) Publications Académiques (BUTTON)
+          + Par année
+          + Par sujet
+     * (BUTTON) Chaires et Centres (BUTTON)
+          + NewPIC
+          + Living Health
+          + Centre de recherche sur l’énergie et le changement climatique
+
+   (BUTTON)
+   (BUTTON) Programmes
+     * (BUTTON) Programme Grande École (BUTTON)
+     * (BUTTON) Bachelors (BUTTON)
+     * (BUTTON) Master of Science in Management (BUTTON)
+     * (BUTTON) Executive Education (BUTTON)
+     * (BUTTON) Programs & Opportunities for Incoming Students (BUTTON)
+
+   (BUTTON)
+   (BUTTON) Programme Grande École
+     * Cursus en 5 ans
+     * (BUTTON) Les spécialisations en alternance de la 4e année :
+       (BUTTON)
+          + Masters en Finance
+          + Masters en Management
+          + Masters en Marketing & Data
+          + Masters en Commerce & Entrepreneuriat
+
+   (BUTTON)
+   (BUTTON) Bachelors
+     * Bachelor Management International
+     * Bachelor Tech for Management
+
+   (BUTTON)
+   (BUTTON) Master of Science in Management
+     * (BUTTON) Nos MSC en français (BUTTON)
+          + Data Management
+     * (BUTTON) Nos MSC en anglais : (BUTTON)
+          + Arts & Cultural Management
+          + Hospitality Management
+          + International Finance
+          + International Management & Business Development
+          + Luxury & Fashion Management
+          + Double Diplôme en International Luxury & Fashion Management
+          + Marketing Analytics & Data Intelligence
+          + Supply Chain Management
+
+   (BUTTON)
+   (BUTTON) Executive Education
+     * MBA - Master of Business Administration - EN
+     * MBA Part-time - Master of Business Administration - FR
+     * DBA - Doctorate of Business Administration - EN
+
+   (BUTTON)
+   (BUTTON) Programs & Opportunities for Incoming Students
+     * Short programs
+     * Exchange & Study Abroad Programs
+
+   (BUTTON)
+   (BUTTON) Admissions
+     * (BUTTON) Admission par formation (BUTTON)
+     * (BUTTON) Nos méthodes d'admission (BUTTON)
+
+   (BUTTON)
+   (BUTTON) Admission par formation
+     * Programme Grande École
+     * Bachelor
+     * MSc
+     * MBA
+     * DBA
+
+   (BUTTON)
+   (BUTTON) Nos méthodes d'admission
+     * Parcoursup
+     * Concours SESAME
+     * Admission sur titre
+     * Tarifs et financement
+     * FAQ admission
+
+   (BUTTON)
+   (BUTTON) Vie étudiante
+     * (BUTTON) Professionnalisation (BUTTON)
+     * (BUTTON) Expérience étudiante (BUTTON)
+
+   (BUTTON)
+   (BUTTON) Professionnalisation
+     * Stages
+     * Alternance
+     * Entreprises partenaires
+     * Service carrières
+
+   (BUTTON)
+   (BUTTON) Expérience étudiante
+     * Le HUB
+     * Les associations étudiantes
+     * Logement étudiant
+     * Financer ses études
+     * Diversité et inclusion
+     * Le Label STAR
+
+   (BUTTON)
+   (BUTTON) International
+     * L'international
+     * Bourses et financements
+     * Universités partenaires
+     * Étudiants internationaux
+
+   (BUTTON)
+   (BUTTON) Entreprise
+     * Le service relations entreprises
+     * Nos événements professionnels
+
+   (BUTTON) Candidature
+     * Candidature en ligne
+     * Dossier de candidature
+
+   Brochure
+
+   Main navigation
+     * (BUTTON) École
+          + Notre école
+            Accréditations & labels
+            Classements
+            Le nouveau campus
+            Nos événements
+            Notre démarche RSE
+            Actualités
+            Partenariats et réseau
+            Glossaire
+            Les métiers formés
+     * (BUTTON) Faculté & Recherche
+          + Faculté
+            Membres de la faculté
+
+            La Recherche à PSB
+            A propos de la Recherche
+            Enseignants-chercheurs
+            Actualités
+            Prix
+            Subventions actives
+            Séminaires
+            Perspectives Recherche
+            Perspectives par sujet
+            Enseignants-chercheurs dans l'actualité
+            Évènements
+            Recherche
+            Publications Académiques
+            Par année
+            2020
+            2021
+            2022
+            2023
+            2024
+            2025
+            Par sujet
+            Économie
+            Finance
+            Management
+            Marketing
+
+            Chaires et Centres
+            NewPIC
+            Living Health
+            Centre de recherche sur l’énergie et le changement climatique
+     * (BUTTON) Programmes
+          + Programme Grande École
+            Formation Post-Bac à Bac+5
+            Cursus en 5 ans
+
+            Découvrir les spécialisations en alternance de la 4e année :
+            Spécialisations en Finance
+            Spécialisations en Management
+            Spécialisations en Marketing & Data
+            Spécialisations en Commerce & Entrepreneuriat
+            Bachelors
+            Formation Post-Bac à Bac+3
+            Bachelor Management International
+            Bachelor Tech for Management
+            Master of Science in Management
+            Formation Bac+5
+            Data Management - FR
+            Arts & Cultural Management - EN
+            Hospitality Management - EN
+            International Finance - EN
+            International Management & Business Development - EN
+            Luxury & Fashion Management - EN
+            Double Diplôme en International Luxury & Fashion Management -
+            EN
+            Marketing Analytics & Data Intelligence - EN
+            Supply Chain Management - EN
+            Executive Education
+            MBA - Master of Business Administration - EN
+            MBA Part-time - Master of Business Administration - FR
+            DBA - Doctorate of Business Administration - EN
+
+            Programs & Opportunities for Incoming Students
+            Short programs
+            Exchange & Study Abroad Programs
+     * (BUTTON) Admissions
+          + Admission par formation
+            Programme Grande École
+            Bachelor
+            MSc
+            MBA
+            DBA
+            Nos méthodes d'admission
+            Parcoursup
+            Concours SESAME
+            Admission sur titre
+            Tarifs et financement
+            FAQ admission
+     * (BUTTON) Vie étudiante
+          + Professionnalisation
+            Stages
+            Alternance
+            Entreprises partenaires
+            Service Carrières
+            Expérience étudiante
+            Le HUB
+            Les associations étudiantes
+            Logement étudiant
+            Financer ses études
+            Diversité et inclusion
+            Le Label STAR
+     * (BUTTON) International
+          + L'international
+            Bourses et financements
+            Universités partenaires
+            Étudiants internationaux
+     * (BUTTON) Entreprise
+          + Le service relations entreprises
+            Nos évènements professionnels
+     * 14 Jan. Portes ouvertes
+
+    1. Accueil
+
+     Actualités de Paris School of Business
+
+     Qu’est ce que l’image de marque ?
+
+Qu’est ce que l’image de marque ?
+
+   Dans une société de messages, d'émotions et de communication, l’image
+   de marque est essentielle à l’entreprise. L’image de marque est la
+   perception générale qu’elle renvoie, façonnée par de nombreux éléments.
+   La construction d’une bonne image de marque est l’enjeu majeur des
+   communicants et des spécialistes marketing qui souhaitent entourer leur
+   marques et leurs produits d’une aura positive, appréciée, reconnue pour
+   ses avantages auprès de ses publics cibles et du grand public en
+   général.
+
+L’image de marque : définition
+
+   L'image de marque est la perception globale qu'ont les consommateurs,
+   les prospects et le public en général d'une entreprise, d'un produit ou
+   d'un service. Elle se construit à partir de divers éléments, tant
+   tangibles qu'intangibles, qui interagissent pour façonner la façon dont
+   la marque est perçue et former son identité.
+
+   Pour forger une image de marque, l'entreprise, par l'intermédiaire de
+   services dédiés, s'intéresse avant tout à son identité et son branding
+   : quelles sont ses caractéristiques, à la fois visuellement et en
+   termes de valeurs, que défend-elle, quel niveau de qualité
+   propose-t-elle, peut-on lui faire confiance, est-elle appréciée, etc.
+
+   L’image de marque positive d’une entreprise repose sur un cocktail
+   équilibré entre :
+     * la communication et la publicité de toute nature
+     * la qualité des produits et services proposés
+     * les publics et consommateurs ciblés
+
+
+Quels sont les éléments constitutifs de l’image de marque ?
+
+   L’image de marque repose sur divers aspects que l’entreprise prend en
+   compte au travers de ses activités de marketing, de vente, de
+   communication ainsi que dans ses  comités et directions stratégiques.
+
+   Les aspects majeurs sur lesquelles elle se fonde sont :
+     * L'identité de marque
+
+   Elle comprend : le nom de la marque, son logo, son slogan/base line, sa
+   charte graphique et ses valeurs fondamentales.
+
+   Elle doit être unique et cohérente avec la promesse de la marque. C’est
+   elle qui inscrit la marque dans l’esprit des consommateurs.
+     * Le positionnement
+
+   Il s’agit de la place que la marque occupe dans l'esprit du
+   consommateur par rapport à ses concurrents.
+
+   Il doit être clair, différenciant et pertinent pour la cible.
+     * L'offre
+
+   Elle comprend : les produits ou services que la marque propose, ainsi
+   que leurs caractéristiques, leurs avantages et leurs bénéfices pour le
+   consommateur.
+
+   Elle doit être attractive, répondre aux besoins des clients et se
+   démarquer de la concurrence.
+     * La communication
+
+   Elle comprend : tous les messages que la marque diffuse à ses
+   audiences, via la publicité, le marketing digital, les relations
+   publiques, les événements, etc.
+
+   Elle doit être cohérente avec l'identité et le positionnement de la
+   marque, et créer un lien émotionnel avec les consommateurs.
+     * L'expérience client ou utilisateur
+
+   Il s’agit de l'ensemble des interactions que le client a avec la
+   marque, à tous les points de contact.
+
+   Elle doit être positive et permettre au client de conserver un souvenir
+   positif afin de réitérer un achat ou de jouer le rôle d’ambassadeur.
+
+
+   Une image de marque forte est essentielle pour le succès d'une
+   entreprise car elle a un impact important sur l’attractivité de la
+   marque et la fidélisation des clients. Ceux-ci doivent être en
+   adéquation personnelle avec la marque, s’identifier à elle afin de la
+   considérer comme une partenaire fiable.
+
+   La puissance de l’image de marque est également un enjeu économique car
+   elle augmente fortement la valeur perçue et estimée de l’entreprise
+   aussi bien pour d’éventuels investisseurs, que pour attirer les
+   meilleurs profils.
+
+
+Quels métiers sont concernés par l'image de marque ?
+
+   L'image de marque est un domaine pluridisciplinaire qui implique de
+   nombreux métiers attachés aux différents aspects qui la constituent.
+   Ces métiers sont aussi bien intégrés à l’entreprise, qu’externes, en
+   agence marketing et agence conseil en communication.
+     * Brand Manager : Il ou elle est responsable de l'élaboration et de
+       la mise en œuvre de la stratégie de marque globale en définissant
+       son identité, son positionnement et sa promesse. Il ou elle
+       développe et gère les campagnes de communication et de marketing de
+       la marque.
+     * Directeur artistique (DA ou encore Creative Director) : Il ou elle
+       est chargé de la direction artistique de la marque et donc de
+       l’aspect visuel: logo, design des produits, emballage et
+       communications visuelles.
+     * Le graphiste l'accompagne également pour la création de visuels.
+     * Responsable communication (Communication Manager) : Il ou elle
+       s'occupe de la communication interne et externe de la marque? Cela
+       passe par la communication de tous types de contenus écrits et par
+       la gestion des relations avec les presse, les médias et les
+       influenceurs.
+     * Spécialiste des relations publiques (Public Relations Specialist) :
+       Il ou elle gère les relations avec les médias et les influenceurs
+       pour la marque au travers d'événements et de contenus éditoriaux.
+       Il ou elle est également chargé de veiller à la e-réputation de la
+       marque.
+     * Digital marketer : Il ou elle est responsable de la création et de
+       la mise en œuvre de stratégies de marketing digital : campagnes de
+       publicité en ligne, référencement et marketing des médias sociaux.
+     * Responsable SEO : Il ou elle s’occupe de l’optimisation du site web
+       et du brand content sur les moteurs de recherche.
+     * Rédacteur (Copywriter) : il ou elle rédige les textes pour les
+       supports marketing de la marque (sites web, brochures, communiqués
+       de presse, publicités) en développant le style et l’identité de la
+       marque (tone of voice).
+     * Community manager (Community Manager) : il ou elle anime les
+       communautés en ligne de la marque sur les réseaux sociaux et les
+       forums.
+
+
+Quelles sont les formations ?
+
+   Les métiers concernés par l'image de marque et le branding en général
+   sont accessibles par les parcours de formation spécialisés en
+   marketing, communication et publicité. Ceux-ci peuvent être orientés
+   communication, marketing digital, études et data analyse.
+
+   Les cursus vont de bac+2 à Bac+ 5 et peuvent s’effectuer en université
+   ou au sein des grandes écoles de commerce. Des bachelors et mastères
+   sont aussi dispensés dans des écoles privées spécialisées en publicité
+   et marketing digital.
+
+Bac+2/3
+
+     * BTS communication
+     * BUT et Licence professionnelle marketing et communication
+     * Bachelor marketing, publicité en école de commerce ou en école
+       spécialisée
+     * Il existe des spécialisations par secteur, par exemple le Bachelor
+       marketing Luxe en alternance de Paris School of Business.
+
+
+Bac+4/5
+
+     * Diplôme de Grande École de commerce parcours marketing et brand
+       management
+     * Master et Msc Marketing et stratégie digitale, Branding et
+       stratégie produit
+
+
+   Découvrir les Masters en Marketing & Data
+
+   Footer social links
+     *
+     *
+     *
+     *
+     *
+
+   Build bridges,
+
+   shape a better world
+
+   Image
+   PSB Logo noir
+
+   Établissement d'enseignement supérieur privé reconnu par l'État
+
+   16 rue Claude Bernard 75005 - Paris +33 (0)1 53 36 44 00
+
+
+    → Plan d'accès
+
+   Liens rapide
+
+   Liens rapide
+     * Admissions
+     * Classements de PSB
+     * Concours SESAME
+     * Data Manangement
+     * Formations en alternance (BAC+5)
+     * Parcoursup
+     * Programme Grande École
+     * Toute l'actualité
+
+   GGE
+
+   Paris School of Business est membre du Réseau Galileo Global Education
+   France Société par actions simplifiées au capital de 102 691 775 € 752
+   994 566 R.C.S Paris
+
+   Organisme de formation certifié Qualiopi
+
+   Image
+   Qualiopi
+
+   La certification Qualiopi a été délivrée au titre des catégories
+   d’actions suivantes :
+     * Les actions de formation,
+     * Les actions de formation par apprentissage.
+
+   Accréditations
+
+   accréditations PSB
+
+   Mentions légales et accessibilité
+     * Mentions légales
+     * Accessibilité : partiellement conforme
+     * Cookies management
+
+   Copyright © 2025 PSB

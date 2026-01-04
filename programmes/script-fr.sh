@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 
-if [ $# -ne 6 ]
+if [ $# -ne 7 ]
 then
-	echo "Le script attend exactement 6 arguments"
+	echo "Le script attend exactement 7 arguments"
 	exit 1
 fi
 
@@ -13,6 +13,7 @@ CHEM_FICHIER_HTML=$3
 CHEM_ASPIRATION=$4
 CHEM_DUMP=$5
 CHEM_CONTEXTE=$6
+CHEM_CONCORDANCE=$7
 
 lineno=1
 
@@ -43,6 +44,7 @@ echo "<!DOCTYPE html>
 				<th>Dumps</th>
 				<th>Compte</th>
 				<th>Contexte</th>
+				<th>Concordance</th>
 			</tr>
 
 			<style>
@@ -75,13 +77,16 @@ do
 
 	contexte_fichier_sortie="$CHEM_CONTEXTE/langfr-$lineno.txt"
 	contexte=$(grep -C 2 '\bimage\b' "$chemin_sortie_dump" > "$contexte_fichier_sortie")
-	# si on peut utilsier les ER avec \bimage\b on peut lui faire dire de capturer n'importe quel mots/suites de caractères avec/séparé par un espace. on en prend jusqu'à 10.
+	 #usage de grep pour chercher un mot "image".on affiche au moins deux lignees avant et après le mot.
 
+	 #on fait appelle aux concordances (si besoin relancer l'exécution du fichier une deuxième fois pour avoir les concordances. le script concordance est à part)
+	ajout_concordances="$CHEM_CONCORDANCE/langfr-"$lineno".html"
 
 	if [ -z "${encoding}" ]
 	then
 		encoding="N/A"
     fi
+
 	nbmots=$(curl -s -L "$line" | wc -w)
 
 	echo -e "
@@ -95,11 +100,12 @@ do
 				<td><a href="$chemin_sortie_dump">Dump</a></td>
 				<td>$compte_nb_mot</td>
 				<td><a href="$contexte_fichier_sortie">Contexte</a></td>
+				<td><a href="$ajout_concordances">Concordance</a></td>
 			</tr>" >> "$CHEM_FICHIER_HTML"
 
 	lineno=$(expr $lineno + 1)
 
-echo -e "$lineno\t$line\t$http_code\t$encoding\t$nbmots\t$chemin_sortie_aspiration\t$chemin_sortie_dump\t$compte_nb_mot\t$contexte" >> "$CHEM_FICHIER_TSV"
+echo -e "$lineno\t$line\t$http_code\t$encoding\t$nbmots\t$chemin_sortie_aspiration\t$chemin_sortie_dump\t$compte_nb_mot\t$contexte\t$ajout_concordances" >> "$CHEM_FICHIER_TSV"
 
 done < "$CHEM_FICHIER_URLS"
 
@@ -107,5 +113,8 @@ echo -e "</table>
 	</body>
 </html>" >> "$CHEM_FICHIER_HTML"
 
-#excécuter avec : ./scipt-fr.sh ../URLs/langfr.txt ../tableaux/langfr.tsv ../tableaux/langfr.html ../aspirations ../dumps-text ../contextes
+
+
+# excécuter avec :./script-fr.sh ../URLs/langfr.txt ../tableaux/langfr.tsv ../tableaux/langfr.html ../aspirations ../dumps-text ../contextes ../concordances
+
 

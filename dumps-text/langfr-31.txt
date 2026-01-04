@@ -1,0 +1,654 @@
+    #Apprendre la Photo » Flux Apprendre la Photo » Flux des commentaires
+   Apprendre la Photo » Qu’est-ce que le format HEIC / HEIF et comment
+   l’ouvrir ou le convertir ? Flux des commentaires alternate alternate
+   alternate
+
+   Passer au contenu
+
+     * Accueil
+     * Paysage
+     * Portrait
+     * Matériel
+          + Actualités
+          + Guides d’achat
+     * Réglages
+     * Retouches
+          + Guides
+          + Presets Lightroom
+
+   format HEIC
+   Post production
+
+Qu’est-ce que le format HEIC / HEIF et comment l’ouvrir ou le convertir ?
+
+   valentin 25 août 202013 décembre 2020 33 Comments
+
+   Ces dernières années, le format d’image HEIF et ses variantes comme le
+   HEIC se sont installés au sein de nombreux appareils photo et
+   smartphones. Pour cause, ce nouveau format présente de nombreux
+   avantages par rapport au JPEG, notamment en produisant des images moins
+   lourdes tout en conservant une qualité élevée. Dans cet article, nous
+   allons étudier les différents avantages et inconvénients du format HEIF
+   / HEIC, comment il se diffère des autres formats comme le JPEG, le PNG
+   ou le GIF, mais également comment le convertir dans d’autres formats.
+   Sommaire afficher
+   Qu’est-ce que le format HEIF ?
+   Qu’est-ce que le format HEIC ?
+   HEIC vs JPEG : les différences
+   Comment convertir une photo HEIC en JPEG ?
+
+
+Qu’est-ce que le format HEIF ?
+
+   Le format HEIF est l’acronyme de High-Efficiency Image File format.
+   Initialement développé par le Moving Picture Experts Group en 2015, ce
+   format se base sur les principes de la norme HEVC (High Efficiency
+   Video Coding). Il permet de stocker une image ou une séquence d’images
+   dans un unique fichier. Ce format est optimisé pour être le plus léger
+   possible en stockant les images à un taux de compression environ deux
+   fois supérieur aux images JPEG, sans pour autant réduire le niveau de
+   détail des photos.
+   format HEIC Le format HEIF ou HEIC peut stocker une image ou une
+   séquence d’images dans un unique fichier. Les photos stockées au format
+   HEIF présentent l’extension de fichier .heif, alors que les séquences
+   d’images ont une extension .heifs.
+
+   Contrairement au JPEG, le format HEIF fait office de conteneur et peut
+   être employé pour regrouper des séquences d’images comme des GIF ou des
+   séquences HDR. Les photos stockées au format HEIF présentent
+   l’extension de fichier .heif, alors que les séquences d’images ont une
+   extension .heifs. Cependant, selon la variante du codec employé par
+   l’appareil photo, cette extension peut être amenée à changer. La
+   variante la plus courante est le HEIC, qui utilise le format vidéo HEVC
+   / H.265 pour effectuer une compression plus respectueuse du contenu.
+   C’est notamment cette extension qui est privilégiée par Apple depuis
+   iOS 11.
+
+
+Qu’est-ce que le format HEIC ?
+
+   Comme nous l’avons précédemment vu, il existe de nombreuses variantes
+   du format HEIF qui peuvent être mises à profit pour stocker des photos,
+   des séquences d’images ou encore des vidéos. Le format HEIC (High
+   Efficiency Image Coding) est la variante du HEIF dédiée aux appareils
+   Apple équipés du système d’exploitation iOS 11 ou supérieur. Il s’agit
+   uniquement d’un renommage effectué par la firme de Cupertino pour que
+   les fichiers issus des appareils Apple soient plus facilement
+   identifiables. Ils utilisent la norme HEVC / H.265 pour la compression
+   du contenu. Pour le contenu vidéo encodé en HEVC, Apple conserve
+   l’extension de fichier .mov pour éviter la confusion avec les images et
+   séquences d’images.
+   format HEIC Le format HEIC est une variante du HEIF utilisé par Apple
+   depuis iOS 11. Il présente les mêmes caractéristiques que les fichiers
+   HEIF.
+
+
+HEIC vs JPEG : les différences
+
+   Le format HEIC présente de nombreux avantages par rapport aux fichiers
+   JPEG. En effet, alors que le JPEG peut uniquement réaliser des images
+   sur 8 bits avec une importante perte d’informations (même avec le
+   réglage JPEG le plus qualitatif), le format HEIC peut quant à lui
+   stocker des images sur 16 bits, avec ou sans perte. En conservant ainsi
+   plus d’informations, le format HEIC se montre idéal pour retoucher les
+   images en post-production avec une plus grande marge de manoeuvre. De
+   plus, il est capable de stocker ces données dans des fichiers environ
+   60 % moins lourds qu’en JPEG. Le format HEIC se montre donc très
+   avantageux pour l’archivage ou pour maximiser la capacité de votre
+   carte mémoire, à condition que votre appareil photo soit compatible
+   avec ce format.
+   format HEIC Les fichiers HEIF et HEIC sont environ 60 % moins lourds
+   que des fichiers JPEG tout en offrant une qualité d’image accrue.
+
+
+Comment convertir une photo HEIC en JPEG ?
+
+   Le format HEIC / HEIF présente l’avantage de contenir plus
+   d’informations que le JPEG tout en pesant nettement moins lourd.
+   Cependant, si vous souhaitez partager vos images HEIC à des amis ou les
+   uploader sur Internet, il va être nécessaire de les convertir en JPEG
+   pour s’assurer d’une parfaite prise en charge. Pour le moment, peu de
+   plateformes sont en effet compatibles avec ce format. Par conséquent,
+   pour convertir une image HEIC en JPEG, vous pouvez utiliser votre
+   logiciel de post-traitement habituel, puis simplement exporter l’image
+   en une photo JPEG.
+
+   Si vous utilisez un Mac, il est possible de rapidement convertir un lot
+   de photos HEIC en JPEG en utilisant l’application Aperçu. Pour cela,
+   sélectionnez le groupe d’images à convertir, ouvrez-les dans Aperçu,
+   puis sélectionnez toutes les images à l’aide des touches CMD + A.
+   Ensuite, allez dans le menu “Fichier”, puis cliquez sur “Exporter les
+   images sélectionnées” et choisissez le format JPEG dans le menu
+   déroulant. Choisissez ensuite le niveau de qualité désiré et cliquez
+   sur le bouton «Choisir» pour exporter les photos.
+   format HEIC L’application Aperçu installée de base sur les ordinateurs
+   Mac permet de facilement convertir des photos HEIC ou HEIF en JPEG.
+
+   Sur PC, il existe de nombreux logiciels gratuits qui peuvent effectuer
+   une conversion de photos HEIC en JPEG. Il existe également des
+   convertisseurs en ligne gratuits comme HEICtoJPG.com. Ce dernier va en
+   revanche réaliser une compression pour exporter le fichier en JPEGmini,
+   ce qui va légèrement diminuer le niveau de détail. Cela n’aura en
+   revanche aucune incidence pour partager votre image en ligne.
+   format HEIC HEICtoJPG.com permet de convertir en ligne des photos HEIC
+   au format JPEG / JPG.
+
+   Les formats HEIF et HEIC constituent d’excellents choix par rapport aux
+   habituels formats JPEG, GIF ou PNG. Ils présentent l’avantage d’être
+   très polyvalent en pouvant stocker toutes sortes de supports, que ce
+   soit des photos, des séquences de photos ou encore des vidéos. En
+   exploitant les performances des normes de compression HEVC / H.265, les
+   fichiers HEIF sont nettement plus compacts que d’autres formats
+   d’images comme le JPEG ou formats vidéo comme le H.264, tout en
+   présentant une qualité supérieure. Pour toutes ces raisons, de plus en
+   plus de fabricants comme Apple, Canon ou encore Fujifilm commencent à
+   adopter le format HEIF. Il est ainsi fort probable que le HEIF / HEIC
+   s’impose petit à petit comme le nouveau format de référence, en
+   remplacement de JPEG dont les limites deviennent de plus en plus
+   contraignantes.
+
+
+   Si vous avez aimé cet article, n’hésitez pas à vous abonner à la
+   newsletter pour être informé lors de la publication des prochains
+   sujets et pour recevoir gratuitement votre livre photo.
+
+Sur le même sujet
+
+     * Comment photographier un lieu touristique bondé ?  Comment
+       photographier un lieu touristique bondé ?
+     * Sony Alpha 7CR : un a7R V plus compact et abordable Sony Alpha 7CR
+       : un a7R V plus compact et abordable
+     * Un océan de talent : les lauréats du concours Ocean Art 2024 Un
+       océan de talent : les lauréats du concours Ocean Art 2024
+     * NIKKOR Z 28-135 mm f/4 PZ : le premier zoom motorisé plein format
+       de Nikon  NIKKOR Z 28-135 mm f/4 PZ : le premier zoom motorisé
+       plein format de Nikon
+     * Première mondiale : le Nikon Z8 combine Pixel Shift et Focus
+       Stacking Première mondiale : le Nikon Z8 combine Pixel Shift et
+       Focus Stacking
+     * Est-il possible d’utiliser un objectif plein format sur un appareil
+       APS-C ? Est-il possible d’utiliser un objectif plein format sur un
+       appareil APS-C ?
+
+   Partager cet article
+     * Facebook0
+     * Google+0
+     * Twitter
+     * Pinterest0
+
+     * Quel est le meilleur objectif Nikon DX ?
+     * Comment choisir un objectif photo pour reflex ou hybride ?
+
+33 réflexions sur “Qu’est-ce que le format HEIC / HEIF et comment l’ouvrir ou
+le convertir ?”
+
+     *
+   El famoso
+       30 novembre 2020 à 18 h 26 min
+       Permalien
+       60% moins lourd n’est pas 60 fois moins lourd. On est fâché avec
+       les chiffres ?
+       Répondre
+     *
+   Guiik
+       9 janvier 2021 à 14 h 53 min
+       Permalien
+       Un client vient de m’envoyer des photos avec ce format que je
+       découvre. Donc merci pour cet article très détaillé. J’espère que
+       les navigateurs & autres CMS vont rapidement s’adapter. Ca me
+       fatigue d’avance de devoir ajouter une étape de conversion.
+       Répondre
+          +
+        Demaria
+            4 août 2022 à 13 h 23 min
+            Permalien
+            raz le bol quel temps perdu.
+            Répondre
+     *
+   Jmi
+       12 janvier 2021 à 9 h 41 min
+       Permalien
+       Quelle bonne idée ce format ! Comme il n’est lisible nul part, il
+       faut en plus l’exporter en JPG ! Comme ça on a 2 fois plus de
+       fichiers, c’est 3 fois plus lourd, mais on progresse ! vive le
+       progrès !
+       Répondre
+     *
+   SIGUIER Jean
+       14 janvier 2021 à 18 h 50 min
+       Permalien
+       Je viens de découvrir ce format et effectivement impossible de
+       l’ouvrir. Je rejoints le commentaire de jmi : on se retrouve avec 2
+       fois plus de fichiers….!
+       Personnellement, j’ai réussi à ouvrir ces fichiers avec paint et
+       enregistré aussitôt en jpeg; mais quel boulot …
+       Répondre
+          +
+        Ghetti
+            12 juillet 2024 à 18 h 32 min
+            Permalien
+            Des photos importante prises très loin de mon bureau comme par
+            hasard sont sorties en format HEIC et d’autres en JPEG sans
+            comprendre pourquoi. Je ne peux pas les ouvrir sur l’ordi.
+            même en Paint, j’ai essayé tous les formats, quel fracas c’est
+            vraiment nul. Aucune idée comment annuler cette extension. ?
+            Répondre
+     *
+   krack
+       13 février 2021 à 9 h 54 min
+       Permalien
+       C’est une pitié. J’ai transféré mes photos de l’iPhone vers le PC
+       et la qualité est tristement dégradée …
+       Répondre
+     *
+   Dominique Bureau
+       2 mars 2021 à 15 h 52 min
+       Permalien
+       Comment peut-on empêcher que nos photos heic ? Je ne peux pas les
+       transférer sur disque dur. C’est très désagréable.
+       Répondre
+     *
+   H C
+       11 mars 2021 à 14 h 53 min
+       Permalien
+       Bonjour, merci pour l’article. En revanche je suis toujours surpris
+       de ne jamais voir aucun avertissement quant au recours à des outils
+       en ligne. Au 21e siècle il faut être naïf pour croire que ces
+       services sont gratuits. En prenant le temps de lire les mentions
+       légales de HEICtoJPG.com par exemple, on comprend qu’utiliser le
+       convertisseur en ligne c’est céder ses droits sur ses images et
+       autoriser la distribution mondiale. Proposer des solutions c’est
+       bien, alerter sur les conséquences c’est mieux.
+       Répondre
+     *
+   Tof
+       6 juillet 2021 à 12 h 58 min
+       Permalien
+       Bonjour,
+       J’apporte un commentaire un peu plus positif : Un grand merci pour
+       ces éclaircissements.
+       L’article est instructif et pertinent, il a répondu à mon besoin de
+       partager mes photos heic en jpeg.
+       Les remarques concernent surtout l’attitude d’Apple qui change les
+       règles seul de son coté sans vraiment avertir… c’est
+       malheureusement récurrent.
+       Par contre, l’évolution technologique est une répétition de ces cas
+       : lecteur à cassettes, disquettes, CDRom, DVD… Forcément il existe
+       une transition de phase ou on est équipé « ancienne techno » et on
+       migre plus ou moins facilement vers « nouvelle techno ». On est en
+       plein dedans, là. Si nous avons un meilleur format qui regroupe les
+       avantages du GIF, du JPEG, du HDR en prenant moins de place, alors
+       poussons à sa généralisation rapide en le plébiscitant pour ce
+       qu’il est et non sur les inconvenants de la transition qu’il
+       impose.
+       Mais, effectivement, le vol des droits sur les images est à
+       dénoncer quitte à payer un service respectueux du travail d’auteur.
+       Répondre
+          +
+        Beaurin
+            31 octobre 2023 à 19 h 59 min
+            Permalien
+            Merci à vous Tof,
+            Certes à ce jour c’est 2 fois le fichier,mais comme il est dis
+            ,il sera de meilleur résultat de qualités ainsi que de
+            stockage.
+            Merci pour cette explication
+            5g via Bluetooth pour PC moyennement à jour.
+            Francois
+            Répondre
+          +
+        Ghetti
+            12 juillet 2024 à 18 h 57 min
+            Permalien
+            Je préfère acheter un appareil photo individuel que de payer
+            l’intrus.
+            Répondre
+     *
+   CONSTANTIN
+       13 septembre 2021 à 16 h 15 min
+       Permalien
+       Merci pour cet article très clair, mais je je suis furieuse de ne
+       pas avoir été avertie et de me retrouver coincée. Ce n’est pas
+       fiable de la part d’APPLE, je suis déçue et j’en ferai moins la
+       promotion.
+       Passer par une conversion est juste très pénible alors que je
+       privilégiais et appréciais la facilité de navigation et la fluidité
+       du traitement des photos..
+       Répondre
+          +
+        Pierre
+            12 novembre 2021 à 9 h 55 min
+            Permalien
+            Bel article, clair, précis. Personnellement, je travaille sur
+            les deux plateformes Windows et Mac. L’article explique
+            parfaitement bien les avantages du format photo Heif et Heic,
+            d’ailleurs les photographes pros avaient souhaité cette
+            évolutions de format auprès des fabricants d’appareils photos
+            digitaux. L’évolution depuis 2015 est spectaculaire tant au
+            niveau de l’évolution de l’outil de capture vidéo ou photo =>
+            votre smartphone et les appareils photos. Logique,
+            techniquement on arrive à toujours faire mieux, plus petit et
+            plus léger. Donc, tout le monde est super content d’avoir des
+            photos faites en très haute définition ou des vidéos 4K avec
+            son smartphone, le tout avec une facilité déconcertante et
+            sans avoir pris de cours de photos… Merci donc à Apple, à
+            Google, et surtout merci les ingénieurs. Mais, car il y a un
+            mais, il est aussi vrai que monsieur et madame tout le monde
+            n’ont pas reçu de mémo ou d’invitation à se documenter sur…
+            Google justement. Alors, quand on s’offre un smartphone à près
+            de 1000 € régulièrement, capable de faire tant tant de choses
+            magiques pour vous (banque, impôt, socialisation, médecin,
+            achats monde, GPS monde, reporter, cameraman, cinéaste,
+            divertissement, etc…) peut-on encore critiquer une partie de
+            ce monde ? Perso, j’ai choisi de suivre l’évolution et de me
+            tenir à jour ;o))
+            Répondre
+               o
+             Ghetti
+                 12 juillet 2024 à 18 h 59 min
+                 Permalien
+                 A quoi sert ce que vous écrivez ?
+                 Répondre
+     *
+   Bernard D.
+       25 septembre 2021 à 13 h 16 min
+       Permalien
+       Sur un iPhone, vous avez le choix entre le HEIC et le JPG. Dans
+       Réglages->Appareil Photo->Formats, vous choisissez Haute efficacité
+       pour le HEIC ou Le plus Compatible pour JPG.
+       Répondre
+          +
+        bdart
+            21 juin 2023 à 9 h 49 min
+            Permalien
+            Commentaire le plus judicieux et interressant par raport à
+            tous le fatras des autre blabla inutiles merci merci……
+            Répondre
+          +
+        BON Danièle
+            26 septembre 2023 à 16 h 59 min
+            Permalien
+            Je découvre seulement ce problème (avec mon I-Phone 12 Pro !)
+            et votre réponse est, de loin, celle qui me convient le mieux.
+            Tout le monde trouve, en effet, mes photos d’excellente
+            qualité mais malheureusement, tout « ce » monde ne peut pas
+            les recevoir. J’ai enfin compris pourquoi ! Et c’est nettement
+            plus simple que de passer par des convertisseurs plus ou moins
+            « gratuits ». Merci bcp.
+            Répondre
+     *
+   Philippe F.
+       10 octobre 2021 à 10 h 07 min
+       Permalien
+       @Bernard D Merci Bernard !
+       Répondre
+     *
+   DUSSOL
+       2 décembre 2021 à 11 h 15 min
+       Permalien
+       Bonjour,
+       En effet, cela pourrait être bien pratique, mais impossible d’
+       ouvrir les photos HEIC dans aperçu. Un message indique : aucune
+       application n’est configurée pour ouvrir le document.
+       Sur mon ordinateur : l’application : « APERCU » est pourtant bien
+       installée.
+       Merci à vous !
+       Répondre
+     *
+   Dudu
+       2 février 2022 à 18 h 22 min
+       Permalien
+       Pour tous ceux qui trouvent dommage d’avoir un convertisseur qui
+       profite de vos photos, je signale que le logiciel GIMP lit les
+       formats HEIC, et il est gratuit !!
+       Mais ça ne supprime pas l’étape de conversion en JPG !
+       A bon entendeur …
+       Répondre
+     *
+   marie
+       27 mars 2022 à 15 h 04 min
+       Permalien
+       je trouve ca insultant et innaproprie de nous forcer a prendre un
+       logiciel quon ne veux pas et que obligatoirement quon va devoir
+       payer on a pas le droit de nous forcer a prendre ce logiciel mais
+       mes phtos ont ete tranformee en HEIC ANS QUE JE LE SACHE
+       Répondre
+          +
+        Alexandra
+            13 mai 2022 à 12 h 00 min
+            Permalien
+            Bonjour Marie, vous pouvez desactiver le transfert des photos
+            au format heic vers votre PC. Si vous utilisez un iPhone,
+            sélectionnez « Photos » dans l’app Réglages et sous
+            « Transfert vers Mac ou PC », choisissez « Automatique ». Moi,
+            je ne vois aucun problème avec les images heic lorsqu’il y a
+            des solutions gratuites …
+            Répondre
+               o
+             PinouDan
+                 26 septembre 2023 à 17 h 10 min
+                 Permalien
+                 Comme quoi il est utile de continuer à lire les
+                 commentaires des uns et des autres ! Merci pour cette
+                 réponse pertinente.
+                 Répondre
+               o
+             Ghetti
+                 12 juillet 2024 à 18 h 40 min
+                 Permalien
+                 Merci Alexandra, mais je n’ai pas un iPhone, j’ai un
+                 androïde Samsung galaxies
+                 Répondre
+                    #
+                  Bart
+                      25 mai 2025 à 20 h 27 min
+                      Permalien
+                      sur Samsung
+                      Paramètres de l’appareil photo :
+                      si vous avez activé : photos haute performance :
+                      images en format HEIF, video en HEVC.
+                      Il y a l’avertissement de dire certaines
+                      applications ne prennent pas en compte … (comme le
+                      lecteur Windows Images installé d’office …)
+                      Répondre
+     *
+   Eddie
+       28 mai 2022 à 13 h 54 min
+       Permalien
+       Mon appareil photo Canon EOS R6 et le logiciel de retouches Digital
+       Photos Professionnel (DPP) de Canon permettent la création de
+       fichiers au format HEIF (norme établie par Apple). Ils sont de type
+       (nom) *.HIF et ne sont lisibles que par DPP. Je n’ai pas encore
+       trouvé une visionneuse de photos qui sait lire ces fichiers,
+       notamment pas l’application Photos de Windows, même après avoir
+       installé les plug-in qui soi-disant le permettent, dont l’extension
+       pour fichiers heif qui semble ne pas s’installer correctement sur
+       mon ordi. Et le SAV Canon est aux abonnés absents, jusqu’à ce jour.
+       Pffff…
+       Répondre
+     *
+   Angel
+       20 janvier 2023 à 16 h 40 min
+       Permalien
+       Le commentaire le plus utile et intelligent est celui de Bernard…
+       Merci à Lui
+       Angel
+       Répondre
+     *
+   Moreau
+       2 février 2023 à 11 h 10 min
+       Permalien
+       Bonjour, je cherche une solution pour pouvoir exploiter une
+       illustration que j’ai créé, en fond d’écran sur sur mon iPhone. Mon
+       illustration est sur fond noir, j’aimerait la faire apparaitre
+       légèrement devant l’heure comme on pourrait le faire avec une photo
+       en mode portrait.
+       J’ai la suite Adobe mais j’ai beau gratter sur photoshop ou sur
+       illustrator, impossible de trouver.
+       Avez vous une solution ?
+       Répondre
+     *
+   Hreisho
+       23 février 2023 à 8 h 33 min
+       Permalien
+       Wouahou ! Mais les mecs arrêtez de râler dès qu’une évolution
+       technique apparait ou alors reprenez vos argentiques, vos plaques
+       de verre et retournez dans le passé.
+       Répondre
+          +
+        Ghetti
+            12 juillet 2024 à 18 h 51 min
+            Permalien
+            Si vous savez comment faire dites-le SVP.
+            Répondre
+     *
+   pierre
+       19 juin 2023 à 16 h 33 min
+       Permalien
+       La carte mémoire de mon téléphone Samsung A32, de laquelle je
+       pouvais jusqu’à présent extraire mes photos et les envoyer sur mon
+       ordi (liaison cable USB) est à présent envahie par heic. Une partie
+       des photos n’est plus transférable. Serait-ce un piratage de mon
+       téléphone pour me faire payer un logiciel ?
+       En tout cas j’ai la haine de cette m…de.
+       Répondre
+     *
+   Olivier LC
+       2 juillet 2023 à 9 h 40 min
+       Permalien
+       nouvel appareil fujifilm X-T5.
+       essai de HIF.
+       super format, avec toutes les qualités décrites plus haut.
+       mais pour PC je dois renommer les fichier en HEIF et si je veux les
+       traiter avec mon vieux lightroom il va falloir passer par un
+       convertisseur payant. (je gratuit ne fait que 3 images par lot).
+       cela fait beaucoup d’opérations supplémentaires et je préfère faire
+       des images que passer mon temps à des conversions et vivre avec 2
+       formats à la fin (HEIF et Jpg).
+       Effectivement on abandonne ses droits sur les transformateurs en
+       ligne.
+       J’attends un produit en licence GNU.
+       L’occasion d’approfondir Darktable (super logiciel).
+       Répondre
+
+Laisser un commentaire Annuler la réponse
+
+   Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont
+   indiqués avec *
+
+   Commentaire *
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   E-mail * ______________________________
+
+   Site web ______________________________
+
+   [ ] Enregistrer mon nom, mon e-mail et mon site dans le navigateur pour
+   mon prochain commentaire.
+
+   IFRAME:
+   https://www.google.com/recaptcha/api/fallback?k=6LemTFsUAAAAADbbQy0vKH9
+   hTPuoUMKG8NkIVdgp
+
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Laisser un commentaire
+
+   ____________________ (BUTTON)
+
+Articles récents
+
+     * Le RAW améliore-t-il vraiment la qualité photo ?
+     * Prendre en photo un feu d’artifice
+     * L’hiver est la meilleure saison pour apprendre à composer
+     * Comment exposer la neige sans la griser ni la bleuir ?
+     * Déballer et régler son premier appareil photo
+
+Catégories
+
+     * Abstrait
+     * Divers
+     * Guides d'achat
+     * Les réglages
+     * Matériel photo
+     * Paysage
+     * Portrait
+     * Post production
+
+Téléchargez vos presets
+
+Recevez votre guide photo
+
+   Inscrivez-vous à la newsletter et recevez gratuitement l'ultime guide
+   qui fera de vous un bon photographe
+     __________________________________________________________________
+
+   Prénom ____________________ ____________________
+
+   E-mail * ____________________ ____________________
+   Recevoir le guide
+
+Guides d’achat
+
+   meilleur appareil photo hybride 2021
+   Guides d'achatMatériel photo
+
+Meilleur appareil photo hybride 2025 : comparatif et guide d’achat
+
+   6 décembre 20256 décembre 2025 valentin
+
+   Ces dernières années, les appareils photo hybrides sont devenus de plus
+   en plus performants et fournissent désormais de nombreux avantages
+   meilleur piège photographique
+   Guides d'achatMatériel photo
+
+Quel est le meilleur piège photographique 2025 ?
+
+   6 décembre 20256 décembre 2025 valentin
+   Meilleur appareil photo à moins de 1000 €
+   Guides d'achatMatériel photo
+
+Les meilleurs appareils photo à moins de 1000 € en 2025
+
+   5 décembre 20255 décembre 2025 valentin
+   téléconvertisseur photo animalière
+   Guides d'achatMatériel photo
+
+Utilisation du téléconvertisseur pour la photo animalière
+
+   20 septembre 202520 septembre 2025 valentin
+   meilleur trépied de voyage
+   Guides d'achatMatériel photo
+
+Les meilleurs trépieds de voyage 2025
+
+   11 juin 202511 juin 2025 valentin
+   meilleures jumelles compactes
+   Guides d'achatMatériel photo
+
+Comparatif des meilleures jumelles compactes 2025
+
+   4 mai 20254 mai 2025 valentin
+
+   meilleur compact expert pour voyager
+
+   Guides d'achatMatériel photo
+
+Quel est le meilleur compact expert pour voyager en 2025 ?
+
+   14 avril 202514 avril 2025 valentin
+
+   © 2025 Vivre-de-la-photo.fr

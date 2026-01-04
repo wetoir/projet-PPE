@@ -1,0 +1,50 @@
+Pourquoi un pixel chaud apparaît ?
+
+   Vous trouverez souvent des pixels chauds dans votre image lors d’une
+   prise de vue à exposition longue avec des ISO élevés vers 800 par
+   exemple. C’est très courant d’avoir ce type de pixel
+--
+
+   Les pixels chauds dans une photographie ne posent pas de problème en
+   soit. Vous pouvez très facilement corriger l’image avec Adobe Lightroom
+   ou Photoshop. Ils sont même en partie traité par ces logiciels si vous
+   importez vos photos en RAW !
+
+   En général, on ne découvre des pixels chauds qu’après une inspection
+   minutieuse de l’image au post-traitement, car un pixel, c’est…petit !
+   Il est finalement très rare qu’un pixel chaud apparaisse sur l’écran
+   LCD de votre appareil photo (ou en tout cas que vous arriviez à le
+--
+   la suite l’une de l’autre :
+    1. la première photo est une photo ordinaire de la scène devant vous ;
+    2. la seconde est appelée « dark frame » (« image sombre ») parce que
+       l’obturateur de l’appareil est fermé pendant l’exposition. Cette
+       « dark frame » ne contient que du bruit et des pixels chauds.
+
+   L’appareil photo soustrait alors automatiquement la deuxième image de
+   la première, ce qui réduit le bruit numérique, et surtout les pixels
+   chauds de votre première photo (votre photo « normale »).
+--
+   exposition » présente sur certains appareils photo.
+    1. Faîtes votre prise de vue normale ;
+    2. juste après, prenez votre image noire, donc laissez les mêmes
+       réglages mais rajouter le capuchon sur l’objectif (attention cela
+       peut changer de place votre appareil) ;
+--
+
+   Et voilà grâce à cette manipulation assez simple vous allez pouvoir
+   nettoyer un peu plus votre image !
+   Pixel bloqué
+
+--
+
+   Vous pouvez essayer de prendre plusieurs photos avec des couleurs et
+   des motifs différents, puis analysez l’image à 100% de sa taille. Si
+   vous voyez un pixel qui apparaît au même endroit et qui change de
+   couleur à chaque fois (sombre différemment), ou qui semble plus sombre
+--
+
+   Pour vérifier, faîtes simplement une exposition de 6 secondes et
+   regardez votre image, essayez avec des ISO à 100 puis 800.
+
+   En ce qui concerne la méthode exacte, chacun a un petit peu sa

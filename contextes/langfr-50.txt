@@ -1,0 +1,185 @@
+     * Développement et agrandissement
+
+Types de fichiers image : tout ce que vous devez savoir
+
+   Les types de fichiers d’image ont beaucoup évolué depuis l’avènement de
+   la révolution numérique. Du format standard JPEG au format sans perte
+   PNG, vous avez aujourd’hui le choix entre de nombreux fichiers d’image.
+
+   Que vous créiez un nouveau modèle de mème ou que vous développiez un
+   visuel pour une campagne marketing à venir, il est essentiel de
+   comprendre les types de fichiers image. En connaissant les types de
+   fichiers courants et les raisons pour lesquelles chaque type est
+   utilisé, vous pourrez choisir celui qui convient parfaitement à votre
+   projet en cours.
+
+Qu’est-ce qu’un fichier image ?
+
+   Un fichier image est un fichier qui utilise des données pour
+   enregistrer et stocker des images, soit dans leur format original, soit
+   en tant que fichiers compressés. Parmi les types de fichiers image
+   courants que vous connaissez peut-être déjà, on trouve les fichiers
+   JPEG/JPG, GIF, et même PNG. Qu’est-ce que la compression d’image ?
+
+Qu’est-ce que la compression d’image ?
+
+   La compression d’image est le processus de réduction de la taille d’une
+   image afin d’améliorer le partage de fichiers, le téléchargement et/ou
+   la vitesse d’affichage, notamment lors du chargement d’une image en
+   ligne. Les images compressées peuvent être sans perte ou avec perte de
+   qualité, en fonction du type de fichier image utilisé et du format dans
+   lequel l’image est enregistrée.
+
+   Compression avec perte
+
+   Une compression avec perte réduit la taille d’un fichier image en
+   échange d’une baisse potentielle de la qualité de l’image. Bien que ce
+   type de compression génère généralement des fichiers plus légers, il
+   nécessite de sacrifier la qualité d’une image parfaitement rendue.
+
+   Compression sans perte
+--
+   La compression sans perte permet de réduire la taille d’un fichier sans
+   perdre aucun des détails d’origine. Il est important de noter qu’une
+   compression sans perte ne réduira pas la taille de votre fichier image
+   autant qu’une compression avec perte.
+
+--
+Haute résolution vs basse résolution
+
+   Pour chaque fichier image, il existe des options en haute et basse
+   résolution qui peuvent être utilisées pour diverses applications, en
+   ligne ou hors ligne. Lorsque vous travaillez avec des images haute
+   définition, que ce soit en ligne ou non, vous pourriez tomber sur le
+   terme DPI. DPI signifie « dots per inch » (points par pouce), une unité
+   de mesure utilisée pour évaluer la taille et la qualité d’une image
+   numérique (à des fins d’impression ou en ligne).
+
+   Un DPI de 300 ou plus est courant pour les travaux d’impression, mais
+   il est extrêmement volumineux et excessif pour les images destinées au
+   web, qui ont généralement un DPI de 72. Les fichiers image en haute
+   résolution nécessitent un DPI de 300 ou plus. Les formats d’image avec
+   un DPI inférieur à 300 sont généralement considérés comme des images
+   basse résolution ou destinées au web.
+
+Formats d’image raster
+
+   Les formats d’images raster sont les types de fichiers image les plus
+   courants que vous trouverez sur le web aujourd’hui. Les images raster
+   sont des images et des photos générées à partir de pixels individuels.
+--
+   deviennent flous et déformés.
+
+   Les fichiers d’images raster sont le type d’image le plus courant que
+   l’on trouve en ligne aujourd’hui, que ce soit pour des photos standards
+   ou des graphiques animés. Les fichiers raster doivent également être
+--
+
+   Un PNG, ou fichier Portable Network Graphics, est souvent considéré
+   comme l’un des formats d’image raster de la plus haute qualité. Le PNG
+   a été initialement développé pour remplacer le format GIF, bien que ce
+   dernier reste l’un des formats d’image raster les plus populaires
+   aujourd’hui. Avec un fichier PNG, une image peut gérer jusqu’à 16
+   millions de couleurs, offrant aux utilisateurs un contrôle total sur la
+   qualité de chaque image compressée une fois le processus terminé.
+
+JPEG
+
+   Le JPEG, parfois appelé JPG, est l’un des formats d’image les plus
+   populaires au monde. Le JPEG, ou Joint Photographic Experts Group, est
+   l’un des types de fichiers d’image les plus standards. Toutes les
+   images JPEG sont considérées comme ayant une compression « avec perte
+   », c’est-à-dire qu’elles peuvent perdre en qualité lorsqu’elles sont
+--
+TIFF
+
+   Un TIFF, ou Tagged Image File Format, est un format d’image qui ne
+   nécessite pas de compression pour enregistrer des images sans perte.
+   Les fichiers TIFF sont généralement considérés comme des images raster
+   de haute qualité et haute résolution, ce qui entraîne souvent des
+   fichiers plus volumineux que les formats d’image alternatifs tels que
+   les fichiers GIF et JPEG.
+
+RAW
+
+   Les fichiers image RAW sont des fichiers générés par des scanners ainsi
+   que des appareils photo numériques. Ces images sont généralement
+   considérées comme non traitées et sont souvent qualifiées de « négatif
+   numérique ». Les fichiers RAW contiennent de nombreux détails et
+   informations supplémentaires sur l’image, qui peuvent être traités dans
+   divers éditeurs pour une utilisation ultérieure.
+
+   En général, les images RAW sont beaucoup plus volumineuses que les
+   images compressées, car elles sont capturées dans leur forme originale.
+   Si vous souhaitez réduire la taille d’une image RAW, vous devrez
+   d’abord la traiter avec l’éditeur d’image de votre choix. Vous devrez
+   ensuite enregistrer et exporter l’image dans le format de fichier de
+   votre choix.
+
+PSD
+
+   Un PSD, ou Photoshop Document, est un fichier image natif d’Adobe
+   Photoshop. Ce type de fichier peut inclure des éléments tels que des
+   calques numériques, des objets vectoriels ainsi que différentes
+--
+IA
+
+   Un fichier image AI, ou format Adobe Illustrator, est l’un des formats
+   d’image les plus populaires, prisé par les illustrateurs et les
+   concepteurs graphiques. Un fichier AI est conçu pour les utilisateurs
+   d’Adobe Illustrator, mais il est également compatible avec l’ensemble
+--
+   L’utilisation des fichiers AI est essentielle pour ceux qui préfèrent
+   créer des œuvres d’art à partir de zéro, sans risque de perdre la
+   qualité de l’image ou du graphique. Avec un fichier AI, créez des
+   vecteurs grâce à des algorithmes intégrés et dites adieu à la
+   compression avec perte, typique des images JPEG et GIF traditionnelles.
+--
+SVG
+
+   Un fichier image SVG est un ancien format de fichier, mais il est
+   classé comme fichier vectoriel, car il ne perd pas en qualité ni en
+   compression lorsqu’il est enregistré en plus petite taille. Un fichier
+   SVG, ou Scalable Vector Graphic, est un graphique qui peut être
+   librement modifié, redimensionné et agrandi sans risque de perdre
+   l’apparence, la forme ou la qualité de l’image d’origine. Les fichiers
+   SVG ne sont pas aussi populaires que les fichiers AI ou PSD, mais ils
+   sont idéaux pour créer rapidement des diagrammes, générer des icônes ou
+--
+EPS
+
+   Les fichiers image EPS sont également très appréciés par ceux qui
+   travaillent généralement avec des graphiques vectoriels ou haute
+   résolution. Les fichiers EPS, ou Encapsulated Postscript, sont conçus
+--
+   d’Adobe, comme Quark ou Corel Draw.
+
+La taille du fichier image est également importante !
+
+   Lorsque vous utilisez une image pour transmettre un message ou attirer
+   un client potentiel, il est essentiel de choisir des formats d’image
+   qui sont à la fois adaptés et compatibles avec l’endroit où vous la
+   téléchargez ou l’affichez. Il ne suffit pas de penser au format d’image
+   utilisé, il faut aussi tenir compte de la taille du fichier pour chaque
+   image que vous prévoyez de télécharger, partager ou intégrer dans votre
+   prochaine campagne marketing.
+
+   Il peut également être utile de vérifier si vous devez ajouter un texte
+   de remplacement aux visuels que vous envisagez d’utiliser dans une
+   campagne avant de choisir un format d’image adapté à vos besoins. La
+   taille des fichiers image peut jouer un rôle important dans la manière
+   dont les individus réagissent à une publicité ou une promotion que vous
+   partagez. Si un utilisateur ne peut pas charger une image ou un visuel
+   immédiatement, il est beaucoup plus probable qu’il cherche une autre
+   source pour les images ou informations qu’il souhaite obtenir.
+
+   Que vous créiez une toute nouvelle campagne marketing ou que vous
+   souhaitiez intégrer des blocs de contenu image dans votre lettre
+   d’information par e-mail, Mailchimp vous offre tout ce dont vous avez
+   besoin pour bien commencer.
+--
+     * Guide des tailles et formats sur Instagram pour les photos et
+       vidéos
+     * PNG ou JPG : quel format d’image choisir pour un meilleur rendu ?
+     __________________________________________________________________
+

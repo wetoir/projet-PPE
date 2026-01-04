@@ -1,0 +1,40 @@
+
+   Le terme GIF est un acronyme pour Graphics Interchange Format.
+   C’est un format d’image numérique, la plupart du temps animée, que l’on
+   trouve sur internet. Il s’agit en fait d’un enchainement court et
+   répétitif de plusieurs images.
+
+   Il se distingue des formats d’image statiques tels que JPEG ou PNG par
+   sa capacité à stocker et à afficher plusieurs images dans une séquence,
+   créant ainsi une animation ou une boucle visuelle. Chaque image
+   individuelle dans la séquence d’un GIF est appelée “image-clé” ou
+   “frame”, et elles sont affichées successivement pour créer une
+   animation.
+--
+   des navigateurs web. Ils peuvent également être utilisés pour créer des
+   images fixes, mais sont plus couramment associés à des éléments animés.
+   En résumé, un GIF est un format de fichier image qui permet de créer
+   des animations simples en affichant une séquence d’images-clés de
+   manière séquentielle.
+--
+Est-ce qu’un GIF est une vidéo ?
+
+   Le GIF est un clip que l’on peut situer entre l’image fixe et la vidéo.
+   Une image GIF imite une vidéo, mais son format est très court et il n’a
+   pas de son.
+
+--
+
+   Le format GIF offre la possibilité de gérer la transparence d’une
+   image, mais il se limite à 256 couleurs.
+
+Polyvalence
+--
+Qu’est-ce qu’un mème ?
+
+   Le mème est une image virale transmise sur les réseaux sociaux, un pur
+   produit de la culture internet. C’est une image décalée accompagnée
+   d’un texte humoristique, parfois cynique et ironique, souvent écrit en
+   lettres majuscules et en gras. Le mème peut être une image fixe, mais
+   aussi un GIF ou une vidéo.
+   Le mème répond à un certain nombre de codes spécifiques, il est drôle

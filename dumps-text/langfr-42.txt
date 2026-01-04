@@ -1,0 +1,135 @@
+   [logo_jdl.png]
+   (BUTTON)
+   C'est quoi ?
+   En pratique
+   Nous contacter
+   ____________________ (BUTTON)
+   Connexion
+   C'est quoi ?
+   En pratique
+   Nous contacter
+   ____________________ (BUTTON)
+   Connexion
+
+   Journal des Lycées > Ressources > Outils pédagogiques > L'article > Le
+   dessin, la photographie > L’importance de la photo
+
+L’importance de la photo
+
+   La photo joue un rôle essentiel pour attirer le lecteur, l’informer et
+   l’inciter à lire l’article qu’elle enrichit. Dès la conception de
+   l’article, on doit se poser la question de la conception de la photo.
+   Il faut savoir qu’une photo peut dire mieux et davantage qu’un texte.
+
+   Photographier, c’est enregistrer une tranche de vie, un moment fort,
+   une émotion palpable. A condition de bien la saisir, au bon moment, de
+   n'être ni trop près ni trop loin. Pour cela l’appareil et son réglage
+   préalable sont essentiels. Si je fais la photo d’un coureur à pied en
+   mouvement, d’un groupe qui pose, ou d’une scène comprenant plusieurs
+   acteurs je ne me comporterai pas de la même manière.
+
+   Photographier c’est enregistrer une tranche de vie (Photo : Marc
+   Ollivier)
+
+
+   Le droit à l’image
+
+   Certaines prises de vue peuvent nécessiter une autorisation. Cela
+   renvoie à la législation sur le droit à l’image. L’accord d’une
+   personne photographiée ne vaut que pour une situation précise. Et
+   l’utilisation d’images d’archives exige de grandes précautions. Si la
+   personne est décédée, séparée ou n’exerce plus le métier pour lequel
+   vous l’aviez interviewée !!!
+
+   Par ailleurs, le fait, pour une personne de donner son accord à
+   publication, n’autorise pas sa diffusion dans n’importe quelles
+   conditions. Une photo doit être directement liée à l’information qui a
+   justifié sa prise de vue. Si on veut illustrer un article, on peut
+   faire appel à une agence, une banque de données, ou encore des
+   connaissances pour une mise en scène (les familles des journalistes
+   sont souvent mises à contribution) ou à une photo qui ne montre pas des
+   personnes, mais des objets.
+
+   Une exception : les photos des personnalités publiques (élus, acteurs,
+   chanteurs, sportifs…) peuvent être réutilisées sans risque si elles ne
+   sont pas détournées de leur contexte de prise de vue. Idem pour des
+   photos de paysages, de sites, de monuments. Attention ! avec les
+   smartphones, les comptes Facebook, Instagram et autres réseaux sociaux,
+   on est souvent tenté de diffuser des photos sans l’accord des
+   personnes, et dans des situations « scabreuses » ou les ridiculisant.
+   Cela ne se fait pas dans un journal qui est lu par des milliers de
+   personnes, surtout s’il est diffusé sur Internet.
+
+   Avant de publier une telle photo, il faut penser à demander
+   l’autorisation des personnes (Photo : Marc Ollivier)
+
+   Le poids des photos
+
+   Pour savoir si mon appareil est correctement réglé, transférez quelques
+   photos sur un ordinateur. Quand vous posez la souris sur une photo, des
+   informations apparaissent normalement dans la petite fenêtre qui
+   s’ouvre. On peut y lire la dimension de la photo ; la date du cliché ;
+   le modèle d’appareil ; le type d’image comme jpeg, tiff, raw
+   (privilégiez jpeg) et la taille de la photo. C’est la taille de la
+   photo qui importe le plus. Inférieure à 500 ko, la photo sera médiocre.
+   Supérieure à 2 MO (2 millions d’octets) elle sera trop lourde.
+
+
+   Compresser des photos
+
+   La messagerie électronique et la clé USB sont des moyens simples et
+   rapides pour s’échanger des documents. Pour faciliter le stockage et le
+   transfert de documents, les fabricants d’ordinateurs ont prévu des
+   systèmes de compression qui permettent un transfert rapide. Le problème
+   est qu’un document compressé devient trop léger pour un tirage papier.
+   Assurez-vous que votre format est bien restitué au format d’origine.
+
+   Suivez-nous : Logo Instagram
+     * Mentions légales
+     * Contact
+     * Plan du site
+     * Données personnelles
+     * Cookies
+     * Charte utilisateur
+     * Qui sommes-nous ?
+
+   © Journal des Lycées
+   Mentions légales
+   Contact
+   Plan du site
+   Données personnelles
+   Cookies
+   Charte utilisateur
+   Qui sommes-nous ?
+
+   Connexion à la salle de rédaction numérique (SRN)
+
+                                Se connecter
+
+   Email
+          ____________________
+
+   Mot de passe
+          ____________________
+
+   Se souvenir de moi
+          [ ]
+
+          N'utilisez pas cette fonctionnalité si vous utilisez des postes
+          partagés
+
+
+          Je me connecte
+
+   Mot de passe oublié ?
+   (BUTTON) ×
+
+   Mot de passe oublié
+
+   Email
+          ____________________
+
+
+          Envoyer le lien pour modifier mon mot de passe
+
+   (BUTTON) ×

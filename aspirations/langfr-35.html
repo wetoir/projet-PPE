@@ -1,0 +1,490 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="La recherche mathématique en mots et en images"/>
+<title>Images des mathématiques</title>
+<link rel='stylesheet' href='css/medias.css' type='text/css'>
+<link rel='stylesheet' href='css/style.css' type='text/css' />    
+<link rel="home"  title="Page principale" href="#"/>
+<link rel="start" title="Page principale" href="#"/>
+<link rel="index" title="Page principale" href="#"/>
+<link rel="shortcut icon" href="#"/>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+jax: [ "input/TeX", "output/HTML-CSS" ],
+extensions: [ "tex2jax.js", "jsMath2jax.js" ],
+tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ], processEnvironments: false },
+TeX: {
+extensions: ["AMSmath.js", "AMSsymbols.js"],
+equationNumbers: { autoNumber: "AMS" },
+}
+});
+</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js"></script>
+</head>
+<body>
+<div class="container">	
+<section class="article wrap main" role="main">
+<div class="container" >
+<div id="content" class="article-full block-left piste-bleue" style="width:100%;" >
+<br><hr style="height:4px; color:#293685; background-color:#293685">
+<h1>Le traitement numérique des images</h1>
+<span class="piste piste-bleue">Piste bleue</span>
+<span class="authors">&Eacute;crit par
+Peyré, Gabriel
+</span>
+<div class="image" style="background:#9f8a7c;border-color:#9f8a7c">
+<img alt="" src='https://images-archive.math.cnrs.fr/freeze//vignettes/L350xH350/arton946-a122c.png' width='350' height='350' />
+</div>
+<div class="details wysiwyg"><p>Cet article présente quelques concepts du <a href="http://fr.wikipedia.org/wiki/Traitement_d&#039;images" class='spip_out' rel='external'>traitement</a> mathématique des images numériques. Ces traitements permettent de stocker plus facilement les images et d&#8217;améliorer leur qualité. Les mathématiques utilisées dans cet article correspondent au niveau de la classe de troisième. Les mots clés en rouge pointent vers les pages <a href="http://fr.wikipedia.org/" class='spip_out' rel='external'>Wikipédia</a> correspondantes. Ils sont repris à la fin de l&#8217;article dans un glossaire.</p>
+<h3 class="spip">Les pixels d&#8217;une image</h3>
+<p>Une <a href="http://fr.wikipedia.org/wiki/Image_num%C3%A9rique" class='spip_out' rel='external'>image numérique</a> en <a href="http://fr.wikipedia.org/wiki/Niveau_de_gris" class='spip_out' rel='external'>niveaux de gris</a> est un tableau de valeurs. Chaque case de ce tableau, qui stocke  une valeur, se nomme un <a href="http://fr.wikipedia.org/wiki/Pixel" class='spip_out' rel='external'>pixel</a>. En notant $n$ le nombre de lignes et $p$ le nombre de colonnes de l&#8217;image, on manipule ainsi un tableau de $n \times p$ pixels.</p>
+<p>La figure ci-dessous montre une visualisation  d&#8217;un tableau carré avec $n=p=240$, ce qui représente $240 \times 240 = 57600$ pixels. Les <a href="http://fr.wikipedia.org/wiki/Appareil_photographique_num%C3%A9rique" class='spip_out' rel='external'>appareils photos numériques</a> peuvent enregistrer des images beaucoup plus grandes, avec plusieurs <a href="http://en.wikipedia.org/wiki/Gigapixel_image" class='spip_out' rel='external'>millions de pixels</a>.</p>
+<dl class='spip_document_6922 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section1-original.png" title='Une image en niveaux de gris'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section1-original-0f409.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Une image en niveaux de gris</strong></dt>
+</dl>
+<p>Les valeurs des pixels sont enregistrées dans l&#8217;<a href="http://fr.wikipedia.org/wiki/Ordinateur" class='spip_out' rel='external'>ordinateur</a> ou l&#8217;<a href="http://fr.wikipedia.org/wiki/Appareil_photographique_num%C3%A9rique" class='spip_out' rel='external'>appareil photo numérique</a> sous forme de <a href="http://fr.wikipedia.org/wiki/Entier_relatif" class='spip_out' rel='external'>nombres entiers</a> entre $0$ et $255$, ce qui fait $256$ valeurs possibles pour chaque pixel.</p>
+<p>La valeur 0 correspond au noir, et la valeur 255 correspond au blanc. Les valeurs intermédiaires correspondent à des <a href="http://fr.wikipedia.org/wiki/Niveau_de_gris" class='spip_out' rel='external'>niveaux de gris</a> allant du noir au blanc.</p>
+<p>La figure ci-dessous montre un sous-tableau de $5 \times 5$ pixels extrait  de l&#8217;image précédente. On peut voir à la fois les valeurs qui composent le tableau et les niveaux de gris qui permettent d&#8217;afficher l&#8217;image à l&#8217;écran.</p>
+<dl class='spip_document_6957 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section1-original-zoom.png" title='Sous image de taille 5&#215;5'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L300xH143/section1-original-zoom-9fe60.png' width='300' height='143' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:300px;'><strong>Sous image de taille 5×5</strong></dt>
+</dl><h3 class="spip">Stocker une image</h3>
+<p>Stocker de grandes images sur le  <a href="http://fr.wikipedia.org/wiki/Disque_dur" class='spip_out' rel='external'>disque dur</a> d&#8217;un ordinateur prend beaucoup de place.  Les nombres entiers sont stockés en <a href="http://fr.wikipedia.org/wiki/Syst%C3%A8me_binaire" class='spip_out' rel='external'>écriture binaire</a>, c&#8217;est-à-dire sous la forme d&#8217;une succession de 0 et de 1. Chaque 0 et chaque 1 se stocke sur une unité élémentaire de stockage, appelée <a href="http://fr.wikipedia.org/wiki/Bit" class='spip_out' rel='external'>bit</a>.</p>
+<p>Pour obtenir l&#8217;écriture binaire d&#8217;un pixel ayant comme valeur $179$, il faut décomposer cette valeur comme somme de puissances de deux. On obtient ainsi<br class='autobr'>
+\[ 179 = 2^7 + 2^5 + 2^4 + 2 + 1, \]<br class='autobr'>
+où l&#8217;on a pris soin d&#8217;ordonner les puissances de deux par ordre décroissant.<br class='autobr'>
+Afin de faire mieux apparaître l&#8217;écriture binaire, on ajoute &laquo;&nbsp;$1 \times $&nbsp;&raquo; devant chaque puissance qui apparaît dans l&#8217;écriture, et &laquo;&nbsp;$0 \times $&nbsp;&raquo; devant les puissances qui n&#8217;apparaissent pas<br class='autobr'>
+\[ 179 = 1 \times 2^7 + 0 \times 2^6 + 1 \times  2^5 + 1 \times 2^4 + 0 \times 2^3 + 0 \times 2^2 + 1 \times 2 + 1 \times 2^0. \]<br class='autobr'>
+L&#8217;écriture binaire de la valeur $179$ du pixel est ainsi $(1,0,1,1,0,0,1,1)$, où chaque 1 et chaque 0 correspond au facteur multiplicatif qui apparaît devant chaque puissance.</p>
+<p>On peut écrire toute valeur entre 0 et 255 de cet manière, ce qui nécessite d&#8217;utilisation de 8 bits. Il y a en effet 256 valeurs possibles, et $256=2^8$. Pour stocker l&#8217;image complète, on a donc besoin de <br class='autobr'>
+\[ n \times p \times 8  \text{ bits}. \]<br class='autobr'>
+Pour l&#8217;image montrée à la première figure, on a ainsi besoin de <br class='autobr'>
+\[ 240 \times 240 \times 8 = 460800 \text{ bits}. \]<br class='autobr'>
+On utilise le plus souvent l&#8217;<a href="http://fr.wikipedia.org/wiki/Octet" class='spip_out' rel='external'>octet</a> (8 bits) comme unité, de sorte que cette image nécessite <i>57,6</i>ko (kilo octets).</p>
+<h3 class="spip">La résolution d&#8217;une image</h3>
+<p>Afin de réduire la place de stockage d&#8217;une image, on peut réduire sa <a href="http://fr.wikipedia.org/wiki/R%C3%A9solution_(imagerie_num%C3%A9rique)" class='spip_out' rel='external'>résolution</a>, c&#8217;est-à-dire diminuer le nombre de pixels.</p>
+<p>La façon la plus simple d&#8217;effectuer cette réduction consiste à supprimer des lignes et des colonnes dans l&#8217;image de départ.</p>
+<p>La figure suivante montre ce que l&#8217;on obtient si l&#8217;on retient une ligne sur 4 et une colonne sur 4.</p>
+<dl class='spip_document_6927 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section2-subsample-4.png" title='Une ligne/colonne sur 4'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section2-subsample-4-0295c.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Une ligne/colonne sur 4</strong></dt>
+</dl>
+<p>On a ainsi divisé par $4 \times 4 = 16$ le nombre de pixels de l&#8217;image, et donc également réduit par 16 le nombre de bits nécessaires pour stocker l&#8217;image sur  un disque dur.</p>
+<p>La figure suivante montre les résultats obtenus en gardant de moins en moins de lignes et de colonnes. Bien entendu, la qualité de l&#8217;image se dégrade vite.</p>
+<table class="spip">
+<tbody>
+<tr class='row_odd odd'>
+<td><dl class='spip_document_6928 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section2-subsample-2.png" title='Une ligne/colonne sur 2'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section2-subsample-2-4b49a.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Une ligne/colonne sur 2</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6927 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section2-subsample-4.png" title='Une ligne/colonne sur 4'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section2-subsample-4-0295c.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Une ligne/colonne sur 4</strong></dt>
+</dl></td></tr>
+<tr class='row_even even'>
+<td><dl class='spip_document_6926 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section2-subsample-8.png" title='Une ligne/colonne sur 8'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section2-subsample-8-2ddeb.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Une ligne/colonne sur 8</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6925 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section2-subsample-16.png" title='Une ligne/colonne sur 16'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section2-subsample-16-c3b9c.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Une ligne/colonne sur 16</strong></dt>
+</dl></td></tr>
+</tbody>
+</table><h3 class="spip">Quantifier une image</h3>
+<p>Une autre façon de réduire la place mémoire nécessaire pour le stockage consiste à utiliser moins de nombres entiers pour chaque valeur.</p>
+<p>On peut par exemple utiliser uniquement des nombres entiers entre 0 et 3, ce qui donnera une image avec uniquement 4 niveaux de gris.</p>
+<p>On peut effectuer une conversion de l&#8217;image d&#8217;origine vers une image avec 3 niveaux de valeurs en effectuant les remplacements&nbsp;:</p>
+<ul class="spip"><li> les valeurs dans $0,1,\ldots,63$ sont remplacées par la valeur 0,</li><li> les valeurs dans $64,65,\ldots,127$ sont remplacées par la valeur 1,</li><li> les valeurs dans $128,129,\ldots,191$ sont remplacées par la valeur 2,</li><li> les valeurs dans $192,193,\ldots,255$ sont remplacées par la valeur 3.</li></ul>
+<p>Une telle opération se nomme <a href="http://fr.wikipedia.org/wiki/Quantification_(signal)" class='spip_out' rel='external'>quantification</a>.</p>
+<p>La figure suivante montre l&#8217;image résultante avec 4 niveaux de gris. Les 4 valeurs sont affichées en utilisant 4 niveaux de gris allant du noir au blanc.</p>
+<dl class='spip_document_6929 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section3-quantize-16.png" title='16 niveaux de gris'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section3-quantize-16-9fcea.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>16 niveaux de gris</strong></dt>
+</dl>
+<p>Nous avons déjà vu que l&#8217;on pouvait représenter toute valeur entre 0 et 255 à l&#8217;aide de 8 bits en utilisant l&#8217;écriture binaire. De façon similaire, on vérifie que toute valeur entre 0 et 3 peut se représenter à l&#8217;aide de 2 bits. On obtient ainsi une réduction d&#8217;un facteur $8/2=4$ de la place <a href="http://fr.wikipedia.org/wiki/M%C3%A9moire_(informatique)" class='spip_out' rel='external'>mémoire</a> nécessaire pour le stockage de l&#8217;image sur un disque dur.</p>
+<p>La figure suivante montre les résultats obtenus en utilisant de moins en moins de niveaux de gris.</p>
+<table class="spip">
+<tbody>
+<tr class='row_odd odd'>
+<td><dl class='spip_document_6929 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section3-quantize-16.png" title='16 niveaux de gris'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section3-quantize-16-9fcea.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>16 niveaux de gris</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6930 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section3-quantize-4.png" title='4 niveaux de gris'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section3-quantize-4-c8e17.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>4 niveaux de gris</strong></dt>
+</dl></td></tr>
+<tr class='row_even even'>
+<td><dl class='spip_document_6951 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section3-quantize-3.png" title='3 niveaux de gris'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section3-quantize-3-833fc.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>3 niveaux de gris</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6931 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section3-quantize-2.png" title='2 niveaux de gris'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section3-quantize-2-170a7.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>2 niveaux de gris</strong></dt>
+</dl></td></tr>
+</tbody>
+</table>
+<p>Tout comme pour la réduction du nombre de pixels, la réduction du nombre de niveaux de gris influe beaucoup sur la qualité de l&#8217;image. Afin de réduire au maximum la taille d&#8217;une image sans modifier sa qualité, on utilise des méthodes plus complexes de <a href="http://fr.wikipedia.org/wiki/Compression_d%27image" class='spip_out' rel='external'>compression d&#8217;image</a>. La méthode la plus efficace s&#8217;appelle <a href="http://fr.wikipedia.org/wiki/Jpeg_2000" class='spip_out' rel='external'>JPEG-2000</a>. Elle utilise la théorie des <a href="http://fr.wikipedia.org/wiki/Ondelettes" class='spip_out' rel='external'>ondelettes</a>. Pour en savoir plus à ce sujet, vous pouvez consuler cet <a href="Compression-d-image.html" class='spip_in'>article d&#8217;Erwan Le Pennec</a>.</p>
+<h3 class="spip">Changer le contraste d&#8217;une image</h3>
+<p>Il est possible de faire subir différentes modifications à l&#8217;image afin de changer son <a href="http://fr.wikipedia.org/wiki/Contraste" class='spip_out' rel='external'>contraste</a>.</p>
+<p>Un exemple simple consiste à remplacer chaque valeur $a$ d&#8217;un pixel d&#8217;une image par $255-a$ ce qui correspond au niveau de gris opposé. Le blanc devient noir et vice-versa, ce qui donne un effet similaire à celui des <a href="http://fr.wikipedia.org/wiki/Film_n%C3%A9gatif" class='spip_out' rel='external'>négatifs</a> d&#8217;<a href="http://fr.wikipedia.org/wiki/Argentique" class='spip_out' rel='external'>appareils photos argentiques</a>.</p>
+<dl class='spip_document_6932 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section4-negatif.png" title='N&#233;gatif'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section4-negatif-331b4.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Négatif</strong></dt>
+</dl>
+<p>Sans aller jusqu&#8217;à des modifications aussi extrêmes, on peut assombrir une image en remplaçant la valeur $a$ de chaque pixel par son <a href="http://fr.wikipedia.org/wiki/Carr%C3%A9_(alg%C3%A8bre)" class='spip_out' rel='external'>carré</a> $a^2 = a \times a$.</p>
+<p>Ce faisant, les valeurs résultantes ne sont  plus dans $0,\ldots,255$ mais dans $0,\ldots,255^2=65025$. Afin d&#8217;afficher l&#8217;image à l&#8217;écran on va donc utiliser des niveaux de gris allant du noir pour 0 au blanc pour 65025.</p>
+<dl class='spip_document_6933 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section4-square.png" title='Carr&#233;'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section4-square-a47f4.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Carré</strong></dt>
+</dl>
+<p>Afin d&#8217;éclaircir l&#8217;image, on peut remplacer chaque valeur $a$ par sa <a href="http://fr.wikipedia.org/wiki/Racine_carr%C3%A9e" class='spip_out' rel='external'>racine carrée</a> $b = \sqrt{a}$. Cette valeur $b$ est un nombre, qui n&#8217;est plus nécessairement entier, qui satisfait $b \times b = a$.</p>
+<p>La figure suivante montre l&#8217;éclaircissement obtenu.  Les valeurs de l&#8217;image éclaircie sont dans  $0,\ldots,\sqrt{255} \approx 16$, et on utilise donc des niveaux de gris allant du noir (pour 0) au blanc (pour 16).</p>
+<dl class='spip_document_6934 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section4-sqrt.png" title='Racine carr&#233;e'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section4-sqrt-9bbae.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Racine carrée</strong></dt>
+</dl>
+<p>On pourra noter que l&#8217;on a <br class='autobr'>
+\[ \sqrt{a} \times \sqrt{a} = a
+\quad\text{et}\quad \sqrt{a \times a}=a \]<br class='autobr'>
+de sorte que si l&#8217;on réalise un éclaircissement suivi d&#8217;un assombrissement (ou dans le sens inverse) on retrouve l&#8217;image d&#8217;origine. Ces deux opérations sont <a href="http://fr.wikipedia.org/wiki/Inverse" class='spip_out' rel='external'>inverses</a> l&#8217;une de l&#8217;autre.</p>
+<h3 class="spip">Enlever le bruit par moyennes locales</h3>
+<p>Les images sont parfois de mauvaise qualité. Un exemple typique de défaut est le <a href="http://fr.wikipedia.org/wiki/Bruit_num%C3%A9rique" class='spip_out' rel='external'>bruit</a> qui apparaît quand une photo est <a href="http://fr.wikipedia.org/wiki/Exposition_(photographie)" class='spip_out' rel='external'>sous-exposée</a>, c&#8217;est-à-dire qu&#8217;il n&#8217;y a pas assez de luminosité. Ce bruit se manifeste par de petites fluctuations <a href="http://fr.wikipedia.org/wiki/Suite_al%C3%A9atoire" class='spip_out' rel='external'>aléatoires</a> des niveaux de gris. La figure ci-dessous montre une image bruitée.</p>
+<dl class='spip_document_6939 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section5-noisy.png" title='Image bruit&#233;e'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section5-noisy-2ed50.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Image bruitée</strong></dt>
+</dl>
+<p>Afin d&#8217;enlever le bruit dans les images, il convient de faire subir une modification aux valeurs de pixels. L&#8217;opération la plus simple consiste à remplacer la valeur $a$ de chaque pixel par la <a href="http://fr.wikipedia.org/wiki/Moyenne" class='spip_out' rel='external'>moyenne</a> de $a$ et des 8 valeurs $b,c,d,e,f,g,h,i $  des 8 pixels voisins de $a$.</p>
+<p>La figure suivante montre un exemple de voisinage de 9 pixels.</p>
+<dl class='spip_document_6955 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section5-moyenne-numbers.png" title='Exemple d&#039;un voisinage 9 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L300xH139/section5-moyenne-numbers-13b01.png' width='300' height='139' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:300px;'><strong>Exemple d&#8217;un voisinage 9 pixels</strong></dt>
+</dl>
+<p>On obtient ainsi une image modifiée en remplaçant $a$ par<br class='autobr'>
+\[ \frac{a +b + c + d + e + f + g + h + i}{9}  \]<br class='autobr'>
+puisque l&#8217;on fait la moyenne de 9 valeurs.</p>
+<p>Dans notre exemple, cette moyenne vaut <br class='autobr'>
+\[ 
+\frac{190 + 192 + 79 + 54 + 47 + 153 + 203 + 189 + 166}{9} \approx {141,4}.
+\]</p>
+<p>En effectuant cette opération pour chaque pixel, on supprime une partie du bruit, car ce bruit est constitué de fluctuations aléatoires, qui sont diminuées par un calcul de moyennes. La figure ci-dessous montre l&#8217;effet d&#8217;un tel calcul.</p>
+<table class="spip">
+<tbody>
+<tr class='row_odd odd'>
+<td><dl class='spip_document_6939 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section5-noisy.png" title='Image bruit&#233;e'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section5-noisy-2ed50.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Image bruitée</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6936 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section5-moyenne-1.png" title='Moyenne sur 9 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section5-moyenne-1-fd3f2.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Moyenne sur 9 pixels</strong></dt>
+</dl></td></tr>
+</tbody>
+</table>
+<p>Tout le bruit n&#8217;a pas été enlevé par cette opération. Afin d&#8217;enlever plus de bruit, on peut moyenner plus de valeurs autour de chaque pixel. La figure suivante montre le résultat obtenu en moyennant de plus en plus de valeurs.</p>
+<table class="spip">
+<tbody>
+<tr class='row_odd odd'>
+<td><dl class='spip_document_6936 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section5-moyenne-1.png" title='Moyenne sur 9 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section5-moyenne-1-fd3f2.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Moyenne sur 9 pixels</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6938 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section5-moyenne-2.png" title='Moyenne sur 25 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section5-moyenne-2-032b2.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Moyenne sur 25 pixels</strong></dt>
+</dl></td></tr>
+<tr class='row_even even'>
+<td><dl class='spip_document_6937 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section5-moyenne-3.png" title='Moyenne sur 49 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section5-moyenne-3-d6053.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Moyenne sur 49 pixels</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6935 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section5-moyenne-4.png" title='Moyenne sur 81 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section5-moyenne-4-a47f0.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Moyenne sur 81 pixels</strong></dt>
+</dl></td></tr>
+</tbody>
+</table>
+<p>Le calcul de moyenne de pixels est très efficace pour enlever le bruit dans les images. Malheureusement il détruit également une grande partie de l&#8217;information de l&#8217;image. On peut en effet s&#8217;apercevoir que les images obtenues par moyennes sont <a href="http://fr.wikipedia.org/wiki/Flou,_nettet%C3%A9_et_contraste" class='spip_out' rel='external'>floues</a>. Ceci est en particulier visible près des contours.</p>
+<h3 class="spip">Enlever le bruit par médianes locales</h3>
+<p>Afin de réduire le flou introduit par les moyennes locales, il faut remplacer le calcul de moyenne par une opération un peu plus complexe, que l&#8217;on nomme <a href="http://fr.wikipedia.org/wiki/M%C3%A9diane" class='spip_out' rel='external'>médiane</a>.</p>
+<p>Etant donné la valeur $a$ d&#8217;un pixel, et les valeurs $b,c,d,e,f,g,h,i$, on commence par les classer par <a href="http://fr.wikipedia.org/wiki/Ordre_croissant" class='spip_out' rel='external'>ordre croissant</a>.</p>
+<p>Dans l&#8217;exemple du voisinage de 9 pixels utilisé à la section précédente, on obtient les 9 valeurs classées<br class='autobr'>
+\[  47,    54,    79,   153,   166,   189,   190,   192,   203. \]</p>
+<p>La médiane des neuf valeurs $a,b,c,d,e,f,g,h,i$ est la  5$^{e} $ valeur de ce classement (c&#8217;est-à-dire la valeur centrale de ce classement).</p>
+<p>Dans notre cas, la médiane est donc 166. Notez que ce nombre est en général différent de la moyenne, qui vaut, pour notre exemple <i>141,4</i>.</p>
+<p>La figure ci-dessous compare le débruitage obtenu en effectuant la moyenne et la médiane de 9 pixels voisins.</p>
+<table class="spip">
+<tbody>
+<tr class='row_odd odd'>
+<td><dl class='spip_document_6936 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section5-moyenne-1.png" title='Moyenne sur 9 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section5-moyenne-1-fd3f2.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Moyenne sur 9 pixels</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6943 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section6-mediane-1.png" title='M&#233;diane sur 9 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section6-mediane-1-e538a.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Médiane sur 9 pixels</strong></dt>
+</dl></td></tr>
+</tbody>
+</table>
+<p>Afin d&#8217;enlever plus de bruit, il suffit de calculer la médiane sur un nombre plus grand de pixels voisins, comme montré à la figure suivante.</p>
+<table class="spip">
+<tbody>
+<tr class='row_odd odd'>
+<td><dl class='spip_document_6943 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section6-mediane-1.png" title='M&#233;diane sur 9 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section6-mediane-1-e538a.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Médiane sur 9 pixels</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6942 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section6-mediane-2.png" title='M&#233;diane sur 25 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section6-mediane-2-61131.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Médiane sur 25 pixels</strong></dt>
+</dl></td></tr>
+<tr class='row_even even'>
+<td><dl class='spip_document_6941 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section6-mediane-3.png" title='M&#233;diane sur 49 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section6-mediane-3-f42ac.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Médiane sur 49 pixels</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6940 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section6-mediane-4.png" title='M&#233;diane sur 81 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section6-mediane-4-7dd20.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Médiane sur 81 pixels</strong></dt>
+</dl></td></tr>
+</tbody>
+</table>
+<p>On constate que cette méthode est plus performante que le calcul de moyennes, car les images résultantes sont moins floues. Cependant, tout comme avec le calcul de moyennes, si l&#8217;on prend des voisinages trop grands, on perd aussi de l&#8217;information de l&#8217;image, en particulier les bords des objets sont dégradés.</p>
+<h3 class="spip">Détecter les bords des objets</h3>
+<p>Afin de localiser des objets dans les images, il est nécessaire de détecter les <a href="http://fr.wikipedia.org/wiki/D%C3%A9tection_de_contours" class='spip_out' rel='external'>bords</a> de ces objets. Ces bords correspondent à des  zones de l&#8217;image où les valeurs des pixels changent rapidement. C&#8217;est le cas par exemple lorsque l&#8217;on passe du pétale de la fleur (qui est clair, donc avec des valeurs grandes) à l&#8217;arrière plan (qui est sombre, donc avec des valeurs petites).</p>
+<p>Afin de savoir si un pixel avec une valeur $a$ est le long d&#8217;un bord d&#8217;un objet, on prend en compte les valeurs $b,c,d,e$ de ses quatre voisins (deux horizontalement et deux verticalement), qui sont disposés par rapport à $a$ comme illustré à la figure suivante.</p>
+<dl class='spip_document_6956 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section7-contours-numbers.png" title='Exemple d&#039;un voisinage de 5 pixels'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L300xH139/section7-contours-numbers-5ef78.png' width='300' height='139' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:300px;'><strong>Exemple d&#8217;un voisinage de 5 pixels</strong></dt>
+</dl>
+<p>Notons que l&#8217;on utilise ici seulement 4 voisins, ce qui est différent du calcul de moyennes et de médianes où l&#8217;on utilisait 8 voisins. Ceci est important afin de détecter aussi précisément que possible les bords des objets.</p>
+<p>On calcule une valeur $\ell$ suivant la formule<br class='autobr'>
+\[ \ell = \sqrt{ (b-d)^2 + (c-e)^2 }.  \]<br class='autobr'>
+Dans notre exemple, on obtient donc<br class='autobr'>
+\[ \ell = \sqrt{ (192 - 153)^2 + (189 - 54)^2 } = \sqrt{19746} \approx {140,5}.  \]</p>
+<p>On peut remarquer que si $\ell=0$, alors on a $b=d$ et $c=e$. Au contraire, si  $\ell$ est grand, ceci signifie que les pixels voisins ont des valeurs très différentes, le pixel considéré est donc probablement sur le bord d&#8217;un objet.</p>
+<p>La figure suivante montre l&#8217;image obtenue en calculant la valeur $\ell$ associée à chaque pixel. On a affiché ces valeurs avec du noir quand $\ell=0$,  du blanc quand $\ell$ atteint sa valeur maximale.</p>
+<table class="spip">
+<tbody>
+<tr class='row_odd odd'>
+<td><dl class='spip_document_6945 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section7-image.png" title='Image'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section7-image-4d4f8.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Image</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6944 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section7-contours.png" title='Carte de contours '
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section7-contours-f2cd4.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Carte de contours $\ell$</strong></dt>
+</dl></td></tr>
+</tbody>
+</table>
+<p>On peut voir que dans l&#8217;image de droite, les contours des objets ressortent en blanc, car ils correspondent aux grandes valeurs de $\ell$.</p>
+<h3 class="spip">Les images couleurs</h3>
+<p>Une <a href="http://fr.wikipedia.org/wiki/Couleur" class='spip_out' rel='external'>image couleur</a> est en réalité composée de trois images, afin de représenter le <a href="http://fr.wikipedia.org/wiki/Rouge_vert_bleu" class='spip_out' rel='external'>rouge, le vert, et le bleu</a>. Chacune de ces trois images s&#8217;appelle un <a href="http://fr.wikipedia.org/wiki/Codage_informatique_des_couleurs" class='spip_out' rel='external'>canal</a>. Cette représentation en rouge, vert et bleu mime le fonctionnement du système visuel humain.</p>
+<p>La figure suivante montre la décomposition d&#8217;une image couleur en ses trois canaux constitutifs.</p>
+<table class="spip">
+<tbody>
+<tr class='row_odd odd'>
+<td><dl class='spip_document_6949 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section8-image.png" title='Image num&#233;rique couleur'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section8-image-5df47.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Image numérique couleur</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6947 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section8-rouge.png" title='Canal rouge'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section8-rouge-bb7d6.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Canal rouge</strong></dt>
+</dl></td></tr>
+<tr class='row_even even'>
+<td><dl class='spip_document_6946 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section8-vert.png" title='Canal vert'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section8-vert-e72fa.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Canal vert</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6950 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section8-bleu.png" title='Canal bleu'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section8-bleu-9904a.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Canal bleu</strong></dt>
+</dl></td></tr>
+</tbody>
+</table>
+<p>Chaque pixel de l&#8217;image couleur contient ainsi trois nombres $ (r,v,b) $, chacun étant un nombre entier entre 0 et 255. Si le pixel est égal à $(r,v,b)=(255,0,0)$, il ne contient que de l&#8217;information rouge, et est affiché comme du rouge.  De façon similaire, les pixels valant $(0,255,0)$ et $(0,0,255)$ sont respectivement affichés vert et bleu.</p>
+<p>On peut afficher à l&#8217;écran une image couleur à partir de ses trois canaux $(r,v,b)$ en utilisant les règles de la <a href="http://fr.wikipedia.org/wiki/Synth%C3%A8se_additive" class='spip_out' rel='external'>synthèse additive</a> des couleurs. La figure suivante montre les règles de composition cette synthèse additive des couleurs. Un pixel avec les valeurs $(r,v,b)=(255,0,255)$ est un mélange de rouge et de vert, il est ainsi affiché comme jaune.</p>
+<dl class='spip_document_6980 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section8-synthese-additive.png" title='Synth&#232;se additive des couleurs'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L300xH289/section8-synthese-additive-43dea.png' width='300' height='289' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:300px;'><strong>Synthèse additive des couleurs</strong></dt>
+</dl>
+<p>On peut calculer une image en niveaux de gris à partir d&#8217;une image couleur en moyennant les trois canaux. On calcule donc une valeur <br class='autobr'>
+\[ a = \frac{r+v+b}{3} \]<br class='autobr'>
+qui s&#8217;appelle la <a href="http://fr.wikipedia.org/wiki/Luminance" class='spip_out' rel='external'>luminance</a> de la couleur.</p>
+<p>La figure suivante montre l&#8217;image de luminance associée à une image couleur.</p>
+<dl class='spip_document_6948 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section8-luminance.png" title='Luminance de l&#039;image'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section8-luminance-56449.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Luminance de l&#8217;image</strong></dt>
+</dl>
+<p>Une autre représentation courante pour les images couleurs utilise comme couleurs de base le cyan, le magenta et le jaune. On calcule les trois nombres $(c,m,j)$ correspondant à chacun de ces trois canaux à partir des canaux rouge, vert et bleu $(r,v,b)$ comme suit <br class='autobr'>
+\[ c=255-r, \quad m=255-v, \quad j=255-b. \]<br class='autobr'>
+Par exemple, un pixel de bleu pur $(r,v,b)=(0,0,255)$ va devenir $(c,m,j) = (255,255,0)$. La figure suivante montre les trois canaux $(c,m,j)$ d&#8217;une image couleur.</p>
+<table class="spip">
+<tbody>
+<tr class='row_odd odd'>
+<td><dl class='spip_document_6949 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section8-image.png" title='Image num&#233;rique couleur'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section8-image-5df47.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Image numérique couleur</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6983 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section8-cyan.png" title='Canal cyan'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section8-cyan-8b930.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Canal cyan</strong></dt>
+</dl></td></tr>
+<tr class='row_even even'>
+<td><dl class='spip_document_6982 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section8-magenta.png" title='Canal magenta'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section8-magenta-a879f.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Canal magenta</strong></dt>
+</dl></td>
+<td><dl class='spip_document_6981 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section8-jaune.png" title='Canal jaune'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L256xH256/section8-jaune-5df04.png' width='256' height='256' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:256px;'><strong>Canal jaune</strong></dt>
+</dl></td></tr>
+</tbody>
+</table>
+<p>Afin d&#8217;afficher une image couleur à l&#8217;écran à partir des trois canaux $(c,m,j)$, on doit utiliser la <a href="http://fr.wikipedia.org/wiki/Synth%C3%A8se_soustractive" class='spip_out' rel='external'>synthèse soustractive</a> des couleurs.<br class='autobr'>
+La figure suivante montre les règles de composition cette synthèse soustractive. Notons que ces règles sont celles que l&#8217;on utilise en peinture, lorsque l&#8217;on mélange des pigments colorés. Le cyan, le magenta et le jaune sont appelés couleurs primaires.</p>
+<dl class='spip_document_6979 spip_documents spip_documents_center'>
+<dt><a href="https://images-archive.math.cnrs.fr/freeze//img/png/section8-synthese-soustractive.png" title='Synth&#232;se soustractive des couleurs'
+type="image/png"><img src='https://images-archive.math.cnrs.fr/freeze//vignettes/L300xH287/section8-synthese-soustractive-b1c17.png' width='300' height='287' alt='' /></a></dt>
+<dt class='spip_doc_titre' style='width:300px;'><strong>Synthèse soustractive des couleurs</strong></dt>
+</dl>
+<p>On peut donc stocker sur un disque dur une image couleur en stockant les trois canaux, correspondant aux valeurs $(r,g,b)$ ou $(c,m,j)$. On peut modifier les images couleur tout comme les images en niveaux de gris. La façon la plus simple de procéder consiste à appliquer la modification à chacun des canaux.</p>
+<h3 class="spip">Conclusion</h3>
+<p>Cet article n&#8217;a fait qu&#8217;effleurer l&#8217;immense liste des traitements que l&#8217;on peut faire subir à une image.  Le traitement mathématique des images est un domaine très actif, où les avancées théoriques se concrétisent sous la forme d&#8217;algorithmes rapides de calcul qui ont des applications importantes pour la manipulation des contenus numériques.</p>
+<p>Les personnes intéressées pourront consulter le site web &laquo;&nbsp;<a href="http://www.numerical-tours.com" class='spip_out' rel='external'>A Numerical Tour of Signal Processing</a>&nbsp;&raquo; pour de nombreux exemples de traitements d&#8217;images. On y trouve également des liens vers d&#8217;autres ressources disponibles en ligne.</p>
+<h3 class="spip">Glossaire</h3><ul class="spip"><li> <strong>Aléatoire&nbsp;:</strong> valeur imprévisible souvent due au hazard, comme par exemple le bruit qui perturbe les images de mauvaises qualités.</li><li> <strong>Bit&nbsp;:</strong> unité élementaire de stockage de l&#8217;information sous forme de 0 et de 1 dans un ordinateur.</li><li> <strong>Canal&nbsp;:</strong> une des trois images élémentaires qui composent une image couleur.</li><li> <strong>Bords&nbsp;:</strong> zone d&#8217;une image où les valeurs des pixels varient beaucoup, qui correspond aux contours des objets qui forment l&#8217;image.</li><li> <strong>Bruit&nbsp;:</strong> petites perturbations qui dégradent la qualité d&#8217;une image.</li><li> <strong>Carré&nbsp;:</strong> le carré $b$ d&#8217;une valeur $a$ est $a \times a$. Il est noté $a^2$.</li><li> <strong>Contraste&nbsp;:</strong> quantité informelle qui indique la différence entre les zones claires et les zones sombres d&#8217;une image.</li><li> <strong>Compression d&#8217;image&nbsp;:</strong> méthode permettant de réduire la place mémoire nécessaire au stockage sur le disque dur d&#8217;une image.</li><li> <strong>Ecriture binaire&nbsp;:</strong> écriture de valeurs numériques à l&#8217;aide uniquement de 0 et de 1.</li><li> <strong>Flou&nbsp;:</strong> dégradation d&#8217;une image qui rend les contours des objets peu net, et donc difficile à localiser précisément.</li><li> <strong>Image couleur&nbsp;:</strong> ensemble de trois images en niveau de gris, qui peut être affiché à l&#8217;écran en couleur.</li><li> <strong>Image numérique&nbsp;:</strong> tableau de valeurs que l&#8217;on peut afficher à l&#8217;écran en assignant un niveau de gris à chaque valeur.</li><li> <strong>Inverse&nbsp;:</strong> opération ramenant une image dans son état d&#8217;origine.</li><li> <strong>JPEG-2000&nbsp;:</strong> méthode récente de compression d&#8217;images qui utilise une transformation en ondelettes.</li><li> <strong>Luminance&nbsp;:</strong> moyenne des différents canaux d&#8217;une image, qui indique la puissance lumineuse du pixel.</li><li> <strong>Médiane&nbsp;:</strong> valeur centrale lorsque l&#8217;on classe par ordre croissant un ensemble de valeurs.</li><li> <strong>Moyenne&nbsp;:</strong> la moyenne d&#8217;un ensemble de valeurs est leur somme divisée par leur nombre.</li><li> <strong>Niveaux de gris&nbsp;:</strong> nuances de gris utilisées pour afficher à l&#8217;écran une image numérique.</li><li> <strong>Nombres entiers&nbsp;:</strong> nombres 0, 1, 2, 3, 4 ...</li><li> <strong>Octet&nbsp;:</strong> ensemble de huit bits consécutifs.</li><li> <strong>Ondelettes&nbsp;:</strong> transformation de l&#8217;image qui est utilisée par la méthode JPEG-2000 de compression d&#8217;images.</li><li> <strong>Ordre croissant&nbsp;:</strong> classement d&#8217;un ensemble de valeurs de la plus petite à la plus grande.</li><li> <strong>Pixel&nbsp;:</strong> une case dans un tableau de valeurs correspondant à une image numérique.</li><li> <strong>Quantification&nbsp;:</strong> procédé consistant à réduire l&#8217;ensemble des valeurs possibles d&#8217;une image numérique.</li><li> <strong>Racine carrée&nbsp;:</strong> la racine carrée $b$ d&#8217;une valeur positive $a$ est la valeur positive $b$ vérifiant $a=b \times b$. On la note $\sqrt{a}$.</li><li> <strong>Résolution&nbsp;:</strong> taille d&#8217;une image (nombre de pixels).</li><li> <strong>Sous-exposée&nbsp;:</strong> photographie d&#8217;une scène trop sombre pour laquelle l&#8217;objectif photographique n&#8217;est pas resté assez longtemps ouvert.</li><li> <strong>Synthèse additive&nbsp;:</strong> règle permettant de construire une couleur quelconque à partir des trois couleurs rouge, vert et bleu. C&#8217;est la règle qui régit le mélange des couleurs de faisceaux lumineux utilisés pour l&#8217;éclairage d&#8217;un mur blanc.</li><li> <strong>Synthèse soustractive&nbsp;:</strong> règle permettant de construire une couleur quelconque à partir des trois couleurs cyan, magenta et jaune. C&#8217;est la règle qui régit le mélange des couleurs en peinture.</li></ul></div>
+<div class="post-scriptum"><strong>Post-scriptum :</strong> <p>La rédaction d&#8217;Images des maths, ainsi que l&#8217;auteur, remercient pour leur relecture attentive,<br class='autobr'>
+les relecteurs dont le pseudonyme est le suivant&nbsp;: Fred, Ulysse et Anne-Laure Dalibard.</p></div>
+Article édité par <a href="_Istas-Jacques_.html">Istas, Jacques</a>
+<div class="block-share" id="partager">
+<div class="credits">
+<div class="cs_blocs" id="idm_bloc0"><h4 class="blocs_titre blocs_replie"><a href="javascript:;" onclick="toggle_bloc('idm_bloc0')">▶ 
+Cr&eacute;dits images
+</a></h4><div class="blocs_destination blocs_invisible blocs_slide">
+<a href="https://images-archive.math.cnrs.fr/freeze//img/arton946.png">Image à la une</a> - Merci à <a href="http://web.mac.com/maitine.bergounioux/PagePro/Accueil.html" class='spip_out' rel='external'>Maïtine Bergounioux</a> pour l&#8217;image d&#8217;hibiscus.
+<br/>
+</div></div>
+</div>
+</div>
+<div class="block-comments" id="commentaires">
+<h2>Commentaires</h2>
+<ul class="forum">
+<li  class="forum-fil">
+<li  class="comment">
+<div class="content">
+<div class="head">
+<h3>Le traitement numérique des images</h3>
+<h4>le 28 novembre 2011 à 11:28, par Jean-Paul Allouche</h4>
+</div>
+<div class="message">
+<p>Cet article est bien int&eacute;ressant, y compris (mais pas seulement) pour donner de jolies r&eacute;ponses &agrave; la question ---h&eacute;las sempiternelle--- de l&#8217;utilit&eacute; des math&eacute;matiques. Conna&icirc;t-on l&#8217;origine ou l&#8217;histoire des deux photos utilis&eacute;es ici, la fleur et le navire&nbsp;? Il y a quelques ann&eacute;es et essentiellement pour la compression l&#8217;image classique &eacute;tait une photographie de Lenna (ou Lena) dont on a fini par savoir qu&#8217;elle &eacute;tait la version recadr&eacute;e et assagie d&#8217;une photographie parue dans... Playboy (l&#8217;histoire de ladite photographie  peut se trouver <a href="http://www.lenna.org" class="spip_out" rel="external">ici</a>).</p>
+</div>
+</div>
+</li>        
+</li>
+<li  class="forum-fil">
+<li  class="comment">
+<div class="content">
+<div class="head">
+<h3>Le traitement numérique des images</h3>
+<h4>le 1er décembre 2011 à 21:53, par Gabriel Peyré</h4>
+</div>
+<div class="message">
+<p>Cher Jean-Paul,</p>
+<p>Merci&nbsp;!</p>
+<p>L&#8217;image de la fleur a été prise par <a href="http://web.mac.com/maitine.bergounioux/PagePro/Accueil.html" class="spip_out" rel="external">Maitine Bergounioux</a>, elle est remerciée en bas de la page dans les crédits photographiques.  L&#8217;image du bateau est une image standard pour tester les méthodes de compression, elle provient de &laquo;&nbsp;<a href="http://sipi.usc.edu/database/database.php?volume=misc" class="spip_out" rel="external">SIPI image database</a>&nbsp;&raquo;. L&#8217;image de Lena est la plus connue, mais il est souvent recommandé de ne pas l&#8217;utiliser dans les publications scientifiques.</p>
+<p>Amitiés,</p>
+<p>Gabriel</p>
+</div>
+</li>        
+<ul>
+<li>
+<li  class="comment">
+<div class="content">
+<div class="head">
+<h3>Le traitement numérique des images</h3>
+<h4>le 8 décembre 2011 à 16:57, par Thierry Barbot</h4>
+</div>
+<div class="message">
+<p>Par contre, il semble toujours d&#8217;actualité d&#8217;utiliser l&#8217;image de Lena en exposé de séminaire&nbsp;! Merci d&#8217;ailleurs pour cet exposé.</p>
+</div>
+</div>
+</li>              
+</li>
+</ul>
+</li>
+<li  class="forum-fil">
+<li  class="comment">
+<div class="content">
+<div class="head">
+<h3>Le traitement numérique des images</h3>
+<h4>le 2 décembre 2011 à 17:36, par Jean-Paul Allouche</h4>
+</div>
+<div class="message">
+<p>Merci Gabriel&nbsp;! je n&#8217;avais pas vu (et encore moins d&eacute;pli&eacute;) l&#8217;onglet des cr&eacute;dit photographiques pour l&#8217;hibiscus. Amiti&eacute;s, j.-p.</p>
+</div>
+</div>
+</li>        
+</li>
+</ul>
+</div>
+<br><hr style="height:4px; color:#293685; background-color:#293685">
+</div>
+<br class="cf cf-footer">
+</div>
+</section>
+</div>
+<script type="text/javascript" src="js/bloc.js"> </script>
+</body>
+</html>

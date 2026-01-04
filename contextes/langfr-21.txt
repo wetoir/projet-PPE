@@ -1,0 +1,242 @@
+     * HTTP Observatory
+
+     * Border-image generator
+     * Border-radius generator
+     * Box-shadow generator
+--
+   une page web soit ajoutée. Bien qu'il y ait plusieurs types de contenu
+   multimedia, il est logique de commencer avec l'humble élément <img>,
+   utilisé pour intégrer une image dans une page web. Dans cet article,
+   nous approfondirons son utilisation en abordant les principes
+   fondamentaux, l'annotation par légendes utilisant <figure>, et en
+--
+Dans cet article
+
+     * Comment intégrer une image à une page web ?
+     * Légender des images avec figure et figcaption
+     * Images d'arrière-plan CSS
+
+Comment intégrer une image à une page web ?
+
+   Pour mettre une image simple sur une page web, nous utiliserons
+   l'élément <img>. C'est un élément vide (ce qui signifie qu'il ne
+   contient ni texte ni balise de fermeture) qui demande au moins un
+   attribut pour fonctionner — src (souvent appelé par son nom entier:
+   source). L'attribut src contient un chemin pointant vers l'image que
+   vous voulez intégrer, qui peut être une URL absolue ou relative, de la
+   même manière que l'élément <a> href= attribue des valeurs.
+--
+   pour vous rafraîchir la mémoire avant de continuer.
+
+   Donc, par exemple, si votre image s'appelle dinosaur.jpg, et qu'elle
+   est située dans le même répertoire que votre page HTML, vous pouvez
+   intégrer cette image comme ceci (URL relative) :
+   html
+<img src="dinosaur.jpg" />
+
+   Et si cette image se trouve dans un sous-répertoire images situé dans
+   le même dossier que la page HTML (ce que Google recommande pour
+   SEO/dans un but d'indexation et d'optimisation de la recherche), alors
+--
+   Ainsi de suite.
+
+   Note : Les moteurs de recherche lisent aussi les noms de fichiers image
+   et s'en servent pour optimiser la recherche. Donc, donnez à vos images
+   des noms de fichiers descritifs et qui ont du sens. dinosaur.jpg est
+   infiniment mieux que img835.png.
+
+   Vous pouvez intégrer l'image en utilisant son URL absolue, par exemple
+   :
+   html
+--
+
+   Attention : La plupart des images ont des droits d'auteur. N'affichez
+   jamais une image sur votre site à moins que :
+
+   1) Ce soit votre image (vous en êtes le créateur), 2) vous ayez reçu
+   une permission explicite et écrite du propriètaire de l'image ou, 3)
+   que vous ayez une preuve indiscutable que cette image appartient au
+   domaine public.
+
+   Les violations des lois sur les droits d'auteur sont non seulement
+   illégales mais aussi non-éthiques. De plus, ne faites jamais pointer
+   votre attribut src vers une image hébergée sur le site de quelqu'un
+   d'autre sans en avoir l'autorisation. Cela s'appelle du "hotlinking".
+   Souvenez-vous que voler de la bande passante à quelqu'un est aussi
+   illégal. Cela ralentit aussi votre page et vous laisse sans contrôle si
+   l'image est enlevée ou remplacée par une autre plus gênante...
+
+   Le code au-dessus vous donnera, à peu prés, le résultat suivant :
+
+   A basic image of a dinosaur, embedded in a browser, with "Images in
+   HTML" written above it
+
+--
+   des éléments "remplacés". C'est parce que le contenu et la taille de
+   ces éléments sont définies par une ressource externe (comme un fichier
+   image ou video), pas par le contenu de l'élément lui-même.
+
+   Note : Vous trouverez les exemples finis de cette section sur Github
+--
+
+   Le prochain attribut que nous allons étudier est alt. Sa valeur est
+   supposée être un descriptif sous forme de texte de l'image, à utiliser
+   dans les cas où l'image ne peut être affichée. Exemple : le code
+   au-dessus pourrait être modifié de cette manière :
+   html
+--
+   afficherait le texte alt à la place :
+
+   The Images in HTML title, but this time the dinosaur image is not
+   displayed, and alt text is in its place.
+
+--
+     * Comme nous l'avons vu au-dessus, vous pourriez avoir mal épelé le
+       nom ou le chemin du fichier.
+     * Le navigateur ne gère pas ce type d'image. Certains utilisent
+       encore des navigateurs en terminal, affichant seulement du texte
+       (comme Lynx), qui affichent le texte alt des images.
+--
+
+   Que devriez-vous noter dans vos attributs alt ? En premier lieu, cela
+   dépend de la raison pour laquelle cette image se trouve là. En d'autres
+   mots, ce que vous perdriez si cette image ne s'affichait pas :
+     * Decoration. Vous devriez utiliser des images d'arrière-plan CSS
+       pour les images décoratives mais si vous devez utiliser du HTML,
+       ajoutez un alt="" vide. Si l'image ne fait pas vraiment partie du
+       contenu, un lecteur d'écran ne perdra pas de temps à la lire.
+     * Contenu. Si votre image fournit une ou plusieurs informations
+       supplémentaires significatives, inscrivez ces mêmes informations
+       dans un bref alt text – ou mieux, dans le texte principal, que tout
+       le monde puisse les voir. N'écrivez pas de alt text redondants.
+       Imaginez combien ce serait ennuyeux pour un lecteur si tous les
+       paragraphes étaient écrits en double... Si l'image est décrite de
+       manière adéquate dans le corps de texte principal, vous pouvez
+       utiliser simplement alt="".
+     * Lien. Si vous mettez une image à l'intérieur d'une ancre <a> pour
+       transformer une image en lien, vous devez quand même fournir un
+       Lien texte accessible. Dans de tels cas, vous pouvez, soit
+       l'inclure dans le même élément <a>, soit dans l'attribut alt de
+       l'image – utilisez ce qui marche le mieux dans votre cas.
+     * Texte. Vous ne devez pas mettre de texte dans les images. Si votre
+       titre principal a besoin d'un peu d'ombrage par exemple, utilisez
+       CSS pour ça, plutôt que de mettre du texte dans une image. De
+       toutes manières, si vous ne pouvez pas éviter de faire ça, vous
+       devez ajouter le texte dans l'attribut alt .
+--
+
+   Vous pouvez vous servir des attributs width et height pour spécifier la
+   largeur et la hauteur de votre image. Vous pouvez trouver la largeur et
+   la hauteur de différentes manières. Sur Mac, par exemple, vous pouvez
+   utiliser Cmd + I pour afficher l'info relative au fichier image. Pour
+   revenir à notre exemple, nous pourrions faire ceci :
+   html
+--
+
+   Cela ne fait pas grande différence à l'affichage dans des circonstances
+   normales. Mais, si l'image n'est pas affichée, disons que l'utilisateur
+   est juste arrivé sur la page et qu'elle n'est pas encore chargée, vous
+   remarquerez que le navigateur laisse un espace pour qu'elle y
+--
+
+   De toutes manières, vous ne devez pas altérer la taille de vos images
+   avec les attributs HTML . Si vous réglez la taille de l'image trop
+   grande, vous aurez un résultat avec beaucoup de "grain", flou ou trop
+   petit et vous dépensez de la bande passante en téléchargeant une image
+   qui ne convient pas aux besoins de l'utilisateur. Votre image peut
+   aussi sortir distordue, si vous n'en maintenez pas le bon Format
+   d'image. Vous devriez utiliser un éditeur d'images pour la mettre à la
+   bonne taille avant de la mettre dans votre page web.
+
+   Note : Si vous devez absolument modifier une taille d' image, vous
+   devriez vous servir de CSS .
+
+--
+   Cela donne une info-bulle avec le texte entré dans l'attribut title :
+
+   The dinosaur image, with a tooltip title on top of it that reads A
+   T-Rex on display at the Manchester University Museum
+
+   Il n'est pas essentiel d'inclure des informations dans les images. Il
+   est souvent préférable d'écrire ces informations dans le texte
+   principal plutôt qu'attaché à l'image. Ils peuvent être très utile dans
+   d'autres circonstances, par exemple dans une galerie d'images où vous
+   n'avez pas de place pour les légendes.
+
+Pédagogie active : incorporer une image
+
+   À vous de jouer maintenant ! Cette section dédiée à l'apprentissage
+   interactif va vous tenir en haleine avec un simple exercice
+   d'intégration d'image. Vous allez un peu travailler l'anglais aussi. Il
+   vous est fourni une étiquette basique <img> ; Il va vous falloir
+   incorporer l'image située à l'URL suivante :
+https://raw.githubusercontent.com/mdn/learning-area/master/html/multimedia-and-e
+mbedding/images-in-html/dinosaur_small.jpg
+--
+   Nous avons encore quelques petites choses pour vous :
+     * Ajoutez du texte alt , et vérifiez qu'il marche en faisant une
+       faute dans l'URL de l'image.
+     * Réglez l'image à une bonne taille : width et height ( conseil :
+       c'est 200px wide (large) and 171px high (haut)), puis expérimentez
+       d'autres valeurs pour en appréhender les effets.
+     * Mettez un title sur l'image.
+
+   Si vous faites une erreur, vous pouvez toujours remettre à zéro en
+--
+
+   En parlant de légendes, il y a de nombreuses manières d'en ajouter qui
+   ira avec votre image. Par exemple, rien ne vous empêche de faire ceci :
+   html
+<div class="figure">
+--
+   C'est bon. Ça contient ce que vous voulez et c'est aisément stylisable
+   en CSS. Mais il y a un problème : il n'y a rien de sensé qui relie
+   l'image à sa légende. Ce qui peut poser des problèmes à un lecteur
+   d'écran. Par exemple, quand vous avez 50 images, quelle légende va avec
+   quelle image ?
+
+   Une meilleure solution consiste en l'utilisation des éléments HTML5
+--
+
+   Note : D'un point de vue accessibilité, les légendes ont un rôle
+   différent du texte alt. Le texte alt ne sert qu'en absence d'image
+   tandis que les légendes servent en même temps aux utilisateurs qui
+   voient l'image. Les légendes et le texte alt devraient cependant être
+   différents car ils apparaissent tout deux quand l'image est absente.
+   Essayez d'enlever les images dans votre navigateur et voyez à quoi ça
+   ressemble.
+
+   Un objet <figure> n'est pas forcé de contenir une image. C'est une
+   unité de contenu indépendante qui :
+     * exprime votre désir d'accessibilité et de compréhension facilitée.
+--
+     * Encapsulez-le dans un élément <figure> .
+     * Copiez le texte de l'attribut, enlevez l'attribut title et mettez
+       le texte dans un élément <figcaption> sous l'image.
+
+   Si vous faites une erreur, vous pouvez toujours remettre à zéro en
+--
+   Vous pouvez également utiliser du CSS pour intégrer des images dans vos
+   pages web (ou JavaScript, mais c'est une autre histoire). Les
+   propriétés CSS background-image et background, sont utilisées pour
+   contrôler le placement de l'image d'arrière-plan. Par exemple, pour
+   placer une image d'arrière-plan sur chaque paragraphe de la page, vous
+   pourriez faire ceci :
+   css
+p {
+  background-image: url("images/dinosaur.jpg");
+}
+
+   Le résultat est probablement plus facile à positionner et contrôler
+   qu'une image HTML. Donc, pourquoi s'ennuyer avec des images HTML ?...
+   Comme il y est fait allusion au-dessus, les images CSS sont là
+   seulement pour la décoration. Si vous voulez ajouter quelque chose
+--
+   Mais, ces images n'ont pas d'indication sémantique. Elles ne peuvent
+   pas avoir d'équivalent texte, sont invisibles aux lecteurs d'écran,
+   etc... C'est le moment, pour l'image HTML, de se mettre en valeur !
+
+   En résumé : si une image a du sens, en terme de contenu, vous devriez
+   utiliser une image HTML. Si une image n'est que pure décoration, il
+   vaut mieux utiliser les images d'arrière-plan CSS.
+

@@ -1,0 +1,349 @@
+    #Philo-lettres » Flux Philo-lettres » Flux des commentaires alternate
+   alternate
+
+   Philo-lettres
+   Par
+   Michèle Tillard [picto-youtube.svg]
+
+   Ouvrir le menu
+     * Langues anciennes
+          + Grec ancien
+          + Latin
+     * Etudes littéraires
+          + Grammaire française
+          + Littérature française
+          + Littérature étrangère
+          + Littérature comparée
+          + Stylistique
+          + Méthodologie des exercices littéraires
+     * Productions personnelles
+          + Littérature et fiction
+          + Essais et études
+          + Le blog d’Artemisia L
+
+Une notion stylistique essentielle : l’image
+
+Définition de l’image
+
+   De quoi parle-t-on lorsque l’on parle d’image ? Écartons tout d’abord
+   l’image, dessinée ou peinte, qui représente (ou non) une réalité :
+   vignette, affiche, illustration, tableau…
+
+   Nous nous intéressons ici à l’image rhétorique, c’est-à-dire textuelle,
+   telle qu’on la trouve essentiellement en poésie, mais également en
+   prose.
+
+L’image visuelle ou image mentale
+
+   Il s’agit d’une description ou d’une évocation : paysage, portrait,
+   scène… Elle peut prendre la forme d’une hypotypose. L’image n’a qu’un
+   sens, même si celui-ci peut avoir une valeur symbolique.
+
+   Ainsi, dans le poème « Automne » d’Apollinaire,
+
+      « Dans le brouillard s’en vont un paysan cagneux
+     Et son bœuf lentement dans le brouillard d’automne
+     Qui cache les hameaux pauvres et vergogneux«
+
+   Le tableau entier peut apparaître comme le symbole de la mélancolie.
+
+L’image littéraire
+
+   Il y a image littéraire dès lors que s’introduit un deuxième sens,
+   analogique ou symbolique.
+
+   Une image est donc composée de deux éléments  :
+    1. Le thème ou comparé : ce dont on parle.
+    2. Le phore ou comparant : ce qui sert à désigner le thème d’une
+       manière figurée
+
+   Exemple : dans « un teint de neige », le teint est le thème, ou comparé
+   ; la neige est le phore, ou comparant.
+
+   Ce qui les unit est un rapport d’analogie, fondé sur l’isotopie de la
+   blancheur.
+
+Les rapports entre le thème et le phore
+
+     * Quand le phore est plus concret que le thème (cas le plus
+       fréquent), l’image est dite « concrète ».
+       Exemple : « un secret lourd comme du plomb »
+     * Quand le phore est plus abstrait que le thème (ce qui est rare),
+       l’image est dite « abstraite ».
+       Exemple : « Son parfum doux comme un secret«  (Baudelaire)
+
+Les jeux sur l’isotopie
+
+   L’isotopie est le domaine de réalité auquel renvoient les différentes
+   parties du texte. Dans le cas de l’image littéraire, l’isotopie est
+   complexe, c’est-à-dire que l’un des termes se voit attribué un plus
+   grand degré de réalité.
+     * Quand le thème est « plus vrai » que le phore, on parle d’isotopie
+       positive
+       Dans l’exemple cité plus haut, le parfum, chez Baudelaire, a plus
+       de réalité que le secret.
+     * Quand le phore est « plus vrai » que le thème (c’est-à-dire quand
+       le comparant est assumé comme totalement vrai, et le comparé
+       seulement vrai partiellement), on parle d’isotopie négative.
+     * L’isotopie est dite en équilibre quand le thème et le phore ont
+       autant de réalité l’un que l’autre.
+       La poésie de Reverdy tend vers ce type d’isotopie. L’image
+       reverdienne reste une image, car les deux termes se figurent l’un
+       l’autre.
+
+   Mais ce qui importe le plus dans l’analyse de l’image, ce sont les
+   rapports sémantiques entre le thème et le phore, rapports plus ou moins
+   évidents ou éloignés.
+
+   Toutes les recherches de la poésie moderne visent justement à revoir
+   ces rapports, dans le sens d’un éloignement de plus en plus grand, afin
+   de créer la surprise ou le mystère.
+
+   Parmi les textes essentiels sur l’image, relisons celui de Pierre
+   Reverdy, paru dans la revue Nord-Sud n° 13, en mars 1913.
+
+L’Image
+
+     L’Image est une création pure de l’esprit.
+
+     Elle ne peut naître d’une comparaison mais du rapprochement de deux
+     réalités plus on moins éloignées.
+
+     Plus les rapports des deux réalités rapprochées seront lointains et
+     justes, plus l’image sera forte – plus elle aura de puissance
+     émotive et de réalité poétique.
+
+     Deux réalités qui n’ont aucun rapport ne peuvent se rapprocher
+     utilement. Il n’y a pas création d’image.
+
+     Deux réalités contraires ne se rapprochent pas. Elles s’opposent.
+
+     On obtient rarement une force de cette opposition.
+
+     Une image n’est pas forte parce qu’elle est brutale ou fantastique –
+     mais parce que l’association des idées est lointaine et juste.
+
+     Le résultat obtenu contrôle immédiatement la justesse de
+     l’association.
+
+     L’Analogie est un moyen de création – C’est une ressemblance de
+     rapports ; or de la nature de ces rapports dépend la force ou la
+     faiblesse de l’image créée.
+
+     Ce qui est grand ce n’est pas l’image – mais l’émotion qu’elle
+     provoque ; si cette dernière est grande on estimera l’image à sa
+     mesure.
+
+     L’émotion ainsi provoquée est pure, poétiquement, parce qu’elle est
+     née en dehors de toute imitation, de toute évocation, de toute
+     comparaison.
+
+     Il y a la surprise et la joie de se trouver devant une chose neuve.
+
+     On ne crée pas d’image en comparant (toujours faiblement) deux
+     réalités disproportionnées.
+
+     On crée, au contraire, une forte image, neuve pour l’esprit, en
+     rapprochant sans comparaison deux réalités distantes dont l’esprit
+     seul a saisi les rapports.
+
+     L’esprit doit saisir et goûter sans mélange une image créée.
+
+     *
+
+     *       *
+
+     La création de l’image est donc un moyen poétique puissant et l’on
+     ne doit pas s’étonner du grand rôle qu’il joue dans une poésie de
+     création.
+
+     Pour rester pure cette poésie exige que tous les moyens concourent à
+     créer une réalité poétique.
+
+     On ne peut y faire intervenir des moyens d’observation directe qui
+     ne servent qu’à détruire l’ensemble en détonnant. Ces moyens ont une
+     autre source et un autre but.
+
+     Des moyens d’esthétiques différentes ne peuvent concourir à une même
+     œuvre.
+
+     I1 n’y a que la pureté des moyens qui ordonne la pureté des œuvres.
+
+     La pureté de l’esthétique en découle.
+
+   Pierre Reverdy, Nord-Sud, n° 13, mars 1918.
+
+   Que retenir de ce texte ? Tout d’abord, l’image ne découle pas des
+   sens, ni d’un inconscient, mais de l’esprit : elle reste une création
+   consciente, intellectuelle, volontaire – ce qui s’opposera à toute
+   forme d’écriture automatique, ou d’arbitraire, telles qu’on les
+   retrouvera chez les Surréalistes.
+
+   De même, Reverdy insiste sur la justesse de l’image : si elle permet de
+   rapprocher deux réalités « plus ou moins éloignées », il doit subsister
+   un rapport entre le thème et le phore ; l’image ne peut naître d’une
+   simple contiguité phonique, par exemple ; et c’est de la nouveauté de
+   ce rapport que naît la force de l’image, et donc l’émotion – but ultime
+   du poète.
+
+   Voir l’étude de l’image dans le premier texte des Jockeys camouflés de
+   Reverdy.
+
+Quelques types d’images.
+
+La synecdoque
+
+   Fondée sur un rapport d’inclusion logique, elle exploite la relation
+   lexicale d’hypéronymie :
+     * hyponyme mis pour l’hyperonyme (« pain » = nourriture dans le Pater
+       Noster)
+     * hypéronyme mis pour l’hyponyme (« animal » = le lion)
+
+   La synecdoque déplace également les limites de l’extension du mot ou de
+   l’expression :
+     * synecdoque du nombre (« la vague » pour « les vagues »)
+     * synecdoque d’individu ou antonomase : « le philosophe » = Aristote
+
+La métonymie
+
+   Elle substitue au signifié littéral un signifié dérivé, l’un étant
+   traité, dans son entier, comme un
+
+   élément de l’autre.
+     * La partie pour le tout : « une prunelle moins irritée » (Prologue
+       de la Saison en enfer) ; la prunelle est mise pour l’œil, lui-même
+       mis pour le regard.
+     * Le tout pour la partie (rare). Ex : « laver la cuisine » = laver le
+       sol de la cuisine.
+     * métonymie de la matière : « le fer », « les vitres »
+     * métonymie du contenant : « boire un verre »
+     * métonymie de l’effet pour la cause
+     * métonymie du lieu : un bordeaux, un camembert
+     * métonymie du corps : « les cœurs » (Prologue de la Saison en enfer)
+       = l’amour, la personne amoureuse ?
+
+   On peut observer que la métonymie prend parfois un caractère
+   ethnologique, comparable aux aphérèses des lexiques spécialisés : Henri
+   Suhamy cite dans son ouvrage Les Figures de style (Que Sais-je n°1889,
+   9ème édition, 2000, p. 47) les exemples suivants :
+     * « Il a des villages et des appellations plein sa cave, mais il ne
+       vous servira que du onze degrés.
+     * « Cette cuvée vaut bien un Dom Pérignon. »
+     * « Dégustez-moi ce bouquet, c’est du propriétaire, pas du
+       négociant. »
+
+   De telles expressions risquent d’échapper totalement à qui n’a pas un
+   minimum de connaissances œnologiques, et notamment aux étrangers !
+
+   Une forme particulière de métonymie, l’abstraction, ou métonymie par la
+   qualité : c’est une variété de métonymie consistant à remplacer un
+   adjectif qualificatif par le nom abstrait qui lui correspond. Forme
+   chère aux Goncourt sur laquelle ironise Maupassant dans Pierre et Jean
+   : « ceux qui font tomber la grêle ou la pluie sur la propreté des
+   vitres ».
+
+   Cf. aussi le Songe d’Athalie : « C’était pendant l’horreur d’une
+   profonde nuit ». Cf. Gradus, p. 17.
+
+   Tartuffe use souvent d’abstraction : « les vains efforts de mon
+   infirmité » ; ou « mon néant » (v. 984) ; ou encore « vos bontés »
+
+La métaphore
+
+   On observe ici un phénomène d’intersection sémique entre les unités
+   mises en jeu.
+     * métaphore in praesentia (terme imagé présent) ou in absentia (terme
+       imagé absent, il faut le déduire du contexte).
+     * métaphore modalisée : « comme », « je dirais que »…
+     * Comparaison : A est comme B
+     * Analogie : A est à B ce que C est à D
+     * Métaphore filée : succession de métaphores dont les imageants
+       appartiennent au même réseau isotopique.
+
+   Il est parfois artificiel de séparer métaphores et comparaisons, l’une
+   prenant souvent le relais de l’autre.
+
+   Un ex. dans l’Espoir, p. 488 (également cité par H. Suhamy) :
+
+     « L’hôpital… Gratte-ciel morne et meurtrier, ruine de tour
+     babylonienne, il rêve comme un bœuf parmi les obus qui le giflent de
+     décombres.«
+
+     * Le verbe « giflent » est métaphorique ; il contient le sème /animé/
+       qui ne correspond ni à son sujet, ni au COD.
+     * « comme un bœuf » est une comparaison ; « ruine de tour
+       babylonienne » est une métaphore. Mais il aurait suffi que Malraux
+       écrive « Bœuf qui rêve » ou « comme une ruine » pour que le rapport
+       soit inversé. On peut parler ici de séquence d’images.
+
+   Autre exemple d’imbrication :
+
+     « Bogaert sentit que la journée s’écoulerait bêtement et lentement,
+     comme une rivière sans poissons devant l’ombre d’un pêcheur à la
+     ligne ».
+
+     Pierre Mac Orlan, La Cavalière Elsa.
+
+   Ici la comparaison s’accompagne d’une syllepse, le verbe « s’écouler »
+   ayant simultanément le sens abstrait et le sens concret.
+
+Image impressive ou hypothétique
+
+   Introduite par « comme si » ou « on eût dit », elle passe d’un premier
+   terme donné comme réel, à un 2^ème présenté comme irréel ou
+   fantastique. On en trouve des exemples dès Shakespeare, mais elle est
+   utilisée surtout à partir de Chateaubriand.
+
+L’image surréaliste
+
+   Elle transgresse la règle des ressemblances : « La terre est bleue
+   comme une orange ».
+
+   Elle est parfois de forme A = B : « Le sommeil est une fontaine /
+   pétrifiante » (Cocteau, Opéra).
+
+   Comme Mallarmé, qui voulait « supprimer le mot ‘comme’ du
+   dictionnaire », les Surréalistes tendent, dans la métaphore, à
+   supprimer délibérément le thème, c’est à dire le terme imagé ; d’où
+   l’hermétisme, et la création de véritables métaphores-énigmes.
+
+   Rechercher : ____________________ Rechercher
+
+   [by-nc-sa.png]
+
+   Philo-lettres de Michèle Tillard est mis à disposition selon les termes
+   de la licence Creative Commons Paternité – Pas d’Utilisation
+   Commerciale – Pas de Modification 3.0 non transcrit.
+   Contact
+
+   Votre nom (obligatoire)
+   ________________________________________
+
+   Votre e-mail (obligatoire)
+   ________________________________________
+
+   Votre message
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+
+   IFRAME:
+   https://www.google.com/recaptcha/api/fallback?k=6LddDy4UAAAAAKG53Vsdv2c
+   vgtPGyoczeg5jfGNP
+
+
+   <br />______________________________________________________
+   				________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Envoyer
+   Lawyeria Lite propulsé par WordPress

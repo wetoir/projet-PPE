@@ -1,0 +1,327 @@
+    #Philopsis » Flux Philopsis » Flux des commentaires JSON oEmbed (JSON)
+   oEmbed (XML) Philopsis RSS2 Feed
+
+   Philopsis Philopsis
+
+     * Les concours ⌄
+          + Programmes
+          + Sujets de l’écrit
+          + Rappports de jury
+     * Agrégations ⌄
+          + Interne
+          + Externe
+     * ENS
+     * Archives ⌄
+          + Thèmes
+          + Auteurs
+     * A propos
+     * Contact
+     * Connexion ⌄
+          + Inscription
+          + Mon compte
+     * Rechercher
+     * Menu Menu
+
+     * X
+
+   Vous êtes ici : Accueil1 / Archives Thèmes2 / L'image3 / Lecture :
+   Qu’est-ce qu’une image ?
+
+   image_chemins_phi.jpg image_chemins_phi.jpg
+
+Lecture : Qu’est-ce qu’une image ?
+
+   L'image
+
+   Jacques Morizot, Qu’est-ce qu’une image ?
+   Les théories contemporaines de l’image ; des éléments à la
+   configuration
+   Vrin, « Chemins philosophiques »
+
+   image_chemins_phi.jpg image_chemins_phi.jpg Dans la collection «
+   Chemins philosophiques », dirigée par R. Pouivet, l’ouvrage de Jacques
+   Morizot, Qu’est-ce qu’une image ? (Paris, Vrin, 2005), confirme et
+   renforce l’excellente tenue d’ensemble de la collection, et son utilité
+   pour les études philosophiques. En un nombre restreint de pages (128
+   ici précisément), cet essai offre un panorama complet des éléments
+   d’une théorie de l’image et passe en revue les principaux débats
+   philosophiques qui ont pour objet la production et la réception des
+   images, sans limiter celles-ci aux seules œuvres d’art. De ce qui
+   précède on déduira l’impossibilité de proposer un résumé de cette étude
+   ; sa densité n’autoriserait au mieux qu’une réduction arbitraire. On
+   trouvera donc ici une sorte de mode d’emploi de ce manuel qui, en toute
+   clarté, offre plusieurs niveaux ou modes de lecture et d’information
+   critique.
+
+   L’ouvrage de J. Morizot se conforme au plan qui constitue une marque de
+   fabrique de la collection en faisant suivre une première partie
+   généraliste qui détaille les éléments d’une théorie de l’image (pages 7
+   à 78) de l’explication de deux textes, Descartes d’abord pour un
+   extrait de la Dioptrique, puis Flint Schier pour un extrait (traduit
+   par J. Morizot) de Deeper into Pictures (pages 79 à 126).
+
+   Le parti pris adopté par l’auteur d’un refus de toute perspective
+   chronologique se manifeste dès les premières pages. Il est en fait
+   subordonné à la volonté d’aborder les approches théoriques de l’image à
+   partir d’une définition initiale de l’image comme représentation. Dès
+   lors, l’ensemble de la première partie peut être lue comme un
+   approfondissement de cette définition, de la notion de représentation
+   et des problèmes philosophiques qu’elle induit. La première
+   caractéristique que J. Morizot attribue à l’image, c’est la spatialité
+   ; et le traitement de cette caractéristique renvoie à la méthode
+   générale utilisée. A partir du Tractatus de Wittgenstein, la spatialité
+   est définie comme présence simultanée des parties de l’image, comme
+   l’interdépendance de ces parties ; suit une conséquence tirée de
+   Wollheim pour la représentation : la capacité représentationnelle d’une
+   image dépend de l’organisation de ses parties (avec un raisonnement a
+   contrario intéressant – si on modifie cette organisation des parties,
+   la représentation n’est plus donnée au regard mais réclame des
+   inférences inhabituelles pour une image – et une note, page 14, sur la
+   lecture discursive, et donc également inhabituelle, des images conçues
+   pour les aveugles). La reprise de cette spatialité de l’image quant à
+   sa valeur esthétique est ensuite confiée à Lessing, qui établit
+   l’impossibilité d’une transposition des procédés picturaux aux procédés
+   poétiques, et conteste la formule classique de l’ut pictura poesis,
+   puis à un paragraphe qui montre comment K. Fiedler (1887) assigne à la
+   peinture la tâche d’épurer le voir des scories de notre rapport visuel
+   quotidien avec le réel. Définir la spatialité, la lier à la notion de
+   représentation iconique, opposer la peinture aux autres arts et en même
+   temps à la perception du réel ; le trajet ne quitte pas des yeux la
+   définition : l’image est représentation.
+
+   Le chapitre que J. Morizot intitule « Image et substitut », qui vient
+   après l’énumération problématisée des caractéristiques de l’image
+   (spatialité, structure analogique, nature / convention), montre comment
+   l’étude, dans son ensemble, se développe sur plusieurs plans
+   simultanément. Le premier est celui d’une analyse « verticale » des
+   aspects théoriques de l’image. Ainsi, ce chapitre pose d’abord la
+   question des liens entre représentation et réalité, distingue deux sens
+   de la représentation : la représentation atteint le réel par imitation
+   ou par projection, elle est une « description iconique correcte » d’une
+   réalité identifiée ou une configuration qui permet d’identifier
+   certains traits d’une « réalité possible » (p.25) ; puis constate que
+   ces deux approches sont inconciliables. La suite du chapitre opère un
+   double détour anthropologique et historique qui s’appuie sur la pensée
+   de Gombrich (c’est L’art et l’illusion qui est utilisé essentiellement)
+   pour faire apparaître une autre définition de la représentation –
+   désormais, représenter c’est ou bien « réaliser une copie », ou bien
+   concevoir, fabriquer un « substitut efficace » (p.26-27). Dans le
+   second sens, la représentation devient une image conceptuelle, et les
+   jeux d’enfants (un bâton de bois agrémenté d’un semblant de crinière,
+   dit Gombrich, se substitue au cheval) comme les effigies du Moyen Age
+   (simulacres qui remplaçaient le corps du roi) renvoient à ce sens, à
+   cette fonction. Une perspective plus spécifique de l’histoire des arts,
+   que l’on doit encore à Gombrich, montre la succession dialectique des
+   arts premiers (image conceptuelle), de la Renaissance (image copie), et
+   de l’art moderne et contemporain qui accepte l’homogénéité de la
+   ressemblance (entre l’image peinte et le réel) mais retrouve la
+   fonction conceptuelle et projective dans les ruptures. Cette analyse
+   générale s’accompagne paragraphes et de notes qui multiplient les
+   points de repères théoriques (Willats, Lévi-Strauss) et les renvois aux
+   œuvres (Rembrandt, Juan Gris, Dali). Mais un second niveau de lecture
+   émerge, qui invite le lecteur à repérer une continuité entre les
+   problèmes abordés, les glissements notionnels, d’un chapitre à l’autre.
+   Dans le passage consacré à la structure analogique de l’image, J.
+   Morizot oppose image et langage, et distingue déjà un fonctionnement
+   conceptuel de l’image et l’élargissement des potentialités
+   d’information que recèle en revanche l’image copie (qui excède la
+   description que l’on peut en faire). De la même façon, on retrouvera
+   les jeux d’enfants dans le chapitre suivant, utilisés cette fois par
+   Walton pour décrire l’image comme le support de projection de
+   l’imagination dans un jeu de faire semblant. Cette trame « horizontale
+   », qui se tisse par juxtaposition et décalage, permet au lecteur de
+   reposer les questions dans ses propres termes. Si l’image mimétique se
+   présente comme un terme récurrent du débat, il faudra à l’opposé
+   reconnaître à l’image une fonction conceptuelle, qu’on greffera soit
+   sur le langage (fonction cognitive), soit sur l’usage social du médium
+   (fonction anthropologique). La notion de symbole, on le devine bien,
+   doit entrer en jeu, mais cela ne revient pas au même de construire le
+   symbole comme un schème ou de l’inclure dans une activité sociale.
+   Cette interrogation se reportera sur la partie de l’ouvrage intitulée «
+   Faire fonctionner les images » (p.54 à 78) consacrée à une présentation
+   critique des thèses de N. Goodman. D’une certaine façon, ces thèses
+   permettent d’articuler les deux aspects de l’image qui se trouvaient
+   jusque là disjoints : d’un côté l’image se prête à une analyse qui la
+   décompose en éléments et leur attribue des fonctions syntaxiques et
+   sémantiques (Goodman place au centre de son travail les modalités de la
+   référence), de l’autre l’image se manipule comme un tout (la notion
+   d’implémentation décrit les conditions de fonctionnement de l’image
+   dans un contexte social et culturel qu’elle contribue à façonner). Ces
+   deux niveaux de lecture de l’ouvrage de J. Morizot mettent en place une
+   configuration théorique qui préserve la lisibilité de ses éléments
+   (notions, distinctions, arguments).
+
+   Dans son étude, J. Morizot met en évidence les tensions théoriques qui
+   affectent toute prise de position philosophique à propos des images.
+   Son but est clairement de capter le caractère vivant des débats
+   contemporains. Mais ce jeu des tensions, des impasses et des synthèses
+   qu’il faudra remettre en question, est présenté suivant deux principes.
+   Le premier, manifeste, réduit chacune des théories convoquées à la
+   valeur heuristique de ses arguments. Le second consiste à proposer, une
+   fois fixées les limites du corpus philosophique (essentiellement
+   anglo-saxon, mais jamais exclusivement comme on l’a vu) et la méthode,
+   à élargir au maximum le spectre des débats. L’influence cumulée de ces
+   deux principes semble se traduire par la possibilité pour le lecteur de
+   repérer les notions et les moments du débat qui pourraient servir
+   d’ancrage aux textes plus anciens du corpus philosophique, ou qui
+   appartiennent à une autre tradition philosophique. Par exemple, le
+   chapitre « Les dualités de la représentation » illustre le premier
+   principe, organise une confrontation concise et très claire entre les
+   théories de Wollheim, Walton et Woltertorff à propos du terme qui doit
+   compléter de manière duelle la notion d’image (le « voir-dans » pour le
+   premier, l’imagination pour le second, l’intention pour le troisième).
+   Mais la possibilité nous est offerte de généraliser les termes de la
+   confrontation. Ainsi, on peut se demander si la critique adressée à
+   l’approche phénoménologique de Wollheim (peut-on se passer d’un lien
+   causal entre l’image et ce qu’elle représente ?) s’applique à toute
+   phénoménologie de l’image. De même, à propos de Walton, la position du
+   spectateur dans l’œuvre (il adhère à « l’ingéniosité des scénarios
+   proposés » dit Morizot, p.49) et hors de l’œuvre (il adopte cette fois
+   la position du critique) peut renvoyer à la fois à certaines catégories
+   aristotéliciennes (celles de muthos et de mimesis) ou à leur ambiguïté
+   (l’image peut-elle à la fois être le support d’un jeu pour le
+   spectateur et receler une information véritable ?).
+   Le premier texte commenté, celui de Descartes, résume toutes les
+   stratégies de J. Morizot. Dès les premières pages, il annonce son
+   intention de s’en tenir à l’étude des images visuelles, ce qui exclut
+   les images mentales. Le texte de Descartes tiré de la Dioptrique lui
+   permet néanmoins, sans avoir à consacrer un chapitre à l’étude directe
+   de ces dernières, de repérer les termes théoriques autour desquels
+   s’articulent ces deux types d’images. La notion de représentation vient
+   au premier plan et contribue à récuser l’idée d’un rapport de
+   ressemblance entre sensation et réalité qu’encourage le fait même de
+   l’image mentale. Les références aux passages de l’œuvre de Descartes
+   qui traitent des sensations, la comparaison entre les sensations
+   produites par le réel et celles qu’engendrent les tailles-douces
+   (procédé de gravure par taches d’encre) ou les liens entre la
+   perspective héritée de la Renaissance et la géométrie, élargissent la
+   topographie de la notion de représentation. Et le débat qui est hérité
+   de Descartes, qui confronte le caractère subjectif de l’expérience
+   sensible et l’objectivité d’un rationalisme appliqué à l’image est
+   guidé par des références à Merleau-Ponty et John Hyman. Le second texte
+   choisi par l’auteur semble en revanche privilégier l’exigence
+   d’exhaustivité en exposant les thèses de F. Schier publiées en 1986,
+   thèses qui restent encore confidentielles, au moins dans les débats
+   philosophiques français. Leur orientation générale se signale en outre
+   par un retour à la notion d’imitation, même si elle exclut celle de
+   ressemblance. L’image, en effet, est définie comme une représentation
+   qui doit faire l’objet d’une interprétation iconique qui consiste à
+   reconnaître ce qui est représenté. Cette interprétation serait obtenue
+   par « générativité naturelle » en mobilisant des facultés cognitives
+   variées, et il s’agit de montrer par quels apprentissages naît cette
+   interprétation et comment elle s’étend à l’ensemble des images. Cette
+   description recourt à une épistémologie « minimale », et la perspective
+   est à la fois psychologique et anthropologique. Toutefois, ce décalage
+   par rapport aux lignes de force qui prévalent dans le reste de l’étude,
+   qui réduit de manière draconienne la part du formalisme et même celle
+   du rationalisme se justifie par ses liens avec des théories du langage
+   beaucoup plus familières, comme celle de Davidson. L’approche de la
+   notion de représentation se renouvelle là encore, comme si les
+   ressources des débats contemporains la concernant ne pouvaient être
+   épuisées.
+
+   En définitive, nous suggérons au lecteur deux utilisations
+   complémentaires de cette étude de J. Morizot. La première consiste à
+   compléter sa connaissance des éléments qui constituent les diverses
+   théories de l’image, en termes de définitions, de distinctions,
+   d’argumentation et de bibliographie. La seconde vise l’articulation de
+   ces théories dans une configuration – on pourrait presque utiliser
+   l’image de la constellation – générale qui restitue les fractures (les
+   problèmes et les impasses) et les jeux de miroir, ou d’échos, pas
+   simplement entre les théories de l’image mais aussi entre ces théories
+   et les domaines philosophiques avoisinants. La philosophie de l’image
+   se présente, dans cette étude, à la fois comme un puzzle et comme un
+   microcosme.
+
+   image_chemins_phi.jpg image_chemins_phi.jpg
+
+   8 octobre 2007/par Dours Christian
+
+Partager cette publication
+
+     * Partager sur Facebook
+     * Partager sur X
+     * Partager sur LinkedIn
+     * Partager par Mail
+
+   https://philopsis.fr/wp-content/uploads/2007/10/image_chemins_phi.jpg
+   244 181 Dours Christian
+   https://philopsis.fr/wp-content/uploads/2020/02/logo_philopsis3-300x107
+   .png Dours Christian2007-10-08 15:24:002020-02-20 08:17:24Lecture :
+   Qu’est-ce qu’une image ?
+
+    ____________________
+
+     *
+
+NOUS SUIVRE SUR TWITTER
+     *
+
+            Pour rester informé des actualités et publications
+
+                            Follow @DupondPascal1
+
+     *
+
+LES DERNIERS ARTICLES
+     *
+          + Quand Bachelard lit Nietzsche27 décembre 2025 - 17:09
+          + Démocrite. « La vérité est au fond du puits »27 décembre 2025
+            - 14:46
+          + Arracher la vérité. Une figure de la violence souveraine23
+            décembre 2025 - 13:26
+          + La violence absolue. Une tentative de compréhension19 décembre
+            2025 - 14:26
+          + La violence verbale7 décembre 2025 - 18:47
+          + Choisir la non-violence19 octobre 2025 - 08:55
+
+   © 2025 - Philopsis - Tous droits réservés - Une réalisation Webevi
+
+     * Mentions légales
+     * Conditions générales
+     * Liens utiles
+
+   Nietzsche – Aurore – Commentaire par_dela_bien_et_mal.jpg
+   par_dela_bien_et_mal.jpg Par-delà Bien et Mal
+
+   Faire défiler vers le haut
+
+   Gérer le consentement
+   Pour offrir les meilleures expériences, nous utilisons des technologies
+   telles que les cookies pour stocker et/ou accéder aux informations des
+   appareils. Le fait de consentir à ces technologies nous permettra de
+   traiter des données telles que le comportement de navigation ou les ID
+   uniques sur ce site. Le fait de ne pas consentir ou de retirer son
+   consentement peut avoir un effet négatif sur certaines caractéristiques
+   et fonctions.
+   Fonctionnel [ ] Fonctionnel Toujours activé
+   L’accès ou le stockage technique est strictement nécessaire dans la
+   finalité d’intérêt légitime de permettre l’utilisation d’un service
+   spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
+   le seul but d’effectuer la transmission d’une communication sur un
+   réseau de communications électroniques.
+   Préférences [ ] Préférences
+   L’accès ou le stockage technique est nécessaire dans la finalité
+   d’intérêt légitime de stocker des préférences qui ne sont pas demandées
+   par l’abonné ou l’internaute.
+   Statistiques [ ] Statistiques
+   Le stockage ou l’accès technique qui est utilisé exclusivement à des
+   fins statistiques. Le stockage ou l’accès technique qui est utilisé
+   exclusivement dans des finalités statistiques anonymes. En l’absence
+   d’une assignation à comparaître, d’une conformité volontaire de la part
+   de votre fournisseur d’accès à internet ou d’enregistrements
+   supplémentaires provenant d’une tierce partie, les informations
+   stockées ou extraites à cette seule fin ne peuvent généralement pas
+   être utilisées pour vous identifier.
+   Marketing [ ] Marketing
+   L’accès ou le stockage technique est nécessaire pour créer des profils
+   d’internautes afin d’envoyer des publicités, ou pour suivre
+   l’utilisateur sur un site web ou sur plusieurs sites web ayant des
+   finalités marketing similaires.
+   Gérer les options Gérer les services Gérer {vendor_count} fournisseurs
+   En savoir plus sur ces finalités
+   (BUTTON) Accepter (BUTTON) Refuser (BUTTON) Voir les préférences
+   (BUTTON) Enregistrer les préférences Voir les préférences
+   {title} {title} {title}
+
+   (BUTTON) Gérer le consentement

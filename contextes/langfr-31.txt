@@ -1,0 +1,35 @@
+   valentin 25 août 202013 décembre 2020 33 Comments
+
+   Ces dernières années, le format d’image HEIF et ses variantes comme le
+   HEIC se sont installés au sein de nombreux appareils photo et
+   smartphones. Pour cause, ce nouveau format présente de nombreux
+--
+   Initialement développé par le Moving Picture Experts Group en 2015, ce
+   format se base sur les principes de la norme HEVC (High Efficiency
+   Video Coding). Il permet de stocker une image ou une séquence d’images
+   dans un unique fichier. Ce format est optimisé pour être le plus léger
+   possible en stockant les images à un taux de compression environ deux
+   fois supérieur aux images JPEG, sans pour autant réduire le niveau de
+   détail des photos.
+   format HEIC Le format HEIF ou HEIC peut stocker une image ou une
+   séquence d’images dans un unique fichier. Les photos stockées au format
+   HEIF présentent l’extension de fichier .heif, alors que les séquences
+--
+   avec ce format.
+   format HEIC Les fichiers HEIF et HEIC sont environ 60 % moins lourds
+   que des fichiers JPEG tout en offrant une qualité d’image accrue.
+
+
+--
+   pour s’assurer d’une parfaite prise en charge. Pour le moment, peu de
+   plateformes sont en effet compatibles avec ce format. Par conséquent,
+   pour convertir une image HEIC en JPEG, vous pouvez utiliser votre
+   logiciel de post-traitement habituel, puis simplement exporter l’image
+   en une photo JPEG.
+
+--
+   revanche réaliser une compression pour exporter le fichier en JPEGmini,
+   ce qui va légèrement diminuer le niveau de détail. Cela n’aura en
+   revanche aucune incidence pour partager votre image en ligne.
+   format HEIC HEICtoJPG.com permet de convertir en ligne des photos HEIC
+   au format JPEG / JPG.

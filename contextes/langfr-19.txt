@@ -1,0 +1,82 @@
+   confiance à ce que l'on voit en ligne.
+
+   Alors, comment repérer une image artificielle ? Voici six signes pour
+   repérer les fausses images, ainsi que mon détecteur d'images d'IA
+   gratuit préféré.
+--
+   étaient notoirement mauvais pour rendre un texte correct. Et c'est
+   toujours l'un des moyens les plus faciles de repérer un faux. Si vous
+   voyez l'image d'une affiche, d'une couverture de livre, d'un T-shirt ou
+   de toute autre chose qui vous semble un peu bizarre, mon premier
+   conseil est de zoomer sur le texte. Si les lettres ont l'air déformées,
+--
+   qu'il s'agit d'un faux.
+
+   Pour être honnête, les modèles d'image de l'IA se sont améliorés, en
+   particulier celui de Google Gemini. Mais il y a encore des erreurs.
+   Dans l'exemple ci-dessous, j'ai téléchargé une capture d'écran de
+   ChatGPT vers Gemini, ironiquement, et je lui ai donné une instruction
+   détaillée pour la placer sur une tablette et la superposer à un fond
+   vert et à un logo. J'ai même spécifié "conserver le texte sur l'image"
+   dans mon prompt. Le résultat ? À première vue, c'était plutôt bien.
+
+--
+   était légèrement de travers. Soupir. Presque, Gemini. Presque.
+
+   Et ChatGPT ? En faisant le même exercice, j'ai obtenu une image
+   chaotique et si manifestement fausse qu'elle ne vaut même pas la peine
+   d'être partagée.
+--
+   Prenez les exemples ci-dessous, générés par Midjourney et partagés par
+   un utilisateur sur X. Sur l'une des photos, une femme tient un appareil
+   photo avec ce qui semble être neuf doigts. L'image semble par ailleurs
+   assez réelle, bien que les sujets aient une peau impeccable et
+   éclatante. Sur l'autre photo, les articulations du sujet sont trop
+--
+   Mais nous allons nous pencher un peu plus sur la question ici.
+
+   Lorsque vous examinez une image photoréaliste générée par l'IA, vous
+   pouvez remarquer qu'elle ne semble pas réelle, bien qu'elle contienne
+   tous les détails du monde. Le sujet peut avoir un regard mort ou vide,
+--
+   gouttes, et les emballages ne présentent aucune tache d'huile.
+
+   Cette image a été partagée sur la page Facebook de l'entreprise et
+   présentée comme la nourriture qu'elle fabrique et vend. Je ne sais pas
+   ce qu'il en est pour vous. Mais je préfère voir de vraies photos de la
+--
+5. Beaucoup trop de choses se passent (chaos total)
+
+   Avez-vous déjà vu une image où il se passe beaucoup trop de choses à la
+   fois ?
+
+--
+   de l'espace blanc.
+
+   Si vous voyez une image chaotique qui semble attaquer vos globes
+   oculaires, il s'agit probablement d'une IA.
+
+--
+   lisse comme du plâtre. Les feuilles des arbres se confondent également.
+   Et les personnes sous le porche semblent être des personnages peints.
+   L'image semble en fait être une illustration. Il s'agit pourtant d'une
+   véritable photographie. Mais tous les détails ont été perdus.
+
+--
+   utiliser Circle to Search (appui long sur le bouton d'accueil) pour
+   demander directement si une photo est de l'IA. La fonction "À propos de
+   cette image" de Google Lens vous permet également de connaître le
+   contexte d'une photo, et notamment de savoir si elle est générée par
+   l'IA. Si une image est marquée avec le filigrane de Google (SynthID),
+   ces outils le signaleront.
+
+   De même, l'application Gemini de Google vous permet désormais de
+   télécharger une photo et de demander littéralement "Cette image
+   a-t-elle été créée avec l'IA de Google ?" Gemini vérifiera la présence
+   du filigrane SynthID et vous le signalera. Même sans filigrane, Gemini
+--
+   totalement précis, il vaut mieux s'en tenir aux outils gratuits.
+
+   Use free AI image detectors Use free AI image detectors
+
+   Google / Elyse Betters Picaro / ZDNET

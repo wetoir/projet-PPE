@@ -1,0 +1,1178 @@
+   #MDN Web Docs MDN Blog RSS Feed
+
+     * Skip to main content
+     * Skip to search
+
+   (BUTTON)
+
+   (BUTTON)
+
+   (BUTTON) HTML
+
+   HTML: Markup language
+
+   HTML reference
+
+          + Elements
+          + Global attributes
+          + Attributes
+          + See all…
+
+   HTML guides
+
+          + Responsive images
+          + HTML cheatsheet
+          + Date & time formats
+          + See all…
+
+   Markup languages
+
+          + SVG
+          + MathML
+          + XML
+
+   (BUTTON) CSS
+
+   CSS: Styling language
+
+   CSS reference
+
+          + Properties
+          + Selectors
+          + At-rules
+          + Values
+          + See all…
+
+   CSS guides
+
+          + Box model
+          + Animations
+          + Flexbox
+          + Colors
+          + See all…
+
+   Layout cookbook
+
+          + Column layouts
+          + Centering an element
+          + Card component
+          + See all…
+
+   (BUTTON) JavaScriptJS
+
+   JavaScript: Scripting language
+
+   JS reference
+
+          + Standard built-in objects
+          + Expressions & operators
+          + Statements & declarations
+          + Functions
+          + See all…
+
+   JS guides
+
+          + Control flow & error handing
+          + Loops and iteration
+          + Working with objects
+          + Using classes
+          + See all…
+
+   (BUTTON) Web APIs
+
+   Web APIs: Programming interfaces
+
+   Web API reference
+
+          + File system API
+          + Fetch API
+          + Geolocation API
+          + HTML DOM API
+          + Push API
+          + Service worker API
+          + See all…
+
+   Web API guides
+
+          + Using the Web animation API
+          + Using the Fetch API
+          + Working with the History API
+          + Using the Web speech API
+          + Using web workers
+
+   (BUTTON) All
+
+   All web technology
+
+   Technologies
+
+          + Accessibility
+          + HTTP
+          + URI
+          + Web extensions
+          + WebAssembly
+          + WebDriver
+          + See all…
+
+   Topics
+
+          + Media
+          + Performance
+          + Privacy
+          + Security
+          + Progressive web apps
+
+   (BUTTON) Learn
+
+   Learn web development
+
+   Frontend developer course
+
+          + Getting started modules
+          + Core modules
+          + MDN Curriculum
+
+   Learn HTML
+
+          + Structuring content with HTML module
+
+   Learn CSS
+
+          + CSS styling basics module
+          + CSS layout module
+
+   Learn JavaScript
+
+          + Dynamic scripting with JavaScript module
+
+   (BUTTON) Tools
+
+   Discover our tools
+     * Playground
+     * HTTP Observatory
+
+     * Border-image generator
+     * Border-radius generator
+     * Box-shadow generator
+     * Color format converter
+     * Color mixer
+     * Shape generator
+
+   (BUTTON) About
+
+   Get to know MDN better
+     * About MDN
+     * Advertise with us
+
+     * Community
+     * MDN on GitHub
+
+   Blog
+   (BUTTON)
+
+   (BUTTON) Toggle sidebar
+    1. Apprendre le développement web
+
+     Modules fondamentaux
+
+     Apprendre le HTML : guides et didacticiels
+
+     Les images en HTML
+
+   (BUTTON) Theme
+     * (BUTTON) OS default
+     * (BUTTON) Light
+     * (BUTTON) Dark
+
+   (BUTTON) Français
+   [ ] Remember language Learn more
+     * Deutsch
+     * English (US)
+     * Español
+     * Français
+     * 日本語
+     * 한국어
+     * Português (do Brasil)
+     * Русский
+     * 中文 (简体)
+     * 正體中文 (繁體)
+
+   Cette page a été traduite à partir de l'anglais par la communauté. Vous
+   pouvez contribuer en rejoignant la communauté francophone sur MDN Web
+   Docs.
+
+   View in English (BUTTON) Always switch to English
+
+Les images en HTML
+
+   page(Doc) not found /fr/docs/Learn/HTML/Multimedia_and_embedding
+
+   Au début, le Web n'était que du texte, ce qui était un peu ennuyeux.
+   Heureusement, il n'a pas fallu longtemps pour que la possibilité
+   d'intégrer des images ( et d'autres types de contenu intéressants) dans
+   une page web soit ajoutée. Bien qu'il y ait plusieurs types de contenu
+   multimedia, il est logique de commencer avec l'humble élément <img>,
+   utilisé pour intégrer une image dans une page web. Dans cet article,
+   nous approfondirons son utilisation en abordant les principes
+   fondamentaux, l'annotation par légendes utilisant <figure>, et en
+   analysant sa relation avec les images d'arrière-plan du CSS .
+   Prérequis : Notions élémentaires en informatique, installation des
+   outils de base, bases de la manipulation des fichiers, fondamentaux du
+   HTML (comme décrit dans Commencer avec le Web).
+   Objectifs : Apprendre à intégrer des images simples en HTML, à les
+   légender d'un intitulé, et à mettre en relation ces images HTML avec
+   les images d'arrière-plan du CSS.
+
+Dans cet article
+
+     * Comment intégrer une image à une page web ?
+     * Légender des images avec figure et figcaption
+     * Images d'arrière-plan CSS
+
+Comment intégrer une image à une page web ?
+
+   Pour mettre une image simple sur une page web, nous utiliserons
+   l'élément <img>. C'est un élément vide (ce qui signifie qu'il ne
+   contient ni texte ni balise de fermeture) qui demande au moins un
+   attribut pour fonctionner — src (souvent appelé par son nom entier:
+   source). L'attribut src contient un chemin pointant vers l'image que
+   vous voulez intégrer, qui peut être une URL absolue ou relative, de la
+   même manière que l'élément <a> href= attribue des valeurs.
+
+   Note : Vous devriez lire Une brève présentation des URL et des chemins
+   pour vous rafraîchir la mémoire avant de continuer.
+
+   Donc, par exemple, si votre image s'appelle dinosaur.jpg, et qu'elle
+   est située dans le même répertoire que votre page HTML, vous pouvez
+   intégrer cette image comme ceci (URL relative) :
+   html
+<img src="dinosaur.jpg" />
+
+   Et si cette image se trouve dans un sous-répertoire images situé dans
+   le même dossier que la page HTML (ce que Google recommande pour
+   SEO/dans un but d'indexation et d'optimisation de la recherche), alors
+   vous l'intégrerez comme ceci :
+   html
+<img src="images/dinosaur.jpg" />
+
+   Ainsi de suite.
+
+   Note : Les moteurs de recherche lisent aussi les noms de fichiers image
+   et s'en servent pour optimiser la recherche. Donc, donnez à vos images
+   des noms de fichiers descritifs et qui ont du sens. dinosaur.jpg est
+   infiniment mieux que img835.png.
+
+   Vous pouvez intégrer l'image en utilisant son URL absolue, par exemple
+   :
+   html
+<img src="https://www.example.com/images/dinosaur.jpg" />
+
+   Ce n'est pas trés efficace, cela fait travailler le navigateur plus
+   qu'il ne devrait, il cherche l'adresse IP depuis le serveur DNS à
+   chaque fois etc... Vous devriez autant que possible garder vos images
+   du site sur le même serveur que la page HTML.
+
+   Attention : La plupart des images ont des droits d'auteur. N'affichez
+   jamais une image sur votre site à moins que :
+
+   1) Ce soit votre image (vous en êtes le créateur), 2) vous ayez reçu
+   une permission explicite et écrite du propriètaire de l'image ou, 3)
+   que vous ayez une preuve indiscutable que cette image appartient au
+   domaine public.
+
+   Les violations des lois sur les droits d'auteur sont non seulement
+   illégales mais aussi non-éthiques. De plus, ne faites jamais pointer
+   votre attribut src vers une image hébergée sur le site de quelqu'un
+   d'autre sans en avoir l'autorisation. Cela s'appelle du "hotlinking".
+   Souvenez-vous que voler de la bande passante à quelqu'un est aussi
+   illégal. Cela ralentit aussi votre page et vous laisse sans contrôle si
+   l'image est enlevée ou remplacée par une autre plus gênante...
+
+   Le code au-dessus vous donnera, à peu prés, le résultat suivant :
+
+   A basic image of a dinosaur, embedded in a browser, with "Images in
+   HTML" written above it
+
+   Note : Les éléments comme <img> et <video> sont souvent désignés comme
+   des éléments "remplacés". C'est parce que le contenu et la taille de
+   ces éléments sont définies par une ressource externe (comme un fichier
+   image ou video), pas par le contenu de l'élément lui-même.
+
+   Note : Vous trouverez les exemples finis de cette section sur Github
+   (regardez aussi le code source.)
+
+Texte alternatif
+
+   Le prochain attribut que nous allons étudier est alt. Sa valeur est
+   supposée être un descriptif sous forme de texte de l'image, à utiliser
+   dans les cas où l'image ne peut être affichée. Exemple : le code
+   au-dessus pourrait être modifié de cette manière :
+   html
+<img
+  src="images/dinosaur.jpg"
+  alt="The head and torso of a dinosaur skeleton;
+          it has a large head with long sharp teeth" />
+
+   La manière la plus simple de tester votre texte alt est de mal épeler
+   votre nom de fichier intentionnellement. Si dans l'exemple, la photo
+   était épelée dinosooooor.jpg, le navigateur ne l'afficherait pas mais
+   afficherait le texte alt à la place :
+
+   The Images in HTML title, but this time the dinosaur image is not
+   displayed, and alt text is in its place.
+
+   Pourquoi vous verrez partout du texte alt ? Vous en aurez besoin car
+   c'est très pratique en maintes occasions :
+     * L'utilisateur est un déficient visuel qui utilise un lecteur
+       d'écran qui s'en sert pour "lire" le web. En fait, avoir du texte
+       alt disponible pour décrire les images est très utile à beaucoup
+       d'utilisateurs.
+     * Comme nous l'avons vu au-dessus, vous pourriez avoir mal épelé le
+       nom ou le chemin du fichier.
+     * Le navigateur ne gère pas ce type d'image. Certains utilisent
+       encore des navigateurs en terminal, affichant seulement du texte
+       (comme Lynx), qui affichent le texte alt des images.
+     * Vous pouvez avoir envie de fournir du texte que pourraient utiliser
+       les moteurs de recherche. Par exemple, ils mettront en relation le
+       texte alt avec des requêtes de recherche.
+     * L'utilisateur a supprimé les images pour économiser le volume du
+       transfert de données ou pour ne pas être distrait. C'est très
+       commun sur les téléphones mobiles et dans les pays où la bande
+       passante est limitée ou coûte cher.
+
+   Que devriez-vous noter dans vos attributs alt ? En premier lieu, cela
+   dépend de la raison pour laquelle cette image se trouve là. En d'autres
+   mots, ce que vous perdriez si cette image ne s'affichait pas :
+     * Decoration. Vous devriez utiliser des images d'arrière-plan CSS
+       pour les images décoratives mais si vous devez utiliser du HTML,
+       ajoutez un alt="" vide. Si l'image ne fait pas vraiment partie du
+       contenu, un lecteur d'écran ne perdra pas de temps à la lire.
+     * Contenu. Si votre image fournit une ou plusieurs informations
+       supplémentaires significatives, inscrivez ces mêmes informations
+       dans un bref alt text – ou mieux, dans le texte principal, que tout
+       le monde puisse les voir. N'écrivez pas de alt text redondants.
+       Imaginez combien ce serait ennuyeux pour un lecteur si tous les
+       paragraphes étaient écrits en double... Si l'image est décrite de
+       manière adéquate dans le corps de texte principal, vous pouvez
+       utiliser simplement alt="".
+     * Lien. Si vous mettez une image à l'intérieur d'une ancre <a> pour
+       transformer une image en lien, vous devez quand même fournir un
+       Lien texte accessible. Dans de tels cas, vous pouvez, soit
+       l'inclure dans le même élément <a>, soit dans l'attribut alt de
+       l'image – utilisez ce qui marche le mieux dans votre cas.
+     * Texte. Vous ne devez pas mettre de texte dans les images. Si votre
+       titre principal a besoin d'un peu d'ombrage par exemple, utilisez
+       CSS pour ça, plutôt que de mettre du texte dans une image. De
+       toutes manières, si vous ne pouvez pas éviter de faire ça, vous
+       devez ajouter le texte dans l'attribut alt .
+
+   Le but est de livrer essentiellement une expérience de qualité, même
+   quand les images ne peuvent être vues. Cela assure à tous les
+   utilisateurs de ne rien manquer du contenu. Essayez de ne pas afficher
+   les images dans votre navigateur et regardez ce qu'il se passe. Vous
+   allez vite réaliser que le texte fourni à la place est réellement
+   utile.
+
+   Note : Pour plus d'informations, voyez notre guide Textes Alternatifs
+
+Largeur et hauteur (width-height)
+
+   Vous pouvez vous servir des attributs width et height pour spécifier la
+   largeur et la hauteur de votre image. Vous pouvez trouver la largeur et
+   la hauteur de différentes manières. Sur Mac, par exemple, vous pouvez
+   utiliser Cmd + I pour afficher l'info relative au fichier image. Pour
+   revenir à notre exemple, nous pourrions faire ceci :
+   html
+<img
+  src="images/dinosaur.jpg"
+  alt="The head and torso of a dinosaur skeleton;
+          it has a large head with long sharp teeth"
+  width="400"
+  height="341" />
+
+   Cela ne fait pas grande différence à l'affichage dans des circonstances
+   normales. Mais, si l'image n'est pas affichée, disons que l'utilisateur
+   est juste arrivé sur la page et qu'elle n'est pas encore chargée, vous
+   remarquerez que le navigateur laisse un espace pour qu'elle y
+   apparaisse :
+
+   The Images in HTML title, with dinosaur alt text, displayed inside a
+   large box that results from width and height settings
+
+   C'est une bonne pratique, cela donne une page se chargeant plus
+   rapidement et en douceur.
+
+   De toutes manières, vous ne devez pas altérer la taille de vos images
+   avec les attributs HTML . Si vous réglez la taille de l'image trop
+   grande, vous aurez un résultat avec beaucoup de "grain", flou ou trop
+   petit et vous dépensez de la bande passante en téléchargeant une image
+   qui ne convient pas aux besoins de l'utilisateur. Votre image peut
+   aussi sortir distordue, si vous n'en maintenez pas le bon Format
+   d'image. Vous devriez utiliser un éditeur d'images pour la mettre à la
+   bonne taille avant de la mettre dans votre page web.
+
+   Note : Si vous devez absolument modifier une taille d' image, vous
+   devriez vous servir de CSS .
+
+Titre d'images
+
+   Comme décrit dans le chapitre Création d'hyperliens, vous pouvez aussi
+   ajouter un attribut title aux images, pour fournir un supplément
+   d'information si nécessaire. Dans notre exemple, nous pourrions faire
+   ceci :
+   html
+<img
+  src="images/dinosaur.jpg"
+  alt="The head and torso of a dinosaur skeleton;
+          it has a large head with long sharp teeth"
+  width="400"
+  height="341"
+  title="A T-Rex on display in the Manchester University Museum" />
+
+   Cela donne une info-bulle avec le texte entré dans l'attribut title :
+
+   The dinosaur image, with a tooltip title on top of it that reads A
+   T-Rex on display at the Manchester University Museum
+
+   Il n'est pas essentiel d'inclure des informations dans les images. Il
+   est souvent préférable d'écrire ces informations dans le texte
+   principal plutôt qu'attaché à l'image. Ils peuvent être très utile dans
+   d'autres circonstances, par exemple dans une galerie d'images où vous
+   n'avez pas de place pour les légendes.
+
+Pédagogie active : incorporer une image
+
+   À vous de jouer maintenant ! Cette section dédiée à l'apprentissage
+   interactif va vous tenir en haleine avec un simple exercice
+   d'intégration d'image. Vous allez un peu travailler l'anglais aussi. Il
+   vous est fourni une étiquette basique <img> ; Il va vous falloir
+   incorporer l'image située à l'URL suivante :
+https://raw.githubusercontent.com/mdn/learning-area/master/html/multimedia-and-e
+mbedding/images-in-html/dinosaur_small.jpg
+
+   Nous avons dit plus tôt de ne jamais faire de "hotlinking" sur d'autres
+   serveurs mais c'est ici dans un but d'apprentissage, donc on oublie ça
+   pour cette fois.
+
+   Nous avons encore quelques petites choses pour vous :
+     * Ajoutez du texte alt , et vérifiez qu'il marche en faisant une
+       faute dans l'URL de l'image.
+     * Réglez l'image à une bonne taille : width et height ( conseil :
+       c'est 200px wide (large) and 171px high (haut)), puis expérimentez
+       d'autres valeurs pour en appréhender les effets.
+     * Mettez un title sur l'image.
+
+   Si vous faites une erreur, vous pouvez toujours remettre à zéro en
+   utilisant le bouton Reset . Si vous êtes vraiment bloqué, regardez la
+   réponse en cliquant le bouton Show solution :
+<h2>Live output</h2>
+
+<div class="output" style="min-height: 50px;"></div>
+
+<h2>Editable code</h2>
+<p class="a11y-label">
+  Press Esc to move focus away from the code area (Tab inserts a tab character).
+</p>
+
+<textarea id="code" class="input" style="min-height: 100px; width: 95%">
+<img>
+</textarea>
+
+<div class="playable-buttons">
+  <input id="reset" type="button" value="Reset" />
+  <input id="solution" type="button" value="Show solution" />
+</div>
+
+html {
+  font-family: sans-serif;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+.a11y-label {
+  margin: 0;
+  text-align: right;
+  font-size: 0.7rem;
+  width: 98%;
+}
+
+body {
+  margin: 10px;
+  background: #f5f9fa;
+}
+
+var textarea = document.getElementById("code");
+var reset = document.getElementById("reset");
+var solution = document.getElementById("solution");
+var output = document.querySelector(".output");
+var code = textarea.value;
+var userEntry = textarea.value;
+
+function updateCode() {
+  output.innerHTML = textarea.value;
+}
+
+reset.addEventListener("click", function () {
+  textarea.value = code;
+  userEntry = textarea.value;
+  solutionEntry = htmlSolution;
+  solution.value = "Show solution";
+  updateCode();
+});
+
+solution.addEventListener("click", function () {
+  if (solution.value === "Show solution") {
+    textarea.value = solutionEntry;
+    solution.value = "Hide solution";
+  } else {
+    textarea.value = userEntry;
+    solution.value = "Show solution";
+  }
+  updateCode();
+});
+
+var htmlSolution =
+  '<img src="https://raw.githubusercontent.com/mdn/learning-area/master/html/mul
+timedia-and-embedding/images-in-html/dinosaur_small.jpg"\n alt="The head and tor
+so of a dinosaur skeleton; it has a large head with long sharp teeth"\n width="2
+00"\n height="171"\n title="A T-Rex on display in the Manchester University Muse
+um">';
+var solutionEntry = htmlSolution;
+
+textarea.addEventListener("input", updateCode);
+window.addEventListener("load", updateCode);
+
+// stop tab key tabbing out of textarea and
+// make it write a tab at the caret position instead
+
+textarea.onkeydown = function (e) {
+  if (e.keyCode === 9) {
+    e.preventDefault();
+    insertAtCaret("\t");
+  }
+
+  if (e.keyCode === 27) {
+    textarea.blur();
+  }
+};
+
+function insertAtCaret(text) {
+  var scrollPos = textarea.scrollTop;
+  var caretPos = textarea.selectionStart;
+
+  var front = textarea.value.substring(0, caretPos);
+  var back = textarea.value.substring(
+    textarea.selectionEnd,
+    textarea.value.length,
+  );
+  textarea.value = front + text + back;
+  caretPos = caretPos + text.length;
+  textarea.selectionStart = caretPos;
+  textarea.selectionEnd = caretPos;
+  textarea.focus();
+  textarea.scrollTop = scrollPos;
+}
+
+// Update the saved userCode every time the user updates the text area code
+
+textarea.onkeyup = function () {
+  // We only want to save the state when the user code is being shown,
+  // not the solution, so that solution is not saved over the user code
+  if (solution.value === "Show solution") {
+    userEntry = textarea.value;
+  } else {
+    solutionEntry = textarea.value;
+  }
+
+  updateCode();
+};
+
+   IFRAME: about:blank
+
+Légender des images avec figure et figcaption
+
+   En parlant de légendes, il y a de nombreuses manières d'en ajouter qui
+   ira avec votre image. Par exemple, rien ne vous empêche de faire ceci :
+   html
+<div class="figure">
+  <img
+    src="images/dinosaur.jpg"
+    alt="The head and torso of a dinosaur skeleton;
+            it has a large head with long sharp teeth"
+    width="400"
+    height="341" />
+
+  <p>A T-Rex on display in the Manchester University Museum.</p>
+</div>
+
+   C'est bon. Ça contient ce que vous voulez et c'est aisément stylisable
+   en CSS. Mais il y a un problème : il n'y a rien de sensé qui relie
+   l'image à sa légende. Ce qui peut poser des problèmes à un lecteur
+   d'écran. Par exemple, quand vous avez 50 images, quelle légende va avec
+   quelle image ?
+
+   Une meilleure solution consiste en l'utilisation des éléments HTML5
+   <figure> et <figcaption> . Ils ont été conçus pour cela : fournir un
+   conteneur sémantique aux objets et lier clairement cet objet à sa
+   légende. Notre exemple précédent pourrait être réécrit comme ceci :
+   html
+<figure>
+  <img
+    src="images/dinosaur.jpg"
+    alt="The head and torso of a dinosaur skeleton;
+            it has a large head with long sharp teeth"
+    width="400"
+    height="341" />
+
+  <figcaption>
+    A T-Rex on display in the Manchester University Museum.
+  </figcaption>
+</figure>
+
+   L'élément <figcaption> dit au navigateur et aux technologies
+   d'assistance que la légende décrit le contenu de l'autre élément
+   <figure>.
+
+   Note : D'un point de vue accessibilité, les légendes ont un rôle
+   différent du texte alt. Le texte alt ne sert qu'en absence d'image
+   tandis que les légendes servent en même temps aux utilisateurs qui
+   voient l'image. Les légendes et le texte alt devraient cependant être
+   différents car ils apparaissent tout deux quand l'image est absente.
+   Essayez d'enlever les images dans votre navigateur et voyez à quoi ça
+   ressemble.
+
+   Un objet <figure> n'est pas forcé de contenir une image. C'est une
+   unité de contenu indépendante qui :
+     * exprime votre désir d'accessibilité et de compréhension facilitée.
+     * peut se placer en plusieurs endroits dans une page à flot linéaire.
+     * Fournit une information essentielle qui supporte le texte
+       principal.
+
+   Cet objet peut être un ensemble d'images, des bribes de code, de
+   l'audio, de la vidéo, des équations, un tableau ou bien d'autres
+   choses.
+
+Pédagogie active : créer un objet figure
+
+   Dans cette section, nous allons vous demander de récupérer le code fini
+   de la section "Pédagogie active" précédente et d'y faire ceci :
+     * Encapsulez-le dans un élément <figure> .
+     * Copiez le texte de l'attribut, enlevez l'attribut title et mettez
+       le texte dans un élément <figcaption> sous l'image.
+
+   Si vous faites une erreur, vous pouvez toujours remettre à zéro en
+   utilisant le bouton Reset . Si vous êtes vraiment bloqué, regardez la
+   réponse en cliquant le bouton Show solution :
+<h2>Live output</h2>
+
+<div class="output" style="min-height: 50px;"></div>
+
+<h2>Editable code</h2>
+<p class="a11y-label">
+  Press Esc to move focus away from the code area (Tab inserts a tab character).
+</p>
+
+<textarea
+  id="code"
+  class="input"
+  style="min-height: 100px; width: 95%"></textarea>
+
+<div class="playable-buttons">
+  <input id="reset" type="button" value="Reset" />
+  <input id="solution" type="button" value="Show solution" />
+</div>
+
+html {
+  font-family: sans-serif;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+.a11y-label {
+  margin: 0;
+  text-align: right;
+  font-size: 0.7rem;
+  width: 98%;
+}
+
+body {
+  margin: 10px;
+  background: #f5f9fa;
+}
+
+var textarea = document.getElementById("code");
+var reset = document.getElementById("reset");
+var solution = document.getElementById("solution");
+var output = document.querySelector(".output");
+var code = textarea.value;
+var userEntry = textarea.value;
+
+function updateCode() {
+  output.innerHTML = textarea.value;
+}
+
+reset.addEventListener("click", function () {
+  textarea.value = code;
+  userEntry = textarea.value;
+  solutionEntry = htmlSolution;
+  solution.value = "Show solution";
+  updateCode();
+});
+
+solution.addEventListener("click", function () {
+  if (solution.value === "Show solution") {
+    textarea.value = solutionEntry;
+    solution.value = "Hide solution";
+  } else {
+    textarea.value = userEntry;
+    solution.value = "Show solution";
+  }
+  updateCode();
+});
+
+var htmlSolution =
+  '<figure>\n <img src="https://raw.githubusercontent.com/mdn/learning-area/mast
+er/html/multimedia-and-embedding/images-in-html/dinosaur_small.jpg"\n alt="The h
+ead and torso of a dinosaur skeleton; it has a large head with long sharp teeth"
+\n width="200"\n height="171" />\n <figcaption>A T-Rex on display in the Manches
+ter University Museum</figcaption>\n</figure>';
+var solutionEntry = htmlSolution;
+
+textarea.addEventListener("input", updateCode);
+window.addEventListener("load", updateCode);
+
+// stop tab key tabbing out of textarea and
+// make it write a tab at the caret position instead
+
+textarea.onkeydown = function (e) {
+  if (e.keyCode === 9) {
+    e.preventDefault();
+    insertAtCaret("\t");
+  }
+
+  if (e.keyCode === 27) {
+    textarea.blur();
+  }
+};
+
+function insertAtCaret(text) {
+  var scrollPos = textarea.scrollTop;
+  var caretPos = textarea.selectionStart;
+
+  var front = textarea.value.substring(0, caretPos);
+  var back = textarea.value.substring(
+    textarea.selectionEnd,
+    textarea.value.length,
+  );
+  textarea.value = front + text + back;
+  caretPos = caretPos + text.length;
+  textarea.selectionStart = caretPos;
+  textarea.selectionEnd = caretPos;
+  textarea.focus();
+  textarea.scrollTop = scrollPos;
+}
+
+// Update the saved userCode every time the user updates the text area code
+
+textarea.onkeyup = function () {
+  // We only want to save the state when the user code is being shown,
+  // not the solution, so that solution is not saved over the user code
+  if (solution.value === "Show solution") {
+    userEntry = textarea.value;
+  } else {
+    solutionEntry = textarea.value;
+  }
+
+  updateCode();
+};
+
+   IFRAME: about:blank
+
+Images d'arrière-plan CSS
+
+   Vous pouvez également utiliser du CSS pour intégrer des images dans vos
+   pages web (ou JavaScript, mais c'est une autre histoire). Les
+   propriétés CSS background-image et background, sont utilisées pour
+   contrôler le placement de l'image d'arrière-plan. Par exemple, pour
+   placer une image d'arrière-plan sur chaque paragraphe de la page, vous
+   pourriez faire ceci :
+   css
+p {
+  background-image: url("images/dinosaur.jpg");
+}
+
+   Le résultat est probablement plus facile à positionner et contrôler
+   qu'une image HTML. Donc, pourquoi s'ennuyer avec des images HTML ?...
+   Comme il y est fait allusion au-dessus, les images CSS sont là
+   seulement pour la décoration. Si vous voulez ajouter quelque chose
+   d'agréable à votre page pour en enrichir le visuel, c'est étudié pour.
+   Mais, ces images n'ont pas d'indication sémantique. Elles ne peuvent
+   pas avoir d'équivalent texte, sont invisibles aux lecteurs d'écran,
+   etc... C'est le moment, pour l'image HTML, de se mettre en valeur !
+
+   En résumé : si une image a du sens, en terme de contenu, vous devriez
+   utiliser une image HTML. Si une image n'est que pure décoration, il
+   vaut mieux utiliser les images d'arrière-plan CSS.
+
+   Note : Vous en apprendrez beaucoup plus sur les CSS background images
+   dans notre topic CSS .
+
+   C'est tout pour l'instant. Nous avons découvert en détails les images
+   et légendes. Dans le prochain article, nous monterons en régime pour
+   aborder la manière d'utiliser HTML pour intégrer des vidéos et de
+   l'audio dans une page web.
+   page(Doc) not found /fr/docs/Learn/HTML/Multimedia_and_embedding
+
+Help improve MDN
+
+   Was this page helpful to you?
+   (BUTTON) Yes (BUTTON) No
+
+   Learn how to contribute
+
+   Cette page a été modifiée le ⁨2 nov. 2025⁩ par les contributeurs du
+   MDN.
+   View this page on GitHub • Report a problem with this content
+
+   Filter sidebar ____________________ (BUTTON)
+    1. Apprendre le développement web
+    2. MDN curriculum
+    3. Getting started modules
+    4. Environment setup
+         1. Installation des outils
+         2. Naviguer sur le Web
+         3. Éditeurs de code
+         4. Gérer les fichiers
+         5. Ligne de commande
+    5. Your first website
+         1. À quoi ressemblera-t-il ?
+         2. Créer le contenu
+         3. Mettre en forme le contenu
+         4. Ajouter de l'interactivité
+         5. Publication
+    6. Web standards
+         1. Comment fonctionne le Web
+         2. Le modèle des normes web
+         3. Comment les navigateurs chargent les sites web
+    7. Soft skills
+         1. Recherche et apprentissage
+         2. Collaboration et travail d'équipe
+         3. Flux de travail et processus
+         4. Trouver un emploi
+    8. Core modules
+    9. Structuring content with HTML
+         1. Commencer avec le HTML
+         2. Qu'avez-vous dans la tête ? Métadonnées en HTML
+         3. Titres et paragraphes
+         4. Emphasis and importance
+         5. Lists
+         6. Test: HTML text basics
+         7. Formatage avancé du texte
+         8. Test: Advanced HTML text
+         9. Défi : Structurer une lettre
+        10. Structurer des documents
+        11. Création d'hyperliens
+        12. Testez vos compétences : les liens
+        13. Défi : Un site d'observation des oiseaux
+        14. Les images en HTML
+        15. Test: Images
+        16. Contenu audio et vidéo
+        17. Test: Audio and video
+        18. Évaluation : page d'accueil Mozilla
+        19. Tableaux HTML : notions de base
+        20. Tableaux HTML : dispositions avancées et accessibilité
+        21. Structurer les données des planètes
+        22. Forms and buttons
+        23. Test: Forms and buttons
+        24. Challenge: Feedback form
+        25. Déboguer de l'HTML
+        26. Test: HTML tests index
+        27. Additional tutorials
+              1. Ajouter des images vectorielles à une page web
+              2. Des objets aux iframes — autres techniques d'intégration
+   10. CSS styling basics
+         1. CSS, comment ça marche ?
+         2. Comment CSS est structuré
+         3. Défi : Page de biographie
+         4. Sélecteurs de base
+         5. Sélecteurs d'attribut
+         6. Pseudo-classes et pseudo-éléments
+         7. Combinateurs
+         8. Test: Selectors
+         9. Le modèle de boîte
+        10. Testez vos connaissances : le modèle de boîte
+        11. Cascade, spécificité et héritage
+        12. Test: Cascade
+        13. Challenge: Fixing blog styles
+        14. Valeurs et unités
+        15. Test: Values and units
+        16. Définir la taille des éléments en CSS
+        17. Test: Sizing
+        18. Arrière-plans et bordures
+        19. Test: Backgrounds and borders
+        20. Débordements de contenu (overflow)
+        21. Test: Overflow
+        22. Challenge: Sizing and decorating
+        23. Images, media, forms
+        24. Test: Images and forms
+        25. Mise en forme des tableaux
+        26. Challenge: Styling color scheme search
+        27. Déboguer du code CSS
+        28. Test: Styling basics tests index
+        29. Additional tutorials
+              1. Effets de boîte avancés
+              2. Cascade layers
+              3. Gérer la directionnalité du texte
+              4. Organizing your CSS
+   11. CSS text styling
+         1. Initiation à la mise en forme du texte
+         2. Style de listes
+         3. Mise en forme des liens
+         4. Fontes Web
+         5. Composition de la page d'accueil d'une école de communauté
+   12. Disposition en CSS
+         1. Introduction à la mise en page en CSS
+         2. Les boîtes flottantes
+         3. Test: Floats
+         4. Le positionnement
+         5. Test: Positioning
+         6. Flexbox
+         7. Testez vos compétences : Flexbox
+         8. Grilles
+         9. Testez vos compétences : Grilles
+        10. Compréhension fondamentale de la mise en page
+        11. Responsive design
+        12. Media queries
+        13. Test: RWD & media queries
+        14. Challenge: mobile-first
+        15. Test: Layout tests index
+        16. Additional tutorials
+              1. Disposition sur plusieurs colonnes
+              2. Exemples pratiques de positionnement
+              3. Méthodes de mises en page traditionnelles
+              4. Prise en charge des anciens navigateurs
+   13. Dynamic scripting with JavaScript
+         1. Qu'est-ce que le JavaScript ?
+         2. Présentation de JavaScript
+         3. Qu'est-ce qui n'a pas fonctionné ? Déboguer du code JavaScript
+         4. Stocker les informations nécessaires — les variables
+         5. Test: Variables
+         6. Mathématiques de base en JavaScript — nombres et opérateurs
+         7. Test: Math
+         8. Les chaînes de caractères
+         9. Méthodes utiles pour les chaînes de caractères
+        10. Test: Strings
+        11. Les tableaux
+        12. Testez vos compétences : les tableaux
+        13. Générateur d'histoires absurdes
+        14. Prendre des décisions dans le code — conditions
+        15. Test: Conditionals
+        16. Les boucles dans le code
+        17. Test: Loops
+        18. Fonctions — des blocs de code réutilisables
+        19. Construire vos propres fonctions
+        20. Valeurs de retour des fonctions
+        21. Test: Functions
+        22. Introduction aux évènements
+        23. Comparaison des cibles d'évènements
+        24. Test: Events
+        25. Les bases de JavaScript, orienté objet
+        26. Test: Objects
+        27. Manipuler des documents
+        28. Galerie d'images
+        29. Récupérer des données du serveur
+        30. Manipuler des données JSON
+        31. Test: JSON
+        32. Challenge: House data UI
+        33. Gérer les problèmes courants en JavaScript
+        34. Test: JavaScript tests index
+   14. JavaScript frameworks and libraries
+         1. Introduction
+         2. Framework features
+         3. Démarrer avec React
+         4. Commencer notre liste de tâches en React
+         5. Organiser notre application React en composants
+         6. Interactivité avec React : évènements et état
+         7. React editing, filtering, conditional UI
+         8. React accessibility
+         9. React resources
+   15. Accessibility
+         1. Qu'est ce que l'accessibilité?
+         2. Outils d'accessibilité
+         3. HTML : une bonne base pour l'accessibilité
+         4. Test: HTML a11y
+         5. Meilleures pratiques d'accessibilité CSS et JavaScript
+         6. Testez vos compétences : l'accessibilité en CSS et JavaScript
+         7. Les bases de WAI-ARIA
+         8. Test: WAI-ARIA
+         9. Multimédia accessible
+        10. Accessibilité mobile
+        11. Évaluation: dépannage d'accessibilité
+        12. Test: A11y tests index
+   16. Design for developers
+   17. Version control
+   18. Extension modules
+   19. Advanced JavaScript objects
+         1. Prototypes Objet
+         2. Programmation orientée objet
+         3. L'héritage au sein de JavaScript
+         4. Test: Object-oriented JavaScript
+         5. La construction d'objet en pratique
+         6. Ajouter des fonctionnalités à notre exercice des balles
+            rebondissantes
+         7. Test: OOJS tests index
+   20. Les API web côté client
+         1. Introduction aux API web
+         2. APIs vidéo et audio
+         3. Dessiner des graphismes
+         4. Stockage côté client
+         5. API tierces
+   21. JavaScript asynchrone
+         1. Introduction au JavaScript asynchrone
+         2. Comment utiliser les promesses
+         3. Implementing promise-based APIs
+         4. Introduction aux workers
+         5. Challenge: Animation sequence
+   22. Formulaires web — Travailler avec les données des
+       utilisateur·rice·s
+         1. Mon premier formulaire HTML
+         2. Comment structurer un formulaire HTML
+         3. Les contrôles de formulaire natifs
+         4. Les types de champs de formulaire HTML5
+         5. Les autres contrôles de formulaire
+         6. Mise en forme des formulaires HTML
+         7. Mise en forme avancée des formulaires HTML
+         8. Customizable selects
+         9. Pseudo-classes relatives à l'interface utilisateur
+        10. Validation des données de formulaires
+        11. Envoyer et extraire les données des formulaires
+        12. Additional tutorials
+              1. Comment construire des widgets de formulaires
+                 personnalisés
+              2. Envoyer des formulaires avec JavaScript
+              3. Formulaires HTML dans les navigateurs historiques
+              4. Entrées utilisateur et méthodes
+   23. Understanding client-side tools
+         1. Overview
+         2. Package management
+         3. Sample toolchain
+         4. Deploying our app
+   24. Programmation de Sites Web côté serveur
+         1. Premiers pas dans la programmation d'un site côté serveur
+              1. Introduction
+              2. La relation Client-Serveur
+              3. Les frameworks web côté serveur
+              4. La sécurité d'un site Web
+         2. Django (Python)
+              1. Introduction à Django
+              2. Mettre en place un environnement de développement Django
+              3. Django Didactique: Site web "Bibliothèque locale"
+              4. Django didactique Section 2: Créer le squelette du site
+                 web
+              5. Django didactique Section 3: Utilisation des modèles de
+                 données
+              6. Django didactique Section 4: Site d'administration de
+                 Django
+              7. Django didactique Section 5: Créer la page d'accueil
+              8. Tutoriel Django - 6e partie : Vues génériques pour les
+                 listes et les détails
+              9. 7: Sessions framework
+             10. 8: Authentication and permissions
+             11. Django didactique - Section 9 : Travailler avec des
+                 formulaires
+             12. Django Tutorial Part 10: Testing a Django web application
+             13. 11: Deploying
+             14. Django security
+             15. Challenge: Django blog
+         3. Express (Node.js)
+              1. Introduction à Express/Node
+              2. Dev environment setup
+              3. 1: Local library tutorial
+              4. 2: Skeleton website
+              5. 3: Using databases with Mongoose
+              6. 4: Routes and controllers
+              7. 5: Displaying data
+              8. 6: Working with forms
+              9. 7: Deploying
+         4. Additional tutorials
+              1. Apache .htaccess
+              2. Server MIME type config
+              3. Plain Node.js server
+   25. Web performance
+         1. Le "pourquoi" des performances Web
+         2. What is web performance?
+         3. Perceived performance
+         4. Mesure des performances
+         5. Multimédia : Images
+         6. Multimedia: video
+         7. Performant JavaScript
+         8. Fonctionnalités de performances liées à HTML
+         9. Optimisation des performances en CSS
+        10. Performance business case
+        11. Best practices & tips
+   26. Testing
+         1. Introduction au test en navigateur croisé
+         2. Stratégies pour mener à bien vos tests
+         3. Gérer les problèmes courants en HTML et CSS
+         4. Feature detection
+         5. Automated testing
+         6. Automation environment setup
+   27. Ressources complémentaires
+   28. How to solve common problems
+         1. Problèmes CSS courants
+         2. Problèmes HTML courants
+         3. Common JavaScript problems
+         4. Design and accessibility
+         5. Tools and setup
+         6. Web mechanics
+   29. About
+   30. Resources for educators
+   31. Changelog
+
+   Your blueprint for a better internet.
+     *
+     *
+     *
+     *
+     *
+
+   MDN
+
+          + About
+          + Blog
+          + Mozilla careers
+          + Advertise with us
+          + MDN Plus
+          + Product help
+
+   Contribute
+
+          + MDN Community
+          + Community resources
+          + Writing guidelines
+          + MDN Discord
+          + MDN on GitHub
+
+   Developers
+
+          + Web technologies
+          + Learn web development
+          + Guides
+          + Tutorials
+          + Glossary
+          + Hacks blog
+
+     * Website Privacy Notice
+     * Telemetry Settings
+     * Legal
+     * Community Participation Guidelines
+
+   Visitez la société mère à but non lucratif de Mozilla Corporation, la
+   Fondation Mozilla.
+   Certaines parties de ce contenu sont protégées par le droit d'auteur
+   ©1998–⁨2026⁩ des contributeurs individuels de mozilla.org. Contenu
+   disponible sous une licence Creative Commons.
