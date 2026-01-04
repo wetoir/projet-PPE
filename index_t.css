@@ -31,7 +31,12 @@ nav a {
 nav a:hover {
     background: rgba(205, 161, 16, 0.14);
     opacity: 0.95;
+    transition: 0.5s;
 }
+
+/* nav a:hover::after {
+    width: 100%;
+} */
 
 /* Menu déroulant */
 .dropdown {
@@ -44,7 +49,9 @@ nav a:hover {
     transition: opacity 3000ms ease-in;
 }
 
-.dropdown-toggle:hover { opacity: 0.7; }
+.dropdown-toggle:hover { 
+    opacity: 0.7;
+ }
 
 .dropdown-menu {
     position: absolute;
@@ -89,4 +96,42 @@ nav a:hover {
     transform: translateX(-50%) translateY(0);
 }
 
+.text-box {
+    width: 90%;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    text-decoration: none;
+}
 
+.text-box h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.text-box p {
+    margin: 10px 0 40px;
+    font-size: 15px;
+    color: #fff;
+}
+
+.hero-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid #fff;
+    padding: 12px 34px;
+    font-size: 15px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+}
+
+.hero-btn:hover {
+    border: 1px solid #f44336;
+    background: #f44336;
+    transition: 1s;
+}
