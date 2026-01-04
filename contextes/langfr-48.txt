@@ -1,0 +1,124 @@
+   I-L’IMAGE VISUELLE - PRÉSENTATION
+   1-DEFINITION DE L’IMAGE
+   L’image visuelle est une représentation en 2 dimensions, du monde en 3
+   dimensions. L’image peut être naturelle (ombre, reflet) ou fabriquée
+   (matérielle ou virtuelle, fixe ou animée). L’image fabriquée n’a pas de
+   vérité, elle n’est pas le réel mais une re-présentation du réel et a
+   toujours un auteur (subjectivité, intention, message, choix plastiques,
+   trucages…) et est le produit d’une technique.
+   Dans la civilisation actuelle, l’image est partout : dans les albums,
+   les livres, les magazines et les journaux, les affiches et les
+   publicités, les bibliothèques et les musées, le cinéma, la télévision,
+   les consoles de jeux et l’ordinateur (Internet, mails, sites, blogs,
+   réseaux sociaux). Les moyens numériques de création et de stockage
+   d’image sont aisément accessibles et répandus : logiciels de création
+   et de retouche, appareils photo et vidéo, camescope, scanners et
+   imprimantes, téléphones portables avec fonctions Internet, photo et
+   vidéo, clés USB et disques durs externes… L’image numérique est ainsi
+   facilement enregistrable, modifiable, stockable, transportable et
+   reproductible.
+   2-NATURE DE L’IMAGE
+   -L’image peut être unique (œuvre d’art originale à la dimension
+   poétique, critique, imaginaire) : dessin, peinture.
+   -L’image peut être multiple (œuvres d’art, images documentaires, images
+   de communication) : l’image est reproductible artisanalement du fait
+   d’une matrice : estampe, affiche, B.D., photo, film, vidéo, image
+   numérique.
+   -L’image peut être sérielle (groupe d’œuvres d’art créées par un même
+   artiste sur un même thème ou motif) : dessin, peinture, collage, photo,
+   vidéo, création numérique.
+   -L’image peut être séquentielle (enluminures, B.D., roman-photos,
+   vidéo, animation).
+   3-MOYENS DE PRODUCTION DE L’IMAGE
+--
+   sur écran ou tirage sur papier, films, vidéos – sur écran).
+   Il y a deux sortes d’images numériques : vectorielles et matricielles.
+   Dans une image vectorielle, les données sont représentées par des
+   formes géométriques simples, décrites d’un point de vue mathématique.
+   Ces images, essentiellement utilisées pour réaliser des schémas ou des
+--
+   d’information (SVG, 16 millions de couleur avec animation et
+   transparence ; WMF, CGM…).
+   Une image matricielle (ou bitmap) se définit pour sa part par un
+   tableau de points ou pixels (photos numériques et images scannées).
+   L’image numérique a une forme binaire (suite de 0 et de 1) et se
+   définit par sa taille (définition, nombre de pixels en largeur et
+   hauteur ; ex. : 480x640), sa qualité (résolution, nombre de pixels par
+   unité de largeur ; ex. : 72 dpi pour écran, 200 dpi pour impression) et
+   son poids (en kilooctets, ko, et mégaoctets, Mo). L’image numérique a
+   une matrice réalisée par l’ordinateur (logiciel), l’appareil photo ou
+   le camescope, le scanner ou une carte d’acquisition vidéo (source
+--
+   Le pictogramme (dessin simplifié) a souvent précédé et entraîné la
+   naissance de l’écriture.
+   L’image a ensuite souvent accompagné le texte (manuscrits, livres,
+   magazines, journaux), intégré le texte (noms ou paroles apparaissant
+   auprès des figures dans les icônes, les peintures murales, les
+--
+   affiches de propagande ; textes et logos dans les publicités;  texte
+   écrit ou sonore des films, des vidéos…).
+   L’image  a parfois dessiné les lettres capitales (initiales figurées)
+   ou, à l’inverse, été créée par le texte (calligrammes).
+   [1-Du+pictogramme+%25C3%25A0+l%2527id%25C3%25A9ogramme-img437+copie2.jp
+--
+   -APOLLINAIRE Guillaume (1880-1918), Calligramme, 1918.
+   5-SENS DE L’IMAGE
+   -L’image renvoie à un monde réel (figures, choses, objets)
+   -L’image renvoie à un monde imaginaire (mythe, rêve, fantasme,
+   science-fiction, hybridation, abstraction).
+   -L’image illustre des textes (Les Métamorphoses d’Ovide pour les mythes
+   antiques, La Bible, pour la religion chrétienne…).
+   -L’image renvoie à un monde artistique, par la référence (évocation
+   d’éléments, de la composition ou du style d’une ou de plusieurs œuvres
+   d’art ; citation, détournement, pastiche), ou l’interrogation sur les
+   codes de l’image (représentation, modelé, perspective, mise en abyme,
+   lien au texte,).
+   -L’image renvoie à un monde symbolique :
+   allégories : représentations figurées évoquant un élément abstrait ou
+   un élément peu facile à représenter (idée, sentiment, état) comme la
+--
+   nourritures spirituelles ).
+   métonymies : un élément pour un autre, une partie évoque le tout.
+   L’image fragmente le monde par son cadrage restreint et sa
+   représentation partielle.
+   [56-Ernst+Max%252C+L%2527%25C3%25A9l%25C3%25A9phant+C%25C3%25A9l%25C3%2
+--
+   1-UNIQUE
+   -Œuvre d’art unique : œuvre originale, dessin, peinture.
+   -Œuvre d’art unique mais cachant une autre image (anamorphose, tableaux
+   réversibles, images doubles, paysages antropomorphes).
+   -Œuvre d’art unique mais constituée de la répétition d’images
+--
+   Lorraine.
+   -AZIZ + CUCHER (AZIZ Anthony, né en 1961 et CUCHER Sammy, né en 1958),
+   Sans titre, 1994-1995, série « Dystopia », image numérique, tirage
+   cibachrome 110x140 cm.
+   [26-Tapisserie_de_l%2527apocalypse%252C+pour+Louis+Ier+d%2527Anjou%252C
+--
+   1-L’IMAGE DOCUMENTAIRE
+   Elle donne des renseignements, des explications historiques, ou
+   scientifiques, une image représentative (qui se veut objective mais ne
+   l’est pas), comme les cartes postales d’une région, les dessins,
+   schémas, et photos des livres de classe, ou les cartes géographiques,
+--
+   -Photo de Lady Gaga, 2010.
+   2-L’IMAGE DE COMMUNICATION
+   -L’image utilitaire : les pictogrammes, symboles, icones informatiques,
+   sont autant de représentations dessinées schématiques ayant fonction de
+   signe, évitant de longs discours et aidant à la vie quotidienne pour
+--
+   logo ou au seul insigne. Les logos les plus récents utilisent couleur,
+   transparence et reflets.
+   -L’image publicitaire. Souvent accompagnée d’un slogan (la lettre, le
+   texte sonore, la musique), l’image publicitaire a pour but de faire
+   vendre un produit qu’elle représente ou évoque (dessin, peinture,
+   photographie, sous forme d’affiches, d’encarts dans les magazines et
+--
+   objectif de susciter chez le destinataire le désir d'acquérir le
+   produit promu.
+   -L’image de propagande. Souvent accompagnée d’un slogan, l’image de
+   propagande diffuse un message politique auquel elle souhaite faire
+   adhérer la population à force de le marteler.
+   -L’image électorale montre pour sa part une image du candidat à
+   l’élection, évoque le parti auquel il est rattaché et présente parfois
+   slogan et décor.

@@ -1,0 +1,34 @@
+     * Accueil
+     * Toutes les actualités
+     * Le suivi du bien-être des truies en groupe : arrêt sur image
+
+   (BUTTON) Sommaire
+--
+     * (BUTTON) Partager par lien
+
+Le suivi du bien-être des truies en groupe : arrêt sur image
+
+   Des chercheurs français testent un système d’analyse d’images
+--
+   Publié le 03 décembre 2025
+   illustration Le suivi du bien-être des truies en groupe : arrêt sur
+   image © Charlotte Gaillard
+
+   Depuis 2013, il est obligatoire d’élever les truies gestantes en
+--
+   problèmes demande du temps, du personnel et un œil expert. La solution
+   testée par les chercheurs consiste à utiliser la vidéo et l’analyse
+   d’image : un logiciel analyserait automatiquement les images filmées
+   pour repérer les comportements sociaux de façon non intrusive et
+   continue dans le temps.
+--
+   Références :  Blanc, A.; Poissonnet, A.; Thomas, J.; Courboulay, V.;
+   Simon, M.; Gaillard, C., 2025. Toward the automatic detection of social
+   interactions in gestating sows using image analysis data. Journal of
+   Animal Science, 103: 14 - https://doi.org/10.1093/jas/skaf249
+
+
+     * caméra
+     * analyse d'image
+     * arbre de décision
+     * bien-être animal

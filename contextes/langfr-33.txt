@@ -1,0 +1,46 @@
+
+   Le format photo HEIC ou High Efficiency Image Container, est un format
+   de fichier image apparu en 2017. Il est utilisé comme format d’image
+   par défaut sur des appareils fonctionnant sous iOS et macOS. Ce format
+   permet une meilleure compression des données. Il s’agit d’un format qui
+--
+   En effet, grâce au format HEIC, vous pouvez enregistrer plus d’images
+   et remplir moins rapidement l’espace de stockage de votre appareil.
+   Lorsqu’une image est stockée avec le format HEIC, elle est deux fois
+   plus légère que si elle avait été enregistrée au format JPG. Cette
+   capacité de compression ne diminue pas pour autant la qualité des
+--
+   Conversion du format HEIC en JPG
+
+   Si vous souhaitez partager une image de format HEIC avec des
+   utilisateurs qui n’ont pas d’appareils compatibles ou si vous devez
+   utiliser des applications qui ne supportent pas ce format, la
+--
+
+   Vous pouvez aussi tout simplement utiliser l’application Photos sur
+   Windows. Pour cela, ouvrez votre image dans Photos, puis faites Ctrl +
+   S pour l’enregistrer, en bas dans la fenêtre qui s’ouvre, changez le
+   Type et mettez .jpg au lieu de .HEIC. Et voilà, le tour est joué.
+--
+   puis l’exporter au format JPG. Il suffit de sélectionner la photo, puis
+   de choisir « Fichier > Exporter > Exporter sous JPG » pour obtenir une
+   copie JPG de l’image.
+
+Avantages et inconvénients du format HEIC
+--
+   Beaucoup d’images peuvent être stockées sans occuper trop d’espace sur
+   votre appareil.
+   Processus de compression d'une image
+     * Meilleure qualité d’image
+
+   Contrairement à la compression avec JPG qui entraîne une perte en
+   qualité de l’image, la compression avec HEIC préserve davantage de
+   détails visuels, ce qui se traduit par des images de meilleure qualité.
+     * Support de métadonnées avancées
+
+   Le format HEIC peut enregistrer des informations supplémentaires telles
+   la date et le lieu de la prise de l’image, la profondeur de champ,
+   etc.. De plus, il peut stocker les modifications des différentes
+   versions d’une image de sorte à permettre de remonter à l’image
+   d’origine.
+     * Support des séquences d’images

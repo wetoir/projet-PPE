@@ -1,0 +1,561 @@
+   #alternate alternate alternate
+
+     * Contenu
+     * Recherche
+     * Navigation
+
+     * Jobs
+     * Presse
+     * Annuaire
+     * Intranet
+     * Médiathèque
+     * Kiosque
+
+     * fr
+     * en
+
+     * LinkedIn
+     * Facebook
+     * BlueSky
+     * Instagram
+     * YouTube
+     * X
+     * Podcasts
+
+   République française INRAE - Accueil
+
+     * Apprendre et comprendre (BUTTON) open Apprendre et comprendre
+     * Nous connaître (BUTTON) open Nous connaître
+     * Collaborer avec nous (BUTTON) open Collaborer avec nous
+     * Nous rejoindre (BUTTON) open Nous rejoindre
+     * Europe & International (BUTTON) open Europe & International
+
+     * Dans l'actu (BUTTON) open Dans l'actu
+     * Images et sons (BUTTON) open Images et sons
+     * Décryptage (BUTTON) open Décryptage
+     * Comprendre, débattre (BUTTON) open Comprendre, débattre
+
+     * Approchez-vous, notre nouvelle web série
+     * INRAE est partenaire de l'expo Jardiner
+     * Découvrez Ressources #8
+     * Des animaux pas si bêtes !
+
+     * Vidéo - Un grand bol d'herbe pour les chèvres
+     * Abonnez vous ! Notre Chaine Youtube
+     * Suivez nous sur Instagram
+     * Nos podcasts
+
+     * C'est quoi la méthanisation ?
+     * Nos dossiers
+     * Évadez-vous avec INRAE
+     * Suivez-nous sur Facebook
+
+     * Sciences en questions : conférences, livres
+     * Se saisir des controverses
+
+     * Notre ambition (BUTTON) open Notre ambition
+     * Notre organisation (BUTTON) open Notre organisation
+     * Nos temps forts (BUTTON) open Nos temps forts
+     * Un institut responsable (BUTTON) open Un institut responsable
+
+     * INRAE : missions, organisation, chiffres clés (PDF) Film &
+       plaquette institutionnels
+     * INRAE 2030
+     * Eclairer l'ambition
+     * Construire l'interdisciplinarité
+
+     * Gouvernance
+     * Nos 18 centres
+     * Nos 14 départements
+     * Carte d'identité
+
+     * Le Salon de l’Agriculture
+     * Les Lauriers 2025
+     * Le rapport d'activité
+
+     * Nos principes
+     * Responsabilité sociétale et environnementale
+     * Déontologie, intégrité scientifique & éthique
+     * Comité d'éthique
+
+     * Innover pour la société (BUTTON) open Innover pour la société
+     * Une science ouverte (BUTTON) open Une science ouverte
+     * Eclairer la société et les décideurs (BUTTON) open Eclairer la
+       société et les décideurs
+     * Sciences Participatives (BUTTON) open Sciences Participatives
+
+     * Une stratégie d’innovation basée sur le partenariat
+     * Les start-up et INRAE
+     * Les Carnot
+     * Les chiffres clés de l'innovation
+
+     * Penser la transition numérique
+     * INRAE engagé pour une science ouverte
+     * Pour une science ouverte, transparente et gratuite
+     * Archive Ouverte d'INRAE
+
+     * Une expertise internationale
+     * Réduire le gaspillage en restauration collective
+     * Évaluer la qualité des sols pour mieux les préserver
+     * Mieux se protéger des inondations avec SIM-MANA
+
+     * Participez à nos recherches
+     * Les Applis INRAE
+     * Prix de la recherche participative
+     * Sols & Société
+
+     * Carrières et emploi (BUTTON) open Carrières et emploi
+     * Ceux qui font INRAE (BUTTON) open Ceux qui font INRAE
+     * Un employeur engagé (BUTTON) open Un employeur engagé
+
+     * INRAE recrute
+     * Créez votre alerte emploi
+     * Le guide des accueils internationaux
+
+     * Des femmes et des hommes
+     * L’extraordinaire quotidien de nos scientifiques
+     * Des prix et des distinctions
+     * Les Lauriers 2024
+
+     * INRAE accessible à toutes les ambitions
+     * Le label HR Excellence
+     * Egalité femmes-hommes, lutte contre les discriminations
+     * Responsabilité sociétale et environnementale
+
+     * Vous êtes étudiant (BUTTON) open Vous êtes étudiant
+     * Vous êtes chercheur (BUTTON) open Vous êtes chercheur
+     * INRAE à l'Europe (BUTTON) open INRAE à l'Europe
+     * INRAE à l'International (BUTTON) open INRAE à l'International
+
+     * Faire une thèse à INRAE
+     * Offres de bourses
+     * Les centres INRAE
+     * Trouver une unité
+
+     * Collaborations
+     * Des infrastructures de recherche ouvertes
+     * Une expertise internationale
+     * Nos Métaprogrammes
+
+     * Notre stratégie
+     * Etoiles de l'Europe
+     * Nos lauréats ERC
+     * Agenda européen
+
+     * Notre actualité internationale
+     * Nos scientifiques reconnus mondialement
+
+     * fr
+     * en
+
+   Rechercher (BUTTON) Réinitialiser la recherche (BUTTON) Lancer votre
+   recherche
+
+suggestions
+
+   (BUTTON) menu
+
+     * Accueil
+     * Toutes les actualités
+     * Le suivi du bien-être des truies en groupe : arrêt sur image
+
+   (BUTTON) Sommaire
+
+   Agroécologie Temps de lecture 6 min
+   (BUTTON) Partager
+     * Partager sur Facebook
+     * Partager sur X
+     * Partager sur WhatsApp
+     * Partager sur LinkedIn
+     * Partager sur Bluesky
+     * (BUTTON) Imprimer
+     * Partager par email
+     * (BUTTON) Partager par lien
+
+Le suivi du bien-être des truies en groupe : arrêt sur image
+
+   Des chercheurs français testent un système d’analyse d’images
+   permettant de reconnaître automatiquement la nature des interactions
+   entre les animaux, qu’elles soient positives ou négatives. Ce système a
+   été testé sur des groupes de truies, avec l’objectif de mieux assurer
+   le bien-être de chaque individu au sein du groupe.
+
+   Publié le 03 décembre 2025
+   illustration Le suivi du bien-être des truies en groupe : arrêt sur
+   image © Charlotte Gaillard
+
+   Depuis 2013, il est obligatoire d’élever les truies gestantes en
+   groupe, et non plus isolées dans des cages. Cette mesure vise à
+   améliorer leur confort et à favoriser l’expression de leur comportement
+   naturel : elles peuvent bouger, explorer, interagir avec leurs
+   congénères. Mais cette cohabitation n’est pas toujours paisible. Les
+   truies établissent une hiérarchie sociale, parfois à coups de groin ou
+   de morsures, qui peuvent nécessiter l’intervention de l’éleveur pour
+   des mesures correctives.
+
+   Or, surveiller en permanence ces interactions pour détecter les
+   problèmes demande du temps, du personnel et un œil expert. La solution
+   testée par les chercheurs consiste à utiliser la vidéo et l’analyse
+   d’image : un logiciel analyserait automatiquement les images filmées
+   pour repérer les comportements sociaux de façon non intrusive et
+   continue dans le temps.
+
+   Souriez, vous êtes filmées !
+
+   L’équipe du projet, regroupant INRAE, l’Ifip, l’Inria, et la société
+   Dilepix, a filmé jour et nuit deux enclos de 19 et 20 truies gestantes
+   dans des salles équipées de caméras.
+   Le logiciel d’analyse des images permettait de caractériser la posture
+   de chaque animal (couchée, assise, debout), ainsi que la position de
+   trois points clés du corps : le groin, le cou et la queue.
+
+   Les analyses ont porté sur les stades 30 et 103 jours de deux
+   gestations consécutives, au moment où l’activité était la plus grande,
+   à savoir entre minuit et deux heures du matin (la ration quotidienne
+   était mise à disposition à minuit). Les images ont été analysées
+   manuellement à l'aide du système d’annotation du logiciel en cours de
+   développement.
+   Au total, 360 situations ont été décrites à partir des images : i/ 120
+   correspondant à des moments d’interactions positives et 120 à des
+   moments d’interactions négatives, incluant des images avant, pendant et
+   après l’interaction entre deux individus ; ii/  120 moments sans
+   interaction (deux truies sans contact). La valence de l’interaction
+   (positive ou négative), ainsi que la posture et les coordonnées des
+   trois points clés de chaque truie ont été identifiées. En suivant la
+   position et les mouvements de ces points clés sur les images, les
+   chercheurs ont pu calculer les valeurs de 3 variables : les distances
+   relatives entre les truies, les vitesses de déplacement et les
+   distances individuelles parcourues.
+   Des arbres de décision ont été utilisés pour évaluer la pertinence de
+   ces variables dans la détection d’une interaction.
+
+   Lorsque deux points d’intérêt de deux truies se rapprochent rapidement,
+   une interaction commence ; lorsqu’ils s’éloignent, elle se termine. Si
+   les deux truies sont debout, l’une avançant vite vers l’autre, cela
+   peut signaler une interaction négative (agression). Si elles se
+   reniflent tranquillement, il s’agit d’une interaction positive.
+
+   Sur la base de ces données, les chercheurs ont appris au logiciel
+   (machine learning) non seulement à être capable de détecter
+   automatiquement l’occurrence d’une interaction, mais aussi à en
+   identifier :
+
+   •          la nature positive (par exemple quand deux truies se
+   touchent le groin) ou négative (comme les coups de tête ou morsures),
+
+   •          l’orientation de l’interaction (contact groin-groin,
+   groin-cou ou groin-queue)
+
+   Des résultats prometteurs
+
+   Les algorithmes ainsi « entrainés » ont permis de détecter le début et
+   la fin d’une interaction avec 88 % de précision et de différencier dans
+   80 % des cas les interactions positives des interactions négatives.
+
+   Les interactions négatives se distinguent par des mouvements plus
+   rapides, avec une truie qui semble fuir ou poursuivre l’autre.
+   Les interactions positives, au contraire, se font dans un contexte plus
+   calme, souvent entre animaux familiers.
+
+   L’orientation du contact, utile pour identifier des comportements
+   problématiques, a également été reconnue. L’orientation groin contre
+   queue est typique d’interactions négatives, comme les morsures de la
+   queue ou de la vulve, signe de stress ou de surpopulation. Cette
+   détection groin-queue était particulièrement performante, avec 94 % de
+   réussite.
+
+   Un pas de plus vers l’élevage de précision
+
+   Ce projet montre qu’il est possible de suivre automatiquement les
+   relations sociales dans un groupe de truies grâce à l’analyse d’images.
+   À terme, un tel outil pourrait alerter les éleveurs en cas de
+   comportement anormal, par exemple une hausse d’agressions, avant que
+   des blessures ou du stress n’apparaissent.
+
+   L’objectif n’est pas de remplacer l’œil de l’éleveur, mais de l’aider à
+   mieux comprendre ce qu’« expriment » les animaux par leur comportement.
+   En rendant visibles des détails imperceptibles à l’œil nu, la
+   technologie offre un nouveau regard sur le bien-être animal : une étape
+   vers des élevages caractérisés par davantage d’attention, de réactivité
+   et de respect du bien-être animal.
+
+   Références :  Blanc, A.; Poissonnet, A.; Thomas, J.; Courboulay, V.;
+   Simon, M.; Gaillard, C., 2025. Toward the automatic detection of social
+   interactions in gestating sows using image analysis data. Journal of
+   Animal Science, 103: 14 - https://doi.org/10.1093/jas/skaf249
+
+
+     * caméra
+     * analyse d'image
+     * arbre de décision
+     * bien-être animal
+     * comportement
+
+   Sylvie André
+
+   Communication département Phase
+
+Contacts
+
+   Charlotte Gaillard (Envoyer un courriel)
+
+   Contact scientifique
+
+   UMR "Physiologie, Environnement et Génétique pour l'Animal et les
+   Systèmes d'Élevage" (Pegase)
+
+Le centre
+
+   Bretagne-Normandie
+
+   Consulter le centre
+
+Le département
+
+   PHASE
+
+   Voir le département
+
+En savoir plus
+
+   thematic Agroécologie
+
+MOOC Bien-être des animaux d'élevage
+
+   Ce MOOC a été conçu par une équipe pédagogique regroupant des
+   enseignants-chercheurs, des chercheurs et des vétérinaires spécialistes
+   du bien-être des animaux d’élevage. Il est structuré en trois modules :
+   "comprendre" qui pose les bases théoriques, "évaluer" qui propose des
+   éléments utilisables sur le terrain, et "améliorer" qui présente
+   quelques solutions.
+
+   01 décembre 2019
+
+La science au service de l’amélioration génétique des ruminants
+
+   COMMUNIQUE DE PRESSE - Philippe Mauguin, Président directeur général de
+   l’Inra et Michel Cetre, Président de l’union de Coopératives agricoles
+   ALLICE (sélection génétique et reproduction des ruminants) et de la SAS
+   APIS-GENE (financement et valorisation de la recherche) ont renouvelé
+   leur engagement par la signature de deux accords-cadre le jeudi 25
+   juillet 2019 autour d’un objectif commun : adapter l’élevage français
+   aux multiples défis qu’il doit relever.
+
+   thematic Alimentation, santé globale
+
+L'alimentation des enfants racontée aux parents
+
+   Cherchant à en savoir un peu plus sur l’alimentation du bébé à
+   l’adolescent, l’auteur a retracé l’expérience de son enfance. Il a
+   alors passé cette trame romancée au crible de la science en allant
+   interroger des chercheurs de différentes disciplines. Accompagné et
+   guidé dans sa démarche par une chercheuse, il raconte ainsi cette
+   tranche de vie qu’il livre aux apprentis parents d’aujourd’hui et de
+   demain.
+
+   19 février 2020
+
+   Haut de page
+
+LES THÉMATIQUES INRAE
+
+     * Agroécologie
+     * Alimentation, santé globale
+     * Biodiversité
+     * Bioéconomie
+     * Changement climatique et risques
+     * Société et territoires
+
+INNOVATION
+
+     * Partenariats et innovation
+     * Carnot
+     * Infrastructures de recherche
+
+EXPERTISE ET APPUI AUX POLITIQUES PUBLIQUES
+
+     * Une expertise pour la société
+     * Eclairages
+     * Appui aux politiques publiques
+
+L'INSTITUT
+
+     * Organisation
+     * Europe, international
+     * Un institut responsable
+     * Portraits et parcours
+     * Actes réglementaires
+     * Les brèves INRAE
+     * Nos archives ouvertes – HAL
+
+ESPACE PEDAGOGIQUE
+
+     * Le point sur… COVID-19
+     * Apprendre en s’amusant
+     * Nos podcasts
+     * Nos dossiers
+     * Les découvertes INRAE
+
+LA SCIENCE ET VOUS
+
+     * Salon de l’Agriculture
+     * Recherches participatives
+     * Science ouverte
+
+Suivez-nous
+
+     * LinkedIn
+     * Facebook
+     * BlueSky
+     * Instagram
+     * YouTube
+     * X
+     * Podcasts
+
+   Siège : 147 rue de l'Université 75338 Paris Cedex 07 - tél. : +33(0)1
+   42 75 90 00
+
+   Copyright - ©INRAE 2020 - 2024
+     * Mentions légales
+     * CGU
+     * Données personnelles
+     * Achats
+     * Accessibilité : partiellement conforme
+     * Accès aux documents administratifs
+     * Cookies
+     * Contact
+
+     * (BUTTON) Apprendre et comprendre
+       (BUTTON) Fermer Apprendre et comprendre Apprendre et comprendre
+          + (BUTTON) Dans l'actu
+            (BUTTON) Fermer Apprendre et comprendre Dans l'actu
+               o Approchez-vous, notre nouvelle web série
+               o INRAE est partenaire de l'expo Jardiner
+               o Découvrez Ressources #8
+               o Des animaux pas si bêtes !
+          + (BUTTON) Images et sons
+            (BUTTON) Fermer Apprendre et comprendre Images et sons
+               o Vidéo - Un grand bol d'herbe pour les chèvres
+               o Notre Chaine Youtube
+               o Suivez nous sur Instagram
+               o Nos podcasts
+          + (BUTTON) Décryptage
+            (BUTTON) Fermer Apprendre et comprendre Décryptage
+               o C'est quoi la méthanisation ?
+               o Nos dossiers
+               o Évadez-vous avec INRAE
+               o Suivez-nous sur Facebook
+          + (BUTTON) Comprendre, débattre
+            (BUTTON) Fermer Apprendre et comprendre Comprendre, débattre
+               o Sciences en questions : conférences, livres
+               o Se saisir des controverses
+     * (BUTTON) Nous connaître
+       (BUTTON) Fermer Nous connaître Nous connaître
+          + (BUTTON) Notre ambition
+            (BUTTON) Fermer Nous connaître Notre ambition
+               o Film & plaquette institutionnels
+               o INRAE 2030
+               o Eclairer l'ambition
+               o Construire l'interdisciplinarité
+          + (BUTTON) Notre organisation
+            (BUTTON) Fermer Nous connaître Notre organisation
+               o Gouvernance
+               o Nos 18 centres
+               o Nos 14 départements
+               o Carte d'identité
+          + (BUTTON) Nos temps forts
+            (BUTTON) Fermer Nous connaître Nos temps forts
+               o Le Salon de l’Agriculture
+               o Les Lauriers 2025
+               o Le rapport d'activité
+          + (BUTTON) Un institut responsable
+            (BUTTON) Fermer Nous connaître Un institut responsable
+               o Nos principes
+               o Responsabilité sociétale et environnementale
+               o Déontologie, intégrité scientifique & éthique
+               o Comité d'éthique
+     * (BUTTON) Collaborer avec nous
+       (BUTTON) Fermer Collaborer avec nous Collaborer avec nous
+          + (BUTTON) Innover pour la société
+            (BUTTON) Fermer Collaborer avec nous Innover pour la société
+               o Une stratégie d’innovation basée sur le partenariat
+               o Les start-up et INRAE
+               o Les Carnot
+               o Les chiffres clés de l'innovation
+          + (BUTTON) Une science ouverte
+            (BUTTON) Fermer Collaborer avec nous Une science ouverte
+               o Penser la transition numérique
+               o INRAE engagé pour une science ouverte
+               o Pour une science ouverte, transparente et gratuite
+               o Archive Ouverte d'INRAE
+          + (BUTTON) Eclairer la société et les décideurs
+            (BUTTON) Fermer Collaborer avec nous Eclairer la société et
+            les décideurs
+               o Une expertise internationale
+               o Réduire le gaspillage en restauration collective
+               o Évaluer la qualité des sols pour mieux les préserver
+               o Mieux se protéger des inondations avec SIM-MANA
+          + (BUTTON) Sciences Participatives
+            (BUTTON) Fermer Collaborer avec nous Sciences Participatives
+               o Participez à nos recherches
+               o Les Applis INRAE
+               o Prix de la recherche participative
+               o Sols & Société
+     * (BUTTON) Nous rejoindre
+       (BUTTON) Fermer Nous rejoindre Nous rejoindre
+          + (BUTTON) Carrières et emploi
+            (BUTTON) Fermer Nous rejoindre Carrières et emploi
+               o INRAE recrute
+               o Créez votre alerte emploi
+               o Le guide des accueils internationaux
+          + (BUTTON) Ceux qui font INRAE
+            (BUTTON) Fermer Nous rejoindre Ceux qui font INRAE
+               o Des femmes et des hommes
+               o L’extraordinaire quotidien de nos scientifiques
+               o Des prix et des distinctions
+               o Les Lauriers 2024
+          + (BUTTON) Un employeur engagé
+            (BUTTON) Fermer Nous rejoindre Un employeur engagé
+               o INRAE accessible à toutes les ambitions
+               o Le label HR Excellence
+               o Egalité femmes-hommes, lutte contre les discriminations
+               o Responsabilité sociétale et environnementale
+     * (BUTTON) Europe & International
+       (BUTTON) Fermer Europe & International Europe & International
+          + (BUTTON) Vous êtes étudiant
+            (BUTTON) Fermer Europe & International Vous êtes étudiant
+               o Faire une thèse à INRAE
+               o Offres de bourses
+               o Les centres INRAE
+               o Trouver une unité
+          + (BUTTON) Vous êtes chercheur
+            (BUTTON) Fermer Europe & International Vous êtes chercheur
+               o Collaborations
+               o Des infrastructures de recherche ouvertes
+               o Une expertise internationale
+               o Nos Métaprogrammes
+          + (BUTTON) INRAE à l'Europe
+            (BUTTON) Fermer Europe & International INRAE à l'Europe
+               o Notre stratégie
+               o Etoiles de l'Europe
+               o Nos lauréats ERC
+               o Agenda européen
+          + (BUTTON) INRAE à l'International
+            (BUTTON) Fermer Europe & International INRAE à l'International
+               o Notre actualité internationale
+               o Nos scientifiques reconnus mondialement
+
+     * LinkedIn
+     * Facebook
+     * BlueSky
+     * Instagram
+     * YouTube
+     * X
+     * Podcasts
+
+     * Jobs
+     * Presse
+     * Annuaire
+     * Intranet
+     * Médiathèque
+     * Kiosque

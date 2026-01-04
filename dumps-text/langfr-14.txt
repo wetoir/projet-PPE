@@ -1,0 +1,372 @@
+   #alternate
+
+     * Contenu
+     * Menu
+     * Pied de page
+
+   Ministère
+   des Sports,
+   de la Jeunesse
+   et de la Vie associative
+   (BUTTON) Rechercher (BUTTON) Menu
+
+   Associations.gouv.fr
+
+   S'engager, créer et gérer son association
+     * (BUTTON) Paramètres d'affichage
+
+   FAQ Le compte Asso
+   (BUTTON) Fermer
+   Rechercher ____________________
+   (Rechercher) Rechercher
+   (BUTTON) Fermer
+
+     * (BUTTON) Je veux m'engager
+       (BUTTON) Fermer
+
+Je veux m'engager
+          + Je trouve ma mission de bénévolat
+          + Je trouve ma mission de volontariat
+
+Quiz : je trouve l'engagement fait pour moi !
+          + Le bénévolat c'est quoi ?
+          + Le mécénat de compétences c'est quoi ?
+          + Le volontariat c'est quoi ?
+          + Les chantiers de bénévoles, c'est quoi ?
+          + Quelle est la campagne d'engagement bénévole en cours ?
+
+Informations sur le bénévolat
+          + Certif'Asso : Le Certificat de Formation à la Gestion
+            Associative
+          + L'assurance et la protection sociale
+          + L'engagement des étudiants
+          + La Validation des Acquis de l’Expérience Bénévole (VAEB)
+          + La formation digitale des bénévoles
+          + Le Compte d’Engagement Citoyen (CEC)
+          + Le cumul des statuts
+          + Le remboursement des frais et chèques-repas
+          + Les congés et autorisations d’absence
+     * (BUTTON) Je souhaite créer une association
+       (BUTTON) Fermer
+
+Qu'est-ce qu'une association ?
+          + Loi du 1er juillet 1901
+          + Les différentes formes d'association
+          + Personnes mineures dans l'association
+
+Vos démarches
+          + Démarches initiales
+          + Formalités déclaratives
+          + Créer, diriger, valoriser... des outils à votre disposition
+
+Vos téléservices
+          + E-création
+          + Les démarches du Compte Asso
+          + Les chiffres-clés du Compte Asso
+
+Vie et fonctionnement de l'association
+          + Faire évoluer votre association
+          + Financer votre association
+          + Gérer les collaborateurs de votre association
+          + Locaux de l'association
+          + Responsabilité pénale et civile
+     * (BUTTON) Je développe mon association
+       (BUTTON) Fermer
+
+Modèles socio-économiques associatifs et financements
+          + Affectation sociale de biens immobiliers confisqués
+          + Appels à projets
+          + Financements privés
+          + Programmes et financements européens
+
+Faire reconnaître votre association
+          + Agréments
+          + Association européenne
+          + Reconnaissance d'utilité publique
+
+Fiscalité et comptabilité
+          + Fiscalité applicable aux associations
+          + Réglementation comptable
+
+Alliances et territoires
+          + Accompagnement en territoire
+          + Actualités alliances et territoires
+          + Etudes & Rapports
+          + Exemples inspirants
+          + Outils et méthodes
+          + Parcours "Alliances & Territoires"
+
+Droit des ressources financières
+          + Dons, donations, legs et adhésions
+          + Mécénat, parrainage et sponsoring
+          + Placements financiers des associations
+          + Subventions, marchés publics et aides d’état
+
+Emploi associatif
+          + Démarches administratives
+          + Groupement d'employeurs
+          + Soutien aux associations employeuses
+          + Qualité de vie et des conditions de travail
+
+Gestion des conflits et médiation
+          + Dans quels domaines peut-on faire appel à un médiateur ?
+          + La procédure de médiation avec les pouvoirs publics : le
+            Défenseur des droits
+          + Le médiateur des entreprises
+
+Droits d'auteur, presse associative et déclarations nécessaires
+          + Droit d’auteur et droit à l’image
+          + La SACEM et la diffusion d'œuvres musicales
+          + La presse associative
+          + La propriété littéraire et artistique : le principe
+          + Le droit à l'image
+
+Actualités juridiques
+          + Assises de la simplification, les résultats
+          + Dons de congés
+          + La loi visant à soutenir l’engagement bénévole et simplifier
+            la vie associative, adoptée
+          + La procédure de contrôle des reçus fiscaux renforcée
+          + Le barème kilométrique
+          + Le contrat d’engagement républicain : le guide pratique
+          + Le guide de l’appel à la générosité du public
+          + Le mécénat de compétences de la fonction publique
+          + Le projet de loi de finances pour 2026
+          + Loi de finances pour 2025 : les dispositions concernant le
+            secteur associatif
+
+Manifestations et voyages
+          + L'organisation de manifestations et de voyages occasionnels
+          + L'organisation de manifestations sportives sur la voie
+            publique
+
+Numérique pour les associations
+          + Numérique et associations : outils, méthodes et bonnes
+            pratiques
+          + Accessibilité numérique et handicap
+          + Numérique et données
+
+L'engagement bénévole
+          + Créer un parcours d'accueil des bénévoles
+          + Fidéliser les bénévoles
+          + Former les bénévoles
+          + Mobiliser de nouveaux bénévoles
+     * (BUTTON) Études et recherches
+       (BUTTON) Fermer
+
+Bibliographie thématique
+          + Bénévolat, emploi et volontariat
+          + Ressources financières et accompagnement
+          + Tissu associatif
+
+La Data des associations
+          + DataAsso, pour tout connaitre sur les associations
+          + L'API Association et le référentiel des associations
+          + Tout savoir sur le projet SIVA
+
+Les essentiels de la vie associative
+          + Les essentiels de la vie associative - édition 2024
+
+Données et publications sur la vie associative
+          + Les travaux de l'INJEP
+          + Travaux des autres producteurs de données
+
+Rapports d'associations
+     * (BUTTON) Régions
+       (BUTTON) Fermer
+
+Les actualités par régions
+          + Auvergne-Rhône-Alpes
+          + Bourgogne-Franche-Comté
+          + Bretagne
+          + Centre-Val de Loire
+          + Corse
+          + Grand Est
+          + Guadeloupe
+          + Guyane
+          + Hauts-de-France
+          + Île-de-France
+          + La Réunion
+          + Martinique
+          + Mayotte
+          + Normandie
+          + Nouvelle-Aquitaine
+          + Occitanie
+          + Pays de la Loire
+          + Provence-Alpes-Côte d'Azur
+
+   (BUTTON) Voir le fil d’Ariane
+    1. Accueil
+    2. Je développe mon association
+    3. Droits d'auteur, presse associative et déclarations nécessaires
+    4. Le droit à l'image
+
+Le droit à l'image
+
+   Droits d'auteur, presse associative et déclarations nécessaires
+   Les associations, dans leur communication, sont amenées à utiliser
+   l’image de leurs bénévoles, de leurs salariés, des bénéficiaires de
+   leurs actions.
+   Les associations qui utilisent des images dans leurs supports de
+   communication doivent s’assurer que ces images ont été captées et
+   exploitées dans le respect de certaines règles.
+
+   Toute personne, quel que soit sa notoriété, dispose d’un droit exclusif
+   sur son image qui est un attribut de sa personnalité. Ce droit à
+   l’image permet à toute personne de s’opposer à la captation, la
+   conservation, la reproduction ou l’utilisation de son image.
+
+   À titre exceptionnel, la liberté de la presse et le droit à
+   l’information permettent par ailleurs, dans certains cas, de limiter le
+   caractère exclusif du droit à l’image. Les personnages publics ou
+   célèbres peuvent ainsi voir leur image utilisée à des fins d’actualité
+   ou de travail historique, dans l’exercice de leur activité
+   professionnelle sous réserve que l’image ne porte pas atteinte à la
+   dignité humaine.
+
+   Pour diffuser sur votre site des photos, vidéos il est dès lors
+   nécessaire de respecter certaines règles. Il est nécessaire d’obtenir,
+   avant toute captation, l’autorisation écrite de la personne
+   représentée.
+
+   Le contenu de cette autorisation est librement fixé par les parties
+   cependant, cette autorisation doit permettre de s’assurer que le
+   consentement est libre, spécifique et éclairé. À défaut, la personne
+   peut  s’opposer à la mise en ligne de son image.
+
+   Ainsi cette autorisation doit spécifier clairement :
+
+   - les catégories de captation autorisées (photos, vidéos, etc.) ;
+
+   - les typologies de supports utilisés ;
+
+   - les finalités de la captation (communication externe, interne,
+   etc.) ;
+
+   - la durée de l’autorisation ;
+
+   - la zone géographique de diffusion (France, étranger) ;
+
+   - les mentions d’information relatives à la protection des données
+   personnelles : droit d’accès aux données, droit de rectification, droit
+   de retrait et coordonnées de la personne auprès de laquelle ces droits
+   peuvent s’exercer.
+
+D'autres articles en rapport
+
+Droit d’auteur et droit à l’image
+
+   Les droits d’auteur et le droit à l’image sont essentiels à respecter
+   par une association organisant une manifestation ou diffusant des
+   informations via des supports de communication.
+   1 août, 2025
+
+La propriété littéraire et artistique : le principe
+
+   Les associations, dans le cadre de leurs activités, sont amenées à
+   utiliser ou a créer des œuvres. Il s’agit de faire attention aux droits
+   y étant liés.
+   3 juin, 2025
+
+La presse associative
+
+   Les associations peuvent éditer des journaux. Ces publications sont
+   soumises aux règles du droit commun de la presse. Ces publications
+   peuvent être publiées sans déclaration ou autorisation préalable. Les
+   associations doivent cependant désigner un directeur de publication.
+   3 juin, 2025
+
+   Voir tous les articles
+
+Je souhaite être accompagné
+
+   Guid'Asso, mon accompagnement local
+
+   Description
+   Le réseau d’appui à la vie associative pour que chaque association
+   puisse trouver près de chez elle un endroit, une personne pour répondre
+   à ses questions.
+
+   France
+
+   Mon assistant numérique
+
+   Description
+   Vous ne trouvez pas une information ou souhaitez des renseignements ?
+   Posez toutes vos questions à notre assistant numérique !
+
+   assitant_num
+
+Ma boîte à outils
+
+   Le Compte Asso
+
+   Description
+   Réaliser mes démarches administratives
+
+   archives
+
+   Outils et modèles
+
+   Description
+   Pour gérer mon association
+
+   Image innovation
+
+   Trouver une mission de bénévolat
+
+   Description
+   sur JeVeuxAider.gouv.fr
+
+   human-cooperation
+
+   Le Compte bénévole
+
+   Description
+   Pour déclarer son engagement bénévole
+
+   document
+   Haut de page
+
+Suivez nous sur les réseaux sociaux
+
+     * Instagram
+     * X
+
+   Ministère
+   des Sports,
+   de la Jeunesse
+   et de la Vie associative
+   Associations.gouv.fr est le site d'information officiel sur la vie
+   associative
+     * info.gouv.fr
+     * service-public.gouv.fr
+     * legifrance.gouv.fr
+     * data.gouv.fr
+
+Nos partenaires
+
+     * service civique
+
+     *
+     *
+
+     * Mentions légales
+     * Données personnelles
+     * Accessibilité : partiellement conforme
+     * Accessibilité téléphonique sourds ou malentendants
+     * Plan du site
+     * Contact
+
+   (BUTTON) Fermer
+
+Paramètres d'affichage
+
+   Choisissez un thème pour personnaliser l'apparence du site.
+
+   (*) Thème clair
+   ( ) Thème Sombre
+   ( ) Système Utilise les paramètres système
+
+   Sauf mention contraire, tous les contenus de ce site sont sous licence
+   etalab-2.0

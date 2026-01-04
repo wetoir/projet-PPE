@@ -1,0 +1,66 @@
+   (BUTTON)
+   (BUTTON)
+   Quand les IA ne savent pas reconnaître une image générée par IA de
+   Google
+
+--
+   (BUTTON)
+
+Quand même les IA ne savent pas reconnaître une image générée par l’IA de
+Google
+
+--
+   sont plus en mesure de distinguer le vrai du faux
+
+   Pourra t-on encore longtemps repérer une image générée par une IA ?
+
+     * 2
+--
+       raison de défauts récurrents et propres aux IA.
+     * Désormais, il est devenu impossible de faire la différence à l’œil
+       nu entre une image AI et une vraie photo. Des outils existent, mais
+       ils ne sont pas infaillibles et nécessitent d’être couplés pour
+       obtenir un haut degré de certitude.
+--
+
+   Il n’y a encore pas si longtemps, on avait beau être un as dans la
+   rédaction de prompts pour générer une image, le résultat livré par l’IA
+   comportait toujours des défauts. Lorsqu’il s’agissait de créer des
+   personnages par exemple, les grands modèles d’IA avaient la fâcheuse
+--
+   par Nano Banana Pro avec cette simple requête : « Génère une photo de
+   femme. Peu importe sa tenue ou ce qu’elle fait. La seule chose que je
+   te demande, c’est que l’image ait l’air d’être une vraie photo,
+   impossible à identifier comme ayant été générée par une IA ».
+   Pris à son propre jeu, l'IA de Google, Gemini, n'a pas reconnu cette
+--
+   générative. Selon Ninon IA, une spécialiste de l’IA aux 200.000
+   followers sur TikTok, Google, via Gemini, « arrive à détecter les
+   images de Nano Banana en deux secondes, même si l’image a été
+   retouchée, compressée, screenshotée ».
+
+--
+   plusieurs IA avec cette question : « Peux-tu me dire s’il s’agit d’une
+   vraie photo ou si elle a été générée par une IA ? » Nous avons
+   simplement recadré l’image créée par Nano Banana pour retirer le petit
+   signe en bas à droite, puis enregistré en « jpg » cette version sous le
+   nom « image2 ». Perplexity est tombé dans le panneau, estimant que « la
+   probabilité qu’il s’agisse d’une vraie photo prise dans un café est
+   très élevée ». De son côté, Grok affirme que « cette photo est une
+   vraie photographie, pas une image générée par IA ». Le Gemini de Google
+   est plus nuancé, reconnaissant qu’il « est très probable que cette
+   image ait été générée par une intelligence artificielle ». Sauf qu’il
+   n’en est pas certain, d’autant qu’il n’a « pas détecté de filigrane
+   SynthID ». Pire, faute de filigrane, Gemini ne reconnaît même pas sa
+--
+   A ce stade, donc, cette histoire de filigrane est à perfectionner.
+   D’autant que Gemini affirme lui-même que le marqueur SynthID « peut
+   être endommagé ou perdu » sur une image qui a été « compressée,
+   recadrée, ou si c’est une capture d’écran ». Néanmoins, il existe
+   d’autres outils dont la combinaison peut apporter un degré de certitude
+--
+   le vrai du faux
+
+Quand les IA ne savent pas reconnaître une image générée par IA de Google
+
+   2

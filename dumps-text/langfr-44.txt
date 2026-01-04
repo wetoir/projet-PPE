@@ -1,0 +1,816 @@
+   #photomaniac » Flux photomaniac » Flux des commentaires photomaniac »
+   Pixel Chaud ou Mort : Causes, Solutions et Astuces pour Sauver Vos
+   Photos Flux des commentaires oEmbed (JSON) oEmbed (XML) JSON
+
+     * Articles
+     * Prestations
+          + Analyse photo personnalisée
+          + Je post-traite vos photos
+          + Photographie de mariage
+          + Photographie d’entreprise
+          + Photographie immobilière
+          + Photographie de produit
+          + Stage d’initiation
+     * Créations personnelles
+     * Contact
+     * Guide photo gratuit
+
+     * Accueil
+
+
+
+     Blog
+
+
+
+     L'exposition
+
+
+
+     Pixel Chaud ou Mort : Causes, Solutions et Astuces pour Sauver Vos
+   Photos
+
+   3 janvier 2026
+
+Pixel Chaud ou Mort : Causes, Solutions et Astuces pour Sauver Vos Photos
+
+   Author Image Author Image Author Image Author Image Author Image Author
+   Image Author Image Author Image Author Image Author Image Author Image
+   Author Image Author Image Author Image Author Image Author Image Author
+   Image Author Image Author Image
+
+   Par Gaëtan Berthouly
+
+   3 janvier 2026
+     __________________________________________________________________
+
+   Partager 0
+   Epingler 0
+   Tweeter 0
+   Partager 0
+
+   Vous êtes en pleine séance photo. Ça fait peut-être un petit moment que
+   vous utilisez votre ami l’appareil photo. Vous vous êtes même amusé à
+   faire des poses longues, vous vous entraînez à de nouvelles techniques,
+   peut-être même que vous avez réalisé des petits films.
+
+   Et là « Ô rage, ô désespoir » vous remarquez qu’une drôle de petite
+   tache apparaît sur votre écran LCD. C’est un pixel en plein milieu (ou
+   autre part) qui dénote complètement avec le reste de la photo. Ce pixel
+   n’est pas si visible, mais vous, vous le voyez.
+
+   Encore pire !
+
+   Vous remontez vos photos et vous vous rendez compte qu’en fait il était
+   là depuis plusieurs PHOTOS ! Le salaud !
+
+   Aujourd’hui on va parler de pixel chaud, et on va aussi en profiter
+   pour parler des pixels morts et des pixels bloqués.
+
+   Allez en avant Guingamp !
+   Cliquez ici pour déplier le sommaire de l’article
+    1. C’est quoi exactement un pixel chaud et comment l’identifier ?
+    2. Pourquoi un pixel chaud apparaît ?
+    3. Nikon et son option de « Long exposure noise reduction »
+    4. Enlever les pixels chauds avec Adobe Lightroom et Adobe Photoshop
+    5. Quelle est la différence entre un pixel chaud, un pixel mort et un
+       « pixel coincé » ?
+    6. Est-ce que c’est si grave d’avoir un pixel chaud, bloqué ou mort ?
+    7. La solution pour enlever les pixels chaud et bloqués : le remappage
+    8. J’ai vu qu’on pouvait le faire à la main, c’est pas mieux ?
+    9. Le pixel défaillant est toujours là
+   10. L’approche psychologique : relativisez !
+   11. Je dois changer mon capteur ou acheter un nouvel appareil photo si
+       j’ai toujours des pixels défaillants ?
+   12. Conclusion
+
+   Cliquez sur le titre qui vous intéresse
+    1. C’est quoi exactement un pixel chaud et comment l’identifier ?
+    2. Pourquoi un pixel chaud apparaît ?
+    3. Nikon et son option de « Long exposure noise reduction »
+    4. Enlever les pixels chauds avec Adobe Lightroom et Adobe Photoshop
+    5. Quelle est la différence entre un pixel chaud, un pixel mort et un
+       « pixel coincé » ?
+    6. Est-ce que c’est si grave d’avoir un pixel chaud, bloqué ou mort ?
+    7. La solution pour enlever les pixels chaud et bloqués : le remappage
+    8. J’ai vu qu’on pouvait le faire à la main, c’est pas mieux ?
+    9. Le pixel défaillant est toujours là
+   10. L’approche psychologique : relativisez !
+   11. Je dois changer mon capteur ou acheter un nouvel appareil photo si
+       j’ai toujours des pixels défaillants ?
+   12. Conclusion
+
+C’est quoi exactement un pixel chaud et comment l’identifier ?
+
+   Un pixel chaud entouré en rouge
+     * C’est un pixel qui a passé trop de temps au soleil ?
+     * C’est un pixel cuit ?
+     * C’est un pixel qui a des velléités de reproduction ?
+
+   NON, rien de tout ça !
+
+   Tout d’abord : pas de panique (même si ça n’a jamais rassuré les gens
+   de leur dire ça). Un pixel chaud est un défaut très courant qui se
+   produit avec la majorité des appareils photo numériques, même les plus
+   récents.
+
+   Le pixel chaud se démarque clairement avec le reste de votre photo. Sa
+   couleur sera blanche, verte ou rouge. Quel que soit sa couleur, le
+   pixel est clair.
+
+   Habituellement, ces pixels et d’autres types de bruit numérique
+   apparaissent dans les parties plus sombres ou sous-exposées des images.
+   Et des photos prises à des temps d’exposition longs sont plus
+   susceptibles de présenter ce problème de pixel chaud.
+
+   Pour repérer les pixels chaud vous pouvez suivre cette procédure (pour
+   ceux qui sont en grande entreprise vous devez adorer ça les procédures,
+   AHA ) :
+    1. gardez le capuchon d’objectif sur votre objectif ;
+    2. réglez votre appareil photo en mode manuel (M) ;
+    3. désactivez les ISO automatique, et réglez-vous sur 100 (ISO de
+       base) ;
+    4. réglez le temps de pose de l’appareil photo entre 5 et 10
+       secondes ;
+    5. réglez l’ouverture sur une grande valeur comme f/16 (pour diminuer
+       la quantité de lumière ambiante qui pourrait potentiellement entrer
+       dans l’objectif par les petits trous).
+    6. prenez une photo ;
+    7. réglez vos ISO à 800 et raccourcissez votre temps de pose à 1/1000
+       s par exemple, sans changer l’ouverture ;
+    8. prenez une autre photo.
+
+   Analysez les deux images obtenus et voyez si vous pouvez repérer les
+   pixels colorés qui ressemblent à de très petites croix lorsqu’on les
+   agrandit.
+
+   Vous verrez probablement plus de pixels chauds dans la deuxième photo à
+   un ISO plus élevé que sur la première.
+   Pixel chaud zoomé
+
+Pourquoi un pixel chaud apparaît ?
+
+   Vous trouverez souvent des pixels chauds dans votre image lors d’une
+   prise de vue à exposition longue avec des ISO élevés vers 800 par
+   exemple. C’est très courant d’avoir ce type de pixel
+   en astrophotographie, dû aux longues poses qu’on effectue : le capteur
+   devient chaud car il est trop sollicité.
+
+   « Mais quelle est la raison technique de l’apparition de pixels chauds
+   ? »
+
+   Les pixels chauds sont causés par des charges électriques qui
+   s’échappent dans le capteur, et ils vont s’aggraver et apparaître plus
+   fréquemment lorsque le capteur lui-même est chaud. Il est donc normal
+   d’avoir des pixels chauds, ils vont et viennent au fil du temps, ils ne
+   sont pas permanents.
+
+   Les pixels chauds dans une photographie ne posent pas de problème en
+   soit. Vous pouvez très facilement corriger l’image avec Adobe Lightroom
+   ou Photoshop. Ils sont même en partie traité par ces logiciels si vous
+   importez vos photos en RAW !
+
+   En général, on ne découvre des pixels chauds qu’après une inspection
+   minutieuse de l’image au post-traitement, car un pixel, c’est…petit !
+   Il est finalement très rare qu’un pixel chaud apparaisse sur l’écran
+   LCD de votre appareil photo (ou en tout cas que vous arriviez à le
+   voir).
+
+   Les pixels chauds sont tout à fait normaux et ils apparaissent même sur
+   les appareils photo neufs. Et comme je vous le disais juste avant, les
+   pixels chauds apparaissent et disparaissent avec le temps. Et si votre
+   appareil photo flambant neuf n’a pas eu de pixels chauds jusque-là,
+   vous pouvez être sûr que vous en aurez à un moment l’autre dans votre
+   vie de photographe, surtout si vous faîtes des poses longues pour faire
+   du light painting par exemple.
+   Exemple de pixels chauds en astrophotographie
+
+Nikon et son option de « Long exposure noise reduction »
+
+   De nombreux appareils photo Nikon sont dotés d’un processus de
+   « réduction du bruit » (« NR » pour « Noise Reduction ») qui permet de
+   corriger ces problèmes. La « réduction du bruit en longue exposition »
+   (ou « Long exposure noise reduction ») permet de prendre deux photos à
+   la suite l’une de l’autre :
+    1. la première photo est une photo ordinaire de la scène devant vous ;
+    2. la seconde est appelée « dark frame » (« image sombre ») parce que
+       l’obturateur de l’appareil est fermé pendant l’exposition. Cette
+       « dark frame » ne contient que du bruit et des pixels chauds.
+
+   L’appareil photo soustrait alors automatiquement la deuxième image de
+   la première, ce qui réduit le bruit numérique, et surtout les pixels
+   chauds de votre première photo (votre photo « normale »).
+
+   « Wow mais ça a l’air trop bien ! »
+
+   Oui mais tout n’est pas rose, enfin noir.
+
+   Comme d’habitude en photo, c’est une question de compromis.
+   L’inconvénient de cette technologie est que le temps de prise de vue
+   est multiplié par 2. Par exemple si vous faîtes une photo avec un temps
+   de pose de 15 s, avec l’option « Long exposure noise reduction »
+   activée, vous ne pourrez pas utiliser pendant 2 x 15 = 30 s. Ça vous
+   laisse donc moins de temps pour prendre des photos, et donc ça vous
+   fait aussi moins de photos pour une même durée de séance.
+   (BUTTON)
+
+Remarque
+
+   Cette fonction de réduction du bruit est parfois aussi appelée
+   « Portrait de nuit » ou « Paysage de nuit ».
+   D’autres appareils peuvent être équipés de cette technologie.
+
+Enlever les pixels chauds avec Adobe Lightroom et Adobe Photoshop
+
+   Comme on l’a vu, si vous réalisez des photos en pose longue, ce qui est
+   souvent le cas en astrophotographie, vous allez être confronté aux
+   pixels chauds. Or votre appareil photo n’a peut-être aucune option de
+   réduction de pixel chaud.
+
+   Dans ce cas, il faudra vous rabattre sur le post-traitement. Comme je
+   vous le disais quand vous importez un fichier RAW dans Lightroom ou
+   Photoshop, la photo est un peu nettoyée. Mais même si les logiciels
+   font un peu le ménage automatiquement, il peut rester quelques pixels
+   chauds que vous devrez enlever manuellement.
+
+   Ici, on ne va pas réinventer la roue. On va imiter le même principe sur
+   lequel fonctionne l’option de « réduction de bruit pour longue
+   exposition » présente sur certains appareils photo.
+    1. Faîtes votre prise de vue normale ;
+    2. juste après, prenez votre image noire, donc laissez les mêmes
+       réglages mais rajouter le capuchon sur l’objectif (attention cela
+       peut changer de place votre appareil) ;
+    3. sous Lightroom appliquez les mêmes réglages de post-traitement sur
+       votre photo noire que sur votre photo « normale » ;
+    4. exportez ensuite les 2 photos ;
+    5. Sur Photoshop importez les 2 photos en mettant la photo noire
+       au-dessus de la photo « normale » dans les calques ;
+    6. sélectionnez la photo noire, allez dans les options de fusion et
+       cliquez sur « soustraire », voir ci-dessous.
+
+   Soustraction Photoshop
+
+   Et voilà grâce à cette manipulation assez simple vous allez pouvoir
+   nettoyer un peu plus votre image !
+   Pixel bloqué
+
+Quelle est la différence entre un pixel chaud, un pixel mort et un « pixel
+coincé » ?
+
+   Il arrive que ces 3 types de pixels soient confondus : le pixel chaud,
+   le pixel mort et le pixel coincé.
+
+   Le point commun de ces 3 types de défaut est que le pixel ne retransmet
+   pas la bonne information (un peu comme un journaliste), mais les
+   raisons ne sont pas les mêmes.
+   Pixel mort
+
+C’est quoi un pixel mort ?
+
+   Un pixel mort est un pixel qui ne reçoit plus aucune information ou
+   puissance.  Les 3 sous pixels (Rouge Vert Bleu) qui le composent
+   sont…morts. Le pixel apparaîtra sous la forme d’un point sombre sur
+   votre écran LCD ou votre photo.
+
+   Comme les capteurs des appareils photo numériques sont dotés de filtres
+   de couleur, également appelés « Matrice de Bayer », les pixels morts ne
+   sont normalement pas représentés par une tache exactement noire. Ils
+   sont plutôt de couleur différente de celle des pixels adjacents, ou
+   sont légèrement plus sombres que ces derniers. On parlera donc plus
+   précisément de pixel sombre.
+
+   La couleur du point peut aussi parfois être celle d’un pixel adjacent,
+   mais qui ne s’aligne pas correctement.
+
+   Le pixel mort peut provenir du capteur ou de l’écran LCD de votre
+   appareil. Et ça n’a pas la même conséquence :
+     * si il provient du capteur, ça apparaîtra sur les photos ;
+     * si il provient de l’écran LCD, ça n’apparaîtra pas sur les photos.
+
+   Je ne vous le cache pas : les pixels morts ne sont pas une bonne
+   nouvelle. C’est un dysfonctionnement technique et il n’y a rien que
+   vous puissiez faire pour y remédier : c’est permanent.
+
+   « C’est vraiment foutu ? »
+
+   Vous pouvez éventuellement tester quelque chose que je vais aborder
+   plus en-dessous, mais si le pixel est vraiment mort ça n’y changera
+   rien, mais peut-être que vous confondez avec autre chose, donc dans le
+   doute vous pouvez essayer.
+
+   Si vous photographiez en RAW, les pixels morts devraient disparaître,
+   en JPG ils resteront visibles.
+
+   Sachez tout de même que les pixels morts sont rares sur les écrans LCD
+   et les capteurs des appareils photo numériques, en effet les fabricants
+   prennent généralement soin des pixels morts au cours de leur vaste
+   processus d’assurance qualité (AQ).
+
+   Mais au fil du temps, tout vieillit et s’use (comme vous). Comme vous
+   (et moi) perdez des cheveux, votre appareil photo perd des pixels !
+   Ainsi, des pixels morts peuvent apparaître avec le temps sur les écrans
+   LCD et les capteurs des appareils photo numériques : c’est normal !
+
+   La bonne nouvelle c’est qu’au post traitement vous pouvez facilement
+   réparer le pixel manquant dans un logiciel comme Photoshop (qui dispose
+   de nombreux outils de correction). Un pixel mort ne se réparera pas
+   « tout seul » physiquement, et vous devrez corriger constamment le
+   problème sur vos photos.
+
+Comment repérer les pixels morts ?
+
+   Ce sont ceux qui ne sont pas vivants ! AHA !
+
+   Les pixels morts sont faciles à repérer sur l’écran LCD de votre vieil
+   ami l’appareil photo. Il suffit d’activer la fonction « Live View » et
+   de pointer votre objectif vers une zone claire, comme le ciel (sauf si
+   il fait nuit et ça pendant 6 mois comme en Arctique).
+
+   Les pixels morts apparaîtront toujours au même endroit, même si vous
+   déplacez votre appareil photo.
+
+   En revanche, il est plus difficile de trouver les pixels morts sur le
+   capteur de votre boîtier.
+
+   Vous pouvez essayer de prendre plusieurs photos avec des couleurs et
+   des motifs différents, puis analysez l’image à 100% de sa taille. Si
+   vous voyez un pixel qui apparaît au même endroit et qui change de
+   couleur à chaque fois (sombre différemment), ou qui semble plus sombre
+   que les pixels environnants, il s’agit très probablement d’un pixel
+   mort.
+
+   Le test ultime est bien évidemment de parler à votre pixel en lui
+   disant « Hey ça va toi ? ». S’il ne répond pas, il est mort. Logique.
+
+   Pixel bloqué
+
+C’est quoi un pixel bloqué ?
+
+   Contrairement aux pixels morts, les pixels bloqués reçoivent de
+   l’information et de la puissance, mais pas la bonne information. L’un
+   des trois sous pixel (ou plus d’un) est éteint.
+
+   Ils apparaissent généralement sous la forme d’une couleur issue du
+   modèle de couleur RVB, comme un vert vif ou une combinaison d’une des 3
+   couleurs primaires.
+
+   Contrairement au pixel mort, ce dernier n’est pas forcément permanent
+   et ne change pas de couleur de photo en photo.
+
+   Tout comme les pixels chauds, les pixels bloqués sont également
+   courants et vous pouvez vous attendre à ce qu’ils se déplacent au fil
+   du temps.
+
+Comment repérer les pixels coincés ?
+
+    1. Réglez votre appareil photo en mode Programme/Auto ou Priorité à
+       l’ouverture ;
+    2. activez le mode « live view » et dirigez l’appareil photo vers un
+       endroit autour de vous, tout en regardant attentivement l’écran LCD
+       de l’appareil photo ;
+    3. si vous remarquez un pixel qui ne bouge jamais et qui a la même
+       couleur quel que soit l’endroit où vous pointez votre caméra, il se
+       peut que vous ayez un pixel coincé sur l’écran LCD ;
+    4. pour savoir si vous avez un pixel coincé sur le capteur de votre
+       appareil photo, prenez plusieurs photos différentes à des ISO de
+       base comme 100 ou 200 ISO ;
+    5. analysez les photos à 100% sur votre écran d’ordinateur ;
+    6. si vous voyez un pixel coloré (en fait, une petite croix lorsqu’on
+       l’observe de près) qui apparaît toujours au même endroit, c’est
+       qu’il s’agit d’un pixel coincé.
+
+Est-ce que c’est si grave d’avoir un pixel chaud, bloqué ou mort ?
+
+   Si vos photographies présentent l’un des défauts énumérés ci-dessus, il
+   est plus que probable (même quasiment certain) que personne ne
+   remarquera ce défaut, sauf vous, car vous avez où il est et vous allez
+   le chercher du regard.
+
+   Ça devient réellement gênant quand il y a un grand nombre de pixels qui
+   déconnent, dans ce cas ça peut devenir visible surtout s’ils sont les
+   uns à côté des autres. Ou encore si vous exposez des photos grand
+   format.
+
+   Mais si vous n’avez qu’un pixel défaillant il y a très peu de chance
+   que ça se voit, comme personne ne verra que vous avez perdu un cheveu
+   de plus. Il vous suffit de le corriger rapidement au post-traitement,
+   quitte à créer un script sur Photoshop ou un pre-set sur Lightroom pour
+   gagner du temps à chaque fois.
+
+   Dans le cas d’un pixel mort, comme c’est souvent définitif : c’est
+   clairement chiant, et il vaut mieux essayer de le réparer, notamment si
+   vous faîtes de la vidéo avec votre appareil photo.
+
+   Si vous vous servez souvent de votre fidèle ami pour faire de la vidéo,
+   avoir un pixel défaillant en mode vidéo pendant que vous faites un
+   panoramique va rapidement se remarquer.
+
+   En vidéo, les trois termes « chaud », « coincé » et « mort» se
+   confondent souvent, et vous trouverez fréquemment différentes personnes
+   citant des termes différents à chaque fois. Mais grosso modo ils
+   parlent tous de la même chose : un pixel ne reçoit pas, et n’affiche
+   pas la bonne information.
+
+   Et contrairement à la photographie : le fait d’avoir un pixel chaud en
+   vidéo est un problème plus sérieux, car la solution n’est pas aussi
+   simple que d’ouvrir Photoshop.
+
+La solution pour enlever les pixels chaud et bloqués : le remappage
+
+   Si vous avez un pixel chaud ou coincé, vous pouvez suivre les étapes
+   ci-dessous pour essayer de le supprimer. Comme déjà expliqué, un pixel
+   mort ne peut pas être réparé, mais si vous photographiez en RAW il
+   devrait disparaître (mais pas en JPG).
+
+   Noter que pour le pixel chaud, il va normalement s’en aller si vous
+   laissez reposer votre appareil photo, et le capteur se refroidir. Donc
+   ce n’est pas la peine de se prendre la tête à son sujet.
+
+   On va faire ce qu’on appelle un remappage ou remapping (oui c’est un
+   anglicisme mais je n’ai pas encore trouvé le mot français qui
+   correspond OULALA PAS BEAU VILAIN).
+
+   Bref, le remmapage ou remapping c’est le fait que votre appareil va
+   faire un petit état des lieux du capteur, il va faire une « carte des
+   défauts » (d’où le « map » qui veut dire « carte »). Le boîtier va
+   regarder où c’est le bordel et arranger tout ça, un coup de peinture
+   par-ci, un bout de ruban adhésif par-là, et c’est comme neuf. Ça me
+   rappelle mon dernier état des lieux.
+
+   Plus sérieusement. Le micrologiciel de votre boîtier va re faire la
+   carte de votre capteur se servir de pixels autour pour boucher les
+   trous. Bref il fait sa petite popote et répare tout ça tout seul.
+   (BUTTON)
+
+Attention
+
+   Les étapes qui seront énoncées ci-dessous sont basées sur les appareils
+   photo reflex Canon, donc l’option de « nettoyage du capteur » dont on
+   va parler peut se trouver dans une zone différente pour une marque
+   différente, mais le principe fonctionne pour la plupart des marques.
+   Si vous n’avez pas l’option « nettoyage manuel » vous avez aussi
+   l’option « nettoyage des poussières », voir la procédure complète ici.
+   Sur Nikon et Olympus, vous pouvez retrouvez dans les menus
+   (généralement le même où on peut reformater une carte SD) l’option
+   « correction des pixels« .
+   Si nécessaire, regardez la notice d’utilisation de votre boîtier photo.
+
+   Pour essayer de supprimer un pixel défaillant suivez les étapes
+   suivantes :
+
+   1-réalisez cette opération de préférence dans un endroit avec le moins
+   de lumière possible ;
+
+   2-Assurez-vous d’avoir une batterie complètement chargée
+
+   3-retirez l’objectif de votre boîtier ;
+
+   4-placez le capuchon du boîtier sur la monture de l’appareil photo ;
+   Capuchon sur le boîtier
+
+   5-allumez l’appareil photo et mettez-vous en mode manuel ;
+   On se met en mode manuel, le « M » à mettre en face du trait
+
+   6-dans l’un des menus avec une clef à molette, sélectionnez « nettoyage
+   du capteur », puis « nettoyage manuel du capteur » ;
+   Source :
+   https://www.canon.fr/support/consumer_products/content/faq/?itemid=tcm:
+   79-1386240
+
+   7-On se met sur le bon menu et on sélectionne « nettoyage du
+   capteur » ;
+   Source :
+   https://www.canon.fr/support/consumer_products/content/faq/?itemid=tcm:
+   79-1386240
+
+   8-On sélectionne « nettoyer manuellement », on confirme, cela ouvrira
+   le miroir et remappera le capteur ;
+   Source :
+   https://www.canon.fr/support/consumer_products/content/faq/?itemid=tcm:
+   79-1386276
+
+   9-laissez l’appareil photo comme ça entre trente secondes et une
+   minute ;
+
+   10-éteignez l’appareil photo, puis rallumez-le pour voir si le problème
+   a été résolu.
+
+   Pour vérifier, faîtes simplement une exposition de 6 secondes et
+   regardez votre image, essayez avec des ISO à 100 puis 800.
+
+   En ce qui concerne la méthode exacte, chacun a un petit peu sa
+   technique et vous pourrez donc trouver des variantes. Certaines disent
+   par exemple qu’il faut charger complètement les batteries, d’autres que
+   l’appareil doit rester face au sol.
+
+   Généralement cette technique fonctionne pour les pixels chauds ou
+   coincés, mais pas les pixels morts. Par ailleurs c’est une technique
+   non officielle, non documentée, mais apparemment pour certains ça
+   marche !
+
+   Superstition ? Racontar ? Connerie ? Je ne sais pas, mais le principal
+   c’est d’essayer et de voir si ça fonctionne pour vous.
+
+J’ai vu qu’on pouvait le faire à la main, c’est pas mieux ?
+
+   Vous aimez le savon ? Car là vous êtes en plein sur une pente bien
+   savonneuse.
+
+   La réparation « DIY » c’est comme le remapping automatique qu’on a vu
+   juste avant mais que vous faîtes manuellement, par vous-même, grâce à
+   diverses techniques ésotériques. Et ça a les mêmes résultats qu’un
+   lancer de pièce.
+
+   En faisant vos petites recherches vous verrez des sujets sur des forums
+   avec des photographes qui pleurent et d’autres qui sont heureux comme
+   un pape !
+
+   Donc j’aurais plutôt tendance à commencer par la version automatique
+   énoncée ci-dessus pour commencer.
+
+Le pixel défaillant est toujours là
+
+   Lorsque vous remettez l’appareil photo en marche tremblotant avec vos
+   mains moites (essuyez-vous les mains svp) vous êtes confronté à deux
+   possibilités :
+     * soit la méthode ci-dessus a réglé le problème (bien) ;
+     * soit elle ne l’a pas fait (moins bien).
+
+   S’il s’agit d’un pixel chaud : attendez que le capteur refroidisse. Si
+   vous shootez en RAW, Lightroom/Camera RAW règlera leur compte. Les
+   pixels chauds n’apparaissent qu’à des ISO élevés et à des expositions
+   plus longues, il est tout à fait normal d’en avoir. N’envoyez pas votre
+   appareil photo au fabricant pour les recréer, car ils reviendront à
+   différents endroits plus tard, c’est certain.
+
+   Pour ceux qui prennent des vidéos, les pixels chauds sont un problème
+   très courant vidéo. Si, à ce stade, votre caméra montre encore un pixel
+   chaud pendant le tournage, il ne vous reste hélas plus beaucoup
+   d’options. Si le pixel chaud apparaît sur une série de plans statiques,
+   en utilisant l’outil de clonage dans After Effects, vous pouvez prendre
+   le pixel voisin et réparer.
+
+   Mais si votre plan est tenu à la main et/ou qu’il y a beaucoup de
+   mouvement, il peut toujours être solutionné en utilisant cette méthode,
+   mais cela va prendre beaucoup de temps.
+
+   Si vous voyez des pixels bloqués à des sensibilités ISO faibles, comme
+   100 et 200 ISO, et que vous photographiez exclusivement en JPEG, vous
+   pouvez envoyer votre appareil photo au service après-vente du fabricant
+   pour faire corriger ces pixels. C’est mieux, plutôt que de bricoler et
+   de risquer d’endommager encore plus l’appareil photo.
+
+   Si le problème vient du capteur, dans la plupart des cas, le
+   remplacement du capteur coûtera tout autant qu’un nouvel appareil
+   photo.
+
+   Si vous venez d’acheter votre appareil photo et que vous avez trop de
+   pixels morts/collés/chauds (par trop, j’entends plus de 3 sur l’écran
+   LCD et plus de 5 sur le capteur à des ISO faibles), renvoyez votre
+   appareil au vendeur auquel vous l’avez acheté. Selon le vendeur, il
+   peut vous rembourser intégralement ou vous échanger l’appareil, ou vous
+   facturer des frais de réapprovisionnement.
+
+   Vous pouvez toujours créer une automatisation de réparation au
+   post-traitement pour ne pas perdre trop de temps à « réparer » vos
+   photos.
+
+L’approche psychologique : relativisez !
+
+   Ça peut sembler être une blague mais pas vraiment en fait. Vous avez 2
+   manières de réagir à ce problème :
+    1. vous prendre la tête ;
+    2. laisser pisser.
+
+   Si vous n’avez qu’un ou deux pixels morts sur votre écran LCD, ne vous
+   inquiétez pas, comme expliqué plus au-dessus ça fait partie de la vie.
+
+   Relativisez : dîtes vous qu’un écran LCD de 3 pouces contient 920 000
+   pixels. Si on fait un peu de mathématiques (finalement ça sert), un
+   seul pixel mort signifie que vous avez un taux de 0,0001% pixels morts
+   avec 99,9999% de bons pixels.
+
+   À moins que vous n’ayez plus de 2 ou 3 pixels morts et qu’ils soient
+   proches les uns des autres, ne vous prenez pas la tête avec ça, c’est
+   plus une fixette qu’autre chose, personne ne le verra. Mais si vous
+   venez d’acheter votre appareil photo et que vous avez trop de pixels
+   morts/coincés/chauds (= plus de 3 sur l’écran LCD et plus de 5 sur le
+   capteur à faible ISO), alors renvoyez votre appareil photo au vendeur
+   chez qui vous l’avez acheté. Selon le vendeur, il pourra vous
+   rembourser intégralement ou vous échanger l’appareil, ou vous facturer
+   des frais de réapprovisionnement.
+
+   Et si ce sont des pixels morts sur l’écran LCD de l’appareil photo, ils
+   n’apparaîtront jamais dans vos images de toute façon ! Il en va de même
+   pour les pixels bloqués sur l’écran LCD, déjà ils peuvent partir, puis
+   si vous n’en avez pas trop c’est OK !
+
+   En ce qui concerne le capteur de l’appareil photo, la situation est un
+   peu différente, car les pixels morts/coincés/chaud apparaîtront dans
+   vos images.
+
+   La probabilité d’avoir des pixels défectueux sur le capteur est plus
+   élevée car il y a plus de pixels sur un capteur qu’un écran LCD. Pour
+   donner un ordre d’idée : en moyenne environ 920 000 pixels sur l’écran
+   LCD contre plus de 12 millions de pixels sur le capteur.
+
+   Les pixels morts et bloqués sont les plus ennuyeux car ils apparaissent
+   dans chaque photo.
+
+   Si vous utilisez Lightroom et Photoshop Camera RAW, ils « mappent »
+   automatiquement les pixels défaillants lorsque vous importez les images
+   RAW : donc 0 prise de tête.
+
+   Si vous ne prenez que des images JPEG, il vous faudra un peu plus de
+   temps lors du post-traitement, car vous devrez retoucher les photos une
+   à une (à moins d’automatiser une suite d’action ou de réglages, ou
+   encore du faire du traitement par lot).
+
+Je dois changer mon capteur ou acheter un nouvel appareil photo si j’ai
+toujours des pixels défaillants ?
+
+   Ce n’est qu’un avis personnel mais réfléchissons ensemble, main dans la
+   main (même si je n’aime pas trop le contact).
+
+   Si vous faîtes de la photographie :
+     * Vous n’êtes pas professionnel (pas de vente de vos photos, pas de
+       client) : si vous n’avez pas le budget et que ce n’est qu’un ou
+       quelques pixels ne changez rien (surtout si c’est juste sur l’écran
+       LCD). Si vous avez le budget dans ce cas un changement est
+       pertinent. Mais retenez que ce n’est que quelques pixels sur des
+       millions, si vous ne faîtes pas de tirages en grand format personne
+       ne le verra (sauf vous, après je vous laisse avec vos névroses…).
+     * Vous êtes professionnel : je dirais que oui, même si probablement
+       personne ne le verra.  Par conscience professionnel vous devez
+       avoir un matériel qui fonctionne parfaitement, vous avez
+       normalement un budget matériel, vous en vivez, vous êtes peut-être
+       amené à faire des tirages grand format. Si vous avez la trésorerie,
+       changez le capteur ou acheter un nouvel appareil (si c’est sur
+       l’écran LCD uniquement pas forcément besoin).
+
+   Si vous faîtes de la vidéo :
+     * Vous n’êtes pas professionnel : si vous n’avez pas le budget,
+       utilisez-vous tant que ça votre appareil en vidéo ? Faîtes vous des
+       plans fixes ou en mouvement ? Pouvez-vous bidouiller un peu en
+       post-production ? Est-ce que ça se voit ? Ne vous ruinez pas ou ne
+       sacrifiez pas vos prochaines vacances pour ça (bon après c’est un
+       choix). Si vous avez le budget évidemment : oui, changer ou réparez
+       votre appareil photo.
+     * Vous êtes professionnel : oui, faîtes réparer ou changer
+       d’appareil, même si vous avez les connaissances et les logiciels
+       pour (à moins que vous ne fassiez que du plan fixe à la limite).
+       Vous allez passer beaucoup de temps, à corriger tout ça au
+       post-traitement, et le temps c’est de l’argent.
+
+Conclusion
+
+   On arrive à la fin de cet article sur les pixels chauds, bloqués et
+   morts. J’espère que voyez plus clair. Voici un petit tableau
+   récapitulatif pour vous aider à affronter cette situation avec panache
+   :
+     Pixel chaud Pixel bloqué Pixel mort
+   Raison Sursollicitation du capteur qui chauffe. Défaillance technique :
+   un ou deux sous pixel est éteint. Défaillance technique : les 3 sous
+   pixels sont définitivement éteints.
+   Description Pixel brillant, souvent visible dans les zones sombres ou
+   sous exposées.
+   Peut apparaître à différents endroits. Pixel rouge, vert ou bleu, ou
+   composante d’une des 3 couleurs.
+   Se trouve toujours au même endroit. Sombre ou d’une couleur d’un pixel
+   voisin mais sombre. Se trouve toujours au même endroit.
+   Comment l’identifier Faire une pose longue avec le capuchon sur
+   l’objectif.
+   Non visible sur l’écran LCD directement, à vérifier sur écran de PC.
+   Activer le mode live view et diriger l’appareil photo vers un fond
+   uniforme. Activer le mode live view et diriger l’appareil photo vers un
+   fond uniforme clair.
+   Permanent Non. Généralement oui. Oui.
+   Source du problème
+   Capteur.   Capteur et/ou écran LCD. Capteur et/ou écran LCD.
+   Impact la photo Oui. -Oui quand l’origine du problème vient du capteur.
+   -Non quand la source du problème vient de l’écran. -Oui quand l’origine
+   du problème vient du capteur.
+   -Non quand la source du problème vient de l’écran.
+   Est-ce réellement embêtant ? Non, c’est temporaire. En photo non
+   (personne ne le verra) sauf si c’est plus de 2-3 pixels regroupés et/ou
+   que vous faîtes des impressions en grand format.   En vidéo : embêtant
+   en mouvement   En photo non sauf (personne ne le verra) si c’est plus
+   de 2-3 pixels regroupés et/ou que vous faîtes des impressions en grand
+   format.   En vidéo : embêtant en mouvement
+   Solution -Attendre que le capteur refroidisse.
+   -Eviter d’enchaîner trop de longues expositions avec des valeurs d’ISO
+   trop élevée.
+   -Choisir l’option « réduction de bruit pour les longues expositions ».
+   -Correction par Photoshop / Lightroom. -Photographier en RAW.
+   -Remappage manuel par l’appareil photo. -Ne pas prendre la tête.
+   -Eventuellement attendre (pas sûr).
+   -Correction par Photoshop / Lightroom.
+   -Changer de capteur
+   -Changer de boîtier.
+   -Remappage par l’appareil photo. -Photographier en RAW. -Ne pas prendre
+   la tête. -Correction par Photoshop / Lightroom. -Changer de capteur.
+   -Changer de boîtier.
+   -Remappage par l’appareil photo. -Photographier en RAW. -Ne pas prendre
+   la tête.
+   Dois-je emmener mon appareil se faire réparer ? Non ! Si l’appareil
+   photo a été acheté récemment tenter un échange ou remboursement.
+   Sinon : voir la réflexion plus au-dessus.   Si l’appareil photo a été
+   acheté récemment tenter un échange ou remboursement.   Sinon : voir la
+   réflexion plus au-dessus.
+   Tableau récapitulatif pixel mort / coincé / chaud
+
+   Globalement ne vous prenez pas la tête, Après tout ce n’est pas la mort
+   ! Sauf celle de vos pixels ! Ce que je vous conseille, en photo :
+     * les pixels chauds sont normaux, temporaires et corrigeables ;
+     * les pixels morts ou coincés, à moins qu’il n’y ait beaucoup de
+       pixels côté à côté, ne seront pas visible, si votre achat est
+       récent vous pouvez tenter de vous faire rembourser ou d’échanger.
+
+   En vidéo c’est plus discutable, mais ici on parle de photo.
+
+   Moi je vous laisse ici à vos pixels défaillants et je vous dis à
+   bientôt sur les internets MONDIAUX !
+
+   J’ai aussi une chaîne YouTube !
+   Partager 0
+   Epingler 0
+   Tweeter 0
+   Partager 0
+   {"email":"Email address invalid","url":"Website address
+   invalid","required":"Required field missing"}
+
+   Liens utiles
+     * Conditions d’utilisation
+     * Conditions Générales de Vente (CGV)
+     * Contact
+     * Lire le Blog
+     * Mentions Légales
+
+   RGPD
+     * Historique des paramètres de confidentialité
+     * Politique de confidentialité
+     * Politique de cookies (UE)
+     * Modifier les paramètres de confidentialité
+     * Retirer les consentements
+
+   contact
+     * 5 impasse de la petite gravière, Clerlande, 63720, France
+     * WhatsApp uniquement : 06 43 83 10 18
+     * contact@photomaniac.fr
+
+   me suivre sur
+
+   ©2026 PhotoManiac, Tous droits réservés
+
+   (BUTTON) Fermez la boite de dialogue
+
+   La session a expiré
+
+   Veuillez vous reconnecter. La page de connexion s’ouvrira dans une
+   nouvelle fenêtre. Après connexion, vous pourrez la fermer et revenir à
+   cette page.
+
+   >
+
+   Shares
+
+   Gérer le consentement aux cookies
+
+   Nous utilisons des cookies pour améliorer votre expérience et analyser
+   notre trafic. Vous pouvez accepter ou refuser selon vos préférences.
+   Fonctionnel [ ] Fonctionnel Toujours activé
+   Le stockage ou l’accès technique est strictement nécessaire dans la
+   finalité d’intérêt légitime de permettre l’utilisation d’un service
+   spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
+   le seul but d’effectuer la transmission d’une communication sur un
+   réseau de communications électroniques.
+   Préférences [ ] Préférences
+   Le stockage ou l’accès technique est nécessaire dans la finalité
+   d’intérêt légitime de stocker des préférences qui ne sont pas demandées
+   par l’abonné ou l’utilisateur.
+   Statistiques [ ] Statistiques
+   Le stockage ou l’accès technique qui est utilisé exclusivement à des
+   fins statistiques. Le stockage ou l’accès technique qui est utilisé
+   exclusivement dans des finalités statistiques anonymes. En l’absence
+   d’une assignation à comparaître, d’une conformité volontaire de la part
+   de votre fournisseur d’accès à internet ou d’enregistrements
+   supplémentaires provenant d’une tierce partie, les informations
+   stockées ou extraites à cette seule fin ne peuvent généralement pas
+   être utilisées pour vous identifier.
+   Marketing [ ] Marketing
+   Le stockage ou l’accès technique est nécessaire pour créer des profils
+   d’utilisateurs afin d’envoyer des publicités, ou pour suivre
+   l’utilisateur sur un site web ou sur plusieurs sites web ayant des
+   finalités marketing similaires.
+     * Gérer les options
+     * Gérer les services
+     * Gérer {vendor_count} fournisseurs
+     * En savoir plus sur ces finalités
+
+   (BUTTON) Accepter (BUTTON) Refuser (BUTTON) Voir les préférences
+   (BUTTON) Enregistrer les préférences Voir les préférences
+     * {title}
+     * {title}
+     * {title}
+
+   (BUTTON) Gérer le consentement

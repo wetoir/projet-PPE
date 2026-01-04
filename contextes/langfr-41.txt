@@ -1,0 +1,265 @@
+   Sep 20, 2011 | Trucs et astuces | 59 commentaires
+
+   La résolution, la taille et la définition d’une image sont des
+   paramètres essentiels dans votre processus de création. En effet, que
+   vous destiniez votre photo à l’impression, au partage sur le web ou à
+--
+
+   Comme vous le savez, le pixel (contraction en anglais de picture
+   element) est l’unité élémentaire qui constitue une image numérique.
+   Même si un pixel n’a pas réellement de forme, il est par commodité,
+   représenté sous une forme carrée par les logiciels de retouche photo.
+   Une image numérique est donc un assemblage de ces millions de petits
+   carrés qui, par le biais de la synthèse additive RVB, sont capables
+   d’afficher des millions de couleurs différentes.
+
+   Aujourd’hui, une image numérique peut être soit affichée sur un écran,
+   soit imprimée. C’est pour cette raison qu’il existe 3 termes pour
+   qualifier la dimension d’une image.
+
+   S’il n’est pas si évident que cela de faire la différence entre la
+   définition et la taille d’une image, cela l’est encore moins avec la
+   résolution. Je vais donc, avant toutes choses, tenter de définir le
+   plus précisément possible ces trois paramètres et les liens qui
+   existent entre eux.
+     * La définition correspond au nombre de pixels qui composent votre
+       image. Elle s’exprime donc en pixels. Pour connaître cette valeur,
+       il suffit de multiplier la hauteur par la largeur de l’image.
+     * La taille correspond elle à la largeur et hauteur de votre image à
+       l’impression. Elle s’exprime donc en cm ou en pouces.
+     * La résolution est ce qui lie la définition à la taille. Cela
+--
+
+   La première chose à bien comprendre, c’est qu’un pixel n’a pas de
+   taille prédéfinie. Si j’affiche une image sur un écran, et bien chaque
+   pixel constitutif de l’image occupera un pixel de l’écran, point.
+
+   Et si cet écran est très défini et de petite taille, les pixels sont
+--
+   paramètres, voici deux exemples.
+
+   Premier exemple : j’ai créé 2 versions de la même image. Comme vous
+   pouvez le constater, j’ai simplement changé la résolution (72 dpi pour
+   la première et 300 dpi pour la seconde) mais sans toucher à la
+   définition de l’image (300 x 200 pixels).
+   Taille de l'image
+
+   L’image avec une résolution d’affichage de 72 dpi : la taille à
+   l’impression est de 10,5 x 7 cm
+   Taille de l'image
+
+   L’image avec une résolution d’affichage de 300 dpi : la taille à
+   l’impression est ridicule (2,5 x 1,7 cm)
+
+--
+
+   Plus la densité de pixels diminue (la valeur de résolution donc), plus
+   l’image imprimée paraîtra floue et pixelisée. A contrario, plus la
+   résolution est élevée, plus la densité de pixels est importante et plus
+   l’image à du détail.
+
+   La résolution est donc un paramètre très important si vous destinez
+   votre image à l’impression. Elle n’a par contre aucun intérêt dans le
+   cas d’images destinées à l’affichage sur un écran.
+
+   Pour autant, de nombreux amateurs de photographie continuent malgré
+   tout de soutenir qu’une image prévue pour être visualisée sur un écran
+   doit avoir une résolution de 72 dpi. C’est totalement faux ! Cette
+   erreur vient du fait que les gros écrans CRT qui ornaient les bureaux
+--
+   résolutions différentes (72 et 300 dpi) mais cette fois ci, j’ai touché
+   à la définition sans changer la taille du document (15 cm x 10 cm).
+   Taille de l'image
+
+   A 72 dpi, l’image est de petite taille
+   Taille de l'image
+
+   A taille d’impression identique, l’image a beaucoup plus de pixels à
+   300 dpi. Elle apparaît donc plus grande à l’écran
+
+--
+   Vous l’avez vu sur les captures d’écran ci dessus, ce logiciel permet
+   de jouer sur les 3 paramètres au sein de la même boite de dialogue
+   (menu Image > Redimensionner > Taille de l’image…).
+
+   Pour modifier l’un des paramètres, il suffit de rentrer les valeurs
+--
+       contenant des calques auxquels ont été appliqués des styles.
+     * Conserver les proportions (coché). Celle-ci permet de conserver le
+       rapport largeur/hauteur de votre image.
+     * Rééchantillonnage. L’activation de cette dernière option va vous
+       permettre de modifier la définition, la taille ou la résolution de
+--
+   (toutes les deux dans le menu Image) :
+     * La première, intitulée Taille de l’impression permet de modifier la
+       répartition des pixels dans votre image. Vous pourrez donc changer
+       la résolution ou la taille de votre photo mais son poids et sa
+       définition eux, ne changeront pas (cela correspond à l’exemple n° 1
+--
+
+   Taille de l'impression Gimp
+     * La seconde option, Echelle et taille de l’image va elle vous
+       permettre de modifier la définition et la résolution de votre
+       photo, même si, je vous le répète, cela ne sert à rien pour la
+       résolution (cf exemple n°2).
+
+   Echelle et taille de l'image Gimp
+
+   Comme pour Photoshop, il vous suffit de mettre la valeur de votre choix
+--
+   pour redimensionner rapidement vos photos. Ouvrez la ou les photos à
+   traiter puis allez dans Outils > Ajuster la taille…Cochez ou pas
+   l’option Echantillonner l’image à nouveau selon que vous souhaitez
+   diminuer le poids de la photo ou non. Le traitement par lots est
+   également possible.
+--
+   télécharger :
+     * xnview
+     * image-resizer
+     * photo-resize
+
+--
+
+   En voici quelques uns :
+     * http://www.xooit.com/fr/redimensionner-image.html
+     * http://redimensionner.free.fr/redimensionner-une-photo-en-ligne.php
+     * http://www.gratuit-en-ligne.com/services-gratuits-en-ligne/redimens
+       ionner-image-gratuitement-en-ligne.php
+
+Quels sont les bonnes valeurs en termes de résolution, de taille et de
+--
+
+     * Supports numériques : peu importe car comme énoncé ci dessus, c’est
+       la définition de l’image qui est importante.
+     * Pour l’impression : optez par défaut pour 300 dpi. Cela ne sert
+       strictement à rien d’aller au delà. L’augmentation de densité des
+--
+       vous avez des tirages en très grande taille à imprimer. Le fait de
+       baisser la valeur de résolution sera compensé par le recul que le
+       spectateur va avoir pour regarder l’image dans sa globalité.
+       L’effet de pixelisation ne sera donc pas visible.
+
+--
+
+   Si par contre, vous avez un site internet, le poids et la définition
+   des images que vous publiez est important. A quoi bon avoir une image
+   de 3000 pixels de large pesant 2 Mo alors que de plus en plus
+   d’internautes sont des mobinautes ? Le temps de chargement risque
+--
+        Loïc sur 6 mai 2022 à 17 h 09 min
+            Bonjour Christine,
+            Pour redimensionner une image numérique, je vous conseille
+            d’utiliser Lightroom pour cette opération. Une fois
+            l’opération d’exportation réalisée, et l’image imprimée, vous
+            pourrez ainsi supprimer le fichier créé par Lightroom. Les
+            fichiers d’origine resteront tels qu’ils ont été créé par
+--
+            résolution inférieure tout simplement parce que une grande
+            photo se regarde avec plus de recul. Du coup, on ne perçoit
+            plus les pixels qui composent l’image.
+            En réponse à votre question, je vous informe qu’il existe
+            effectivement une règle mathématique qui permet de déduire
+            quelle doit être la définition minimale d’une image par
+            rapport à sa taille et au recul que l’on prend pour la
+            regarder.
+--
+            pour un Salon international.
+            Le comité de sélection exige des photos JPEG, Résolution 300
+            dpi taille d’image maximum 700 pixels en hauteur ou en
+            largeur.Un smartphone Apple est il suffisant?
+            Merci d’avance..
+--
+                 dpi sera respectée. Cela ne m’étonnerait pas que les
+                 téléphones produisent des images à 72 dpi. Il va donc
+                 falloir vérifier ce point en ouvrant l’image dans un
+                 logiciel de retouche photo et en sélectionnant l’option
+                 redimensionner.
+--
+            numérise ses photos. Dans votre cas, 300 dpi, ce n’est pas
+            assez ! Si vous recadrez vos photos, il n’y aura plus assez de
+            pixels pour vous permettre d’avoir une image de qualité. Et si
+            en plus, certaines images sont très petites…
+            Si certaines photos sont destinées à être retouchées, optez
+            pour le format TIFF, la qualité d’image est meilleure que le
+            JPEG.
+            Il y a pleins de choses à savoir pour bien numériser ses
+--
+       et la taille (agrandissement entre 100 et 140 cm plus grand côté),
+       j’obtiens sur le smartphone une apparence correcte en agrandissant
+       l’image au maximum. C’est pas parfait mais bon, je peux ainsi
+       mélanger des images de sources différentes et de sujet identique.
+       Encore merci pour votre « truc », c’est génial les personnes
+--
+            Avec un double tapotement du doigt sur l’écran on passe
+            effectivement en taille d’affichage 1:1 c’est à dire qu’un
+            pixel image = 1 pixel écran. Par contre, la résolution
+            d’affichage de vos téléphones ne peut pas être de 72 DPI. Elle
+            est bien supérieure.
+            Car si je prends pour le S8 une hauteur d’image de 3264 pixels
+            à 72 DPI, cela voudrait dire que la hauteur de votre
+            smartphone est de 3264/72 soit 45,33 pouces. Si je convertis
+--
+            La résolution de vos images, quelle soit de 72 dpi ou 500 dpi,
+            on s’en moque. Ce qui est important c’est bien d’avoir des
+            images de grande taille. Avec les tailles d’image que vous
+            annoncez en pixels, vous ne devriez pas avoir de problèmes
+            pour zoomer et afficher les détails de vos photos.
+--
+   ANEXIME sur 27 décembre 2018 à 14 h 16 min
+       Bonjour,
+       Pour un concours, il est demandé de réaliser un image (format A4) à
+       imprimer (3 couleurs max). Le fichier numérique fourni doit
+       respecter les contraintes suivantes :
+--
+            Difficile de respecter les contraintes imposées dans ces
+            conditions. Je ne vois pas comment faire pour avoir un format
+            PSD aussi léger et ce, même avec une image aplatie.
+            Enregistrez votre image au format JPEG ou PDF et ça devrait
+            aller…
+            Réponse
+--
+       Bonjour,
+       J’ai des fichiers (des menus) à enregistrer pour mettre sur des tv
+       HD 100cm. Comment puis-je faire pour avoir une image top car bien
+       souvent l’image n’est pas terrible, je perds énormément en qualité.
+       Merci beaucoup par avance pour votre réponse.
+       Pascal
+--
+       l’écran de projection je n’arrive pas à comprendre sur quels
+       paramètres jouer, quel rapport de grossissement est-il possible
+       sans présenter une image détériorée.
+       Merci de m’éclairer. Cordialement
+       Réponse
+--
+            modification de la taille.
+            Sur le logiciel Photo, une fois que vous avez double cliqué
+            sur la vignette de l’image à modifier, il faut cliquer sur
+            Modifier puis Recadrer. A ce momment là, vous pourrez changer
+            le ratio de l’image (pour le A4 c’est le ratio 2/3).
+            Une fois la photo recadrée, il faut l’exporter : Fichier >
+            Exporter > Exporter photos…
+            Dans la boite de dialogue qui s’affiche, cliquez sur la liste
+            déroulante Taille puis choisissez Personnalisée. Vous pourrez
+            alors rentrer la largeur ou hauteur de l’image.
+            Réponse
+   26.
+--
+       ne sais pas quel logiciel prendre
+       et de plus est-ce possible ?
+       1ére image existe en 1000X1363
+       2éme image est 600X396
+       3éme image est 300X300
+       et on me demande 1600/1200 (2MPX) pour un spectacle de danse
+       projection en fond de scene
+--
+            C’est dans ce cas précis qu’il est intéressant d’avoir des
+            fichiers de grande taille. Donc sauf à avoir besoin de
+            recadrer votre image, ne touchez pas à ses dimensions.
+            Concernant la netteté, vous pouvez tout à fait l’améliorer
+            avec votre logiciel de retouche.
+--
+   d'articles, je restaure, numérise et retouche les photos de mes
+   clients. J'interviens également en amont du processus de traitement de
+   l'image en donnant des cours photo. (En savoir +)
+
+   PHOTOGRAPIX

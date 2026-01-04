@@ -1,0 +1,995 @@
+   #Apprendre la photo, le blog photo » Flux Apprendre la photo, le blog
+   photo » Flux des commentaires oEmbed (JSON) oEmbed (XML) JSON
+
+   Apprendre la photo, le blog photo
+
+     * Accueil
+     * Articles
+          + Choisir son matériel
+               o Choisir son appareil photo
+               o Choisir son objectif photo
+               o Choisir ses accessoires photo
+          + Maitriser son appareil
+               o Technique photo
+               o Composition
+          + Astuces
+          + Maitriser le traitement
+               o Autour du traitement
+               o Traitement de base
+               o Traitement avancé
+          + Devenir plus créatif
+               o Ma pratique photo
+               o Culture Photo
+               o Réflexions
+          + Formations
+               o Devenez un Photographe Accompli
+               o Sublimez vos Photos
+               o Révélez votre Âme de Photographe
+          + Photo argentique
+     * À propos
+     * FORMATIONS
+
+   ____________________ Rechercher
+   commencez ici
+   burger
+
+   Menu
+     * À propos
+     * Contact
+     * Plan du site
+     * Mentions légales
+     * Politique de Confidentialité
+
+   commencez ici
+   Accueil > Le blog > Maitriser son appareil > L’importance du format de
+   l’image (ou ratio d’aspect) en composition : 16/9, 4/3, 3/2, carré, …
+
+L’importance du format de l’image (ou ratio d’aspect) en composition : 16/9,
+4/3, 3/2, carré, …
+
+   Laurent Breillat
+   Dernière mise à jour le: 02-06-2025
+   82 commentaires
+
+   Ratio d'aspect 3/2. Illustration du format d'image pour la composition
+   photo et vidéo.
+
+   Bienvenue sur Apprendre.Photo !
+   Si vous êtes nouveau ici, vous voudrez sans doute lire mon guide qui
+   répond aux 5 problèmes courants des débutants : Cliquez ici pour
+   télécharger le guide gratuitement !
+   Merci de votre visite, et à bientôt sur Apprendre.Photo ! 🙂
+
+   En termes de composition, vous avez sans doute déjà entendu parler de
+   règle des tiers, de place donnée au sujet, et peut-être même des
+   concepts de masse visuelle et d’équilibre des éléments. Mais une
+   composante dont on parle moins souvent, c’est le format de l’image, ce
+   qu’on appelle aussi le ratio d’aspect (c’est un peu un anglicisme –
+   aspect ratio – mais c’est assez courant).
+
+   Et pourtant, ce format est très important et influence de manière
+   majeure votre composition. Il est donc important de ne pas le choisir
+   au hasard, et de comprendre à quel type de composition il est adapté,
+   et comment l’utiliser dans vos images.
+
+   Si vous préférez la vidéo, j’ai traité le sujet sous ce format ici 😉
+   https://www.youtube.com/watch?v=sPql5wMSTck
+
+Format d’image et ratio d’aspect : définition et importance en photographie
+
+   Le format d’image d’une photo est son rapport hauteur/longueur. Un
+   format 3/2 par exemple, est un format qui ferait 30cm sur 20cm ou bien
+   60cm sur 40cm par exemple, donc avec un côté long qui fait 1,5 fois la
+   taille du côté court.
+   format d'image ratio d'aspect photographie photo 3/2
+
+   (Si ça vous donne déjà mal à la tête, rassurez-vous, pas besoin d’aimer
+   la géométrie pour continuer.)
+
+   Le format ou ratio d’aspect original de vos photos est déterminé par la
+   taille de votre capteur :
+     * Les capteurs Full Frame et APS-C qui équipent la plupart des
+       hybrides sont de format 3/2.
+     * Les capteurs micro 4/3 des hybrides Panasonic et Olympus sont de
+       format… 4/3, comme leur nom l’indique.
+     * Les petits capteurs des bridges et compacts sont en général des
+       capteurs 4/3 également.
+
+   Pourquoi maîtriser le format d’image est-il essentiel ? Le choix du
+   ratio d’aspect influence directement l’impact visuel de vos photos,
+   leur composition et l’émotion qu’elles transmettent. Chaque format
+   d’image possède ses propres caractéristiques esthétiques qui peuvent
+   renforcer ou affaiblir votre message photographique.
+
+   Seulement voilà, il existe aussi d’autres formats classiques en
+   photographie, parfois liés au ratio d’aspect de pellicules argentiques
+   peu usitées de nos jours, comme par exemple le format carré (1/1) ou le
+   4/5, ou encore le 16/9, dont l’usage s’est répandu plus récemment car
+   il correspond mieux à celui de nos écrans.
+   format d'image ratio d'aspect photographie photo 16/9 3/2 4/3 1/1
+
+   Vous allez me dire : « mais puisque c’est déterminé par mon capteur, on
+   ne peut rien y faire, non ? » Et bien, pas tout à fait…
+
+   En effet, il est possible de recadrer à la prise de vue sur pas mal
+   d’appareils, notamment les hybrides, mais pas seulement (et parfois
+   seulement en visée par écran sur les reflex).
+
+   C’était plutôt rare il y a quelques années, mais recadrer à la prise de
+   vue est devenue une possibilité assez courante aujourd’hui, et tant
+   mieux, car ça multiplie nos possibilités créatives !
+   Ici sur un Fujifilm GFX (moyen format), vous avez l’embarras du choix
+   des ratios d’aspects, mais ce n’est pas le cas sur tous les appareils.
+
+   De plus, il est également possible de recadrer vos photos au
+   post-traitement sans problème, en quelques clics dans Lightroom ou
+   logiciel équivalent. Aucun souci avec ça, ce n’est pas « le mal ». Il
+   n’y a aucune raison de vous priver de recadrer au post-traitement si
+   vous pensez que ça va rendre votre photo meilleure. Tout ce qui compte,
+   c’est de vous laisser guider par votre intention, et c’est le fil rouge
+   de ma méthode de post-traitement que j’enseigne dans Sublimez vos
+   Photos.
+
+   D’ailleurs, si vous ne les avez pas déjà vu, je fais de temps en temps
+   des vidéos “Donne-moi ton RAW”, où je retouche sur Lightroom les photos
+   des abonnés. L’idée est de vous montrer le champ des possibles en
+   post-traitement photo, et de vous donner envie de vous y mettre 🙂
+
+   Justement dans cet épisode, vous verrez que je recadre assez
+   franchement une photo de papillon pour lui donner plus d’impact.
+   https://youtu.be/ZlRrdSDeApI
+
+   Cela dit, si votre appareil le permet, je vous conseille de faire ce
+   choix à la prise de vue autant que possible (sachant que vous pourrez
+   toujours changer d’avis au post-traitement bien sûr). En effet, le
+   cadre a une très grande influence sur la composition de votre image, et
+   il est très difficile de composer pour le format carré (par exemple)
+   sans avoir d’aperçu de ce que ça pourrait donner.
+
+   Ceci étant dit, dans certaines situations où la rapidité est de mise
+   (photo d’action ou sur le vif), il peut être difficile de saisir le
+   moment ET de choisir le bon format d’image. Dans ce cas, mieux vaut
+   privilégier le moment, quitte à cadrer un peu large pour recadrer plus
+   tard, bien sûr !
+
+   Mais alors concrètement, quelle influence ont les différents formats
+   d’image sur vos photos ? Gardez en tête que comme toujours en
+   composition, il n’y a pas de règle magique et absolue, mais pour
+   commencer il y a quelques principes qui vous seront utiles pour mieux
+   prendre en compte cet aspect.
+
+Comment utiliser efficacement les différents ratios d’aspect en photographie
+
+Format d’image horizontal : choisir le bon ratio d’aspect
+
+   Quand vous cadrez à l’horizontale (ce qu’on appelle improprement « au
+   format paysage »), tous les formats peuvent fonctionner, mais ils vont
+   transmettre des impressions différentes.
+
+Formats d’image allongés : 16/9 et 3/2 pour des compositions dynamiques
+
+   Le format 16/9, de par sa forme très allongée, va favoriser des
+   compositions plus dynamiques, où on va laisser la place au mouvement
+   par exemple : vous vous doutez bien que pour un sujet qui se déplace
+   par exemple de gauche à droite du cadre, il aura plus de « place »
+   devant lui sur un format plus allongé. Il est également plus facile et
+   plus intuitif d’utiliser des lignes diagonales, qui ont pour effet de
+   dynamiser l’image (contrairement aux horizontales et verticales, qui la
+   stabilisent).
+   Munkbroleden, Stockholm photo 16/9
+
+   Le format 3/2 est également relativement allongé et donne cette même
+   impression tout en étant peut-être moins caricatural.
+   Fisherman in Marsaxlokk photo 3/2
+
+   Évidemment, ce serait trop simple si c’était toujours le cas, ce n’est
+   pas une recette de cuisine. En effet, il existe des contre-exemples.
+   Par exemple sur cette première photo ci-dessous, j’ai utilisé le format
+   16/9 pour souligner l’horizontalité en apportant plus de longueur, et
+   surtout l’alignement des 3 sièges, mais pourtant la composition est
+   très centrée et statique : aucune ligne ne vient mener le regard dans
+   l’image.
+   format de l'image ratio d'aspect composition tabourets photo
+
+   Sur cette autre photo au format 3/2, vous voyez que même si le sujet
+   est décentré pour équilibrer l’image, la composition est très
+   statique : en effet, il n’y a que des lignes horizontales et
+   verticales, je suis placé parfaitement face au sujet (sinon, le rendu
+   aurait été complètement gâché), et en plus j’ai opté pour un cadrage
+   assez rentre-dedans et une composition épurée avec cette couleur de
+   fond unie.
+   Abblue Road photo exposition 3/2 bleu jaune
+
+   Tout ça contribue à donner un rendu statique à l’image, même si elle
+   est en 3/2. Le ratio d’aspect est donc UN aspect parmi d’autres de la
+   composition, mais ne fait pas tout à lui tout seul, évidemment.
+
+   Vous pouvez également utiliser ces formats pour couper astucieusement
+   certaines parties de l’image. Par exemple si vous êtes en 4/3 et que
+   vous avez trop de ciel, passer en 3/2 ou en 16/9 va couper 2 « bandes »
+   en haut et en bas de l’image, et en cadrant correctement vous aurez
+   éliminé une partie d’un ciel qui prend trop de place. Vous pouvez donc
+   aussi utiliser cet outil pour résoudre des soucis très simples 🙂
+
+Formats d’image courts : 4/3 et carré pour des compositions centrées
+
+   À l’inverse, le format carré et dans une moindre mesure le format 4/3
+   favorisent plutôt des compositions plus statiques et centrées. C’est
+   pour ça que je trouve parfois le format 4/3 un peu « mou » à
+   l’horizontale.
+   Un bon exemple de composition centrée.
+   Sur un portrait très serré, ça fonctionne aussi !
+
+   Notez que j’ai fait toute une série de photos au format carré, et que
+   j’en ai fait une vidéo, à voir ici :
+
+   IFRAME:
+   https://www.youtube.com/embed/OkOcnKAmHAY?list=PLVGCy9QVeRNVOnbZKPdJoqO
+   tmgfb-wSJM&ecver=1
+   ﻿
+
+   Abonnez-vous à la chaîne YouTube !
+   Ici, avec un ratio de 4/5 (obtenu sur un appareil argentique), on a une
+   composition assez “classique”, si on peut dire, sans vraiment emmener
+   le regard quelque part.
+
+Format d’image vertical : optimiser le ratio d’aspect en orientation portrait
+
+   Quand vous placez votre appareil à la verticale (parfois appelé « en
+   portrait »), les choses changent beaucoup. En effet, notre œil est
+   plutôt habitué à voir « à l’horizontale » (puisque nos yeux ne sont pas
+   placés l’un au-dessus de l’autre :D), et donc l’orientation verticale
+   est un peu plus délicate.
+
+   Le 16/9 est trop long pour être utilisé à la verticale, et à part un
+   cas particulier extrême (par exemple pour insister sur la hauteur d’un
+   élément de l’image), il est donc déconseillé de l’utiliser à la
+   verticale dans la plupart des cas.
+   Evidemment, j’ai comme toujours un contre-exemple 🙂 J’ai tenté deux
+   photos très verticales en dyptique pour ma mini-série “Solitudes
+   Kenyanes”, que je présente notamment dans la vidéo ci-dessous :
+
+   IFRAME:
+   https://www.youtube.com/embed/fUUi2NqpbXg?list=PLVGCy9QVeRNXVPhsu3soSSB
+   gxdRgxGcLi&ecver=1
+   ﻿
+
+   Abonnez-vous à la chaîne YouTube !
+
+   Le 3/2 est déjà beaucoup plus polyvalent. Il est utilisable dans pas
+   mal de situations à la verticale, notamment le portrait, mais parfois
+   il sera quand même trop long. C’est notamment souvent le cas en
+   paysage : ce format va souvent donner trop de place au ciel (ou au sol,
+   ou à l’eau, selon la direction de votre cadrage). J’ai remarqué que la
+   plupart du temps il n’était pas très équilibré dans ces conditions.
+
+   D’où l’intérêt d’utiliser un format plus « court » à la verticale, à
+   savoir le format 4/3. Je vous encourage à essayer si vous trouvez votre
+   composition pas tout à fait équilibrée : parfois le simple fait de
+   recadrer en 4/3 va énormément améliorer votre image, notamment pour
+   cette histoire de ciel trop haut (c’est un peu le même principe que
+   recadrer en 16/9 à l’horizontale).
+   4/3 vertical photo ville paysage ceil mer Un cas typique où le format
+   4/3 fonctionne mieux en orientation verticale !
+
+   Astuce format d’image vertical : En photographie de portrait, le ratio
+   d’aspect 4/3 vertical offre souvent un meilleur équilibre que le 3/2,
+   en évitant de donner trop d’espace au ciel ou au sol dans vos
+   compositions.
+
+Formats d’image atypiques : quand sortir des ratios d’aspect classiques
+
+   Je sais que je vais avoir la question, je prends donc le temps d’écrire
+   quelques lignes à ce sujet. En effet, on m’a déjà demandé s’il était
+   possible de sortir des formats habituels, « classiques », comme ceux
+   que je viens de vous citer, c’est-à-dire de recadrer librement sans
+   suivre des proportions fixes.
+
+   Je le déconseille en général, pour plusieurs raisons :
+     * Les formats classiques le sont pour une raison : ils ont des
+       proportions harmonieuses. Rien ne dit que celui que vous avez
+       inventé le soit.
+     * Recadrer librement va rendre l’impression plus difficile, puisque
+       les papiers sont prévus pour des formats bien déterminés.
+     * Vous avez déjà des tonnes de possibilités avec les formats
+       existants.
+     * Si vous recadrez librement, c’est sans doute que vous n’avez pas
+       été suffisamment rigoureux dans votre composition à la prise de
+       vue. Veillez surtout à ne jamais utiliser le post-traitement par
+       paresse, mais seulement pour sublimer une photo qui est déjà bonne
+       à la base.
+
+   Après, vous faites ce que vous voulez bien sûr, mais essayez de rester
+   dans les formats classiques la majorité du temps, ça vous fera du bien,
+   promis 😉
+
+Guide pratique : comment choisir le meilleur format d’image pour vos photos
+
+   J’espère que vous avez un peu compris l’effet du ratio d’aspect sur vos
+   images, mais avec des principes très souples et des contre-exemples
+   convaincants, j’ai bien conscience que vous êtes peut-être toujours en
+   train de vous demander : « mais comment diable choisir mon format à la
+   prise de vue quand rien n’est clair ? » (oui, je viens d’utiliser
+   « comment diable », bienvenue en 1882 :D)
+
+   Et bien c’est toute la beauté et la complexité de la composition : il
+   n’y a pas de réponse simple.
+
+   En fait, le seul moyen que j’ai de vous répondre, c’est par une
+   question. En effet, la seule chose que vous devez vous demander, c’est
+   si tel ou tel ratio améliore votre image ou non, et surtout fait mieux
+   passer le message ou l’impression que vous souhaitez rendre. Pour vous
+   aider à apprendre ce langage photographique, j’ai édité en français la
+   formation Composition Captivante de David duChemin, une des références
+   mondiales sur le sujet (eh, rien que ça ^^)
+
+   Méthodologie pour choisir votre format d’image :
+   1. Analysez votre sujet principal et sa forme
+   2. Identifiez les lignes directrices de votre composition
+   3. Déterminez l’émotion que vous souhaitez transmettre
+   4. Testez différents ratios d’aspect en post-traitement
+   5. Comparez l’impact visuel de chaque format d’image
+
+   Si vous voulez photographier des motifs très graphiques dans une vue
+   complètement de face et rentre-dedans, demandez-vous si le format carré
+   ne pourrait pas vous aider à renforcer ce graphisme justement. (Comme
+   par exemple sur cette photo de Sebastian Erras ci-dessous.)
+
+
+   Une photo publiée par Parisian floors (@parisianfloors) le 21 Août 2015
+   à 1h13 PDT
+
+   Au contraire, si vous utilisez de fortes lignes diagonales dans votre
+   image, demandez-vous si utiliser un format plus en longueur ne pourrait
+   pas accentuer cet effet visuellement.
+
+   L’important est surtout de comprendre l’effet de ce choix sur votre
+   image, et sur l’impression qu’elle va dégager. Le choix en lui-même
+   viendra instinctivement avec la pratique et l’affûtage de votre œil de
+   photographe.
+
+Exercice pratique : maîtriser tous les ratios d’aspect
+
+   Mais pour finir, je vais quand même vous donner un exercice pour ne pas
+   vous laisser là comme ça :
+
+   Prenez 5 de vos meilleures images dans Lightroom ou votre logiciel
+   favori (si possible des verticales et des horizontales). Créez des
+   copies virtuelles pour chacune d’entre elles, dans votre logiciel de
+   post-traitement préféré.
+   Dans Lightroom, faites clic droit sur une image et “Créer une copie
+   virtuelle” pour tester différents cadrages
+
+   Essayez tous les ratios : 4/3, 3/2, 16/9, 1/1. Pour ça, créez d’abord
+   plusieurs copies virtuelles de votre image (voir l’image ci-dessus),
+   puis outil Recadrer (raccourci clavier R dans le module Développement),
+   menu « aspect ».
+
+   Pour afficher les différents cadrages côte à côte, sélectionnez les
+   images et appuyez sur N.
+   formats d'image sur Lightroom Il est plus facile de voir quel format
+   fonctionne le mieux pour votre image en les affichant côte à côte. Là
+   je me rends compte que préfère la première en format 4/3 !
+
+   Regardez lesquelles fonctionnent le mieux avec quel format, et surtout
+   demandez-vous pourquoi.
+
+   Demandez-vous s’il y a un ratio qui vous plaît ou vous déplaît
+   particulièrement.
+
+   Si l’un d’entre eux vous étonne ou vous séduit, pensez-y à votre
+   prochaine prise de vue !
+
+   Cet exercice vous permettra non seulement d’améliorer votre maîtrise du
+   format d’image, mais aussi de créer plusieurs versions de vos photos
+   optimisées pour différents usages (tirage, Instagram, etc).
+
+Au-delà du format d’image : la composition photographique globale
+
+   Pour finir cet élargir en élargissant la réflexion, ayez en tête que le
+   cadrage et le choix du ratio d’aspect n’est qu’une INFINE partie de la
+   composition en photographie. Pour survoler ce vaste sujet passionnant,
+   voici une vidéo pour vous.
+   https://www.youtube.com/watch?v=xDU_LVnQzMQ&ab_channel=Apprendre%C2%B7P
+   hoto
+
+   J’espère que cet article vous aura aidé ! Et vous, c’est quoi votre
+   format préféré ? Pour ma part, c’est le format 4/3 en vertical, mais
+   pour vous c’est peut être le 3/2 en horizontal !
+
+Avez-vous tout compris ? Testez-vous avec le quizz :
+
+   À la verticale, quel format d'image est déconseillé dans la plupart des
+   cas selon l'article ?
+
+   ( ) Aucun format n’est déconseillé
+   ( ) Le format 4/3
+   ( ) Le format RAW
+   ( ) Le format 3/2
+   Aucun (*)
+
+   Selon l'article, quel format d'image favorise des compositions plus
+   dynamiques ?
+
+   ( ) Le format carré
+   ( ) Le format 4/5
+   ( ) Aucun
+   ( ) Le format en étoile
+   ( ) Le format 16/9
+   Aucun (*)
+
+   Quel est l'effet du format carré sur une image selon l'article ?
+
+   ( ) Il évite d’avoir trop de ciel dans l’image
+   ( ) Il favorise des compositions plus statiques et centrées
+   ( ) Il donne une impression très dynamique
+   ( ) Il renforce les lignes diagonales
+   Aucun (*)
+
+   Quel est le seul moyen de choisir le bon format d'image selon
+   l'article ?
+
+   ( ) Se fier à son intuition
+   ( ) Utiliser le format carré pour les portraits
+   ( ) Utiliser toujours le format 3/2
+   ( ) Se demander si tel format améliore l’image et son message
+   Aucun (*)
+
+   Pourquoi l'article déconseille-t-il de recadrer ses photos dans des
+   formats non conventionnels ?
+
+   ( ) Cela fausse les perspectives de l’image
+   ( ) Cela nécessite des logiciels de retouche très avancés
+   ( ) Cela dénature le rendu original de l’appareil
+   ( ) Cela rend l’impression des photos plus difficile
+   Aucun (*)
+
+   Entrez votre email pour recevoir votre résultat 🙂 ____________________
+   clock.png
+
+   Time’s up
+
+   (BUTTON) Annuler
+   Laurent Breillat
+   J'ai créé Apprendre.Photo en 2010 pour aider les débutants en photo, en
+   créant ce que je n'avais pas trouvé : des articles, vidéos et
+   formations pédagogiques, qui se concentrent sur l'essentiel, battent en
+   brêche les idées reçues, tout ça avec humour et personnalité. Depuis,
+   j'ai formé plus de 14 000 photographes avec mes formations disponibles
+   sur Formations.Photo, sorti deux livres aux éditions Eyrolles, et édité
+   en français des masterclass avec les plus grands photographes du monde
+   comme Steve McCurry.
+   Télécharger l'article en PDF
+     * Inscrivez votre prénom et votre email pour recevoir cet article en
+       pdf, ainsi que votre guide "Faites-vous plaisir en photographiant
+       !"
+     * Prénom*
+       ____________________
+     * E-mail*
+       ____________________
+     * En vous inscrivant à cette newsletter, vous acceptez également de
+       recevoir des conseils pour vous aider à vous améliorer en
+       photographie et des offres promotionnelles sur mes livres et
+       formations.
+       Votre email ne sera jamais revendu. Vous pouvez vous désabonner à
+       tout instant.
+       (Voir mentions légales complètes)
+     * CAPTCHA
+
+   Envoyer
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   IFRAME: gform_ajax_frame_3
+
+   Table des matières
+    1. Format d'image et ratio d'aspect : définition et importance en
+       photographie
+    2. Comment utiliser efficacement les différents ratios d'aspect en
+       photographie
+          + Format d'image horizontal : choisir le bon ratio d'aspect
+               o Formats d'image allongés : 16/9 et 3/2 pour des
+                 compositions dynamiques
+               o
+               o Formats d'image courts : 4/3 et carré pour des
+                 compositions centrées
+          + Format d'image vertical : optimiser le ratio d'aspect en
+            orientation portrait
+          +
+          + Formats d'image atypiques : quand sortir des ratios d'aspect
+            classiques
+    3. Guide pratique : comment choisir le meilleur format d'image pour
+       vos photos
+    4. Exercice pratique : maîtriser tous les ratios d'aspect
+    5. Au-delà du format d'image : la composition photographique globale
+    6. Avez-vous tout compris ? Testez-vous avec le quizz :
+
+   Votre guide gratuit
+
+   Recevez mon guide pour éviter les 5 erreurs des débutants, ainsi que
+   les nouveaux articles du blog.
+     * Prénom*
+       ____________________
+     * E-mail*
+       ____________________
+     * En vous inscrivant à cette newsletter, vous acceptez également de
+       recevoir des conseils pour vous aider à vous améliorer en
+       photographie et des offres promotionnelles sur mes livres et
+       formations.
+       Votre email ne sera jamais revendu. Vous pouvez vous désabonner à
+       tout instant.
+       (Voir mentions légales complètes en bas de page.)
+     * CAPTCHA
+
+   Envoyer
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   IFRAME: gform_ajax_frame_1
+
+   Laisser un commentaire Annuler la réponse
+
+   Votre adresse e-mail ne sera pas publiée. Les champs obligatoires sont
+   indiqués avec *
+
+   Commentaire *
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+
+   Nom * ______________________________
+
+   E-mail * ______________________________
+
+   Site web ______________________________
+
+   IFRAME:
+   https://www.google.com/recaptcha/api/fallback?k=6LewNvgbAAAAAB5V-aK25B_
+   WXVruhMdAm_gXz8Xo
+
+   [ ] Notifiez-moi des commentaires à venir via email. Vous pouvez aussi
+   vous abonner sans commenter.
+
+   Laisser un commentaire
+
+   Δ
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   _____________________________________________
+   82 commentaires
+    1.
+   Patricia dit :
+       Le 18 février 2023 à 8h15
+       Bonjour Laurent, merci pour votre article.
+       Je publie des photos paysages à la verticale sur un groupe
+       Facebook. Un photographe y publie aussi. Les siennes apparaissent à
+       la consultation plus hautes que les miennes. J’ai modifié le format
+       en prenant le même que lui, cela n’a rien changé…Quelle est
+       l’astuce ?
+       Sur mon Android, j’ai le choix entre 3:4, 9:16 et full, je ne parle
+       pas du 1:1, que me conseillez vous pour des photos paysages en
+       vertical à publier sur Facebook ?
+       Merci pour votre aide, belle journée, Patricia
+       Répondre
+    2.
+   Roger Laurent dit :
+       Le 29 septembre 2022 à 21h09
+       Merci pour ton travail, car je me sens tout, mais tout petit devant
+       le monde immense de la photo.
+       Je me sens comme parachuté en pleine foret amazonienne, de nuit,
+       sans carte et boussole !
+       C’est pas évident à 63 ans de s’y mettre, mais vaut tard que jamais
+       !
+       Pour l’instant j’utilise mon cellulaire pour prendre des photos et
+       j’ai téléchargé ”Darktable” pour classer mes photos, plus tard je
+       verrai au post-traitement.
+       Encore merci pour ton aide à démystifier cet univers.
+       Répondre
+    3.
+   youssef serrar dit :
+       Le 12 octobre 2021 à 23h48
+       merci pour ce didactique initiateur en photographie ;ce fut clair
+       simple et bonne entrée en la matière
+       Répondre
+    4.
+   Arnoult dit :
+       Le 20 septembre 2021 à 15h26
+       Très bon article
+       je commence à comprendre
+       Merci
+       merci également a jean Dominique pour son partage de recherches que
+       j’ai aussi conservé
+       Répondre
+    5.
+   Jean-Dominique dit :
+       Le 8 février 2021 à 12h30
+       Bonjour,
+       Félicitation pour ce superbe article.
+       Je pense que c’est un sujet très important et trop rarement traité.
+       J’ai fais quelques recherches dernièrement. J’ai trouvé 3 format
+       “classiques” qu’on retrouve en peinture : le format “P” pour
+       Paysage ou autrement appelé Porte d’Harmonie et qui correspond à
+       notre fameux A4 (et ses multiples ou sous-multiples) ; le format
+       “M” pour Marine qui est basé sur le nombre d’or et qui correspond
+       approximativement au 3:2 ; et le format “F” pour Figure qui
+       correspond à 2 format “M” juxtaposés par leur grand côté et qui
+       correspond au 4:3… Ces formats ont fait leurs preuves (c’est le
+       mois qu’on puisse dire) et le conseil de s’y tenir est plus que
+       raisonnable à moins d’avoir une intention clairement définie pour
+       sa composition.
+       Je n’ai pas trouvé de références claires pour le format carré. Je
+       suis preneur si quelqu’un en a.
+       Par contre je peux témoigné qu’après avoir pratiqué la photo
+       argentiques 24×36 (donc en 3:2) à mes débuts, j’ai eu la joie de
+       pratiquer le 6×6 pendant très longtemps (avec image inversée gauche
+       – droite) et c’est un exercice fantastique. Cela vous met dans un
+       inconfort permanent qui impose de travailler la composition.
+       Je pense qu’il est conseillé de changer souvent de format de prise
+       de vue pour stimuler et casser les habitudes. Mais pour être
+       honnête, je ne le fait pas (ou plus) car j’ai peur de manquer de
+       cohérence dans mes images (séries). Je me contente de recadré en
+       carré de temps en temps en post production.
+       Répondre
+         1.
+        Antonine - Apprendre.Photo dit :
+            Le 9 février 2021 à 20h57
+            Merci pour ton commentaire, c’est très intéressant!
+            Répondre
+
+   Voir plus de commentaires
+
+   Catégories
+     * Choisir son matériel
+          + Choisir un appareil photo
+          + Choisir un objectif photo
+          + Choisir un accessoire photo
+     * Maitriser son appareil
+          + Apprendre la technique photo
+          + Apprendre la composition
+     * Maîtriser la retouche
+          + Retouche de base
+          + Retouche avancée
+          + Autour de la retouche
+     * Devenir plus créatif
+          + Enrichir sa culture photo
+          + Réflexions autour de la photo
+          + Ma pratique photo
+     * Astuces par domaine
+          + Photo de paysage
+          + Photo de portrait
+          + Photo animalière
+          + Photo de macro
+          + Photo de rue
+
+   Articles populaires
+     * Matériel photo
+          + Choisir son appareil photo : guide complet
+          + Meilleur appareil photo en 2024 ?
+          + Choisir un appareil photo hybride
+          + Choisir sa carte mémoire
+          + Choisir un trépied photo
+          + Choisir son imprimante photo
+     * Retouche photo
+          + Choisir son logiciel photo
+          + Choisir son ordinateur pour la photo
+          + Choisir son écran pour la retouche photo
+          + Tout sur le catalogue de Lightroom
+     * Bases de la photo
+          + L’exposition en photo
+          + L’ouverture
+          + La vitesse d’obturation
+          + La sensibilité ISO
+          + La distance focale
+          + L’autofocus
+          + La profondeur de champ
+          + La balance des blancs en photographie
+     * Pratique photo
+          + La photo de nuit
+          + La photo de portrait
+          + La photo noir et blanc
+          + Photographier en contre-jour
+          + Photographier un sujet en mouvement
+
+   Formations.Photo
+     * Grosses formations
+          + Formation aux bases de la photo
+          + Formation à la retouche photo dans Lightroom
+          + Formation à la composition
+          + Capturez l’émotion
+     * Formations courtes
+          + Gérer les lumières difficiles
+          + Maîtriser la photo de nuit en 7 jours
+          + Réussir son premier tirage photo en 7 jours
+          + Maîtriser le noir et blanc
+          + Faire de vraies photos au smartphone
+          + Oser la photo de rue
+          + Maîtriser le portrait en lumière naturelle
+          + Photographier ses enfants naturels et spontanés
+          + Photographier le mouvement
+          + Editing : le coeur de vos projets photo
+          + Maîtriser la photo de paysage
+          + Développez avec émotion
+          + Maîtriser la pose longue
+          + Réussir des photos de voyage uniques sans ralentir les autres
+          +
+          + Toutes les formations de David DuChemin en exclusivité en
+            français
+
+   Maitres.Photo
+
+   Masterclass avec les plus grands
+   photographes du monde :
+     * Steve McCurry
+     * Joel Meyerowitz
+     * David Yarrow
+     * Albert Watson
+     * Paul Nicklen
+
+   Apprendre.Photo
+     * À propos
+     * Contact
+     * Plan du site
+     * Mentions légales
+     * Politique de Confidentialité
+
+
+     *
+     *
+     *
+     *
+
+
+   Edité par :
+   LBR Editions
+   229 rue Solférino
+   59000 LILLE
+   N° SIRET 75393648300019
+
+   © copyright Laurent Breillat / LBR Editions 2010-2025 | Réalisation
+   Axome | Identité visuelle Laurent Vaissade | Identité sonore Sixième
+   Son
+
+C'est nous, les cookies !
+
+   Rien à voir avec les pépites de chocolat (malheureusement) : on sert
+   juste à faire fonctionner le site correctement, mesurer l'audience
+   (anonymement), et vous proposer les contenus que vous allez dévorer
+   (mais sans pépites de chocolat du coup). Ok pour vous ?
+   Non merci Je choisisOk pour moi
+
+   Cliquez ici pour modifier vos préférences en matière de cookies
+
+   (BUTTON) Fermer
+
+Cookies utilisés
+
+   Certains cookies sont nécessaires au fonctionnement du site (par
+   exemple pour vous garder connecté), d'autres nous permettent d'avoir
+   des statistiques d'utilisation (par exemple pour savoir si notre
+   dernier article est un succès ou un flop total), et d'autres encore
+   permettent de prolonger l'expérience en dehors de notre site (par
+   exemple de nous suggérer de nous suivre sur Instagram la prochaine fois
+   que vous y serez :) ).
+   Nécessaires
+   [X] Nécessaires
+   Toujours activé
+   Les cookies nécessaires sont absolument essentiels pour le
+   fonctionnement normal du site. Ils assurent des fonctionnalités
+   basiques et de sécurité du site, anonymement.
+   Cookie Durée Description
+   cookielawinfo-checkbox-analytics 11 months This cookie is set by GDPR
+   Cookie Consent plugin. The cookie is used to store the user consent for
+   the cookies in the category "Analytics".
+   cookielawinfo-checkbox-autres 1 year Set by the GDPR Cookie Consent
+   plugin plugin to store the user consent for cookies in the category
+   "Others".
+   cookielawinfo-checkbox-fonctionnel 1 year Set by the GDPR Cookie
+   Consent plugin, this cookie is used to store the user consent for
+   cookies in the category "Functional".
+   cookielawinfo-checkbox-functional 11 months The cookie is set by GDPR
+   cookie consent to record the user consent for the cookies in the
+   category "Functional".
+   cookielawinfo-checkbox-necessaires 1 year Set by the GDPR Cookie
+   Consent plugin, this cookie is used to store the user consent for
+   cookies in the category "Necessary".
+   cookielawinfo-checkbox-necessary 11 months This cookie is set by GDPR
+   Cookie Consent plugin. The cookies is used to store the user consent
+   for the cookies in the category "Necessary".
+   cookielawinfo-checkbox-others 11 months This cookie is set by GDPR
+   Cookie Consent plugin. The cookie is used to store the user consent for
+   the cookies in the category "Other.
+   cookielawinfo-checkbox-performance 11 months This cookie is set by GDPR
+   Cookie Consent plugin. The cookie is used to store the user consent for
+   the cookies in the category "Performance".
+   cookielawinfo-checkbox-publicite 1 year Set by the GDPR Cookie Consent
+   plugin, this cookie is used to store the user consent for cookies in
+   the category "Advertising".
+   cookielawinfo-checkbox-statistiques 1 year This cookie is set by the
+   GDPR Cookie Consent plugin to check if the user has given consent to
+   use cookies under the "Statistiques" category.
+   CookieLawInfoConsent 1 year Records the default button state of the
+   corresponding category & the status of CCPA. It works only in
+   coordination with the primary cookie.
+   csrftoken past This cookie is associated with Django web development
+   platform for python. Used to help protect the website against
+   Cross-Site Request Forgery attacks
+   elementor never This cookie is used by the website's WordPress theme.
+   It allows the website owner to implement or change the website's
+   content in real-time.
+   ep201 30 minutes This cookie is set by Wufoo for load balancing, site
+   traffic and preventing site abuse.
+   JSESSIONID session The JSESSIONID cookie is used by New Relic to store
+   a session identifier so that New Relic can monitor session counts for
+   an application.
+   viewed_cookie_policy 11 months The cookie is set by the GDPR Cookie
+   Consent plugin and is used to store whether or not user has consented
+   to the use of cookies. It does not store any personal data.
+   _GRECAPTCHA 5 months 27 days This cookie is set by the Google recaptcha
+   service to identify bots to protect the website against malicious spam
+   attacks.
+   Performance
+   [X] Performance
+   Les cookies de performance sont utilisés pour comprendre et analyser
+   des indicateurs de performance, afin de vous donner une meilleure
+   expérience de navigation.
+   Cookie Durée Description
+   ac_enable_tracking 1 month This cookie is set by Active Campaign to
+   denote that traffic is enabled for the website.
+   Autres
+   [X] Autres
+   Autres cookies qui n’ont pas encore été placés dans une catégorie.
+   Cookie Durée Description
+   cmp609620646 1 month No description
+   COMPASS 1 hour No description
+   CX_88898495 1 year No description
+   CX_91046129 1 year No description
+   ep203 3 months No description available.
+   omSeen-ntav5mcxoirgoniq7dgk 1 month No description
+   omSeen-pvdet75ykrmazzsl9oje 1 month No description
+   omSeen-v0wn8odloxmuc04idqsk 1 month No description
+   omSeen-woijpqiqvamih5j3ybmm 1 month No description
+   prism_609620646 1 month No description
+   smcx_209922_last_shown_at session No description
+   smcx_229250_last_shown_at session No description
+   view.tF7EHeUCvnqBJVacKKSmt3.7vxn9VE8msrZ8QqwVhM5S5 1 day No description
+   view.tF7EHeUCvnqBJVacKKSmt3.ChWeyaBaMAcp833aJnUYG8 1 day No description
+   view.tF7EHeUCvnqBJVacKKSmt3.DG8pjQK2sfDBN5Va3XKZ3B 1 day No description
+   view.tF7EHeUCvnqBJVacKKSmt3.Kq5uwsRNuptTs3JX5Yv72A 1 day No description
+   view.tF7EHeUCvnqBJVacKKSmt3.MTJU67sYRwjb3i37qwXKk7 1 day No description
+   view.tF7EHeUCvnqBJVacKKSmt3.tGydyq2jfM44AfBQkySDgc 1 day No description
+   view.tF7EHeUCvnqBJVacKKSmt3.ycNLwoSs2295VXRgMEK8wc 1 day No description
+   wwsgd_visits 9 hours No description available.
+   _dc_gtm_UA-17544727-1 1 minute No description
+   _pinterest_ct_ua 1 year No description available.
+   _pin_unauth 1 year This cookie is placed by Pinterest Tag when the user
+   cannot be matched. It contains a unique UUID to group actions across
+   pages.
+   Publicité
+   [X] Publicité
+   Les cookies de publicité sont utilisés pour prolonger l’expérience en
+   dehors du site, par exemple sur Facebook, Instagram ou Google, et de
+   vous montrer des pubs ciblées. Par exemple vous suggérer de nous suivre
+   sur Instagram si ce n’est pas encore le cas, ou de regarder nos
+   meilleures vidéos YouTube :)
+   Cookie Durée Description
+   centerVisitorId 7977 years 6 months 24 days 6 hours 23 minutes This is
+   a HTTP cookie used to track the individual sessions on the website. It
+   helps the website to compile statistical data from multiple visits.
+   This data is used for lead generation as a part of marketing purpose.
+   fr 3 months Facebook sets this cookie to show relevant advertisements
+   to users by tracking user behaviour across the web, on sites that have
+   Facebook pixel or Facebook social plugin.
+   IDE 1 year 24 days Google DoubleClick IDE cookies are used to store
+   information about how the user uses the website to present them with
+   relevant ads and according to the user profile.
+   loc 1 year 1 month AddThis sets this geolocation cookie to help
+   understand the location of users who share the information.
+   NID 6 months NID cookie, set by Google, is used for advertising
+   purposes; to limit the number of times the user sees an ad, to mute
+   unwanted ads, and to measure the effectiveness of ads.
+   test_cookie 15 minutes The test_cookie is set by doubleclick.net and is
+   used to determine if the user's browser supports cookies.
+   VISITOR_INFO1_LIVE past A cookie set by YouTube to measure bandwidth
+   that determines whether the user gets the new or old player interface.
+   YSC session YSC cookie is set by Youtube and is used to track the views
+   of embedded videos on Youtube pages.
+   yt-remote-connected-devices never YouTube sets this cookie to store the
+   video preferences of the user using embedded YouTube video.
+   yt-remote-device-id never YouTube sets this cookie to store the video
+   preferences of the user using embedded YouTube video.
+   yt.innertube::nextId never This cookie, set by YouTube, registers a
+   unique ID to store data on what videos from YouTube the user has seen.
+   yt.innertube::requests never This cookie, set by YouTube, registers a
+   unique ID to store data on what videos from YouTube the user has seen.
+   _fbp 3 months This cookie is set by Facebook to display advertisements
+   when either on Facebook or on a digital platform powered by Facebook
+   advertising, after visiting the website.
+   Statistiques
+   [X] Statistiques
+   Les cookies de statistiques (analytiques) sont utilisés pour qu’on
+   comprenne comment les visiteurs interagissent avec le site. Par exemple
+   pour savoir le nombre de visiteurs, d’où ils viennent, etc.
+   Cookie Durée Description
+   at-rand never AddThis sets this cookie to track page visits, sources of
+   traffic and share counts.
+   CONSENT 2 years YouTube sets this cookie via embedded youtube-videos
+   and registers anonymous statistical data.
+   uvc 1 year 1 month Set by addthis.com to determine the usage of
+   addthis.com service.
+   vuid 2 years Vimeo installs this cookie to collect tracking information
+   by setting a unique ID to embed videos to the website.
+   _ga 2 years The _ga cookie, installed by Google Analytics, calculates
+   visitor, session and campaign data and also keeps track of site usage
+   for the site's analytics report. The cookie stores information
+   anonymously and assigns a randomly generated number to recognize unique
+   visitors.
+   _gcl_au 3 months Provided by Google Tag Manager to experiment
+   advertisement efficiency of websites using their services.
+   _gid 1 day Installed by Google Analytics, _gid cookie stores
+   information on how visitors use a website, while also creating an
+   analytics report of the website's performance. Some of the data that
+   are collected include the number of visitors, their source, and the
+   pages they visit anonymously.
+   _omappvp 11 years The _omappvp cookie is set to distinguish new and
+   returning users and is used in conjunction with _omappvs cookie.
+   _omappvs 20 minutes The _omappvs cookie, used in conjunction with the
+   _omappvp cookies, is used to determine if the visitor has visited the
+   website before, or if it is a new visitor.
+   Fonctionnels
+   [X] Fonctionnels
+   Les cookies fonctionnels permettent certaines fonctionnalités sur le
+   site (partage sur les réseaux sociaux, commentaires, notes des
+   articles, etc.)
+   Cookie Durée Description
+   bp_user-registered 13 years 8 months 8 days This cookie is used to set
+   which users can access the private pages of the website. It is a
+   functional cookie.
+   bp_user-role 13 years 8 months 8 days This is a functional cookie. It
+   is used to set restriction to the user on acessing certain pages like
+   back office, account page etc.
+   bp_ut_session 13 years 8 months 8 days This is a functional cookie.
+   This cookie is used to set restriction to the user on acessing certain
+   pages like back office, account page etc.
+   S 1 hour Used by Yahoo to provide ads, content or analytics.
+   sb 2 years This cookie is used by Facebook to control its
+   functionalities, collect language settings and share pages.
+   __atuvc 1 year 1 month AddThis sets this cookie to ensure that the
+   updated count is seen when one shares a page and returns to it, before
+   the share count cache is updated.
+   __atuvs 30 minutes AddThis sets this cookie to ensure that the updated
+   count is seen when one shares a page and returns to it, before the
+   share count cache is updated.
+   __cf_bm 30 minutes This cookie, set by Cloudflare, is used to support
+   Cloudflare Bot Management.
+   Enregistrer & appliquer
+   Propulsé par CookieYes Logo
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-5P8522K
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-M7GM38DQ

@@ -1,0 +1,810 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Qu'est ce qu'une image ?
+       (BUTTON) Afficher / masquer la sous-section Qu'est ce qu'une
+       image ?
+          + 1.1 Les images dites « mentales »
+          + 1.2 Les images dites « artificielles »
+          + 1.3 Les types de représentation
+     * 2 Culture de l'image / Culture de la parole
+     * 3 Dans l'histoire et en religion
+       (BUTTON) Afficher / masquer la sous-section Dans l'histoire et en
+       religion
+          + 3.1 Les premières images
+          + 3.2 Quels sont les liens entre Dieu et l'image ?
+     * 4 Les « images et sources anciennes »
+     * 5 Les « nouvelles images »
+     * 6 Notes et références
+     * 7 Annexes
+       (BUTTON) Afficher / masquer la sous-section Annexes
+          + 7.1 Bibliographie
+          + 7.2 Articles connexes
+          + 7.3 Liens externes
+
+   [ ] Basculer la table des matières
+
+Image
+
+   [ ] 93 langues
+     * العربية
+     * Asturianu
+     * Azərbaycanca
+     * Bikol Central
+     * Български
+     * বাংলা
+     * Bosanski
+     * Català
+     * Cebuano
+     * کوردی
+     * Чӑвашла
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Kadazandusun
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * Na Vosa Vakaviti
+     * Gaeilge
+     * Gàidhlig
+     * Galego
+     * Avañe'ẽ
+     * ગુજરાતી
+     * Gaelg
+     * עברית
+     * हिन्दी
+     * Kreyòl ayisyen
+     * Magyar
+     * Bahasa Indonesia
+     * Iñupiatun
+     * Ilokano
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * La .lojban.
+     * Jawa
+     * ქართული
+     * Қазақша
+     * ಕನ್ನಡ
+     * 한국어
+     * کٲشُر
+     * Кыргызча
+     * Latina
+     * Ladino
+     * Lietuvių
+     * Latviešu
+     * Монгол
+     * Bahasa Melayu
+     * မြန်မာဘာသာ
+     * नेपाल भाषा
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Occitan
+     * پنجابی
+     * Português
+     * Runa Simi
+     * Română
+     * Русский
+     * ᱥᱟᱱᱛᱟᱲᱤ
+     * Sicilianu
+     * سنڌي
+     * සිංහල
+     * Simple English
+     * ChiShona
+     * Soomaaliga
+     * Shqip
+     * Kiswahili
+     * தமிழ்
+     * తెలుగు
+     * Тоҷикӣ
+     * ไทย
+     * Türkmençe
+     * Tagalog
+     * Toki pona
+     * Türkçe
+     * Українська
+     * اردو
+     * Tiếng Việt
+     * Winaray
+     * 吴语
+     * ייִדיש
+     * ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ
+     * 中文
+     * 閩南語 / Bân-lâm-gí
+     * 粵語
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Page d’aide sur l’homonymie
+
+   Pour les articles homonymes, voir Image (homonymie).
+
+   Une image est une représentation visuelle, voire mentale, de quelque
+   chose (objet, être vivant ou concept).
+
+   Elle peut être naturelle (ombre, reflet) ou artificielle (sculpture,
+   peinture, photographie), visuelle ou non, tangible ou conceptuelle
+   (métaphore), elle peut entretenir un rapport de ressemblance directe
+   avec son modèle ou au contraire y être liée par un rapport plus
+   symbolique.
+
+   Pour la sémiologie ou sémiotique, qui a développé tout un secteur de
+   sémiotique visuelle, l'image est conçue comme produite par un langage
+   spécifique.
+
+   Platon donne une des plus anciennes définitions de l'image :
+   « J'appelle image d'abord les ombres ensuite les reflets qu'on voit
+   dans les eaux, ou à la surface des corps opaques, polis et brillants et
+   toutes les représentations de ce genre^[1]. »
+
+   Le mot image en français vient du latin imago, qui désignait autrefois
+   les masques mortuaires.
+
+Qu'est ce qu'une image ?
+
+   [modifier | modifier le code]
+   [250px-Shadow_2752.jpg] Métaphoriquement utilisée par Platon dans son
+   « mythe de la caverne », l'ombre portée, une image naturelle, est
+   différente de l'original (ici, on supposera un bouquet en un vase posé
+   sur un meuble).
+
+   « Image : nom féminin. Représentation d’un être ou d’une chose par les
+   arts graphiques ou plastiques, la photographie, le film, etc.^[2] ».
+
+   L’image se définirait comme une représentation ou une reproduction de
+   quelque chose. Elle vient du latin « imago » qui désignait une sorte de
+   masque moulé, à partir de cire d'abeille, sur le visage d’une personne
+   morte afin d'en conserver les traits, comme d'un portrait, et d'en
+   produire éventuellement un moulage.
+
+   Selon l'essayiste Olivier Boulnois^[3] :
+
+     « Qu'entend-on par image ? Dans le monde romain, l'imago désignait
+     un portrait de l'ancêtre en cire, placé dans l'atrium et porté aux
+     funérailles. Le droit d'images, réservé aux personnes nobles, leur
+     permettait d'établir et de conserver leur lignage. Étymologiquement,
+     l'image figure donc le portrait d'un mort. L'image est le langage
+     commun de l'humanité. Elle apparaît sur les voûtes des grottes
+     préhistoriques bien avant que l'homme songe à édifier des temples et
+     des tombeaux. Des millénaires la séparent de l'écriture, projection
+     abstraite de la pensée. L'image abolit le temps et l'espace. Elle
+     est lecture instantanée et présence immédiate du monde. À travers
+     elle l'homme se reconnaît ; pourtant sa richesse est ambiguë et son
+     pouvoir d'aliénation extrême. L'image sert de vérité. Elle s'offre à
+     tous et se refuse à chacun. La mythologie moderne consacre le règne
+     de l'image. Pour mieux imposer ses fables et ses slogans, elle
+     révoque l'esprit qui anime la lettre (la publicité, aujourd'hui,
+     fait de la lettre une image) »
+
+   On peut distinguer deux types d’images :
+     * les images fixes : photographies, bandes dessinées, affiches,
+       panneaux publicitaires…
+     * les images animées ou mouvantes : films, émissions, reportages…
+
+   Il convient tout d'abord de distinguer les images mentales des images
+   perceptives.
+
+Les images dites « mentales »
+
+   [modifier | modifier le code]
+   Article détaillé : Image mentale.
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   Elles correspondent à des représentations de nature consciente ou
+   inconsciente, résultant du phénomène subjectif de perception, selon une
+   dimension individuelle ou collective :
+     * l'image naturelle, qui selon Platon était la seule à avoir un
+       intérêt philosophique : ombre, reflet.
+     * l'image psychique correspond à une métaphore, une représentation
+       mentale, un rêve, une imagination, etc.
+     * l'image sociale résulte d'une impression forgée par l'opinion d'un
+       groupe restreint ou d'une foule.
+     * l'image historique ou liée à la mémoire est la trace laissée aux
+       générations suivantes d'un personnage ou d'un évènement.
+
+Les images dites « artificielles »
+
+   [modifier | modifier le code]
+
+   L'image artificielle peut être :
+     * enregistrée à partir du réel : photographie, vidéo, radiographie,
+       etc.
+     * fabriquée à partir d'une construction ou d'une restitution du
+       réel : dessin, peinture, image de synthèse, etc.
+
+   On peut distinguer sept types d'images^[4] :
+     * la vision naturelle : image unique + vision unique ;
+     * peinture-dessin : image unique (non reproductible) + vision
+       multiple ;
+     * affiche-photographie : reproductibilité + vision multiple ;
+     * cinéma-vidéo : reproductibilité + vision multiple + mouvement ;
+     * télévision : reproductibilité + vision multiple + mouvement +
+       transmission instantanée ;
+     * image numérique internet : reproductibilité + vision multiple +
+       mouvement + transmission instantanée + interactivité.
+
+Les types de représentation
+
+   [modifier | modifier le code]
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   Certaines images entretiennent un rapport analogique avec ce qu'elles
+   représentent. C'est le cas d'un dessin ou d'une photographie qui
+   ressemble (par exemple visuellement) à leur sujet.
+   Certaines représentations entretiennent un rapport direct avec leur
+   objet, mais sans ressemblance physique, comme un organigramme
+   d'entreprise ou le schéma d'un montage électronique.
+   Les images métaphoriques procèdent par comparaison : lorsque l'on dit
+   « cette femme est une vipère » ou « cet homme est un chacal », les
+   affirmations ne sont pas entendues de manière littérale mais impliquent
+   une comparaison entre des personnes et, dans ce cas, des animaux,
+   suivant les qualités que l'on prête de manière conventionnelle à ces
+   animaux.
+   D'autres images forcent le trait de certaines caractéristiques : il
+   peut s'agir de caricature, de représentations arrangées (Imagerie
+   d'Épinal).
+
+   En optique géométrique, une image d'un objet est le lieu de convergence
+   des rayons issus d'un même point (image réelle) ou le lieu d'où
+   semblent provenir les rayons après la traversée d'un système optique
+   (image virtuelle). La projection sur un écran est un cas de
+   visualisation d'une image réelle, l'observation d'un texte à travers
+   une loupe est l'exemple de visualisation d'une image virtuelle. La
+   notion d'image optique est liée à la propriété de stigmatisme.
+
+   En marketing, l'image de marque est la représentation favorable que se
+   donne, vis-à-vis du public, une firme, une institution, une
+   personnalité.
+
+Culture de l'image / Culture de la parole
+
+   [modifier | modifier le code]
+
+   En raison de l'influence remarquable de l'audio-visuel dans la vie
+   moderne, les sociétés et en particulier les sociétés occidentales ont
+   tendance à accorder une primauté de l'image dans le domaine de la
+   communication.
+   C'est ce qui a fait dire à Régis Debray ("Manifestes médiologiques")
+   qu'Hollywood est né à Byzance, parce que la civilisation de l'image
+   ainsi instaurée aboutit à notre « médiacratie » moderne.
+
+   Le phénomène de la prolifération exponentielle des images et de leur
+   accumulation dans une culture du tout-écran a conduit depuis les années
+   1980 les historiens et historiens d'art à réfléchir à la question des
+   sources et des limites de leurs disciplines, les pédagogues au besoin
+   de repères^[5]. Ainsi s'est créée, sous l'impulsion de Laurent
+   Gervereau, fondateur en 1992 du groupe pluridisciplinaire L'Image,
+   l'Histoire du visuel (concernant la production visuelle humaine de la
+   Préhistoire à aujourd'hui), incluant l'histoire de l'art et ses
+   spécificités^[6].
+     * La locution une image vaut mille mots illustre la dimension
+       positive du phénomène de l'image. Spontanément, l'image véhicule un
+       caractère d'objectivité : «On croit davantage à ce que l'on voit».
+     * Mais que voit-on ? L'instantanéité de la perception n'épuise pas la
+       totalité de ce que l'on peut percevoir du passé et surtout du
+       futur.
+       L'image n'est qu'un reflet, qui peut être un reflet construit, un
+       décor de théâtre, une mise en scène.
+     * Combien d'images valent un mot ? Dans les sociétés plus anciennes,
+       tenir parole est important car la parole relie les êtres humains
+       entre eux à travers les serments, les principes, les obligations,
+       les contrats et les devoirs conjugaux.
+
+Dans l'histoire et en religion
+
+   [modifier | modifier le code]
+   [250px-UtrechtIconoclasm.jpg] Plusieurs périodes d'iconoclasme
+   religieux ou politique ont marqué l'histoire de l'art et de la pensée.
+   Aujourd'hui, l'image en tant qu'œuvre de création est aussi protégée
+   par le droit (via la Convention de Berne pour la protection des œuvres
+   littéraires et artistiques en Europe), à des fins notamment
+   commerciales, y compris post-mortem^[7].
+
+Les premières images
+
+   [modifier | modifier le code]
+
+   Partout à travers le monde l'homme a laissé les traces de ses facultés
+   imaginatives sous forme de dessins sur les rochers, qui vont des temps
+   les plus anciens du paléolithique à l'époque moderne. Ces dessins
+   étaient destinés à communiquer des messages. Ces figures, dessinées,
+   peintes, gravées ou taillées représentent les premiers moyens de la
+   communication humaine. On les considèrent comme des images dans la
+   mesure où elles imitent, en les schématisant visuellement, les
+   personnes et les objets du monde réel. On pense que ces premières
+   images pouvaient avoir aussi des relations avec la magie et la
+   religion.
+
+Quels sont les liens entre Dieu et l'image ?
+
+   [modifier | modifier le code]
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   L'interdiction faite dans la Bible ou le Coran de fabriquer des images
+   et de se prosterner devant elle (troisième commandement) renvoie
+   l'image au statut de la personne et particulièrement à celui de la
+   Divinité. La querelle des images a secoué l'Occident du IV^e au
+   VII^e siècle de notre ère, en opposant «iconophiles» et «iconoclastes».
+   Elle renvoie au questionnement sur la nature divine ou non de l'image.
+
+          - pour les uns, la religion monothéiste doit combattre les
+          images des autres dieux.
+          - pour les autres, Dieu est celui qui - par excellence- ne se
+          représente pas et ne peut être limité dans le cadre d'une
+          quelconque représentation, même symbolique, car Dieu ne peut
+          être qu'un mystère à contempler et à découvrir sans cesse.
+
+     * Dans la religion chrétienne, dans ses branches catholiques et
+       orthodoxes, l'image tient une place importante  : en effet, après
+       quelques périodes d'iconoclasme virulent, l'image est
+       définitivement autorisée par le concile de Nicée. La raison en est
+       simple : si Dieu s'est incarné, alors rien ne s'oppose à ce qu'on
+       représente ce qu'il a lui-même voulu rendre visible.
+
+    « Nous rappelons que dans la religion chrétienne "Dieu créa l'homme à
+   son image". Ce terme d'image, fondateur ici, n'évoque plus une
+   représentation visuelle, mais une ressemblance. L'homme-image d'une
+   perfection absolue, pour la culture judéo-chrétienne, rejoint le monde
+   visible de Platon, ombre, « image » du monde idéal et intelligible au
+   fondement de la philosophie occidentale. Du mythe de la caverne à la
+   bible, nous avons appris que nous sommes nous même des images, des
+   êtres ressemblant au beau, au bien et au sacré.  »
+     * La religion protestante dans sa relation avec la divinité, préfère
+       la lecture des textes sacrés à celle de l'image (Ajouter qu'il y a
+       eu un iconoclasme protestant, spéc. calviniste^[8].
+     * L'Islam, s'appuie sur l'interdiction de l'idolâtrie par le Coran et
+       promeut un aniconisme plus ou moins sévère.
+
+Les « images et sources anciennes »
+
+   [modifier | modifier le code]
+
+   Parmi les sources indispensables aux restaurateurs, il faut inclure les
+   traités de techniques architecturales des hommes de l’art. Les
+   inventaires technologiques comme ceux de Végèce et Marcus Vitruvius
+   Pollio, connu sous le nom de Vitruve sont certes indispensables. Les
+   recherches architectoniques d’un Villard de Honnecourt au XIII^e siècle
+   nous amènent ailleurs, dans la connaissance spécifique de
+   l’architecture médiévale. La série est longue, depuis l’invention de
+   l’imprimerie au XV^e siècle, du fonds documentaire disponible. De
+   nombreux ingénieurs se sont illustrés par leur apport technologique,
+   leurs innovations et leur savoir-faire en laissant des ouvrages
+   richement illustrés de leurs expériences et de leurs réflexions. Des
+   publications en fac-similé et des expositions récentes ont mieux fait
+   connaître les travaux des ingénieurs. Ils gagneraient à être mieux
+   diffusés. La bibliographie est immense, disparate, partielle. On ne
+   dispose pas encore d’une vraie synthèse globale et critique.
+
+   Quand on pense aux sources graphiques anciennes, on se remémore surtout
+   les grandes séries romantiques comme celle de Geoffroy Engelmann
+   (1788-1839). Après avoir appris la lithographie en 1813 chez Senefelder
+   à Munich, il l’introduit en France en 1814. Il lance en 1820 la
+   collection Voyages pittoresques et romantiques dans l’ancienne France
+   sous la direction du baron Isidore Taylor, puis de Taylor et Charles
+   Nodier (environ 70 volumes) illustré par J. Vernet et
+   Alexandre-Évariste Fragonard, et d’autres artistes comme Ciceri,
+   Isabey, Horace Vernet… L’élan était donné à de nombreuses autres séries
+   comme « Le Moyen Âge monumental et Archéologique » de Hauser, aux
+   éditions Lemercier à Paris 1841-1847, « Les Sites les plus renommés de
+   France » par Jeannin, en 1840-42 et les nombreux guides itinéraires et
+   géographies pittoresques, par exemple ceux d’Eusèbe Girault de
+   Saint-Fargeau (chez Firmin-Didot, 100 livraisons de 1835 à 1838), Abel
+   Hugo (« France pittoresque par département », 1830-35), Hippolyte-Jules
+   Demolière, sous le pseudonyme "Moleri" (« Guide itinéraire » chez
+   Hachette, 1855), Jules Verne (« Géographie illustrée » chez Hetzel,
+   1868)… qui ont suivi et qui sont de valeur inégale.
+
+   La revue L’Illustration (hebdomadaire illustré (1843-1944), créé sous
+   la parenthèse « libérale » de la monarchie de Juillet, par le saint –
+   simonien Édouard Charton) fournit une étonnante moisson d’aquarelles et
+   de dessins. Tous ces guides récents font suite à des séries commencées
+   dès la fin du XVI^e siècle, notamment par Munster et Hogenberg, puis au
+   XVII^e siècle entre autres par Merian et ses fils qui ont largement
+   puisé dans tous les fonds documentaires européens de l’époque ; nous y
+   reviendrons plus loin. Il est hors de propos de citer ici tous les
+   inventaires des dessinateurs romantiques. Les inventaires régionaux
+   notamment sont innombrables. Une place à part doit être faite cependant
+   à Arcisse de Caumont. Les gravures sur bois et sur métal qu’il a
+   réunies dans ses divers cours d’archéologie, dans le « Bulletin
+   Monumental » de la Société française d'archéologie et dans les Congrès
+   Archéologiques, ne sont pas de simples illustrations (ces collections
+   se perpétuent avec le même sérieux de nos jours). Elles s’écartent
+   délibérément de la déformation romantique et illustrent directement le
+   propos du chercheur et du pédagogue. C’est le début de la modernité
+   dans l’histoire de l’art architectural.
+
+   Lithographes et photographes ne sont pas des pionniers. Des époques
+   antérieures, il subsiste autre chose que des archives éparses. Pour les
+   monuments militaires, on connaît bien sûr les riches fonds des Archives
+   de la guerre et leurs relevés remontant parfois au XVI^e, en tout cas
+   au XVII^e siècle. Pour les monuments religieux, on peut citer des
+   ouvrages comme celui du père bénédictin Gabriel Bucelin. Durant ses
+   voyages, il a réalisé un journal agrémenté de dessins d’abbayes^[9].
+   Les nombreuses aquarelles conservées généralement dans les musées nous
+   donnent aussi un précieux état des lieux. L’imprimerie ne s’est pas
+   contentée de reproduire les cartes des géographes. Elle s’est emparée
+   tôt de longues séries de gravures présentant des villes, des monuments,
+   mais aussi des événements, particulièrement les guerres qui agitaient
+   l’Europe, et les ouvrages militaires qui en servaient d’épicentre.
+   Parmi les ouvrages les plus précoces et les plus remarquables, on peut
+   citer la Cosmographie de Sébastien Munster.
+
+   Dès le XVI^e siècle, ces ouvrages se multiplient et bénéficient parfois
+   du concours d’artistes renommés. Au XVII^e siècle, des éditeurs comme
+   Merian lancent sur le marché de véritables guides des voyageurs, avec
+   cartes et plans topographiques insistant sur le pittoresque et la
+   beauté des monuments ; les images y prennent une place prépondérante et
+   le texte n’est plus que commentaire. Les fortifications et les champs
+   de bataille sont illustrés de façon précise en donnant des
+   renseignements essentiels sur bien des monuments. Les représentations
+   de châteaux princiers se retrouvent dès la fin du Moyen Âge dans
+   certaines miniatures, comme dans Les Très Riches Heures du duc de
+   Berry. L’imprimerie trouve un débouché privilégié par la publication de
+   ces « Très excellentes demeures »^[10].
+
+   Des initiatives sont prises aujourd'hui pour fournir une liste, la plus
+   exhaustive possible, des Imagiers^[11]^,^[12]^,^[13].
+
+Les « nouvelles images »
+
+   [modifier | modifier le code]
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   Les « nouvelles images »: c'est ainsi qu'on appelle les images de
+   synthèse, produites sur ordinateur, et qui sont passées ces dernières
+   années, de la représentation en trois dimensions à un standard de
+   cinéma, le 35 mm, et que l'on peut maintenant voir sur les grands
+   écrans haute définition. Des logiciels de plus en plus puissants et
+   sophistiqués permettent de créer des univers virtuels et qui peuvent se
+   donner comme tels, mais aussi truquer n'importe quelle image
+   apparemment « réelle ». Toute image est désormais manipulable et peut
+   perturber la distinction entre « réel » et visuel. Par exemple les jeux
+   vidéo ou les simulateurs de vol.
+
+   La recherche porte ainsi sur la production d'images de synthèse
+   restituant des bâtiments aujourd'hui disparus ainsi que les ensembles
+   monumentaux, dans les différentes étapes de leur construction et
+   restauration. Des images en 3 dimensions, destinées à être intégrées
+   sous formes fixe et animée, dans les sites Internet produits par la
+   Mission de la recherche et de la technologie ont été réalisées^[14] :
+   Oppidum d'Entremont celto-ligure, sur la commune d'Aix-en-Provence ; il
+   s'agissait de restituer une rue, une salle hypostyle ainsi qu'un
+   bâtiment industriel. Ces documents compléteraient la documentation
+   réunie pour le site Internet dans la collection « Grands sites
+   archéologiques ». Cité de Carcassonne : une visite virtuelle de la cité
+   actuelle, images illustrant la manière dont la restauration s'est
+   faite, ainsi que les différentes étapes de la restauration conduite par
+   Eugène Viollet-le-Duc et ses successeurs au XIX^e siècle. Ce site fera
+   partie du réseau européen de sites Internet « Moyen Âge réel, Moyen Âge
+   imaginaire » développés dans le cadre d'un projet européen Raphaël.
+
+   Si la grande église abbatiale de Cluny existait aujourd’hui dans son
+   intégrité, les élèves de l’École nationale supérieure d’arts et métiers
+   n’auraient pu, en 1988, former le projet de sa reconstruction dans
+   cette version informatique qui allait aboutir, un peu plus tard en
+   1990, à un film d’images de synthèse connu et diffusé sous le titre
+   « Cluny III, images de pierres ». Plus de neuf cents ans après la pose
+   de la première pierre, nous pouvons la redécouvrir, en mesurer
+   l’ampleur et l’harmonie, permettre aux historiens, aux archéologues ou
+   aux architectes de conduire et de vérifier leurs hypothèses et leurs
+   travaux et à un vaste public, éclairé ou initié, d’en appréhender le
+   pourquoi et le comment : mouvement perpétuel et indissociable de
+   l’histoire et de la technique liées l’une à l’autre, indifféremment au
+   gré de l’opportunité et des moyens du moment. Ce type de réalisation
+   avait déjà montré les possibilités de la modélisation avec les temples
+   de Karnak et de Louxor, les ponts de Paris, la Bastille ou la
+   cathédrale de Westminster. Ce procédé est devenu un formidable vecteur
+   de découverte, d’évolution de la connaissance et de communication »
+   (Père Christian, « L’abbaye de Cluny », Cluny, École nationale
+   supérieure d’Arts et Métiers, 1996).
+
+   Plus illusoires encore, la mise en place d'images interactives permet
+   d'immerger totalement le spectateur dans un univers virtuel, avec une
+   vision en relief à 360 degrés. La publicité et les clips ont inauguré
+   des procédés de trucages et d'effets spéciaux que l'on trouve désormais
+   dans les films de fiction. La « trucanumérique » est un ordinateur qui
+   permet des effets spéciaux repérables et d'autres imperceptibles.
+
+   Certains procédés synthétiques permettent aussi la multiplication des
+   interfaces entre différents types d'images, comme l'introduction
+   d'images de synthèses dans les décors « réels » et vice- versa.
+   L'hologramme, cette image laser en trois dimensions, fait aussi partie
+   de ces nouvelles images déconcertantes par son aspect réaliste d'une
+   part mais aussi, en même temps, par son aspect fantomatique de double
+   parfait, flottant, comme en suspension. Ces « nouvelles images » sont
+   appelées aussi des images « virtuelles » dans la mesure où elles
+   proposent des mondes simulés, imaginaires, illusoires. Or cette
+   expression d'image « virtuelle » n'est pas neuve et désigne en optique,
+   une image produite par la prolongation des rayons lumineux : l'image
+   dans la source ou dans le miroir par exemple. Seuls Narcisse, Alice ou
+   Orphée, jusqu'à présent étaient passés de l'autre côté du miroir.
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ Platon, La République, Livre VI, (484a - 511e).
+    2. ↑ Larousse illustré
+    3. ↑ Au-delà de l'image. Une archéologie du visuel au Moyen Âge,
+       V^e – XVI^e siècle, Paris, Seuil, 2008, p. 13.
+    4. ↑ Qu'est-ce qu'une image
+    5. ↑ Décryptimages, portail d’éducation culturelle
+    6. ↑ Laurent Gervereau (dir.), "Dictionnaire mondial des images",
+       Paris, Nouveau monde, 2006 ; Laurent Gervereau, "Images, une
+       histoire mondiale", Paris, Nouveau monde, 2008 ; Laurent Gervereau,
+       "Les images mentent ? Manipuler les images ou manipuler le public",
+       Paris, www.gervereau.com, 2012
+    7. ↑ EQM Bidet-Emeriau, [L'exercice post mortem du droit moral]
+       Université de Paris 2, 11 pages
+    8. ↑ Voir, par exemple, Une révolution symbolique. L’iconoclasme
+       huguenot et la reconstruction catholique. Olivier Christin,
+       éditions de Minuit, 1991.
+    9. ↑ Œuvres du Père bénédictin Gabriel Bucelin (1599-1681) conservées
+       à la bibliothèque du Land de Bade-Wurtemberg à Stuttgart (mss HB V
+       15 a). Il fut prieur de Saint-Jean à Feldkirch (province du
+       Vorarlberg, Autriche), qui dépendait de l’abbaye de Weingarten.
+   10. ↑ René Dinkel, L'Encyclopédie du patrimoine (Monuments historiques,
+       Patrimoine bâti et naturel : Protection, restauration,
+       réglementation. Doctrines : Techniques : Pratiques), Paris,
+       éditions Les Encyclopédies du patrimoine, septembre 1997, 1512 p.
+       (ISBN 2-911200-00-4)
+       Chapitre V La pédagogie et la recherche par l’illustration et la
+       documentation pp. 132158 ; Notices ''Image ancienne, Image de
+       synthèse pp. 827-828
+   11. ↑ Charles-Laurent Salch, Imagiers des châteaux et remparts
+       d’Alsace, vol. 1, Strasbourg, Châteaux-forts d'Europe-Castrum
+       Europe, 2011, 160 p. (ISSN 1253-6008)
+       N°53/54/55 2010. TOME 1 : A - F
+   12. ↑ Charles-Laurent Salch, Imagiers des châteaux et remparts
+       d’Alsace, 1370-1970, vol. 2, Strasbourg, Châteaux-forts
+       d'Europe-Castrum Europe, 2011, 362 p. (ISSN 1253-6008)
+       N°56/57/58/59 2011. Tome 2 : G à
+   13. ↑ Charles-Laurent Salch, Imagiers des châteaux et remparts
+       d’Alsace, 1370-1970, vol. 2, Strasbourg, Châteaux-forts
+       d'Europe-Castrum Europe, 2011, 581 p. (ISSN 1253-6008)
+       N°63/64/65/66 2013. Tome 3 : P à Z
+   14. ↑ Sur le portail du ministère de la culture et de la communication,
+       l’histoire de l’art en 3 millions d’images. Sur un guichet unique,
+       intitulé « collections », qui donne accès à 14 bases documentaires.
+       Grâce à « Collections » et à son moteur de recherche, vous pouvez
+       ainsi consulter un nombre incalculable de données (images parmi
+       lesquelles des photographies, tableaux, mais aussi des visites
+       guidées, des bibliographies…) qui couvrent tous les domaines
+       artistiques : Architecture, archéologie, objets mobiliers,
+       peinture, sculpture, gravure, dessin, enluminures, arts du
+       spectacles, ethnologie, plans, cartes, archives, généalogie,
+       photographie, événements …
+
+Annexes
+
+   [modifier | modifier le code]
+   Une catégorie est consacrée à ce sujet : Image.
+
+Bibliographie
+
+   [modifier | modifier le code]
+     * Emmanuel Alloa (éd.), Penser l'image, Les presses du réel, 2010
+       (avec des textes d'Emmanuel Alloa, Gottfried Boehm, Marie-José
+       Mondzain, Jean-Luc Nancy, Emanuele Coccia, Hans Belting, W.J.T.
+       Mitchell, Jacques Rancière, Horst Bredekamp et Georges
+       Didi-Huberman)
+     * Emmanuel Alloa (éd.) Penser l'image II. Anthropologies du visuel,
+       Les presses du réel, 2015 (avec des textes de Vilém Flusser, Hans
+       Jonas, Andrea Pinotti, Philippe Descola, Carlo Severi, David
+       Freedberg, Bruno Latour, Jan Assmann, James Elkins).
+     * Emmanuel Alloa (éd.) Penser l'image III. Comment lire les images?
+       Les presses du réel 2017 (avec des textes d'Emmanuel Alloa, Mieke
+       Bal, James Elkins, Carlo Ginzburg, Max Imdahl, Peter Geimer, Martin
+       Jay, Eyal Weizman, Charlotte Bigg, Peter Szendy, Giorgio Agamben,
+       Philippe-Alain Michaud, Jacques Rancière, Georges Didi-Huberman).
+     * Alain Besançon, L'Image interdite : une histoire Intellectuelle de
+       L'iconoclasme, Gallimard, 1994
+     * Régis Debray, Vie et mort de l'Image, Gallimard, 1992
+     * Jacques Lafon, Esthétique de l’image de synthèse, Paris,
+       L’Harmattan, 2000.
+     * Laurent Lavaud, L'image, GF Flammarion Corpus, 1999.
+     * Tristan Garcia, L'image, Atlande 2007.
+     * Laurent Gervereau (dir.), Dictionnaire mondial des images, Paris,
+       Nouveau monde, 2006
+     * Groupe µ, Traité du signe visuel, Paris, Le Seuil, 1992.
+     * J.-P. Sartre, L'imaginaire, Gallimard 1940.
+     * Alexandre Schnell (dir.), L'image, Vrin 2007.
+     * J-J. Wunenburger, Philosophie des images, P.U.F. 1997.
+     * Jörge de Sousa Noronha, "Les sept vies de l'image", Baudelaire
+       2014. (ISBN 979 10 203 0460 5)
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Représentation
+     * Image (optique)
+     * Imagerie, traitement d'images, image numérique
+     * Image de marque, réputation, notoriété
+     * Imagerie populaire, imagerie d'Epinal
+     * Gestion de l'impression, opinion
+     * Caricature, Stigmatisation
+     * Sémiotique, sémiotique visuelle, analyse d'image, sémiotique de la
+       photographie
+     * Anthropologie visuelle
+     * Symbole
+
+Liens externes
+
+   [modifier | modifier le code]
+
+     *
+     * Ressource relative à la musique Voir et modifier les données sur
+       Wikidata  :
+          + Songkick
+     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
+       et modifier les données sur Wikidata  :
+          + Den Store Danske Encyklopædi
+          + Universalis
+     * Notices d'autorité Voir et modifier les données sur Wikidata  :
+          + LCCN
+          + GND
+          + Israël
+
+     * icône décorative Portail de la culture
+     * icône décorative Portail de la philosophie
+     * icône décorative Portail de la photographie
+     * icône décorative Portail de la peinture
+     * icône décorative Portail de la sculpture
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Image&oldid=229032057 ».
+   Catégories :
+     * Vision
+     * Document
+     * Image
+
+   Catégories cachées :
+     * Article manquant de références depuis novembre 2019
+     * Article manquant de références/Liste complète
+     * Page utilisant P3478
+     * Page pointant vers des bases externes
+     * Page pointant vers des bases relatives à la musique
+     * Page utilisant P8313
+     * Page utilisant P3219
+     * Page pointant vers des dictionnaires ou encyclopédies généralistes
+     * Article de Wikipédia avec notice d'autorité
+     * Portail:Culture/Articles liés
+     * Portail:Philosophie/Articles liés
+     * Portail:Société/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Photographie/Articles liés
+     * Portail:Arts/Articles liés
+     * Portail:Peinture/Articles liés
+     * Portail:Sculpture/Articles liés
+     * Bon article en allemand
+
+     * La dernière modification de cette page a été faite le 17 septembre
+       2025 à 05:09.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Image
+   (BUTTON) 93 langues Ajouter un sujet

@@ -1,0 +1,253 @@
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Qu'est ce qu'une image ?
+       (BUTTON) Afficher / masquer la sous-section Qu'est ce qu'une
+       image ?
+          + 1.1 Les images dites « mentales »
+          + 1.2 Les images dites « artificielles »
+          + 1.3 Les types de représentation
+     * 2 Culture de l'image / Culture de la parole
+     * 3 Dans l'histoire et en religion
+       (BUTTON) Afficher / masquer la sous-section Dans l'histoire et en
+       religion
+          + 3.1 Les premières images
+          + 3.2 Quels sont les liens entre Dieu et l'image ?
+     * 4 Les « images et sources anciennes »
+     * 5 Les « nouvelles images »
+--
+   Pour les articles homonymes, voir Image (homonymie).
+
+   Une image est une représentation visuelle, voire mentale, de quelque
+   chose (objet, être vivant ou concept).
+
+--
+
+   Pour la sémiologie ou sémiotique, qui a développé tout un secteur de
+   sémiotique visuelle, l'image est conçue comme produite par un langage
+   spécifique.
+
+   Platon donne une des plus anciennes définitions de l'image :
+   « J'appelle image d'abord les ombres ensuite les reflets qu'on voit
+   dans les eaux, ou à la surface des corps opaques, polis et brillants et
+   toutes les représentations de ce genre^[1]. »
+
+   Le mot image en français vient du latin imago, qui désignait autrefois
+   les masques mortuaires.
+
+Qu'est ce qu'une image ?
+
+   [modifier | modifier le code]
+   [250px-Shadow_2752.jpg] Métaphoriquement utilisée par Platon dans son
+   « mythe de la caverne », l'ombre portée, une image naturelle, est
+   différente de l'original (ici, on supposera un bouquet en un vase posé
+   sur un meuble).
+--
+   arts graphiques ou plastiques, la photographie, le film, etc.^[2] ».
+
+   L’image se définirait comme une représentation ou une reproduction de
+   quelque chose. Elle vient du latin « imago » qui désignait une sorte de
+   masque moulé, à partir de cire d'abeille, sur le visage d’une personne
+--
+   Selon l'essayiste Olivier Boulnois^[3] :
+
+     « Qu'entend-on par image ? Dans le monde romain, l'imago désignait
+     un portrait de l'ancêtre en cire, placé dans l'atrium et porté aux
+     funérailles. Le droit d'images, réservé aux personnes nobles, leur
+     permettait d'établir et de conserver leur lignage. Étymologiquement,
+     l'image figure donc le portrait d'un mort. L'image est le langage
+     commun de l'humanité. Elle apparaît sur les voûtes des grottes
+     préhistoriques bien avant que l'homme songe à édifier des temples et
+     des tombeaux. Des millénaires la séparent de l'écriture, projection
+     abstraite de la pensée. L'image abolit le temps et l'espace. Elle
+     est lecture instantanée et présence immédiate du monde. À travers
+     elle l'homme se reconnaît ; pourtant sa richesse est ambiguë et son
+     pouvoir d'aliénation extrême. L'image sert de vérité. Elle s'offre à
+     tous et se refuse à chacun. La mythologie moderne consacre le règne
+     de l'image. Pour mieux imposer ses fables et ses slogans, elle
+     révoque l'esprit qui anime la lettre (la publicité, aujourd'hui,
+     fait de la lettre une image) »
+
+   On peut distinguer deux types d’images :
+--
+   inconsciente, résultant du phénomène subjectif de perception, selon une
+   dimension individuelle ou collective :
+     * l'image naturelle, qui selon Platon était la seule à avoir un
+       intérêt philosophique : ombre, reflet.
+     * l'image psychique correspond à une métaphore, une représentation
+       mentale, un rêve, une imagination, etc.
+     * l'image sociale résulte d'une impression forgée par l'opinion d'un
+       groupe restreint ou d'une foule.
+     * l'image historique ou liée à la mémoire est la trace laissée aux
+       générations suivantes d'un personnage ou d'un évènement.
+
+--
+   [modifier | modifier le code]
+
+   L'image artificielle peut être :
+     * enregistrée à partir du réel : photographie, vidéo, radiographie,
+       etc.
+     * fabriquée à partir d'une construction ou d'une restitution du
+       réel : dessin, peinture, image de synthèse, etc.
+
+   On peut distinguer sept types d'images^[4] :
+     * la vision naturelle : image unique + vision unique ;
+     * peinture-dessin : image unique (non reproductible) + vision
+       multiple ;
+     * affiche-photographie : reproductibilité + vision multiple ;
+--
+     * télévision : reproductibilité + vision multiple + mouvement +
+       transmission instantanée ;
+     * image numérique internet : reproductibilité + vision multiple +
+       mouvement + transmission instantanée + interactivité.
+
+--
+   d'Épinal).
+
+   En optique géométrique, une image d'un objet est le lieu de convergence
+   des rayons issus d'un même point (image réelle) ou le lieu d'où
+   semblent provenir les rayons après la traversée d'un système optique
+   (image virtuelle). La projection sur un écran est un cas de
+   visualisation d'une image réelle, l'observation d'un texte à travers
+   une loupe est l'exemple de visualisation d'une image virtuelle. La
+   notion d'image optique est liée à la propriété de stigmatisme.
+
+   En marketing, l'image de marque est la représentation favorable que se
+   donne, vis-à-vis du public, une firme, une institution, une
+   personnalité.
+
+Culture de l'image / Culture de la parole
+
+   [modifier | modifier le code]
+--
+   En raison de l'influence remarquable de l'audio-visuel dans la vie
+   moderne, les sociétés et en particulier les sociétés occidentales ont
+   tendance à accorder une primauté de l'image dans le domaine de la
+   communication.
+   C'est ce qui a fait dire à Régis Debray ("Manifestes médiologiques")
+   qu'Hollywood est né à Byzance, parce que la civilisation de l'image
+   ainsi instaurée aboutit à notre « médiacratie » moderne.
+
+--
+   Préhistoire à aujourd'hui), incluant l'histoire de l'art et ses
+   spécificités^[6].
+     * La locution une image vaut mille mots illustre la dimension
+       positive du phénomène de l'image. Spontanément, l'image véhicule un
+       caractère d'objectivité : «On croit davantage à ce que l'on voit».
+     * Mais que voit-on ? L'instantanéité de la perception n'épuise pas la
+       totalité de ce que l'on peut percevoir du passé et surtout du
+       futur.
+       L'image n'est qu'un reflet, qui peut être un reflet construit, un
+       décor de théâtre, une mise en scène.
+     * Combien d'images valent un mot ? Dans les sociétés plus anciennes,
+--
+   [250px-UtrechtIconoclasm.jpg] Plusieurs périodes d'iconoclasme
+   religieux ou politique ont marqué l'histoire de l'art et de la pensée.
+   Aujourd'hui, l'image en tant qu'œuvre de création est aussi protégée
+   par le droit (via la Convention de Berne pour la protection des œuvres
+   littéraires et artistiques en Europe), à des fins notamment
+--
+   religion.
+
+Quels sont les liens entre Dieu et l'image ?
+
+   [modifier | modifier le code]
+--
+   L'interdiction faite dans la Bible ou le Coran de fabriquer des images
+   et de se prosterner devant elle (troisième commandement) renvoie
+   l'image au statut de la personne et particulièrement à celui de la
+   Divinité. La querelle des images a secoué l'Occident du IV^e au
+   VII^e siècle de notre ère, en opposant «iconophiles» et «iconoclastes».
+   Elle renvoie au questionnement sur la nature divine ou non de l'image.
+
+          - pour les uns, la religion monothéiste doit combattre les
+--
+
+     * Dans la religion chrétienne, dans ses branches catholiques et
+       orthodoxes, l'image tient une place importante  : en effet, après
+       quelques périodes d'iconoclasme virulent, l'image est
+       définitivement autorisée par le concile de Nicée. La raison en est
+       simple : si Dieu s'est incarné, alors rien ne s'oppose à ce qu'on
+--
+
+    « Nous rappelons que dans la religion chrétienne "Dieu créa l'homme à
+   son image". Ce terme d'image, fondateur ici, n'évoque plus une
+   représentation visuelle, mais une ressemblance. L'homme-image d'une
+   perfection absolue, pour la culture judéo-chrétienne, rejoint le monde
+   visible de Platon, ombre, « image » du monde idéal et intelligible au
+   fondement de la philosophie occidentale. Du mythe de la caverne à la
+   bible, nous avons appris que nous sommes nous même des images, des
+   êtres ressemblant au beau, au bien et au sacré.  »
+     * La religion protestante dans sa relation avec la divinité, préfère
+       la lecture des textes sacrés à celle de l'image (Ajouter qu'il y a
+       eu un iconoclasme protestant, spéc. calviniste^[8].
+     * L'Islam, s'appuie sur l'interdiction de l'idolâtrie par le Coran et
+--
+   écrans haute définition. Des logiciels de plus en plus puissants et
+   sophistiqués permettent de créer des univers virtuels et qui peuvent se
+   donner comme tels, mais aussi truquer n'importe quelle image
+   apparemment « réelle ». Toute image est désormais manipulable et peut
+   perturber la distinction entre « réel » et visuel. Par exemple les jeux
+   vidéo ou les simulateurs de vol.
+--
+   interfaces entre différents types d'images, comme l'introduction
+   d'images de synthèses dans les décors « réels » et vice- versa.
+   L'hologramme, cette image laser en trois dimensions, fait aussi partie
+   de ces nouvelles images déconcertantes par son aspect réaliste d'une
+   part mais aussi, en même temps, par son aspect fantomatique de double
+--
+   appelées aussi des images « virtuelles » dans la mesure où elles
+   proposent des mondes simulés, imaginaires, illusoires. Or cette
+   expression d'image « virtuelle » n'est pas neuve et désigne en optique,
+   une image produite par la prolongation des rayons lumineux : l'image
+   dans la source ou dans le miroir par exemple. Seuls Narcisse, Alice ou
+   Orphée, jusqu'à présent étaient passés de l'autre côté du miroir.
+--
+    1. ↑ Platon, La République, Livre VI, (484a - 511e).
+    2. ↑ Larousse illustré
+    3. ↑ Au-delà de l'image. Une archéologie du visuel au Moyen Âge,
+       V^e – XVI^e siècle, Paris, Seuil, 2008, p. 13.
+    4. ↑ Qu'est-ce qu'une image
+    5. ↑ Décryptimages, portail d’éducation culturelle
+    6. ↑ Laurent Gervereau (dir.), "Dictionnaire mondial des images",
+--
+
+   [modifier | modifier le code]
+     * Emmanuel Alloa (éd.), Penser l'image, Les presses du réel, 2010
+       (avec des textes d'Emmanuel Alloa, Gottfried Boehm, Marie-José
+       Mondzain, Jean-Luc Nancy, Emanuele Coccia, Hans Belting, W.J.T.
+       Mitchell, Jacques Rancière, Horst Bredekamp et Georges
+       Didi-Huberman)
+     * Emmanuel Alloa (éd.) Penser l'image II. Anthropologies du visuel,
+       Les presses du réel, 2015 (avec des textes de Vilém Flusser, Hans
+       Jonas, Andrea Pinotti, Philippe Descola, Carlo Severi, David
+       Freedberg, Bruno Latour, Jan Assmann, James Elkins).
+     * Emmanuel Alloa (éd.) Penser l'image III. Comment lire les images?
+       Les presses du réel 2017 (avec des textes d'Emmanuel Alloa, Mieke
+       Bal, James Elkins, Carlo Ginzburg, Max Imdahl, Peter Geimer, Martin
+--
+       L'iconoclasme, Gallimard, 1994
+     * Régis Debray, Vie et mort de l'Image, Gallimard, 1992
+     * Jacques Lafon, Esthétique de l’image de synthèse, Paris,
+       L’Harmattan, 2000.
+     * Laurent Lavaud, L'image, GF Flammarion Corpus, 1999.
+     * Tristan Garcia, L'image, Atlande 2007.
+     * Laurent Gervereau (dir.), Dictionnaire mondial des images, Paris,
+       Nouveau monde, 2006
+     * Groupe µ, Traité du signe visuel, Paris, Le Seuil, 1992.
+     * J.-P. Sartre, L'imaginaire, Gallimard 1940.
+     * Alexandre Schnell (dir.), L'image, Vrin 2007.
+     * J-J. Wunenburger, Philosophie des images, P.U.F. 1997.
+     * Jörge de Sousa Noronha, "Les sept vies de l'image", Baudelaire
+       2014. (ISBN 979 10 203 0460 5)
+
+--
+     * Représentation
+     * Image (optique)
+     * Imagerie, traitement d'images, image numérique
+     * Image de marque, réputation, notoriété
+     * Imagerie populaire, imagerie d'Epinal
+     * Gestion de l'impression, opinion
+     * Caricature, Stigmatisation
+     * Sémiotique, sémiotique visuelle, analyse d'image, sémiotique de la
+       photographie
+     * Anthropologie visuelle

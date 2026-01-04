@@ -1,0 +1,198 @@
+<!DOCTYPE html><html>
+
+<head>
+	<script type="text/javascript">
+		window.gdprAppliesGlobally=true;(function(){function r(){if(!window.frames.__cmpLocator){if(document.body&&document.body.firstChild){var e=document.body;var t=document.createElement("iframe");
+			t.style.display="none";t.name="__cmpLocator";t.title="cmpLocator";
+			e.insertBefore(t,e.firstChild)}else{setTimeout(r,5)}}}function e(e,t,r){if(typeof r!=="function"){return}if(!window.__cmpBuffer){window.__cmpBuffer=[]}if(e==="ping"){r({gdprAppliesGlobally:window.gdprAppliesGlobally,cmpLoaded:false},true)}else{window.__cmpBuffer.push({command:e,parameter:t,callback:r})}}e.stub=true;
+			function t(a){if(!window.__cmp||window.__cmp.stub!==true){return}if(!a.data){return}var n=typeof a.data==="string";var e;
+				try{e=n?JSON.parse(a.data):a.data}catch(t){return}if(e.__cmpCall){var o=e.__cmpCall;window.__cmp(o.command,o.parameter,function(e,t){var r={__cmpReturn:{returnValue:e,success:t,callId:o.callId}};
+			a.source.postMessage(n?JSON.stringify(r):r,"*")})}}if(typeof window.__cmp!=="function"){window.__cmp=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}r()})();(function(e,t){var r=document.createElement("script");
+			r.id="spcloader";r.type="text/javascript";r.async=true;r.src="https://sdk.privacy-center.org/"+e+"/loader.js?target_type=notice&target="+t;r.charset="utf-8";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(r,a)})("1e00c26e-c514-419b-8a27-6523ef2427c7","daAwUJcH");
+	</script>
+	<script type="text/javascript">
+		(function () {
+				window.didomiConfig = {
+					app: {
+						apiKey: "1e00c26e-c514-419b-8a27-6523ef2427c7",						
+						privacyPolicyURL: "https://www.journaldeslycees.fr/page/mentions-legales#donneespersonnelles",
+     			}
+   			};
+   			//var url = window.location.protocol + "//" + window.location.host + window.location.pathname;
+   			var url = window.location.href;
+   			if (url == window.didomiConfig.app.privacyPolicyURL) {
+   				window.didomiConfig.notice = { enable: false };
+   			}
+    })();
+	</script>
+	<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MJ23WK6');</script>
+
+	<title></title>	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" >
+<meta name="charset" content="utf-8" >
+<meta name="Description" content="" >	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="/skin/default/styles/foundation-float.css">
+	<link rel="stylesheet" href="/skin/default/styles/fontawesome/css/all.css">
+    <link rel="stylesheet" href="/skin/default/styles/app.css">
+    <link rel="stylesheet" href="/skin/default/styles/picto-of.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/skin/default/styles/jquery-ui.min.css" />
+	<script type="text/javascript" src="/skin/default/scripts/jquery.js"></script>
+	<script type="text/javascript" src="/skin/default/scripts/jquery-ui.min.js"></script>
+		<link href="/skin/default/styles/leaflet/leaflet.css" media="screen" rel="stylesheet" type="text/css" >		
+</head>
+<body>
+	<header>
+		<div class="row" id="ligne_menu_top">
+			<div class="small-6 medium-2 columns" id="logo">
+				<a href="/"><img src="/skin/default/images/logo_jdl.png" /></a>
+			</div>
+			<div class="small-6 medium-10 columns text-right">
+				<div class="title-bar" class="hide-for-medium" data-responsive-toggle="menu_jdl" data-hide-for="medium">					
+				  <button class="menu-icon" type="button" data-toggle><i class="fas fa-bars" aria-hidden="true"></i></button>
+				</div>
+				<div id="menu_jdl_medium" class="hide-for-small-only menu_jdl">
+						      <div><a href="/page/pourquoi-un-journal-des-lycees" target="_self"><span>C'est quoi ?</span></a></div><div><a href="/page/le-journal-des-lycees---pour-qui--" target="_self"><span>En pratique</span></a></div><div><a href="/nous-contacter" target="_self"><span>Nous contacter</span></a></div>		      					<div class="hide-for-small-only"><a href="https://www.facebook.com/Journal-des-lyc%C3%A9es-1093887293991219/" target="_blank" class="link-icon-facebook"><i class="fab fa-facebook-square" title="Rejoignez le Journal des Lycées sur Facebook"></i></a> <a href="https://www.instagram.com/le.journal.des.lycees" target="_blank" class="link-icon-facebook"><i class="fab fa-instagram" title="Rejoignez le Journal des Lycées sur Instagram"></i></a></div>
+					<div><a id="search-icon" class="search-icon"><i class="fas fa-search" title="Recherche"></i></a>
+								<div class="input-group text-right" id="divformsearch">
+							    		<form id="recherchesite" action="/recherche" method="get">
+							    			<input class="input-group-field" type="text" value="" name="expression"><button class="button"><i class="fas fa-search"></i></button>
+										</form>
+								</div>
+					</div>
+		      		  	  <div><a class="connexion" data-open="connexion_form">Connexion</a></div>
+		  		  
+		  	</div>
+			</div>
+			<div class="small-12 hide-for-medium colums menu_jdl" id="menu_jdl">				
+						      <div><a href="/page/pourquoi-un-journal-des-lycees" target="_self"><span>C'est quoi ?</span></a></div><div><a href="/page/le-journal-des-lycees---pour-qui--" target="_self"><span>En pratique</span></a></div><div><a href="/nous-contacter" target="_self"><span>Nous contacter</span></a></div>		      					<div><a id="search-icon-small" class="search-icon"><i class="fas fa-search" title="Recherche"></i></a>
+								<div class="input-group text-right" id="divformsearchsmall">
+							    		<form id="recherchesitesmall" action="/recherche" method="get">
+							    			<input class="input-group-field" type="text" value="" name="expression"><button class="button"><i class="fas fa-search"></i></button>
+										</form>
+								</div>
+					</div>
+		      		  	  <div><a class="connexion" data-open="connexion_form">Connexion</a></div>
+		  			
+		</div>
+	</div>
+			</header>
+	<section class="content">
+		<div class="row ariane">
+	<div class="small-12 columns rubrique">
+		<a href="/">Journal des Lycées</a> &gt; 
+		<a href="/rubrique/ressources-documentaires">Ressources</a> &gt; <a href="/rubrique/outils-pedagogiques">Outils pédagogiques</a> &gt; <a href="/rubrique/l-article">L'article</a> &gt; <a href="/rubrique/le-dessin--la-photographie">Le dessin, la photographie</a> &gt; L’importance de la photo
+	</div>
+</div>
+	<div class="row">
+		<div class="small-12 columns page">
+			<h1>L’importance de la photo</h1>
+		</div>
+	</div>
+	<div class="row">
+		<div class="small-12 columns page">
+			<div class="chapo">La photo joue un rôle essentiel pour attirer le lecteur, l’informer et l’inciter à lire l’article qu’elle enrichit. Dès la conception de l’article, on doit se poser la question de la conception de la photo. Il faut savoir qu’une photo peut dire mieux et davantage qu’un texte.</div>		
+		</div>
+	</div>
+	<div class="row">	
+		<div class="small-12 columns page">
+							<div class="float-right">
+								
+				</div>
+							
+				<p>Photographier, c&rsquo;est enregistrer une tranche de vie, un moment fort, une &eacute;motion palpable. A condition de bien la saisir, au bon moment, de n&#39;&ecirc;tre ni trop pr&egrave;s ni trop loin. Pour cela l&rsquo;appareil et son r&eacute;glage pr&eacute;alable sont essentiels. Si je fais la photo d&rsquo;un coureur &agrave; pied en mouvement, d&rsquo;un groupe qui pose, ou d&rsquo;une sc&egrave;ne comprenant plusieurs acteurs je ne me comporterai pas de la m&ecirc;me mani&egrave;re.</p>
+
+<p><em><img alt="" src="https://www.journaldeslycees.fr/fileediteur/MICHEL-BARNIER-RENCONTRE-UN-ELEVEUR-DE-PORCINS.jpg" style="width: 300px; height: 200px;" /><br />
+Photographier c&rsquo;est enregistrer une tranche de vie (Photo : Marc Ollivier)</em></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Le droit &agrave; l&rsquo;image</strong></p>
+
+<p>Certaines prises de vue peuvent n&eacute;cessiter une autorisation. Cela renvoie &agrave; la l&eacute;gislation sur le <strong>droit &agrave; l&rsquo;image</strong>. L&rsquo;accord d&rsquo;une personne photographi&eacute;e ne vaut que pour une situation pr&eacute;cise. Et l&rsquo;utilisation d&rsquo;images d&rsquo;archives exige de grandes pr&eacute;cautions. Si la personne est d&eacute;c&eacute;d&eacute;e, s&eacute;par&eacute;e ou n&rsquo;exerce plus le m&eacute;tier pour lequel vous l&rsquo;aviez interview&eacute;e !!!</p>
+
+<p>Par ailleurs, le fait, pour une personne de donner son accord &agrave; publication, n&rsquo;autorise pas sa diffusion dans n&rsquo;importe quelles conditions. Une photo doit &ecirc;tre directement li&eacute;e &agrave; l&rsquo;information qui a justifi&eacute; sa prise de vue. Si on veut illustrer un article, on peut faire appel &agrave; une agence, une banque de donn&eacute;es, ou encore des connaissances pour une mise en sc&egrave;ne (les familles des journalistes sont souvent mises &agrave; contribution) ou &agrave; une photo qui ne montre pas des personnes, mais des objets.</p>
+
+<p><strong>Une exception</strong> : les photos des personnalit&eacute;s publiques (&eacute;lus, acteurs, chanteurs, sportifs&hellip;) peuvent &ecirc;tre r&eacute;utilis&eacute;es sans risque si&nbsp;elles ne sont pas d&eacute;tourn&eacute;es de leur contexte de prise de vue. Idem pour des photos de paysages, de sites, de monuments. Attention ! avec les smartphones, les comptes Facebook, Instagram et autres r&eacute;seaux sociaux, on est souvent tent&eacute; de diffuser des photos sans l&rsquo;accord des personnes, et dans des situations &laquo; scabreuses &raquo; ou les ridiculisant. Cela ne se fait pas dans un journal qui est lu par des milliers de personnes, surtout s&rsquo;il est diffus&eacute; sur Internet.</p>
+
+<p><em><img alt="" src="https://www.journaldeslycees.fr/fileediteur/Photo-Marc-Ollivier2.jpg" style="width: 300px; height: 198px;" /><br />
+Avant de publier une telle photo, il faut penser &agrave; demander l&rsquo;autorisation des personnes (Photo : Marc Ollivier)</em></p>
+
+<p><br />
+<strong>Le poids des photos</strong></p>
+
+<p>Pour savoir si mon appareil est correctement r&eacute;gl&eacute;, transf&eacute;rez quelques photos sur un ordinateur. Quand vous posez la souris sur une photo, des informations apparaissent normalement dans la petite fen&ecirc;tre qui s&rsquo;ouvre. On peut y lire la dimension de la photo ; la date du clich&eacute; ; le mod&egrave;le d&rsquo;appareil ; le type d&rsquo;image comme jpeg, tiff, raw (privil&eacute;giez jpeg) et la taille de la photo. C&rsquo;est la taille de la photo qui importe le plus. Inf&eacute;rieure &agrave; 500 ko, la photo sera m&eacute;diocre. Sup&eacute;rieure &agrave; 2 MO (2 millions d&rsquo;octets) elle sera trop lourde.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Compresser des photos</strong></p>
+
+<p>La messagerie &eacute;lectronique et la cl&eacute; USB sont des moyens simples et rapides pour s&rsquo;&eacute;changer des documents. Pour faciliter le stockage et le transfert de documents, les fabricants d&rsquo;ordinateurs ont pr&eacute;vu des syst&egrave;mes de compression qui permettent un transfert rapide. Le probl&egrave;me est qu&rsquo;un document compress&eacute; devient trop l&eacute;ger pour un tirage papier. Assurez-vous que votre format est bien restitu&eacute; au format d&rsquo;origine.</p>
+														</div>
+	</div>
+			</section>
+	<footer>
+				<div class="row" id="menu_bas">
+			<div class="small-6 large-2 columns ligne_basse">
+				Suivez-nous : <a href="https://www.facebook.com/Journal-des-lyc%C3%A9es-1093887293991219/" target="_blank" class="link-icon"><i class="icon-facebook" title="Rejoignez le Journal des Lycées sur Facebook"></i></a> <a href="https://www.instagram.com/le.journal.des.lycees" target="_blank" class="link-icon"><img src="/skin/default/images/social/Instagram_Gradient.png" alt="Logo Instagram" title="Rejoignez le Journal des Lycées sur Instagram" /></a>
+			</div>
+			<div class="show-for-large large-8 columns ligne_basse">
+				<div class="menu-centered">
+					<ul class="menu">
+					<li><a href="/page/mentions-legales" target="_self"><span>Mentions légales</span></a></li><li><a href="/nous-contacter" target="_self"><span>Contact</span></a></li><li><a href="/plan-du-site" target="_self"><span>Plan du site</span></a></li><li><a href="/page/mentions-legales#donneespersonnelles" target="_self"><span>Données personnelles</span></a></li><li><a href="/page/mentions-legales#politiquecookie" target="_self"><span>Cookies</span></a></li><li><a href="/page/charte-utilisateur" target="_self"><span>Charte utilisateur</span></a></li><li><a href="/page/qui-sommes-nous--" target="_self"><span>Qui sommes-nous ?</span></a></li>					</ul>
+				</div>
+			</div>
+			<div class="small-6 large-2 columns ligne_basse">
+				<strong>&copy; Journal des Lycées</strong>
+			</div>
+			<div class="small-12 hide-for-large columns">
+				<div class="row" id="menu_bas_small">					
+					<div class="small-6 columns"><a href="/page/mentions-legales" target="_self"><span>Mentions légales</span></a></div><div class="small-6 columns"><a href="/nous-contacter" target="_self"><span>Contact</span></a></div><div class="small-6 columns"><a href="/plan-du-site" target="_self"><span>Plan du site</span></a></div><div class="small-6 columns"><a href="/page/mentions-legales#donneespersonnelles" target="_self"><span>Données personnelles</span></a></div><div class="small-6 columns"><a href="/page/mentions-legales#politiquecookie" target="_self"><span>Cookies</span></a></div><div class="small-6 columns"><a href="/page/charte-utilisateur" target="_self"><span>Charte utilisateur</span></a></div><div class="small-6 columns"><a href="/page/qui-sommes-nous--" target="_self"><span>Qui sommes-nous ?</span></a></div>				</div>
+			</div>
+				
+		</div>
+			</footer>
+	<div class="reveal" id="connexion_form" data-reveal>
+	<div class="modalTitre">Connexion à la salle de rédaction numérique (SRN)</div>
+	<center><img src="/skin/default/images/connexion.jpg" alt="Se connecter" /></center>
+		<form id="identification" name="identification" enctype="application/x-www-form-urlencoded" action="/intranet/index" method="post"><dl class="zend_form">
+<dt id="username-label"><label for="username" class="required">Email</label></dt>
+<dd id="username-element">
+<input type="text" name="username" id="username" value=""></dd>
+<dt id="password-label"><label for="password" class="required">Mot de passe</label></dt>
+<dd id="password-element">
+<input type="password" name="password" id="password" value=""></dd>
+<dt id="sesouvenir-label"><label for="sesouvenir" class="optional">Se souvenir de moi</label></dt>
+<dd id="sesouvenir-element">
+<input type="hidden" name="sesouvenir" value="0"><input type="checkbox" name="sesouvenir" id="sesouvenir" value="1">
+<p class="description">N'utilisez pas cette fonctionnalité si vous utilisez des postes partagés</p></dd>
+<div class="fields"><div class="contener"><dt id="btnSubmit-label">&#160;</dt><dd id="btnSubmit-element">
+<input type="submit" name="btnSubmit" id="submitbuttonconnexion" value="Je me connecte" class="ui-button"></dd></div></div></dl></form>		<div id="link-oublimdp" class="text-right"><a data-open="forgottenmdp_form">Mot de passe oublié ?</a></div>
+		<button class="close-button" data-close aria-label="Fermer" type="button">
+	    	<span aria-hidden="true">&times;</span>
+	  </button>
+	</div>
+
+	<div class="reveal" id="forgottenmdp_form" data-reveal>
+	Mot de passe oublié
+		<form id="mdpoublie0" name="mdpoublie0" enctype="application/x-www-form-urlencoded" action="/index/mdpoubli" method="post"><dl class="zend_form">
+<dt id="username2-label"><label for="username2" class="required">Email</label></dt>
+<dd id="username2-element">
+<input type="text" name="username" id="username2" value=""></dd>
+<div class="fields"><div class="contener"><dt id="btnSubmit-label">&#160;</dt><dd id="btnSubmit-element">
+<input type="submit" name="btnSubmit" id="submitbutton2" value="Envoyer le lien pour modifier mon mot de passe" class="ui-button"></dd></div></div></dl></form>		<button class="close-button" data-close aria-label="Fermer" type="button">
+	    	<span aria-hidden="true">&times;</span>
+	  </button>
+	</div>
+
+	<script type="text/javascript" src="/skin/default/scripts/vendor/vendor.js"></script>
+	<script type="text/javascript" src="/skin/default/scripts/vendor/foundation.js"></script>
+	<script type="text/javascript" src="/skin/default/scripts/vendor/what-input.js"></script>
+	<script type="text/javascript" src="/skin/default/scripts/template.js"></script>
+	<script type="text/javascript" src="/skin/default/scripts/tic.js"></script>
+	<script type="text/javascript" src="/skin/default/scripts/leaflet.js"></script>	<script>
+    	$(document).foundation();
+  	</script>
+</body>
+</html>
