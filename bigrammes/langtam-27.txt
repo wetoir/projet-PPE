@@ -88,6 +88,7 @@
 1 வேறுபட்ட கமரா
 1 வேறு என்ன
 1 வேறாகவும் lens
+1 வேர்ட்பிரஸ்காம் இல்
 1 வேண்ட்டும் எனக்கு
 1 வேண்டும் நல்லவிசயம்
 1 வேண்டுமென்றால் நிச்சயம்
@@ -935,6 +936,7 @@
 1 இல்லாததாலும் அதை
 1 இல் ஸ்கொட்லாந்து
 1 இல் வேறாகவும்
+1 இல் வலைப்பதிவு
 1 இல் லென்ஸ்
 1 இல் பார்கிறோமோ
 1 இல் பயன்
@@ -1127,7 +1129,6 @@
 1 » செய்தியோடை
 1 with WordPresscom
 1 white balance
-1 website or
 1 view finder
 1 up Sign
 1 time மிகக்குறைவு
@@ -1150,7 +1151,6 @@
 1 quality –
 1 picture quality
 1 parallax error
-1 or blog
 1 mode இல்
 1 media எனப்படும்
 1 manual mode
@@ -1161,20 +1161,16 @@
 1 in now
 1 in Reader
 1 have a
-1 free website
 1 exposure setting
 1 error எண்டு
 1 digital Image
 1 controls இருப்பதால்
 1 camera என்றால்
 1 bookதிற்காக க்ளிக்
-1 blog at
 1 balance focus
 1 auto settings
-1 at WordPresscom
 1 account Log
 1 a site
-1 a free
 1 a WordPresscom
 1 a Comment
 1 Zoom செய்யும்
@@ -1213,7 +1209,6 @@
 1 DSLR கமராவே
 1 DSLR என்றால்
 1 DSLR இன்
-1 Create a
 1 Collapse this
 1 Camera வில்
 1 Button அழுத்தியவுடனேயே

@@ -44,6 +44,21 @@ echo "<html>
     </style>
 </head>
 <body>
+<section class="header">
+        <nav>
+            <a href="../index.html">Acceuil</a>
+            <a href="../pages/presentation.html">Présentation</a>
+            <a href="../pages/analyse.html">Analyse</a>
+            <a href="../pages/nuages.html">Nuages de mots</a>
+            <div class="dropdown">
+                <a class="dropdown-toggle">Tableaux</a>
+                <div class="dropdown-menu">
+                    <a href="../tableaux/langfr.html">Français</a>
+                    <a href="../tableaux/langtam.html">Tamoul</a>
+                    <a href="../tableaux/tableauVn.html">Vietnamien</a>
+                </div>
+            </div>
+        </nav>
     <h2 style='text-align:center;'>Tableau pour 'image' en TAMOUL </h2>
     <table>
         <tr>
@@ -188,6 +203,7 @@ done
 
 # Fermeture de la table et du HTML
 echo "    </table>
+</section>
 </body>
 </html>" >> "$tableau"
 
