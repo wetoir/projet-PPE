@@ -33,7 +33,6 @@
 1 வேலை செய்யுது
 1 வேறுபாடுகள் குறைவு
 1 வேறுபாடுகளைப்பற்றி பார்போம்
-1 வேர்ட்பிரஸ்காம் இல்
 1 வேண்ட்டும் எனக்கு
 1 விதிமுறைகள் உண்டுஎந்த
 1 விதிமுறைகள் இல்லை
@@ -221,7 +220,6 @@
 1 உங்கள் கமராவிற்கு
 1 உங்களுக்கு ஆர்வம்
 1 இல்லாததாலும் அதை
-1 இல் வலைப்பதிவு
 1 இல் எடுக்கவேண்டும்
 1 இருவருக்கும் ஒரே
 1 இருந்தும் அது
@@ -262,6 +260,7 @@
 1 window X
 1 window Facebook
 1 window Email
+1 website or
 1 up Sign
 1 to email
 1 to a
@@ -274,6 +273,7 @@
 1 settings இருந்தும்
 1 post in
 1 photography in
+1 or blog
 1 on X
 1 on Facebook
 1 mode இல்
@@ -285,14 +285,18 @@
 1 in Reader
 1 have a
 1 friend Opens
+1 free website
 1 email a
+1 blog at
 1 auto settings
+1 at WordPresscom
 1 alternate search
 1 alternate alternate
 1 account Log
 1 a site
 1 a link
 1 a friend
+1 a free
 1 a WordPresscom
 1 X Opens
 1 WordPresscom account
@@ -307,6 +311,7 @@
 1 Facebook Opens
 1 Design a
 1 DSLR கமராவுக்கும்
+1 Create a
 1 Copy shortlink
 1 Collapse this
 1 BUTTON Go

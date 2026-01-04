@@ -1,46 +1,53 @@
 <html>
 <head>
-    <meta charset="UTF-8">
+    <meta charset=UTF-8>
+    <link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css />
+    <meta name=viewport content=width=device-width, initial-scale=1>
     <title>Tableau pour le TAMOUL</title>
-    <style>
-        table { border-collapse: collapse; width: 90%; margin: auto; }
-        th, td { border: 1px solid black; padding: 8px; text-align: center; }
-        th { background-color: #ddd; }
-        tr:nth-child(even) { background-color: #f2f2f2; }
-    </style>
 </head>
 <body>
-<section class=header>
-        <nav>
-            <a href=../index.html>Acceuil</a>
-            <a href=../pages/presentation.html>Présentation</a>
-            <a href=../pages/analyse.html>Analyse</a>
-            <a href=../pages/nuages.html>Nuages de mots</a>
-            <div class=dropdown>
-                <a class=dropdown-toggle>Tableaux</a>
+        <nav class=tabs is-centered mb-0>
+            <li><a href=../index.html>Acceuil</a></li>
+            <li><a href=../pages/presentation.html>Présentation</a></li>
+            <li><a href=../pages/analyse.html>Analyse</a></li>
+            <li><a href=../pages/nuages.html>Nuages de mots</a></li>
+                <div class=dropdown>
+                <li><a class=dropdown-toggle>Tableaux</a></li>
                 <div class=dropdown-menu>
-                    <a href=../tableaux/langfr.html>Français</a>
-                    <a href=../tableaux/langtam.html>Tamoul</a>
-                    <a href=../tableaux/tableauVn.html>Vietnamien</a>
+                    <li><a href=../tableaux/langfr.html>Français</a></li>
+                    <li><a href=../tableaux/langtam.html>Tamoul</a></li>
+                    <li><a href=../tableaux/tableauVn.html>Vietnamien</a></li>
                 </div>
             </div>
         </nav>
-    <h2 style='text-align:center;'>Tableau pour 'image' en TAMOUL </h2>
-    <table>
-        <tr>
-            <th>Numero</th>
-            <th>URL</th>
-            <th>Robots.txt</th>
-            <th>Code HTTP</th>
-            <th>Encodage</th>
-            <th>Aspirations</th>
-            <th>Nombre de mots</th>
-            <th>Occurrences</th>
-            <th>Dump textuel</th>
-            <th>Contexte</th>
-            <th>Concordance</th>
-            <th>Bigrammes</th>
-        </tr>
+        <!-- Bannière/Hero -->
+		<section class=hero is-warning is-small>
+			<div class=hero-body>
+				<p class=title>Résultats de la collecte</p>
+				<p class=subtitle>Tableau généré automatiquement à partir du fichier txt</p>
+			</div>
+		</section>
+        <!-- ContenuPrincipal -->
+		<section class=section>
+			<div class=card>
+				<p class=card-header-title>Tableau pour 'image' en TAMOUL /p>
+				<div class=card-content>
+					<div class=table-container> <!-- mettre dans un div sinon table n'est pas flexible par rapport à la taille de l'écran -->
+                        <table class=table is-bordered is-striped is-hoverable is-fullwidth>
+                                <tr>
+                                    <th>Numero</th>
+                                    <th>URL</th>
+                                    <th>Robots.txt</th>
+                                    <th>Code HTTP</th>
+                                    <th>Encodage</th>
+                                    <th>Aspirations</th>
+                                    <th>Nombre de mots</th>
+                                    <th>Occurrences</th>
+                                    <th>Dump textuel</th>
+                                    <th>Contexte</th>
+                                    <th>Concordance</th>
+                                    <th>Bigrammes</th>
+                                </tr>
         <tr>
             <td>1</td>
             <td><a href='https://tvrk.blogspot.com/2012/'>https://tvrk.blogspot.com/2012/</a></td>
@@ -188,7 +195,7 @@
             <td>200</td>
             <td>UTF-8</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../aspirations/langtam-11.html'>html</a></td>
-            <td>4600</td>
+            <td>4598</td>
             <td>36</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../dumps-text/langtam-11.txt'>dump</a></td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../contextes/langtam-11.txt'>contexte</a></td>
@@ -244,7 +251,7 @@
             <td>200</td>
             <td>UTF-8</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../aspirations/langtam-15.html'>html</a></td>
-            <td>1678</td>
+            <td>1673</td>
             <td>24</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../dumps-text/langtam-15.txt'>dump</a></td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../contextes/langtam-15.txt'>contexte</a></td>
@@ -370,7 +377,7 @@
             <td>200</td>
             <td>UTF-8</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../aspirations/langtam-24.html'>html</a></td>
-            <td>1126</td>
+            <td>1116</td>
             <td>6</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../dumps-text/langtam-24.txt'>dump</a></td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../contextes/langtam-24.txt'>contexte</a></td>
@@ -398,7 +405,7 @@
             <td>200</td>
             <td>UTF-8</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../aspirations/langtam-26.html'>html</a></td>
-            <td>2485</td>
+            <td>2488</td>
             <td>1</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../dumps-text/langtam-26.txt'>dump</a></td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../contextes/langtam-26.txt'>contexte</a></td>
@@ -412,7 +419,7 @@
             <td>200</td>
             <td>UTF-8</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../aspirations/langtam-27.html'>html</a></td>
-            <td>1673</td>
+            <td>1678</td>
             <td>24</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../dumps-text/langtam-27.txt'>dump</a></td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../contextes/langtam-27.txt'>contexte</a></td>
@@ -426,7 +433,7 @@
             <td>200</td>
             <td>UTF-8</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../aspirations/langtam-28.html'>html</a></td>
-            <td>1725</td>
+            <td>1722</td>
             <td>5</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../dumps-text/langtam-28.txt'>dump</a></td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../contextes/langtam-28.txt'>contexte</a></td>
@@ -440,7 +447,7 @@
             <td>200</td>
             <td>UTF-8</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../aspirations/langtam-29.html'>html</a></td>
-            <td>495</td>
+            <td>500</td>
             <td>7</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../dumps-text/langtam-29.txt'>dump</a></td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../contextes/langtam-29.txt'>contexte</a></td>
@@ -510,7 +517,7 @@
             <td>200</td>
             <td>UTF-8</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../aspirations/langtam-34.html'>html</a></td>
-            <td>3688</td>
+            <td>3683</td>
             <td>4</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../dumps-text/langtam-34.txt'>dump</a></td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../contextes/langtam-34.txt'>contexte</a></td>
@@ -622,8 +629,8 @@
             <td>200</td>
             <td>UTF-8</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../aspirations/langtam-42.html'>html</a></td>
-            <td>1326</td>
-            <td>3</td>
+            <td>1322</td>
+            <td>5</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../dumps-text/langtam-42.txt'>dump</a></td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../contextes/langtam-42.txt'>contexte</a></td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../concordances/langtam-42.html'>concordance</a></td>
@@ -664,7 +671,7 @@
             <td>200</td>
             <td>UTF-8</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../aspirations/langtam-45.html'>html</a></td>
-            <td>11325</td>
+            <td>11320</td>
             <td>12</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../dumps-text/langtam-45.txt'>dump</a></td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../contextes/langtam-45.txt'>contexte</a></td>
@@ -678,7 +685,7 @@
             <td>200</td>
             <td>UTF-8</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../aspirations/langtam-46.html'>html</a></td>
-            <td>2003</td>
+            <td>2008</td>
             <td>9</td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../dumps-text/langtam-46.txt'>dump</a></td>
             <td><a href='/home/annabelle/projet-PPE/programmes/../contextes/langtam-46.txt'>contexte</a></td>
@@ -742,6 +749,9 @@
             <td><a href='/home/annabelle/projet-PPE/programmes/../bigrammes/langtam-50.txt'>bigrammes</a></td>
         </tr>
     </table>
+</div>
+</div>
+</div>
 </section>
 </body>
 </html>

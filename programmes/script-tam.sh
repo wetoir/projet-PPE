@@ -34,47 +34,54 @@ lineno=1
 
 echo "<html>
 <head>
-    <meta charset=\"UTF-8\">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Tableau pour le TAMOUL</title>
-    <style>
-        table { border-collapse: collapse; width: 90%; margin: auto; }
-        th, td { border: 1px solid black; padding: 8px; text-align: center; }
-        th { background-color: #ddd; }
-        tr:nth-child(even) { background-color: #f2f2f2; }
-    </style>
 </head>
 <body>
-<section class="header">
-        <nav>
-            <a href="../index.html">Acceuil</a>
-            <a href="../pages/presentation.html">Présentation</a>
-            <a href="../pages/analyse.html">Analyse</a>
-            <a href="../pages/nuages.html">Nuages de mots</a>
-            <div class="dropdown">
-                <a class="dropdown-toggle">Tableaux</a>
+        <nav class="tabs is-centered mb-0">
+            <li><a href="../index.html">Acceuil</a></li>
+            <li><a href="../pages/presentation.html">Présentation</a></li>
+            <li><a href="../pages/analyse.html">Analyse</a></li>
+            <li><a href="../pages/nuages.html">Nuages de mots</a></li>
+                <div class="dropdown">
+                <li><a class="dropdown-toggle">Tableaux</a></li>
                 <div class="dropdown-menu">
-                    <a href="../tableaux/langfr.html">Français</a>
-                    <a href="../tableaux/langtam.html">Tamoul</a>
-                    <a href="../tableaux/tableauVn.html">Vietnamien</a>
+                    <li><a href="../tableaux/langfr.html">Français</a></li>
+                    <li><a href="../tableaux/langtam.html">Tamoul</a></li>
+                    <li><a href="../tableaux/tableauVn.html">Vietnamien</a></li>
                 </div>
             </div>
         </nav>
-    <h2 style='text-align:center;'>Tableau pour 'image' en TAMOUL </h2>
-    <table>
-        <tr>
-            <th>Numero</th>
-            <th>URL</th>
-            <th>Robots.txt</th>
-            <th>Code HTTP</th>
-            <th>Encodage</th>
-            <th>Aspirations</th>
-            <th>Nombre de mots</th>
-            <th>Occurrences</th>
-            <th>Dump textuel</th>
-            <th>Contexte</th>
-            <th>Concordance</th>
-            <th>Bigrammes</th>
-        </tr>" > "$tableau" # redirection pour obtenir les fichiers
+        <!-- Bannière/Hero -->
+		<section class="hero is-warning is-small">
+			<div class="hero-body">
+				<p class="title">Résultats de la collecte</p>
+				<p class="subtitle">Tableau généré automatiquement à partir du fichier txt</p>
+			</div>
+		</section>
+        <!-- ContenuPrincipal -->
+		<section class="section">
+			<div class="card">
+				<p class="card-header-title">Tableau pour 'image' en TAMOUL /p>
+				<div class="card-content">
+					<div class="table-container"> <!-- mettre dans un div sinon table n'est pas flexible par rapport à la taille de l'écran -->
+                        <table class="table is-bordered is-striped is-hoverable is-fullwidth">
+                                <tr>
+                                    <th>Numero</th>
+                                    <th>URL</th>
+                                    <th>Robots.txt</th>
+                                    <th>Code HTTP</th>
+                                    <th>Encodage</th>
+                                    <th>Aspirations</th>
+                                    <th>Nombre de mots</th>
+                                    <th>Occurrences</th>
+                                    <th>Dump textuel</th>
+                                    <th>Contexte</th>
+                                    <th>Concordance</th>
+                                    <th>Bigrammes</th>
+                                </tr>" > "$tableau" # redirection pour obtenir les fichiers
 
 
 
@@ -151,18 +158,44 @@ END {
     grep -B2 -A2 -i "$mot" "$dump_file" > "$contexte_file"
 
 
+
     #coloration pour le concordancier
     mot_colore="<span style='color:pink;font-weight:bold;'>$mot</span>"
 
     # Concordance gauche/droite pour chaque occurence
     concordance_file="$CONCORDANCES/lang${lang}-$i.html"
-    echo "<html><body><table border='1'><tr><th>Gauche</th><th>Mot</th><th>Droite</th></tr>" > "$concordance_file"
+    echo "<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Tableau Concordance – PPE 2025</title>
+	</head>
+	<body>
+		<nav class="tabs is-centered mb-0">
+        	<ul>
+        		<li><a href="../index.html">Index</a></li>
+            	<li class="is-active"><a href="../tableaux/tableauVn.html">Tableau Viet</a></li>
+				<li><a href="../tableaux/langtam.html">Tableaux Tamoul</a></li>
+				<li><a href="../tableaux/langfr.html">Tableaux Français</a></li>
+			</ul>
+    	</nav>
+		<div class="table-container">
+			<table class="table is-bordered is-striped is-hoverable is-fullwidth">
+				<tr>
+					<th>Gauche</th>
+					<th>Mot</th>
+					<th>Droite</th>
+				</tr>" > "$concordance_file"
     while read -r line_context; do
         gauche=$(echo "$line_context" | sed "s/\(.*\)$mot.*/\1/")
         droite=$(echo "$line_context" | sed "s/.*$mot\(.*\)/\1/")
         echo "<tr><td>$gauche</td><td>$mot_colore</td><td>$droite</td></tr>" >> "$concordance_file"
     done < "$contexte_file"
-    echo "</table></body></html>" >> "$concordance_file"
+    echo "</table>
+		</div>
+	</body>
+</html>" >> "$concordance_file"
 
 
 
@@ -203,6 +236,9 @@ done
 
 # Fermeture de la table et du HTML
 echo "    </table>
+</div>
+</div>
+</div>
 </section>
 </body>
 </html>" >> "$tableau"
